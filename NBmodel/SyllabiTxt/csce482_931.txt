@@ -1,0 +1,382 @@
+CSCE 48 2 Syllabus  
+ 1/9  
+Syllabus  
+ 
+Course Information  
+ 
+Course Number:   CSCE 482 , Spring 202 2 
+Course Title:  Senior Capstone Design  
+Section:  931 
+Time:  Monday  and Wednesday  
+ 11:35 AM to 11:55 AM Lecture  
+ 12:00 to 2:30  PM Lab  
+Location:  EABA 118  
+Credit Hours:  3 
+ 
+Instructor Details  
+ 
+Instructor:  Rabi Mahapatra  
+Office:  217 PETR  
+Phone:  979-845-5787  
+E-Mail:  rabi at tamu.edu  
+Website: https://codes.engr.tamu.edu/rabi/   
+Office Hours:  Monday  and Wednes day by appointment only  
+ 
+TA: Krishna C Kushal  
+E-Mail:  krishnakushal at tamu.edu  
+Office hours:  By appointment  
+ 
+Course Description  
+ 
+Engineering design; working as a design -team member, conceptual design methodology, design 
+evaluations, total project planning and management techniques, design optimization, systems 
+manufacturing costs considerations; emphasis placed upon student's activities as design professionals.   
+ 
+CSCE 482(the capstone design program) consists of the design and implementation of a system 
+(capstone design project) based on the knowledge and skills  acquired in earlier course work with 
+significant computer software.  
+ 
+CSCE 482 is a project -oriented course aimed at developing system integration skills. Students work in 
+groups of 4 -5 people to complete a significant engineering design project. Every pro ject requires 
+complete implementation, documentation and demonstration of a software system, which may also 
+involve minor hardware too.   The focus is not only on the final product but also on design methodology, 
+management process and teamwork.   
+ 
+Each team  is required to manage its own efforts to complete its project in a timely manner. Group 
+members are required to keep individual lab notebooks recording their efforts and their personal 
+impressions of the project. Students are graded based on both the qual ity of the group product and 
+their individual contributions.    
+ 
+Every team is required to schedule a weekly meeting with the course instructor and the TAs, preferably CSCE 48 2 Syllabus  
+ 2/9 during the official class or lab hours. These meetings must be attended by every group member. Since 
+the projects will be student managed, the exact nature and style of these meetings is at the group’s 
+discretion. However, every member of the group is expe cted to participate.   
+ 
+At the end of the semester, each group will make a public presentation describing and demonstrating 
+their work.   These presentations are open to the university community.  
+Course Prerequisites  
+ 
+Senior classification; CSCE 315, CSCE 41 1, and two additional CSCE tracked courses.   
+ 
+Special Course Designation  
+ 
+Fulfills a writing/communication requirement for graduation. As a result , the aggregate score of the 
+written reports must be a passing grade in order to get a grade in the course.  
+ 
+Course Learning Outcomes  
+ 
+It is expected that successful participation in the course will allow the student to demonstrate:   
+• an ability to apply knowledge of mathematics, science, and engineering (3.a)   
+• an ability to design and conduct experiments, as well as to analyze and interpret data (3.b)   
+• an ability to design a system, component, or process to meet desired needs (3.c)   
+• an ability to function on multi -disciplinary teams (3.d)   
+• an ability to identify, formulate, and solve engineerin g problems (3.e)   
+• an understanding of professional and ethical responsibility (3.f)   
+• an ability to communicate effectively (3.g)   
+• an ability to use the techniques, skills, and modern engineering tools necessary for engineering 
+practice (3.k)   
+ 
+Moreover, co urse -specific outcomes are  
+1. understand and utilize the engineering design method to generate potential solutions to a 
+specific design challenge;  
+2. understand the basic of project management including: statements of work, work break -down 
+structures, critical p ath identification, distribution of tasks, project tracking and status reporting; 
+be able to generate status reports;  
+3. understand professional communication methods and techniques including formal reports and 
+presentations;  
+4. clearly communicate ideas, status  and test results through written reports;  
+5. clearly communicate through oral presentations.  
+6. to rigorously define design requirements for potential solutions.  
+7. Understand  and incorporate engineering standards and multiple realistic constraints that 
+include mo st of the following considerations: economic, environmental, sustainability, 
+manufacturability, ethical, health and safety, social and political.  
+Textbook and/or Resource Materials  
+ 
+Required:  
+Patric  M. Lencioni, 2002, “The Five Dysfunctions of a Team: a Leadership Fable” Jossey -Bass. 
+(Electronic copy available to all via the library.)  
+ CSCE 48 2 Syllabus  
+ 3/9 Recommended:  
+Ralph Ford and Chris Coulston, 2007, "Design for Electrical and Computer Engineers,” McGraw -
+Hill Educat ion. 
+ 
+Barry Hyman, 2003, "Fundamentals of Engineering Design," second edition, Prentice Hall.  
+ 
+Roger Pressman, 2009, “Software Engineering: A Practitioner's Approach,” seventh edition, 
+McGraw -Hill.  
+ 
+James Shore, 2007, “The Art of Agile Development,” O'Rei lly (Electronic copy available to all via 
+the library.)  
+ 
+Supplemental:  
+Technical material from the literature, manufacturer’s data sheets and user manuals.   
+ 
+Grading Policy  
+ 
+The final grade you will receive in the class will be based on points accumulated during the 
+semester.   Thus, both continued progress (the process) and the quality of your product (and other 
+deliverables) will determine your grade.   Although the bulk of your grade is based on the performance of 
+your team, individual performance will als o be gauged.  
+1. Project Proposal (10%) :  These points will be based on the originality, quality and feasibility of 
+the proposed work, the analysis of alternative solutions, the consideration of economic and 
+societal aspects, and the project management approach, as reflected on your written proposal 
+(75%) and oral presentation (25%). A template for the proposal report and a presentation rubric 
+are available on the course webpage.  
+2. Weekly Progress (10%) :  This grade will be based on your team’s ability to maintain the project 
+on schedule.   Each team submits a weekly report, which should be incremental and should 
+specifically address the following:  
+1. Agenda for the weekly meeting with the instructor and the TA  
+2. Team’s accomplishments during this period.   Accomplishments need to be measurable, 
+e.g. “did more research on such and such” is not an accomplishment, it is an activity 
+(and a loosely defined one).  
+3. Team’s goals for the following week (individual tasks are entered on basecamp)  
+4. Minutes from t he previous meeting  
+Weekly progress reports are due at 8AM on the day of the weekly meeting.   Reports are limited 
+to one page and should be submitted according to the template provided in the course 
+website.   The team leader will be responsible for submit ting these reports and leading the 
+discussion during the weekly meeting. One of the team members, acting as a scribe, will be 
+responsible for generating the meeting minutes throughout the semester.  
+3. Critical Design Review (10%) : The CDR is a mid -semester ev aluation of your project. The CDR 
+grade will be based on the quality of your design (75%) –as reflected on your oral/poster presentation 
+and written report, and on the degree to which you have a complete design (25%).   A template for the 
+CDR report and a p resentation rubric are available on the course webpage.   
+4. Final Communication (10%) : This grade will be based on the quality of the final presentation 
+(25%), as well as the contents and professional finish of the documentation (75%).   Final reports should 
+have a discussion of constraints that the team had to satisfy (e.g., cost, time, technology limitations) and CSCE 48 2 Syllabus  
+ 4/9 of relevant industry standards used (e.g., coding, interfaces, safety). A template for the final report and a 
+presentation rubric are available on t he course webpage.   
+5. Project Grade (20%) :  A final grade will be assigned to your project based on the completion of 
+all the objectives stated in the proposal, as well as on a live demonstration in front of the class.   The 
+complexity of your project and the  size of your team will be factored in.  
+Due date: Project demonstrations will take place the last day of class of the week prior to final 
+presentations.   This earlier deadline ensures that teams have time to (i) thoroughly test and 
+validate their systems a fter the demo, and (ii) prepare the final presentation.  
+6. Team work (10%) : It is very important to understand that accomplishing the technical objectives 
+of the project is not sufficient.   These accomplishments should not come at the expense of destroying 
+relationships among team members.   Thus, a grade will be assigned based on the ability of the group to 
+function as a team.   Is there evidence that the group engaged in team building activities? Were 
+contributions to the project evenly distributed? Were membe rs equally engaged in discussions during 
+meetings?   Was there an effective division of responsibilities?   
+ 
+Note: the work should be done primarily in the lab and as a group, regardless of whether you 
+can perform your task assignments individually elsewhere .  Being physically present in the same 
+room encourages collaboration and equal distribution of workload.   A regular work schedule 
+should be included in the proposal, showing the times when the team will meet in the lab to 
+work on the project (in addition to meeting times).  
+ 
+7. Individual Performance (30%) :  Points in this category are awarded based on assessments of 
+your personal contribution to the team efforts:  
+a. Notebook (10%): You are required to maintain an individual design notebook to collect any 
+information relevant for the project, including ideas, references, designs, and discussions. Your 
+notebook will be graded based on:   
+1. the evidence of engineering design (e.g., sketches, block diagrams, schematics, 
+pseudo -code, experimental results, formal d erivations),   
+2. the regularity of your entries during the semester, and   
+3. the organization of your notebook  
+b. Participation (10%): The instructor and TAs will evaluate your attendance to meetings, 
+participation in the discussions, and contributions to the team.   Each student is also required to pass a 
+teamwork quiz with a score of 75 or higher (see tentative schedule); failure to do so will result in a 5% 
+penalty on the final grade.  
+c. Peer Review (10%): Your performance will be evaluated by each of your team membe rs 
+throughout the semester.   Peer reviews should be submitted to the TA no later than 8AM of the due 
+date. Late submissions will NOT be accepted.   
+ 
+NOTE: Grades will not be assigned until all project deliverables have been turned in (see below), all 
+borrow ed items (e.g., keys, books, equipment) have been returned to their proper location or their 
+owner, and the workstations in the lab have been thoroughly cleaned up.   All team members are 
+required to be present at the time of the final delivery.   
+ 
+Final del iverables  
+• USB Drive including the following (please organize into folders, e.g., Docs, Source, Hardware, 
+Media, References, Freeware, etc.)  
+o It should include a plain text readme file that documents the list of contents.   
+o Designs: code, schematics, data, da ta sheets, freeware software tools, etc.  CSCE 48 2 Syllabus  
+ 5/9 o Reports: proposal, CDR, weekly reports, final report, and ALL presentations  
+o Audiovisual media: close -up pictures of your system and a high -quality movie demo of 
+the system working, for posterity (see gallery in the course webpage for movie samples)  
+o Individual notebooks (in digital form)  
+• Final prototype, as well as any spare parts and supplies  
+• Software install, to be demonstrated on several machines  
+• Peer reviews  
+• Evidence of individual design contributions   
+ 
+Final reports should have a discussion of constraints that the team had to satisfy (e.g., cost, time, 
+technology limitations) and of relevant industry standards used (e.g., coding, interfaces, safety).  
+ 
+Document preparation  
+ 
+All major documents (proposal, CDR, and final documentation) should contain a title page, an outline, as 
+well as clear section and subsection headings, etc.   Please use the templates available in the course 
+website. Please run a spell check before submitting.   
+ 
+Cour se Schedule  
+ 
+Week  Date  Classroom Meeting  Materials Due  
+1 1/19  Kickoff Lecture  Introduction  
+1/24 Kickoff Lecture  Resumes  
+2 1/26 Kickoff Lecture  Teams are formed  
+2/02 Kickoff Lecture   
+3 2/07 Kickoff Lecture  Teamwork quiz  
+2/09 Kickoff Lectur e  
+4 2/14   
+2/16 Proposal Presentations   
+5 2/21 Proposal Presentations  Proposal report, peer review 1  
+2/23   
+6 2/28   
+3/02   
+7 3/07   
+3/09   CSCE 48 2 Syllabus  
+ 6/9 8 3/14 Spring break   
+3/16   
+9 3/21 CDR Presentations   
+3/23 CDR Presentation  CDR report, Peer Review 2  
+10 3/28   
+3/30   
+11 4/04   
+4/06   
+12 4/11   
+4/13   
+13 4/18   
+4/20  Peer review 3  
+14 4/25 Project Demos    
+4/27 Project Demos    
+15 5/02 
+5/04 Final Presentations   Final report, and all deliverables  
+ 
+Optional Course Information Items  
+ 
+Learning Resources  – The Writing Center is open and available to assist students this semester . They 
+can provide assistance on the written reports that are due throughout the class (proposal, CDR, final 
+report). More information can be found at https://writingcenter.tamu.edu/  
+ 
+University Policies  
+ 
+Attendance Policy  
+ 
+The university views class attendance and participation as an individual student responsibility. Students 
+are expected to attend class and to complete all assignments.   
+ 
+Please refer to Student Rule 7  in its entirety for information about excused absences, including 
+definitions, and related documentation and timelines.  
+ 
+Not attending weekly meetings harms the other members of your group and makes it much more 
+difficult for the instructor to assess your contributions to the group effort.   Therefore, attendance, 
+punctuality and active participation in the weekly meetings ar e required. Failure to attend a meeting or 
+late arrivals (more than 10 minutes late) will be reflected in your individual grade.   Emergencies, CSCE 48 2 Syllabus  
+ 7/9 however, do happen. Lateness or absence can be excused if there is a valid reason. Illness, death in the 
+family, inclement weather or accidents for commuters, etc., are valid reasons. Oversleeping, a term 
+paper due, an exam to cram for, etc., are not valid reasons.   Ultimately, the instructor reserves the right 
+to determine what constitutes a “valid reason” on a case -by-case basis.   If you know you are going to be 
+late or miss a class, please let the instructor and your teammates know, so that they may plan for your 
+absence and make the best use of their time.   
+ 
+Makeup Work Policy  
+ 
+Students will be excused from attend ing class on the day of a graded activity or when attendance 
+contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed 
+appropriate by the instructor.   
+ 
+Please refer to Student Rule 7  in its entirety for information about makeup work, including definitions, 
+and related documentation and timelines.  
+ 
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more 
+than 30 days for ma ke-up work, and the timeframe for make -up work should be agreed upon by the 
+student and instructor” ( Student Rule 7, Section 7.4.1 ). 
+ 
+“The instructor is under no obligation to provide an opportunity for  the student to make up work missed 
+because of an unexcused absence” ( Student Rule 7, Section 7.4.2 ). 
+ 
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student 
+Conduct Code. (See Student Rule 24 .) 
+ 
+Academic Integrity Statement and Policy  
+ 
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”  
+ 
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If 
+asked, students must be able to produce proof that the item submitted is indeed the work of that 
+student. Students must keep appropriate records at all times. The inability to authenticate one’s work, 
+should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” 
+(Section 20.1.2.3, Student Rule 20 ). 
+ 
+You can learn more about th e Aggie Honor System Office Rules and Procedures, academic integrity, and 
+your rights and responsibilities at aggiehonor.tamu.edu . 
+ 
+Americans with Disabilities Act (ADA) Policy  
+ 
+Texas A&M University is committed  to providing equitable access to learning opportunities for all 
+students. If you experience barriers to your education due to a disability or think you may have a 
+disability, please contact Disability Resources in the Student Services Building or at (979)  845-1637 or 
+visit disability.tamu.edu . Disabilities may include, but are not limited to attentional, learning, mental 
+health, sensory, physical, or chronic health conditions. All students are encouraged to disc uss their 
+disability related needs with Disability Resources and their instructors as soon as possible.  
+ CSCE 48 2 Syllabus  
+ 8/9 Title IX and Statement on Limits to Confidentiality  
+ 
+Texas A&M University is committed to fostering a learning environment that is safe and productive for 
+all. University policies and federal and state laws prohibit gender -based discrimination and sexual 
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and 
+stalking.  
+ 
+With the exception of some medical and men tal health providers, all university employees (including full 
+and part -time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters 
+and must report to the Title IX Office if the employee experiences, observes, or becomes a ware of an 
+incident that meets the following conditions (see University Rule 08.01.01.M1 ): 
+ 
+• The incident is reasonably believed to be discrimination or harassment.   
+• The incident is alleged to have been committed by or against a person who, at the time of the 
+incident, was (1) a student enrolled at the University or (2) an employee of the University.   
+ 
+Mandatory Reporters must file a report regardless of how the information comes to t heir attention – 
+including but not limited to face -to-face conversations, a written class assignment or paper, class 
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most 
+instances, you will be able to cont rol how the report is handled, including whether or not to pursue a 
+formal investigation. The University’s goal is to make sure you are aware of the range of options 
+available to you and to ensure access to the resources you need.  
+ 
+Students wishing to disc uss concerns in a confidential setting are encouraged to make an appointment 
+with Counseling and Psychological Services  (CAPS).   
+ 
+Students can learn more about filing a report, accessing supportive resources, and navi gating the Title IX 
+investigation and resolution process on the University’s Title IX webpage . 
+ 
+Statement on Mental Health and Wellness  
+ 
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a 
+student’s academic success and overall wellbeing. Students are encouraged to engage in proper self -
+care by utilizing the resources and services available from Counseling & Psychological Services (CAPS). 
+Students who need someone to talk to can call the TAMU Helpline (979 -845-2700) from 4:00 p.m. to 
+8:00 a.m. weekdays and 24 hours on weekends. 24 -hour emergency help is also available through the 
+National Sui cide Prevention Hotline (800 -273-8255) or at suicidepreventionlifeline.org .  
+ 
+COVID -19 Temporary Amendment to Minimum Syllabus Requirements  
+ 
+The Faculty Senate temporarily added the following statement s to the minimum syllabus requirements 
+in Spring 202 2 as part of the university’s COVID -19 response.   
+“To help protect Aggieland and stop the spread of COVID -19, Texas A&M University urges students to be 
+vaccinated and to wear masks in classrooms and all o ther academic facilities on campus, including labs. 
+Doing so exemplifies the Aggie Core Values of respect, leadership, integrity, and selfless service by 
+putting community concerns above individual preferences. COVID -19 vaccines and masking — 
+regardless of  vaccination status — have been shown to be safe and effective at reducing spread to 
+others, infection, hospitalization, and death.”   CSCE 48 2 Syllabus  
+ 9/9 PLEASE NOTE that general communications regarding COVID -19 policies, and how these will impact 
+spring semester teaching, will be regularly updated on the following 
+website : www.tamu.edu/coronavirus/index.html . Any information specific to COVID -19 response and 
+management in classrooms wil l be shared in additional email communication.  
+ 
+Personal Illness and Quarantine  
+ 
+Students required to quarantine must participate in courses and course -related activities remotely and 
+must not attend face -to-face course activities . Students should notify their instructors of the 
+quarantine requirement. Students under quarantine are expected to participate in courses and 
+complete graded work unless they have symptoms that are too severe to participate in course activities.  
+ 
+Students experiencing pers onal injury or Illness that is too severe for the student to attend class qualify 
+for an excused absence (See Student Rule 7, Section 7.2.2 .) To receive an excused absence, students 
+must comply with th e documentation and notification guidelines outlined in Student Rule 7.  
+ 
+Operational Details for Spring  202 2 Courses  
+ 
+For additional information, please review the FAQ  on Spring  2022 courses at Texas A&M University.  
+ 
+ 

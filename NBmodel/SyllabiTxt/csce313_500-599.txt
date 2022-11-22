@@ -1,0 +1,305 @@
+CSCE 313 – Introduction to Computer Systems  
+Spring  2022 
+ 
+Course Logistics  
+ 
+1. Time and Place  
+a. Lecture s (Online -Asynchronous ): Canvas Modules  
+b. Labs (In-Person) : Various  (Refer to HOWDY for your Section)  
+2. Course Content: Canvas ( https://canvas.tamu.edu/courses/137772 )   
+3. Course Discussion Forum : MS TEAMS : TEAM - CSCE -313 SP22. 
+4. Instructor : Aakash Tyagi, tyagi@cse.tamu.edu   
+a. Office Hours :  Will be posted on Canvas  and TEAMS   
+5. Teaching Staff:  
+ROLE : Graduate TA’s and Undergraduate Peer Teachers will conduct the labs  and 
+QnA . Undergraduate TA’s will work behind the scene on lab content creation  and QnA . 
+Graders will take the frontline role in grading the programming assignments  and 
+quiz/exams . 
+a. Graduate TA’s  
+i. Gabriel Stella  gabrielrstella@tamu.edu   
+ii. Feras Khemakhem  foufou1560@tamu.edu   
+iii. Mary Julian  mjulian@tamu.edu   
+b. Undergraduate TA’s  
+i. Ezekiel Blevins  ezeb209@tamu.edu   
+ii. Sravan Sriram  ssravan360@tamu.edu   
+c. Peer Teachers (listed on Peer Teachers Central Site ) 
+6. A baseline R0 version of the Course Master Plan is made available on Canvas. Although 
+some amount of buffer planning has been buil t-in to the schedule, we will respond to 
+situation ‘on the ground’ and respond as dictated by the over -arching goal of maximizing 
+learning and assimilation.  
+ 
+Prerequisites  
+• CSCE 312 (Computer Organization)  
+• Familiarity  with C/C++ programming  (CSCE 121, CSCE  221)  
+Description  
+The objective of this course is to provide us with a general understanding of what system 
+software is involved for an application program to run, both on a single node and over a 
+network, and how this system software is to be used. In support of this  objective , the course 
+will prepare us to do system -level programming. This course will demonstrate how to "use" 
+(as opposed to "design") system components, such as memory, file systems, process control, 
+inter -process communication, and networking. By the end of this course,  we will have an 
+understanding o f the problems and pitfalls typically encountered in the design and 
+implementation of multithreaded and networked applications and systems. More specifically, by the end of this course we should be fairly good  at making full use of the 
+services provided by  the underlying operating system by programming directly at the 
+operating system interface level. W e will review the following aspects of a computer system, 
+in no particular order:  
+• What is an operating system; what are its components ; why system calls?   
+• Execution of a program; function calls; interrupts.  
+• The OS application interface; file system; process control; etc.  
+• Inter -process communication  
+• Concurr ency, Threads, Process/Thread Synchronization  
+• Network Socket Programming  
+• Principles and practices for s ecure computing . Security threats in centralized and 
+distributed systems; authentication, authorization, confidentiality; security 
+mechanisms.  
+• Parallel and Distributed Computing  
+Books  (NOT REQUIRED FOR PURCHASE)  
+There is no required textbook for this class : the course material is assembled from 
+multiple sources (books, existing courses, conversation with experts, and published 
+research). However, the following list of books are most referenced in the assembled 
+material for those who’d like  an additiona l source of material to supplement lectures.  
+• Primary  
+o [OSPP ] Operating Systems: Principles and Practice, 2nd Edition, Thomas Anderson 
+and Michael Dahlin, Recursive Books, 2014  (HERE ) 
+o [OSTEP ] Operating Systems: Three Easy Pieces. [Available online free HERE ] 
+• Secondary  
+o [APUE ] Advanced Programming in the UNIX Environment, 3rd Edition, W. Richard 
+Stevens and Stephen A. Rago, Addison -Wesley Pr ofessional Computing Series, 
+2013.  
+o [MOLAY ] Understanding Unix/Linux Programming : A Guide to Theory and 
+Practice, Bruce Molay, Pearson Education Inc., 2003  
+Other Interesting Reading s 
+• Computer Systems  
+o [CSAPP ] Computer Systems: A Programmer's Perspective , 3rd Edition, Randal E. 
+Bryant and David R. O'Hallaron , Prentice Hall, 201 6.   
+• Operating Systems  
+o [OSC] Operating System Concepts , 10th Edition, Silberschatz, Galvin, Gagne, 
+John Wile y and Sons, Inc.  2021  
+Lectures  
+Lectures will be remote -asynchronous  meaning the lecture content will be released on Canvas 
+weekly according to the Master Schedule. Barring exception, effort will be made to release 
+weekly content on the weekend in case you have discretionary time to read ahead.  During lectures we will be covering Operating Systems and Systems Programming concepts and case 
+studies. The material covered in the lectures will provide the background and foundation for 
+you to appreciate the lab exercises designed to buttress lecture concepts an d to prepare to 
+succeed in programming assignments .  
+Quizzes  
+Quizzes will be ‘take -home’ format offered on Canvas , and aligned with key topic learnings. In 
+most cases, quizzes will be online short format, multiple choice type of questions to test basic 
+understanding of concepts presented during the lectures.  
+Labs  
+Labs will be held  in-person, face -2-face. Given the university requirements for the prescribed 
+format of this course, the labs will NOT be conducted over Zoom  so if you are unable to be in 
+College Station physically, you may  need to defer this course to a later semester. Labs are  
+where we will pu t into practice the material learned in the lectures, and where we will acquire 
+a working knowledge of the UNIX /LINUX  operating system . Labs  will meet twice weekly (TR 
+for Sections 500 -507 and two back -2-back sessions on Friday for Sections 597-599)  where we 
+will be presenting a new problem  to motivate learning and facilitat e skill-building . After an 
+introductory session to familiarize you with the particular environment that we will be using, 
+there will be a continuing series of lab exercise s and programming assignments of moderate 
+difficulty level , which will exercise different parts of the operating system: process and thread 
+management, inter -process communication, networked execution, and so on.   
+ 
+There will be 6 Programming Assignments (PA 0-5) assigned roughly on a bi -weekly basis. We 
+will kick -off the course with PA0 which is a simple, warm -up exercise in C++. The master -plan 
+contains the details. Lab attendance is critical  to ensure you understand the problem, actively 
+hash  the problem out with your classmates , and clarify with lab TA ’s and PT’s .  
+Assessment Method (Subject to Minor Changes!) : 
+The course will have two exams and a series of quizzes and programming assignments . The 
+grade allocation is as follows:  
+ 
+1. Exams  (Midte rm and Final ) = 40% (Midterm=22%, Final = 18%)  
+2. Programming Assignments  = 54%  (each project is 9% of the grade)  
+3. Online -take -home  Quizzes ( 20+) = 6% 
+ 
+The grading scale is as follows:  
+• 90-100: A 
+• 80-89: B 
+• 70 – 79: C 
+• 60 – 69: D 
+• 59 and below: F  
+ 
+Late Submission Policy   – SUBJECT TO CHANGE   
+ 
+Exam and Quiz late policies are stringent and fairly straightforward   
+• Exams : No exception without prior e-mail approval  from the instructor . See 
+University policy for details.  
+• Quizzes : Online on Canvas.  Late submissions will not be accepted without prior e -
+mail approval from the instructor.  
+ 
+For the programming assignments, we are attempting something new for the late submission 
+policy. Below , a general philosophy is presented.  
+ 
+Philosophy : We all  have varying working habits - some start early, some wait till the last minute. 
+We are also affected by our environment - last minute surprises can come, health, etc. In 
+addition, this course is typically paired with CSCE -315 which is also project intensive. So, we are 
+planning to adopt a policy that accommodates the unknowns to some extent  and also gives you 
+the flexibility to respond to peaks and troughs in your enrolled course schedules : Early turnin 
+wins credit, Late turnins earn penalty but can use earned c redits  to offset the penalty . In the 
+end, the overall accrued credit/ penalty is applied on the sum total which is then scaled.  A 
+separate document describing the policy in detail with examples will be made available on 
+Canvas.  
+ 
+Exams  
+There will be one midt erm and one final examination. Both exams will be offered online on 
+Canva s with required in -person attendance during designated lab session. Those with 
+accommodations from the Department of Disability Resources  (LINK ) must arrange to take the 
+exam at the center. Any exceptions to the above must be obtained from the instructor well in 
+advance with proper justification via e -mail. The course master calendar will contain the  exam 
+dates and they will also be communicated in TEAMS and Canvas well in advance.  
+Communication Policy  
+Your teaching staff  will do their best to communicate relevant administrative information 
+(deadlines, information about posted material, details about projects, locations of 
+tutorials, and so on) in an effective and timely manner. We will be using Microsoft TEAMS 
+platform for all course communication.  
+ 
+Please refer to the document “ CSCE313 How do I setup Microsoft TEAMS ” available on  
+Canvas in Student R esources Module . It contains simple steps to install TEAMS and sign 
+on to our course TEAMS site.  
+ 
+At times, reinforcement messages may also be sent via Canvas, but our discussion forum 
+is MS Teams. E-mails listed on course roster are used for enrollment in  Canvas and 
+TEAMS . If you are not receiving TEAMS or CANVAS  updates, please contact the instructor.  
+ 
+Teaching Staff Support  
+ 
+It is important to lay out broad expectations for support as follows based on the roles:  
+ Your instructor  will be on hand to answer queries on lectures and practice questions, 
+offer mentoring, and conduct quiz/exam review sessions/support.  
+ 
+Your TA’s will conduct labs  (graduate TA’s) , answer queries on PA’s, lab exercises, and lab 
+quizzes, provide code qualit y feedback for PA submissions. Their time is best spent on 
+providing clarifications on assignments and offer detailed feedback on coding quality and 
+organization.  
+ 
+Your graders  will not directly interface with you in labs but will work behind the scene in  
+grading programming assignments, and quizzes/exams per discretion of your instructor.  
+ 
+As a general policy, I am asking the TA’s to not assist  with debugging student code.  It is 
+both counter -productive to student learning and extremely stressful for the t eaching 
+staff.  They will expend much of the feedback in providing a clear understanding of the 
+programming assignment expectations and common best practices.  
+ 
+Course Acknowledgments  
+ 
+Lecture Content : The course website and lecture notes have incorporated c ourse materials 
+developed by Dr. Riccardo Bettati, Dr. Guofei Gu, Dr. Sarker Tanzir Ahmed, and Dr. Dmitri 
+Loguinov of Texas A&M University, Dr. Avi Silberschatz (Yale), Dr. Lawrence Angrave (UIUC), 
+Dr. Thomas Anderson (UW), Dr. Michael Dahlin (Google), Drs . Randall Bryant and David 
+O’Hallaron of CMU, Drs. Anthony Joseph and David Culler of UC Berkeley, Dr. Kuenning 
+(HMC), Dr. Snoeren (UCSD). The copyright of these materials belongs to them. The instructor 
+is especially grateful to Drs. Bettati and Ahmed for  making their entire course content 
+available for use in this semester offering, especially because the instructor is returning to 
+teach this course after a nearly 4+year hiatus.  
+ 
+Programming Assignment Content : PA’s have gone through evolution in the last  several years. 
+Original programming assignments were created under the auspices of Professors Riccardo 
+Bettati and Guofei Gu. The instructor (Tyagi) taught this course between 2014 -2016. During 
+Spring  2016, a small number of enterprising undergraduate students took the daunting task of 
+working with the instructor and (then TA) Prof. Sarker Tanzir Ahmed to create a new set of 
+programming assignments in addition to revising the existing ones. The resulti ng set of 
+programming assignments was piloted by Prof. Ahmed in his Fall 2016 CSCE -313 course and 
+resulting student feedback was rolled in to the Spring 2017 offering, and improved ever since. 
+The lion’s share of contributions was made by Andrew Kirfman an d Joshua Higginbotham, 
+both former CSCE undergraduate students. Both the instructor and Prof. Ahmed are grateful 
+for their contributions and honor their lasting legacy toward the benefit of the CSE student 
+community.  
+ 
+And finally, a note for the sake of ou r health and well -being: To help protect Aggieland and 
+stop the spread of COVID -19, Texas A&M University urges students to be vaccinated and to 
+wear masks in classrooms and all other academic facilities on campus, including labs.  Doing 
+so exemplifies the Aggie Core Values of respect, leadership, integrity, and selfless service by putting community concerns above individual preferences. COVID -19 vaccines and masking — 
+regardless of vaccination status — have been shown to be safe and effective at reducing 
+spread to others, infection, hospitalization, and death.  
+ 
+Attendance Policy  
+ 
+The university views class attendance and participation as an individual student responsibility. 
+Students are expected to attend class and to complete all assignments.  
+ 
+Please refe r to Student Rule 7  in its entirety for information about excused absences, including 
+definitions, and related documentation and timelines.  
+ 
+Makeup Work Policy  
+ 
+Students will be excused from attending class on the day of a graded activity or when attendance 
+contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason 
+deemed appropriate by the instructor.  
+ 
+Please refer to Student Rule 7  in its entirety for information about makeup work, including 
+definitions, and related documentation and timelines.  
+ 
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of 
+more than 30 days for make -up work, and the timeframe for make -up work should be agreed 
+upon by the student and instructor” ( Student Rule 7, Section 7.4.1 ). 
+ 
+“The instructor is under no obli gation to provide an opportunity for the student to make up work 
+missed because of an unexcused absence” ( Student Rule 7, Section 7.4.2 ). 
+ 
+Students who request an excused absence are expected to uphold the Aggie Honor Code and 
+Student Conduct Code. (See Student Rule 24 .) 
+ 
+Academic Integrity Statement and Policy  
+ 
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”  
+ 
+“Texas A&M University  students are responsible for authenticating all work submitted to an 
+instructor. If asked, students must be able to produce proof that the item submitted is indeed 
+the work of that student. Students must keep appropriate records at all times. The inabilit y to 
+authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an 
+academic misconduct case” ( Section 20.1.2.3, Student Rule 20 ). 
+ 
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic 
+integrity, and your rights and responsibilities at aggiehonor.tamu.edu .  
+Americans with Disabilities Act (ADA) Policy  
+ 
+Texas A&M University is committed to providing equitable access to learning opportunities for all 
+students. If you experience barriers to your education due to a disability or think you may have a 
+disability, please contact the Disability Resources office on your campus (resources listed below) 
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory, 
+physical, or chronic health conditions. All students are encouraged to discuss their disability 
+related needs with Disab ility Resources and their instructors as soon as possible.  
+ 
+Disability Resources is located in the Student Services Building or at (979) 845 -1637 or visit 
+disability.tamu.edu . 
+ 
+Title IX and Statement on Limits t o Confidentiality  
+ 
+Texas A&M University is committed to fostering a learning environment that is safe and 
+productive for all. University policies and federal and state laws prohibit gender -based 
+discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic 
+violence, dating violence, and stalking.  
+ 
+With the exception of some medical and mental health providers, all university employees 
+(including full and part -time faculty, staff, paid graduate assistants, student worker s, etc.) are 
+Mandatory Reporters and must report to the Title IX Office if the employee experiences, 
+observes, or becomes aware of an incident that meets the following conditions (see Univers ity 
+Rule 08.01.01.M1 ): 
+ 
+• The incident is reasonably believed to be discrimination or harassment.  
+• The incident is alleged to have been committed by or against a person who, at the time 
+of the incident, was (1) a student enrolled at the University or (2) an employee of the 
+University.  
+ 
+Mandatory Reporters must file a report regardless of how the information comes to their 
+attention – including but not limited to face -to-face conversations, a written class assignment or 
+paper, class discussion, email, text, o r social media post. Although Mandatory Reporters must file 
+a report, in most instances, a person who is subjected to the alleged conduct will be able to 
+control how the report is handled, including whether or not to pursue a formal investigation. The 
+Univ ersity’s goal is to make sure you are aware of the range of options available to you and to 
+ensure access to the resources you need.  
+ 
+Students wishing to discuss concerns in a confidential setting are encouraged to make an 
+appointment with Counseling and Psychological Services  (CAPS).  
+ 
+Students can learn more about filing a report, accessing supportive resources, and navigating the 
+Title IX investigation and resolution process on the University’s Title IX webpage .  
+Statement on Mental Health and Wellness  
+ 
+Texas A&M University recognizes that mental health and wellness are critical factors that 
+influence a student’s academic success and overall wellbeing. Students are encouraged  to 
+engage in healthy self -care by utilizing available resources and services on your campus  
+ 
+Students who need someone to talk to can contact Counseling & Psychological Services (CAPS) or 
+call the TAMU Helpline (979 -845-2700) from 4:00 p.m. to 8:00 a.m. w eekdays and 24 hours on 
+weekends. 24 -hour emergency help is also available through the National Suicide Prevention 
+Hotline (800 -273-8255) or at suicidepreventionlifeline.org .  

@@ -1,0 +1,101 @@
+  
+ 
+ 
+Page 1 of 5 Course Syllabus 
+1 Course Information 
+ Course Number: CSCE 463-500/612-600 Course Title: Networks and Distributed Processing Time:  TR 12:45-2pm Location: 113 HRBB Credit Hours: 3 Website: http://irl.cse.tamu.edu/courses/463/
+ Piazza: http://piazza.com/tamu/spring2022/csce463
+ Online Platform: Canvas  
+Instructor Details  
+ Instructor: Dmitri Loguinov Office: 209 PETR Phone: 979-845-0512 E-Mail: dmitri@cse.tamu.edu Office hours: TR 5:30-6:30pm  TA: Carson Hanel Office:  212 PETR E-Mail:  carson@cse.tamu.edu Office hours: MW 2-3pm   
+Course Description  
+ This class is an overview of computer networks with a focus on Internet protocols and high-performance coding in Windows.  
+Course Prerequisites  
+ CSCE 315 (programming studio), CSCE 313 (computer systems),  CS CE 312 (computer organization), CSCE 221 (data structures and algorithms), and most importantly fluent knowledge of C/C++.  
+Course Learning Outcomes  
+ At the end of the semester, the students will obtain experience with protocol design, Internet operation, C/C++ network APIs, and multi-threading in Windows.  
+Textbook and/or Resource Materials  
+ J.F. Kurose and K.W. Ross, “Computer Networking: A Top-Down App roach,” Addison-Wesley, 6
+th edition, 2013.   
+ 
+ 
+Page 2 of 5 Course Syllabus 
+ 
+Grading Policy  
+ A: 90-100%, B: 80-89%, C: 70-79%, D: 60-69%, F: 0-59%  
+Assignment Qty Format Percent of final grade 
+Homework 4 Implementation and report 40% (10% each) 
+Midterms 3 Closed-book 45% (15% each) 
+Quizzes 3 Closed-book 15% (5% each) 
+ 
+Late Work Policy  
+ Homework submissions are due at 10 am. Late homework is accepta ble with a penalty of 20% of the full grade per day (no points after 5 days). Delays are rounded up to the nearest full day. Example #1: your homework scores 76 points out of 100, but is 28 hours la te. Your score is then reduced by 40 points and becomes 36. Example #2: your submission scores 19 out of 25 pts, but is 1 day late. The reduction is then 5 pts, which brings the grade down to 14.  
+Homework  
+ All submissions must compile in Visual Studio 2019 in both debu g and release mode. Solutions with missing files, incorrect project options, or dependency on non-standard libraries (e.g., boost) will not be graded.  Each homework must be accompanied by a written report (if there  are multiple parts in the homework, the report applies only to the last part) describing your implementation and showing the performance analysis requested in the handout. Write in as much detail as possible, explain the various observations, and comment on the sanity of obtained  results.  This course assumes independent work on each assignment. All submissions must be original and developed from scratch. In other words, you cannot copy and/or modify any fragment of code, no matter how short, that originates elsewhere (e.g., current students, prior students, material found online). The only exception to this policy is sample code provided by the instructor and Microsoft help pages. Academic dishonesty, including cheating and plagiarism, will result in an F* for the course and may lead to expulsion from the university.   
+Course Schedule  
+ The following schedule will be in effect:  
+Lecture # Title Topic 
+1 Preliminaries 1 Syllabus, Visual Studio 
+2 Preliminaries 2 Sockets, threads, synchronization 
+3 Introduction 1 Internet structure   
+ 
+ 
+Page 3 of 5 Course Syllabus 
+4 Introduction 2 Delay and loss 
+5 Application layer 1 Application types, HTTP 
+6 Quiz 1 Chapter 1 
+7 Application layer 2 Caching, cookies, FTP, email 
+8 Application layer 3 DNS basics 
+9 Application layer 4 DNS vulnerabilities 
+10 Midterm 1 Chapters 1-2, homework #1 
+11 Application layer 5 Other DNS uses, P2P 
+12 Transport layer 1 Overview, multiplexing, UDP 
+13 Transport Layer 2 Reliable data transfer, stop & wait 
+14 Quiz 2 Chapter 2, parts of 3 
+15 Transport Layer 3 Go-back-N, Selective Repeat 
+16 Transport Layer 4 Timeouts, flow control, fast retx 
+17 Transport Layer 5 Congestion control 
+18 Midterm 2 Chapter 3, homework #2 
+19 Transport Layer 6 TCP modeling, fairness 
+20 Network Layer 1 Introduction 
+21 Network Layer 2 Switching, IP header 
+22 Quiz 3 Chapter 4 
+23 Network Layer 3 NAT, link-state routing 
+24 Network Layer 4 Distance vector, RIP, OSPF 
+25 Network Layer 5 BGP, multicast 
+26 Data-link Layer 1 Error detection/correction, CSMA 
+27 Data-link Layer 2 Ethernet, hubs/switches 
+28 Midterm 3 Chapters 4-5, homework #3-4 
+ 
+2 University Policies 
+ 
+Attendance Policy  
+ The university views class attendance and participation as an individual student responsibility. Students are expected to attend class and to complete all assignments.   Please refer to Student Rule 7
+ in its entirety for information about excused absences, including definitions, and related documentation and timelines.  
+Makeup Work Policy  
+ Students will be excused from attending class on the day of a graded activity or when attendance contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate by the instructor.     
+ 
+ 
+Page 4 of 5 Course Syllabus 
+Please refer to Student Rule 7  in its entirety for information about makeup work, including definitions, and related documentation and timelines.  Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 30 days for make-up work, and the timeframe for make- up work should be agreed upon by the student and instructor” (Student Rule 7, Section 7.4.1
+).  “The instructor is under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence” (Student Rule 7, Section 7.4.2
+).  Students who request an excused absence are expected to uphold the Aggie Honor Code and Student Conduct Code. (See Student Rule 24
+.)  
+Academic Integrity Statement and Policy  
+ “An Aggie does not lie, cheat or steal, or tolerate those who do.”  “Texas A&M University students are responsible for authenticati ng all work submitted to an instructor. If asked, students must be able to produce proof th at the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” (Section 20.1.2.3, Student Rule 20
+).  You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at aggiehonor.tamu.edu
+.  
+Americans with Disabilities Act (ADA) Policy  
+ Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may have a disability, please contact Disability Resources in the Student Services Bu ilding or at (979) 845-1637 or visit disability.tamu.edu
+. Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or chronic health c onditions. All students are encouraged to discuss their disability related needs with Disability Resources and their instructors as soon as possible.  
+Title IX and Statement on Limits to Confidentiality  
+ Texas A&M University is committed to fostering a learning environment that is safe and productive for all. University policies and federal and state l aws prohibit gender-based discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and stalking.  With the exception of some medical and mental health providers, all university employees (including full and part-time faculty, staff, paid graduate assistants, student workers, etc.) are   
+ 
+ Course Syllabus 
+Page 5 of 5 Mandatory Reporters and must report to the Title IX Office if t he employee experiences, observes, or becomes aware of an incident that meets the following conditions (see University 
+Rule 08.01.01.M1 ):   The incident is reasonably believed to be discrimination or har assment.   The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the University.   Mandatory Reporters must file a report regardless of how the in formation comes to their attention – including but not limited to face-to-face conversat ions, a written class assignment or paper, class discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most instances, you will be able to control h ow the report is handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the range of options available to you and to ensure ac cess to the resources you need.  Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with Counseling and Psychological Services
+ (CAPS).   Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University ’s Title IX webpage
+.  
+Statement on Mental Health and Wellness  
+ Texas A&M University recognizes that mental health and wellness are critical factors that influence a student’s academic success and overall wellbeing. S tudents are encouraged to engage in proper self-care by utilizing the resources and services ava ilable from Counseling & Psychological Services (CAPS). Students who need someone to talk to can call the TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24- hour emergency help is also available through the National Suicide Prevention Hotline (800-273- 8255) or at suicidepreventionlifeline.org
+.   

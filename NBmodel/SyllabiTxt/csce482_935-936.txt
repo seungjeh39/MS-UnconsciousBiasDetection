@@ -1,0 +1,207 @@
+   
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 1 of 13 
+Contents 
+Course Information ............................................................................................................................................................. 2 Instructor Details ............................................................................................................................................................. 2 Course Description .......................................................................................................................................................... 2 Course Prerequisites ....................................................................................................................................................... 2 Special Course Designation ............................................................................................................................................. 2 Course Learning Outcomes ............................................................................................................................................. 3 Textbook and/or Resource Materials ............................................................................................................................. 3 Grading Policy .................................................................................................................................................................  4 Late Work Policy ............................................................................................................................................................. 9 Course Schedule ............................................................................................................................................................ 10 Course Expectations ...................................................................................................................................................... 10 Course Copyright ........................................................................................................................................................... 11 University Policies ............................................................................................................................................................. 11 Attendance Policy ......................................................................................................................................................... 11 Makeup Work Policy ..................................................................................................................................................... 11 Academic Integrity Statement and Policy ..................................................................................................................... 11 Americans with Disabilities Act (ADA) Policy ................................................................................................................ 12 Title IX and Statement on Limits to Confidentiality  ...................................................................................................... 12 Statement on Mental Health and Wellness .................................................................................................................. 12 Classroom Access and Inclusion Statement .............................................................................................................. 13   
+    
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 2 of 13 
+Course Information 
+ Course Number CSCE 482 Course Title Senior Capstone Design Section 935 & 936  Time:  11:35AM–2:35 PM; 2:35-5:35 PM Location: EABA 118 Credit Hours: 3  
+Instructor Details 
+ Instructor:  Pauline Wade E-Mail:  paulinewade@tamu.edu
+ 
+Office Hours:  Tues 10-11 a.m. or by appointment, all online Zoom: See Canvas  TA (Sect. 935):  Sai Harini Voruganti E-Mail:   saiharini@tamu.edu
+ 
+Office Hours:  Tuesday 3:30 - 4:30 p.m. or by appointment, all online Zoom: See Canvas  TA:   
+Lida Zhang 
+E-Mail:   lidazhang@tamu.edu  
+Office Hours:  Tuesday 1:30 - 2:30 p.m. or by appointment, all online Zoom: See Canvas  
+Course Description 
+ Senior Capstone Design is a project-based course to develop system integration skills for solving real-world problems in computer science. The course involves a significant team software project that integrates advanced concepts across computer science specializations.  Projects require design, implementation, documentation and demonstration, as well as design methodology, management process and teamwork.   
+Course Prerequisites 
+ Senior classification; CSCE 315, CSCE 411, and two additional CSCE tracked courses.   
+Special Course Designation 
+ As per university requirements: 1) at least 35% of your grade will involve written or oral communications, 2) 70% of that 35% is based on individual (not group) writing or speaking, 3) at least 1250 words are individually written, 4) reviews are provided to you to allow for revision of some numbe r of documents or slides, 5) you have at least 5 minutes of individual public speaking.  To receive C credit for this course, you must pass the C component.     
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 3 of 13 
+Course Learning Outcomes 
+ This class prepares you for engineering practice with a major design expe rience based on the knowledge and skills acquired in earlier course work and incorporating engineering standards and realistic constraints that include most of the following considerations: economic; environmental; sustainability; manufacturability; ethical; health and safety; social; and political.  You are expected to do the following in this course:  **: 1. Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions. 2. Design, implement and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline. 3. Communicate effectively in a variety of professional contexts.  4. Recognize professional responsibilities and make informed judgements in computing practice based on legal and ethical principles. 5. Collaborate effectively as a member or leader of a team engaged in activities appropriate to  the program's discipline. 6. Apply computer science theory and software development fundamentals to produce  computing-based solutions.  ** This course is evaluated every year through the ABET (Accreditation Board for Engineering and Technology) accreditation process, which provides assurance that a college or university program meets the quality standards of the profession, by doing the following: ● Verifies that your educational experience meets the global standard for technical education in your profession. ● Enhances your employment opportunities—multinational corporations require graduation from an accredited program. ● Supports your entry to a technical profession through licensure, registration and certification —all of which often require graduation from an ABET-accredited program as a minimum qualification.  ● Establishes your eligibility for many federal student loans, grants, and/or scholarships.  ● Paves the way for you to work globally, because ABET accreditation is recognized worldwide through international agreements, and many other countries’ national accrediting systems are based on the ABET model.   To comply with ABET, students must demonstrate their abilities in outcomes above, which will be evaluated by external industrial affiliate members during your final presentation.   
+Textbook and/or Resource Materials 
+ Required: Design for Electrical and Computer Engineers, by Ralph Ford and Chris Coulston (McGraw-Hill Science, 2007). ISBN 978-0-07-338035-3  A copy is also available in the library in course reserves under the Spring 2022 CSCE 482 course  (passcode:  wadereserves).  To access, log in at: https://reserves.library.tamu.edu using your Net ID.  You have access to the materials for 2 hours at a time and one student at a time ( no limit to the number of times they can check it out during the semester).        
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 4 of 13 
+Recommended:  ● Design of Everyday Things. Don Norman.
+ (Basic Books 2013). Available free online at TAMU Libraries.  
+● The Five Dysfunctions of a Team: a Leadership Fable.  Patrick M. Lencioni. (Jossey-Bass, 2002). Available free online at TAMU Libraries. ● Technical material from the literature, manufacturers’ dat a sheets and user manuals (as needed).  You can acquire the course material from vendors that provide the best value and amenities.   
+Grading Policy 
+ The final grade you will receive in the class will be based on points accumulated during the semester. Thus, both continued progress (the process) and the quality of your product (and other deliverables) will determine your grade. Your grade is based on the performance of your team  and your individual contribution.    The grading scale is as follows: F < 60% ≤ D < 70% ≤ C < 80%  ≤ B < 90% ≤ A  We do not curve in this class, however provide you with the opportunity to earn an A , hence an 89.9 is a B.  We teach to mastery which means that we have clear expectations in terms of what you should complete and what kno wledge you should have obtained by the end of the course to succeed and to earn an A.    The grade distribution is as follows:  1. Weekly Updates:       6% 2. Peer Review       1% 3. Peer Feedback       1% 4. Ethics          2% 5. Project Management       3% 6. Version Control        2% 7. Project Testing:       20% 8. Report Progress      18% 9. Final Deliverables:       30% 10. Presentations:        15% 11. Quiz          2% ----------------------------------------------- TOTAL       100%  Important Notes:  • You will not receive a passing grade in the class if you do not have a tested working system  by the due date.  The lower weighted items will significantly help you succeed in your higher- weighted items.  • Your peer feedback responses will be calculated with the instruct ors’ assessment which can either increase / decrease each member’s overall semester score.     Instructors will base their assessment on one or more of the following:  class attendance, punctuality, participation during class, timely submission of assignments/deliverables, peer feedback results, other informal    
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 5 of 13 
+feedback from teammates or TAs, and other actions which positively/negatively contribute to the success of the team.  • Any team member who does not participate adequately, after interventions have been  attempted, will automatically get at least 1 letter grade below the lowest grade of any of the team members  
+1. Weekly Updates (6%) 
+Group Updates (4%), Individual Updates (2%) Each team submits a weekly report as a group and individually , using the given template. It has been shown that weekly reports help a team maintain a project on schedule.   The group reports typically communicate the team’s accomplishments the previous period, which need to be measurable.  It also includes the team’s goals for the following week.  Team members should all be involved in taking meeting minutes, submitting team reports and reporting  during the weekly meeting.  
+2. Peer Reviews (1%) 
+You will be asked to give a review of your peers’ proposal, documentation, presentations, and other deliverables.  
+3. Peer Feedback (1%) 
+You will give feedback on the performance and contribution of your other team members several times throughout the semester.   Prompt submission of peer feedbacks will be the basis of this grade.  Depending on the circumstances, you may not be given credit for peer feedback more than 3 days late, since this feedback is the basis for assessing team members’ contribution or participation.   Regardless of whether you get credit or not, your  final grade cannot be finalized until you complete all of your peer feedback.  
+4. Ethics (2%)  
+The grading criteria is related on completion of the ethics training and corresponding quizzes.    
+5. Project Management (3%) 
+You are expected to choose a software engineering process model and create the corresponding artifacts.  For example, if the team chooses to use Agile Scrum, then expected artifacts are spri nt & product backlogs, user stories, etc.     
+6. Version Control (2%) 
+You are expected to commit to the GitHub repository weekly, if not daily.  
+7. Project Testing (20%) 
+Internal Testing (10%),  You are expected to test that the expected deliverables of the project meet implicit and explicit (e.g., functionality) requirements.  Expectations include developing automated test suite, multi-phase testing (unit / integration / system testing). Definition of success is related to how well you prepared and implemented your evaluation plan, to meet your team’s quality goals (e.g., test coverage).  You are expected to submit your test results.       
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 6 of 13 
+User Acceptance Testing (10%): at least 20 participants  This evaluates how well you prepared and executed user acceptance test , including submission of the user acceptance test results.  Note that your grade cannot be finalized unless you complete user acceptance test.  ** If you intend to publish your results, you will need to complete an IRB   
+8. Report Progress (18%) 
+Individual Proposal (1%) Scenario 1: For students who participate in an externally sponsored project, you will describe your approach to the given problem statement in the individual proposal, get your proposal reviewed, and give a review on your classmates’ individual proposals.  When the team is formed, all individual proposals are synthesized and become part of the final report.   Scenario 2:  The second alternative is to iterate through potential project ideas  which have a proven need / existing beneficiary.  Reviews from your classmates on your proposals will help define the final project idea.  Likewise, you will review your classmates’ work to help refine their ideas and potentially find teammates with similar interests.   Abstract (1%) This is a summary of your final report that describes: your problem (with attention grabber), how you plan on solving it, and expected outcome.  References (1%) & Related Work (1%) To ensure that you have a strong understanding of existing relevant work you will per form a literature review of related works to your team project. Each team member is expected to identify 5 relevant papers for their project to be referenced in their final report. These papers will be different for each team member ( e.g., a team of 4 will have 20 papers to reference in their final report). Related work refers to each person reading two papers and writing a reading summary on those two papers.   Introduction (1%) The introduction provides a brief overview of the project and helps the reader put into context the design and implementation.    Engineering Standard (1%) Engineering standards are factors that are related to your project and may bound or constrain your project.   Requirements (2%) The design part of your methodology should clearly describe what your solution seeks to achieve, what the user experience will be, what tools you will use, and what challenges you will face.  You should describe your minimum viable project and any additional goals you may have.   Design (2%) The design part of your methodology should clearly describe what your solution seeks to achieve, what the user experience will be, what tools you will use, and what challenges you will face.  You should describe your minimum viable project and any additional goals you may have.       
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 7 of 13 
+Prototype (1%) Prototyping allows you to test the quality of your design before you start coding, makes sure that that all team members know and agree on the final product.  Evaluation (3%) The evaluation section describes procedures that you wi ll use to test that your system does what it was designed to do.   Implementation, Results, Discussion (3%) The implementation part of your methodology describes your system in detail including individual components, tools used, your system hierarchy, and any other details for the audience to understand how your system works.   The results section will summarize the outcome of your project with respect to what metrics you collected and your evaluation to show whether or not you achieved your d efinition of success.  The discussion section includes a reflection on the results.   Final Report Increment-including previously submitted sections of final report (1%) This allows you to submit updates to final report sections previously submitted.   
+9. Final Deliverables (30%) 
+Final Report (3%), GitHub Documentation & Code/Result (20%), Demo Video & Video Release (5%),  Other deliverables (2%) This indicates how well you completed your final deliverables. Your final report will be critiqued on its thorough ness and effectiveness in communicating key aspects of your system .  GitHub documentation and code will be critiqued on its completeness to properly execute and understand the details of your system.  The demo video is a 2-minute video which future generation of students can view as they also embark on their capstone journey.   All final deliverables must be submitted in order to receive a grade for the class .  Code (with corresponding documentation) will be submitted in the class GitHub  repository, while non-code will be submitted in a MS Team Drive repository organized into folder.    Depending on the project, other deliverables include (but not limited to):  a. Data:  Test data, initial seed data, etc. b. Designs: schematics, data sheets, etc. c. Tools: freeware software tools, compilers, etc. d. Reports: proposal, weekly reports, final report  with all of the required sections e. User manual f. Evaluation (e.g., internal and user acceptance test) materials g. Audiovisual media: close-up pictures of your system, high-quality video of  your project (including a system demo and a project description) for posterity.  h. Presentation materials: final updated PowerPoint slide decks with pdf versions i. Evidence of live presentations given (e.g., program, acceptance letters, etc.)  j. Spare parts and supplies k. Installed final application on 1 or more devices    
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 8 of 13 
+l. Borrowed / Purchased items (e.g., keys, books, equipment) have been returned to their proper location or to their owner.  See next section on Purchases & Reimbursements  m. Facilities used by the project team have been thoroughly cleaned up   NOTE: Grades will not be assigned until all project deliverables have been turned in .  All team members are required to participate in making sure deliverables are completed and delivered.   Purchases and Reimbursements ● Accurate Forms: Please ensure that purchase order (PO) forms submitted to the department are accurate. Submitting a PO with incomplete specifications or bac kordered items increases the workload for our accounting staff and causes unnecessary delays to your team. Submitting an incomplete PO will result in the team being prevented from submitting additional POs; and all additional purchases will have to be made  by team members themselves and will be reimbursed at the end of the semester.  ● In-Stock Items: Please verify that items are in stock before submitting a PO, and provide alternative vendors if an item is likely to go out of stock (e.g., if the vendor only h as a few units left). If you suspect that a critical item may become backordered, it may be better if you purchase it directly since POs may take several days to go through. ● Reimbursements Deadline: Reimbursement requests are due at the time of final deliv erables. To minimize overhead on our accounting staff, we will only reimburse up to five purchase orders (of your choice); this policy also encourages teams to plan their purchases in advance. Overnight or express delivery will not be reimbursed unless approved in advance by the instructor. Reimbursement of sales taxes is not allowed by the university; please make sure to bring tax-exempt forms with you whenever you make local purchases (or purchases within the state). ● Equipment Return: The equipment and materials that you purchase do not belong to you, they belong to Texas A&M University.  Before you will be given a final grade in the course, all equipment and materials must be returned.  
+10 . Presentations (15%) 
+Midterm Project Presentation (1%), Checkpoints & Demo of System Progress(6%),  External presentation(s) (e.g., COE Project Showcase) (2%) Your midterm project presentation will serve as a critical design review for your project. Your team will demonstrate this progress through a presentation and corresponding in-class discussion. You will receive a review from your instructors and peers that you must address in order to receive credit. Additionally, your team will present to at least 1 other external venue, preferably the COE Project Showcase.  There may be other opportunities presented in class which will provide you with extra practice in communicating your work and responding to external reviews.   Checkpoints and demo of system progress refer to informal presentations on specific deliverables with the purpose of assessing progress.  Final Presentation Slides (1%), Final In-Class Presentation (1%); Project Review-Industrial Affiliates (4%) This evaluates the communication and demonstration of your team project’s system , through a presentation to your instructors, peers, and to industry panelists (e.g., IAP meeting).      
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 9 of 13 
+11. Daily Quizzes (2%) 
+The quizzes will include knowledge that you should have gained from your past computer science courses, and lets you know the topics that external reviewers may ask about or bring up during external presentations . External reviewers expect that you have the ability communicate the skills or knowledge you acquired in your undergraduate studies.   
+Class Attendance 
+ Importance of Attendance: Not attending weekly class meetings harms the other members of your group and makes it much more difficult for the instructor to assess your contributions to the group effort.  Due to the undue burden your frequent absences have on the rest of the team, more than 5 unexcused absences are  an automatic failure.    The instructors will evaluate your attendance through frequent quizzes, meetings, participation in the discussions, participation in assignments, and contributions to the team.  Upon instructors’ discretion, arriving to class late  (> 10 minutes late), leaving early (> 10 minutes before class end), and/or not participating (e.g., not taking a quiz, not being present for a status meeting, not submitting in class work, and/or doing work not related to the class) can be considered an unexcused absence, depending on the circumstances.   Oversleeping, a term paper due, an exam to cram for, etc., are not valid reasons. Ultimately, the instructor reserves the right to determine what constitutes a “valid reason” on a case - by-case basis.     Note that days in which teams may need to work  in a remote location to accomplish certain assignments (e.g., presenting your work outside of class, interviewing experts, meeting with mentors, accessing technologies outside of the classroom, etc.) do not count toward absences providing they are approve d by the instructor in advance, abide by the instructor’s requirements for check in during course time, abide by any activity reporting requirements by the instructor, and complete all assignments on-time relevant to that class time.  You will be informed in a timely manner should you incur an unexcused absence.   Students experiencing personal injury or illness that is too severe for the student to attend class qualify for an excused absence (see Student Rule 7, Section 7.2.2
+) assuming that documentation and notification guidelines are followed.  
+ Students required to quarantine or self-isolate are expected to participate in course-related activities remotely and must not attend face-to-face. Graded work is expected to be completed unless symptoms are too severe.   
+Late Work Policy 
+ Late work policy is defined as submitting a deliverable after the established deadline. Work submitted by a student as makeup work for an excused absence, according to Student Rule 7
+ is not considered late work and is exempted from  the 
+late work policy.  
+ If you feel that you have a valid reason for submitting late work, even if it is not related to Student Rule 7, submit a request to excuse the late submission in advance of the deadline (3 business days is strongly recommended).   We will carefully review your request and will either approve or disapprove the request  (with fairness and equity in mind), if the request has been submitted in a timely manner.   Without a request, late assignments cannot be accepted for credit.     
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 10 of 13 
+Course Schedule 
+ Below is an overview of the overall schedule, subject to change.  Refer to Canvas for the most up-to-date schedule. Throughout the semester the following will be due on a recurring basis:  weekly updates, peer feedback.   
+Week (s) Topics / Activities  Due 
+1-3 Introduction to Senior Capstone Design:  
+• Identify and formulate an engineering problem, how to function effectively in teams, how your project fits in the context of other work, how to communicate the motivation, need, and ethical considerations for the system, and how to define success in the project, project management. • Teams Finalized  
+• Project Proposal  • Abstract 
+• Project Plan 
+• User Stories / Usage Scenarios 
+• Ethics Quizzes 
+• Group Reference Search & Related Work  
+4-6 Project Design and Skill Development  
+• How to create an evaluation plan according to the team’s definition of success.  • Use of project management software such as GitHub, Trello, Jira, and more.  • Literature review 
+• Iterative progress on final reports 
+• Groups present weekly updates on their progress • GitHub Set -up 
+• Introduction & Engineering Standard • Related Work Part 2 • Requirements • Prototype • Design  • Evaluation 
+• Lo-Fi Prototype  
+7-11 Project Development & Testing  
+• Communicate the user interface design and 
+design choices  
+• Continue development & testing, including unit, 
+integration, and validation testing.  
+• Run and implement a user acceptance test to 
+evaluate the success of their system.   
+• Iterative progress on final r eports  • Fully working and tested system  
+• Evaluation Results (internal and user acceptance testing) 
+12-13 Project Finalization  
+• Results and their implications. 
+• In-class and external demonstrations 
+• Teams finish final deliverables   • User Acceptance results  
+• Implementation Results & Discussion  
+14-15 Project present ation s and deliverable submission  
+• In-class and external demonstrations 
+• Teams finish final deliverables   • Final deliverables  
+• Final Presentation slides & Demo Video 
+• Final Presentation to IAP members   
+ 
+Course Expectations 
+ Course expectations, in the form of a course appreciative agreement, will be reviewed and agreed to in the first 2 weeks of class.     
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 11 of 13 
+ Course Copyright 
+ The materials used within this course are copyrighted and include, but are not limited to, the syllabi, quizzes, exams, homework, online handouts, course videos, audio and visual recordings of classes, etc.  Because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted.  
+ 
+University Policies 
+ 
+Attendance Policy 
+ The university views class attendance and participation as an individual student responsibility. Students are expected to attend class and to complete all assignments.   Please refer to Student Rule 7
+ in its entirety for information about excused absences, including definitions, and related 
+documentation and timelines. 
+ 
+Makeup Work Policy 
+ Students will be excused from attending class o n the day of a graded activity or when attendance contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate by the instructor.   Please refer to Student Rule 7
+ in its entirety for information about makeup work, including definitions, and related 
+documentation and timelines. 
+ Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the student and instructor” (
+Student 
+Rule 7, Section 7.4.1 ). 
+ “The instructor is under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence” (Student Rule 7, Section 7.4.2
+). 
+ Students who request an excused absence are expected to uphold the Aggie Honor Code and Student Conduct Code. (See Student Rule 24
+.) 
+ 
+Academic Integrity Statement and Policy 
+ “An Aggie does not lie, cheat or steal, or tolerate those who do. ”  “Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” ( Section 20.1.2.3, Student Rule 20
+). 
+    
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 12 of 13 
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at aggiehonor.tamu.edu
+. 
+ 
+Americans with Disabilities Act (ADA) Policy 
+ Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may have a disability, please contact the Disability Resources office on your campus (resources listed below)  Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their disability related needs with Disability Resources and their instructors as soo n as possible.  Disability Resources is located in the Student Services Building or at (979) 845 -1637 or visit disability.tamu.edu
+. 
+ 
+Title IX and Statement on Limits to Confidentiality  
+ Texas A&M University is committed to fostering a learning environment that is safe and productive for all. University policies and federal and state laws prohibit gender- based discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and stalking.  With the exception of some medical and mental health providers, all university employees (including full and part -time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters an d must report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that meets the following conditions (see University Rule 08.01.01.M1
+): 
+ • The incident is reasonably believed to be discrimination or harassment.  • The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the University.    Mandatory Reporters must file a report regardless of how the information comes to their attention – including but not limited to face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most instances, a person who is subjected to the alleged conduct will be able to control how the report is handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the range of options available to you and to ensure access to the resources you need.  Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with 
+Counseling 
+and Psychological Services  (CAPS).  
+ Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s Title IX webpa ge
+. 
+ 
+Statement on Mental Health and Wellness 
+ Texas A&M University recognizes that mental health and wellness are critical factors that influence a student’s academic success and overall wellbeing. Students are encouraged to engage in healthy self -care by utilizing available resources and services on your campus    
+Senior Capstone – CSCE 482  Course Syllabus 
+ 
+  
+Page 13 of 13 
+ Students who need someone to talk to can contact Counseling & Psychological Services (CAPS) or call the TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24 -hour emergency help is also available through the National Suicide Prevention Hotline (800 -273-8255) or at suicidepreventionlifeline.org
+.  
+ 
+Classroom Access and Inclusion Statement 
+Texas A&M University is committed to engaged student participation in all of its programs and courses and provides an accessible academic environment for all students. This means that our classrooms, our virtual spaces, our practices and our interactions are as inclusive as possible and we work to provide a welcoming instructional climate and equal learning opportunities for everyone. If you have an instruction al need, please notify me as soon as possible. The Aggie Core values of respect, excellence, leadership, loyalty, integrity and selfless service in addition to civility, an d the ability to listen and to observe others are the foundation of a welcoming inst ructional climate. Active, thoughtful and respectful participation in all aspects of the course supports a more inclusive classroom environment as well as our
+ 
+mutual  responsibilities to the campus community . 
+ 

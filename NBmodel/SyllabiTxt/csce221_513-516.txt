@@ -1,0 +1,263 @@
+CSCE 221 S yllabus
+Polsle y - Spring 2022
+Course Information
+Course Number:CSCE 221
+Course Title:Data Structures and Algorithms
+Section:513-516
+Credit Hours:4
+Space and Time:Lecture
+All Sections:310 ZACHMWF12:40 PM - 1:30 PM
+Labs
+513:584 ZACHMW8:00 AM - 8:50 AM
+514:584 ZACHMW9:10 AM - 10:00 AM
+515:584 ZACHMW10:20 AM - 11:10 AM
+516:584 ZACHMW11:30 AM - 12:20 PM
+Instructor Details
+Instructor:Seth Polsley
+Office:EABC 112C
+E-Mail:spolsley@tamu.edu
+Office Hours:In Person:112 EABCMF2:00 PM - 3:30 PM
+Online:calendly.com/spolsleyBy Appointment
+Teaching Assistant:Pedro Figueiredo
+Email:pedrofigueiredo@tamu.edu
+Office Hours:Online:calendly.com/pedrofigueiredoBy Appointment
+Course Description
+From the CSCE Course Catalog:
+Specification and implementation of basic abstract data types and their associated algorithms
+including stacks, queues, lists, sorting and selection, searching, graphs, and hashing; performance
+tradeoffs of different implementations and asymptotic analysis of running time and memory usage;
+includes the execution of student programs written in C++.
+Data Structures and Algorithms is one of the core CS classes because it covers fundamentals of storing
+and processing data while introducing design and analysis of algorithms.  Many coding interviews,
+programming tests, and future classes will depend on material from this class.
+Course Prerequisites
+Pre-requisit es:
+CSCE 121 (Introduction to Program Design and Concepts) or
+CSCE 113 (Intermediate Programming & Design)
+Co-requisit es:
+CSCE 222 / ECEN 222 (Discrete Structures for Computing) or
+MATH 302 (Discrete Mathematics)
+Course Learning Outcomes
+This course details key concepts in Computer Science, aligning closely with the two tightly-integrated
+fields in the title: “Data Structures” and “Algorithms.”  Accordingly, the content and expected outcomes
+are structured along these paths.
+By the end of this course, you should be able to:
+-Describe basic abstract data types and
+associated algorithms for lists, stacks,
+queues, trees, graphs, hash tables, and
+other similar structures.
+-Apply Big-O asymptotic notation to
+evaluate and select efficient algorithms
+for a given problem with respect totime
+and memory usage.
+-Define and analyze algorithmic
+complexity especially in regards to time
+and memory efficiency
+-Design and implement different data
+structures according to resource
+requirements in the C++ programming language.
+Textbook and Resources
+Textbook
+Recommended textbook:
+Data Structures and Algorithm Analysis in C++by MarkWeiss, 4th Ed.
+While this book is widely used in the field, there are many other C++ guides
+and websites that you may find helpful to consult as well.
+Canvas
+Canvas will contain class materials, assignment descriptions, and grades.  You
+can access the course on Canvas through your Howdy portal.
+Piazz a
+Piazza will be used for Q&A, announcements, and as a forum for other questions in the class.  Piazza is
+preferred over email so that others can benefit from seeing the answers to your questions.  You can also
+ask private questions to the instructor and TA.  You can self-enroll by visiting the link below and using the
+specified access code if you wish; alternatively, you will be auto-enrolled by the end of the add/drop
+period.
+http://piazza.com/tamu/spring2022/csce221polsley(accesscode: 88266112)
+CSCE 221 Syllabus
+Page2of7
+Mimir
+Lab and programming assignments will be submitted through Mimir.  Mimir is an auto-grading system
+which can give you more direct feedback while allowing the instructor and TA flexibility to review manual
+portions of the assignments.  You can self-enroll by visiting the link below and using the specified access
+code, or you may visit the direct enrollment link. Alternatively, you will be auto-enrolled by the end of
+the add/drop period.
+https://class.mimir.io/courses/72895125-fa9c-4b89-9bb7-a906c41c2e6a/(access code: 4c322d38c7)
+Mimir Direct Enrollment
+Gradesc ope
+Some assignments, such as quizzes and exams, will be graded on Gradescope where there are better
+options for submitting online and handling print exams than Canvas.  Your account will be automatically
+created, which you can activate through the sidebar in Canvas under “Gradescope”.
+https://www.gradescope.com/courses/353083
+Grading
+Scale
+This class will use a standard A, B, C, etc. scale for final grades; depending on the distribution, a curve
+may be applied.  The instructor reserves the right to raise grades near a borderline to the next highest
+letter, based largely on the student’s perceived effort and participation.
+ABCDF
+90 - 100%80 - 89%70 - 79%60 - 69%< 60%
+Componen ts
+DescriptionPercentageCategory
+Class Participation5%
+25% Activities
+Labs10%
+Quizzes10%
+Homeworks (4)10%
+40% Assignments
+Programming Assignments (5)30%
+Exams (2)20%
+35% Exams
+Final Exam15%
+The class is primarily structured according to a formative approach, using a collection of activities worth
+comparatively few points that accumulate over the course of the semester.  In general, assume each
+component is individual, although certain activities, such as labs, will be designed for groups.
+CSCE 221 Syllabus
+Page3of7
+•Activities:
+Class Participationconsists of in-class exercisesthat will be given as a means of quick assessment,
+feedback, and practice, while serving as a measure of attendance.  Lecture attendance is highly
+recommended, although not strictly required, but to provide flexibility, class participation is graded
+out of 80%.  You can miss up to 20% of these exercises before the overall 5% will be affected,
+enabling you to miss some lectures and to feel less concerned about individual activities.
+Labswill be held on Mondays and Wednesdays beforelecture.  They will test concepts through
+applied problems and be guided by the TA with the help of our grading platforms.  Unless specified,
+lab attendance will be required to earn lab credit.
+Quizzeswill typically be short and held in-classabout once a week.  Following the goal of formative
+assessment, individual quizzes are a low stakes way to evaluate concept understanding.  The lowest
+quiz grade will be dropped, and it is possible to overwrite most quizzes scores with exam scores.  For
+instance, if the second exam score is higher than the average score for quizzes between Exam 1 and
+2, those quiz scores will be replaced by the second exam score.
+•Assignments:
+Homeworksare take-home assignments that will notusually involve programming but will practice
+concepts related to the programming assignments and the overall course.
+Programming Assignmentscomprise the single largestportion of the course grade.  These will
+require programming a solution to the given prompt and submitting your code and, if applicable,
+discussion of the results.  Assignments will be graded on a number of factors: algorithm design, use
+of data structures and user-defined types, quality of implementation, organization, correctness, and
+other artifacts of submission such as a written report including results.  Readability is also critical, so
+it is your responsibility to clearly comment your code.
+•Exams:
+Two regularExamsand oneFinal Examrepresent thesummative portion of the course.  Because this
+is a foundational class for the field, exams will include conceptual and applied problems.
+Policies
+•Attendance:
+The University views class attendance as the responsibility of an individual student.  Attendance is
+important in this class as a means to keep current with the material, especially in labs, so students
+are encouraged to attend.  Lab attendance will be evaluated based on your being present in the lab
+and submitting the lab work.  Class attendance will be based on in-class activities and quizzes.
+•Absences and Make-up Work:
+University rules related to excused/unexcused absences and make-up work are located in Student
+Rule 7:http://student-rules.tamu.edu/rule07.  Ingeneral, you must notify the instructor at least a
+day prior to missing class, or within 2 days after if not possible, and provide documentation of
+excused absences within 3 days.  Make-up work for excused absences cannot be accepted more than
+30 days after the deadline.  An unexcused absence on an exam will result in a zero.
+You may notify the instructor using the form located attx.ag/221absence.
+CSCE 221 Syllabus
+Page4of7
+•Late Submissions:
+Typically, assignments are due at 11:59 PM on the day of the deadline.  If an assignment accepts late
+work, submissions received after the deadline will be subject to a late penalty, which will be
+computed based on the number of days late.  The penalty will be 15% every day, up to 4 days.  After
+4 days, late work will receive no credit.
+Additionally, you have a pool of 4 late days that you can use to extend an assignment an additional
+24 hours without penalty.  While the assignments are organized so that you have plenty of time to
+complete them, late days give you extra flexibility to handle unforeseen circumstances according to
+your own judgement.
+To use a late day from your pool, you must fill out the following form:tx.ag/221lateday.  Be sure to
+specify the affected assignment.  You are responsible for tracking your own late days!  We will
+maintain this information and will only allow up to 4 to be used.
+•Accommodations:
+The Division of Student Affairs has made a new portal available,Disability Accommodation Portal
+(AIM), which you can use to request and send accommodationletters.  Please also visit
+calendly.com/spolsleyto book an appointment withme.  I want to make the class as accessible as
+possible, and I would like to talk with you to discuss the best plan for meeting your needs.
+Course Schedule
+WeekTopic(s)
+1Introduction and Review
+2Arrays, Vectors, Linked Lists, Stacks and Queues
+3Searching and Sorting
+4Algorithmic Analysis
+5Trees
+6Exam 1 - Friday, Feb. 25
+7Heaps
+8Special Trees
+9Hashing
+10Dictionaries and Maps
+11Exam 2 - Friday, Apr. 8
+12Graphs
+13Shortest Path
+14Spanning Trees
+15Final Exam - Friday, May 6
+CSCE 221 Syllabus
+Page5of7
+University Policies
+Attendanc e Policy
+The university views class attendance and participation as an individual student responsibility. Students
+are expected to attend class and to complete all assignments.
+Please refer toStudent Rule 7in its entirety forinformation about excused absences, including
+definitions, and related documentation and timelines.
+Mak eup W ork P olicy
+Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor.
+Please refer toStudent Rule 7in its entirety forinformation about makeup work, including definitions,
+and related documentation and timelines.
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” (Student Rule 7, Section 7.4.1).
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed
+because of an unexcused absence” (Student Rule 7,Section 7.4.2).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student
+Conduct Code. (SeeStudent Rule 24.)
+Academic In tegrity St atemen t and P olicy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If
+asked, students must be able to produce proof that the item submitted is indeed the work of that
+student. Students must keep appropriate records at all times. The inability to authenticate one’s work,
+should the instructor request it, may be sufficient grounds to initiate an academic misconduct case”
+(Section 20.1.2.3, Student Rule 20).
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and
+your rights and responsibilities ataggiehonor.tamu.edu.
+Americ ans with Disabilities Act (AD A) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability, please contact the Disability Resources office on your campus (resources listed below)
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or
+chronic health conditions. All students are encouraged to discuss their disability related needs with
+Disability Resources and their instructors as soon as possible.
+CSCE 221 Syllabus
+Page6of7
+Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit
+disability.tamu.edu.
+Title IX and St atemen t on Limits t o Confiden tiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for
+all. University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including full
+and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and
+must report to the Title IX Office if the employee experiences, observes, or becomes aware of an
+incident that meets the following conditions (seeUniversity Rule 08.01.01.M1):
+●
+The incident is reasonably believed to be discrimination or harassment.
+●
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University.
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper, class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most
+instances, a person who is subjected to the alleged conduct will be able to control how the report is
+handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure
+you are aware of the range of options available to you and to ensure access to the resources you need.
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment
+withCounseling and Psychological Services(CAPS).
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX
+investigation and resolution process on the University’sTitle IX webpage.
+Statemen t on Men tal Health and W ellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’s academic success and overall wellbeing. Students are encouraged to engage in healthy
+self-care by utilizing available resources and services on your campus
+Students who need someone to talk to can contact Counseling & Psychological Services (CAPS) or call the
+TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends.
+24-hour emergency help is also available through the National Suicide Prevention Hotline
+(800-273-8255) or atsuicidepreventionlifeline.org.
+CSCE 221 Syllabus
+Page7of7

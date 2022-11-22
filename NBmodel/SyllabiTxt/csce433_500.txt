@@ -1,0 +1,240 @@
+  Course Syllabus  
+ 
+ 
+ 
+Page 1 of 5 
+ 
+Course Information  
+ 
+Course Number:  CSCE 433 / CSCE 627   
+Course Title:  Formal Languages and Automata / Theory of Computability   
+Section:  500 / 600  
+Time:  MWF  11:30 AM  – 12:20 PM  
+Location:  HRBB 113  
+Credit Hours:  3 / 3  
+ 
+Instructor Details  
+ 
+Instructor:  Prof. Jianer Chen   
+Office:  PETR 428  
+Phone:  979-845-4259  
+E-Mail:  chen@cse.tamu.edu  (best way to contact)  
+Office Hours:  MWF  10:30 – 11:30 PM; other times by appointment  
+ 
+Teaching Assistant:  XXX YYYY  
+E-Mail:  xxyy@tamu.edu  
+Office Hours:  ??; other times by appointment  
+ 
+Course Description  
+ 
+CSCE 433:  Basic types  of abstract languages and their acceptors; the Chom sky hierarchy; solvability and 
+recursive function theory; application of theoretical results to practical problems.  
+CSCE 627:  Formal models of computation such as pushdown automata; Turing machines and recursive 
+functions; unsolvability results; complexit y of solvable results.  
+ 
+Course Prerequisites  
+ 
+CSCE 433:  CSCE 315 or approval of instructor.  
+CSCE 627:  Catalog states CSCE 433, but this is not necessary.  
+For both courses, the actual prerequisite is a basic class in data structures and algorithms, such a s CSCE 
+221 or equivalent, and a basic class in discrete mathematics, such as CSCE 222, MATH 302 or equivalent.  
+ 
+Special Course Designation  
+ 
+This is a stack ed course.  Exams  and homeworks will be customized with some parts only for CSCE 433 
+students and som e parts only for CSCE 627 students.  
+ 
+Course Learning Outcomes  
+ 
+The course goals are (1) to introduce you to the theoretical foundations of computer science concerning 
+the relationships between languages and machines, the inherent limits of what can be computed, and 
+the inherent efficiency of solving problems; (2) to f amiliarize you with the applications of these   Course Syllabus  
+ 
+ 
+ 
+Page 2 of 5 
+theoretical topics to practical problems; and (3) to increase your ability to recognize and create rigorous 
+mathematical arguments.  
+ 
+Textbook and/or Resource Materials  
+ 
+Textbook :  
+Michael Sipser (2013),   
+Introduction to the Theory of Computation, Third Edition ,  
+Cengage Learning, 2013.  
+Errata list is here:  https://math.mit.edu/~sipser/itoc -errs3.1.html  
+Learning management system:  We will use Canvas (canvas.tamu.edu) for posting class information, 
+assignment turn -in, grades, and question -and-answer.  
+ 
+Grading Policy  
+ 
+Your grade will be based on these components:  
+• Grading Scale:  A = 90 -100%, B = 75 -89%, C = 65 -74%, D = 60 -64%, F = 0 -59%.  
+• The cour se has 6 homework assignments, two midterms, and a final exam.  
+• Homework assignment: 3 6%, Midterms: 15% each, Final exam: 3 4%.  
+ 
+Academic Integrity  
+ 
+Discussion of concepts with others is encouraged, but all assignments must be done on your own, unless 
+othe rwise instructed.  If you use any source, you must reference it, whether it be a person, a paper, a 
+book, a solution set, a webpage or whatever.  You must write up the assignments in your own words.  
+Copying is strictly forbidden.   
+ 
+Late Work Policy  
+ 
+The assignments are due on the designated due dates at the beginning of class. No late submissions will 
+be accepted . Discuss unusual circumstances in advance with the instructor. Make -up assignments will 
+only be available for university -excused absences; s ee Student Rule 7, Attendance (  http://student -
+rules.tamu.edu/rule07 ).   
+ 
+Course Schedule  
+ 
+Week of  Lecture  Topic  Textbook  
+  1:  Jan 19 -21 Math ematics  foundation, proof techniques  Chap 0  
+  2:  Jan 24-28 Automata theory, finite automata  Chap 1  
+  3:  Jan 31 -Feb 4  Nondeterministic finite automata  Chap 1  
+  4:  Feb 7 -11 Regular languages, closure properties  Chap 1 
+  5:  Feb 14 -18 Non -regular languages, pumping lemma, midterm 1  Chap 1 
+  6:  Feb 21 -25 Context -free languages (CFLs)  Chap 2  
+  7:  Feb 28 -Mar 4  Pushdown Automata, pumping lemma for CFLs  Chap 2  
+  8:  Mar 7 -11 Closure Properties for CFLs, Deterministic CFLs  Chap 2    Course Syllabus  
+ 
+ 
+ 
+Page 3 of 5 
+  9:  Mar 14 -18 Spring break   
+10:  Mar 21 -25 Computability theory, Turing Machines  Chap 3 
+11:  Mar 28 -Apr 1  Decidability  Chap 4 
+12:  Apr 4 -8 Midterm 2, r educibility  Chap 5 
+13:  Apr 11 -15 Reducibility (cont.)  Chap 5 
+14:  Apr 18 -22 Complexity theory, NP -completeness  Chap 7  
+15:  Apr 25 -29 NP-completeness (cont.) , space complexity  Chap 7, 8 
+16:  May 2, 3  Space Complexity  (cont.) , Intractability  Chap 8, 9  
+ 
+Exam and Homework Dates:   
+Midterm 1: Friday,  Feb 18 (taken in class )  
+Midterm 2: Monday,  Apr 4 (taken in class ) 
+Final Exam: Tuesday , May 10, 10:30 AM – 12:30 PM  
+Homework Due Dates: will be given in the homework assignment handouts  
+ 
+University Policies  
+ 
+Attendance Policy  
+The university views class attendance and participation as an individual student responsibility. Students 
+are expected to attend class and to com plete all assignments.  
+Please refer to Student Rule 7  in its entirety for information about excused absences, including 
+definitions, and related documentation and timelines.  
+ 
+Makeup Work Policy  
+Students will be excused from attending class on the day of a graded activity or when attendance 
+contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed 
+appropriate by the instructor.  
+Please refer to Student Rule 7  in its entirety for information about makeup work, including definitions, 
+and related documentation and timelines.  
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more 
+than 30 days for make -up work, and the timeframe for make -up work should be agreed upon by the 
+student and instructor” ( Student Rule 7, Section 7.4.1 ). 
+“The instructor is under no obli gation to provide an opportunity for the student to make up work missed 
+because of an unexcused absence” ( Student Rule 7, Section 7.4.2 ). 
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student 
+Conduct Code. (See Student Rule 24 .) 
+ 
+Academic Integrity Statement and Policy  
+“An Aggie does not lie, ch eat or steal, or tolerate those who do.”  
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If 
+asked, students must be able to produce proof that the item submitted is indeed the work of that 
+student. St udents must keep appropriate records at all times. The inability to authenticate one’s work,   Course Syllabus  
+ 
+ 
+ 
+Page 4 of 5 
+should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” 
+(Section 20.1.2.3, Student Rule 20 ). 
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and 
+your rights and responsibilities at aggiehon or.tamu.edu . 
+ 
+Americans with Disabilities Act (ADA) Policy  
+Texas A&M University is committed to providing equitable access to learning opportunities for all 
+students. If you experience barriers to your education due to a disability or think you may have a  
+disability, please contact Disability Resources in the Student Services Building or at (979) 845 -1637 or 
+visit disability.tamu.edu . Disabilities may include, but are not limited to attentional, learning, mental  
+health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their 
+disability related needs with Disability Resources and their instructors as soon as possible.  
+ 
+Title IX and Statement on Limits to Confidentiality  
+Texas  A&M University is committed to fostering a learning environment that is safe and productive for 
+all. University policies and federal and state laws prohibit gender -based discrimination and sexual 
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and 
+stalking.  
+With the exception of some medical and mental health providers, all university employees (including full 
+and part -time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters 
+and must report to the Title IX Office if the em ployee experiences, observes, or becomes aware of an 
+incident that meets the following conditions (see University Rule 08.01.01.M1 ): 
+• The incident is reasonably believed to be discrimination or harassment.  
+• The incident is alleged to have been committed by or against a person who, at the time of the 
+incident, was (1) a student enrolled at the University or (2) an employee of the University.   
+Mandatory Reporters must file a report regardless o f how the information comes to their attention – 
+including but not limited to face -to-face conversations, a written class assignment or paper, class 
+discussion, email, text, or social media post.  Although Mandatory Reporters must file a report, in most 
+instances, you will be able to control how the report is handled, including whether or not to pursue a 
+formal investigation. The University’s goal is to make sure you are aware of the range of options 
+available to you and to ensure access to the resources you  need.  
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment 
+with Counseling and Psychological Services  (CAPS).   
+Students can learn more about filing a report, accessin g supportive resources, and navigating the Title IX 
+investigation and resolution process on the University’s Title IX webpage . 
+ 
+Statement on Mental Health and Wellness  
+Texas A&M University recognizes that mental h ealth and wellness are critical factors that influence a 
+student’s academic success and overall wellbeing. Students are encouraged to engage in proper self -
+care by utilizing the resources and services available from Counseling & Psychological Services (CAP S). 
+Students who need someone to talk to can call the TAMU Helpline (979 -845-2700) from 4:00 p.m. to 
+8:00 a.m. weekdays and 24 hours on weekends. 24 -hour emergency help is also available through the 
+National Suicide Prevention Hotline (800 -273-8255) or at suicidepreventionlifeline.org .    Course Syllabus  
+ 
+ 
+ 
+Page 5 of 5 
+COVID -19 Temporary A ddendum  to Minimum Syllabus Requirements  
+The Faculty Senate temporarily added the following statements to the minimum syllabus requirements 
+in Spring 2021  as part of the university’s COVID -19 response.  
+ 
+Campus Safety Measures  
+To promote public safety and protect students, faculty, and staff during the coronavirus pandemic, 
+Texas A&M University has adopted policies and practices for the Spring 2021  academic term to limit 
+virus transmission. Students must observe the following practices while participating in face -to-face 
+courses and course -related activities (office hours, help sessions, transitioning to and between classes, 
+study spaces, academic se rvices, etc.):  
+• Self-monitoring —Students should follow CDC recommendations for self -monitoring. Students 
+who have a fever or exhibit symptoms of COVID -19 should participate in class remotely if that 
+option is available, and should not participate in face -to-face instruction.  
+• Face Coverings —Face coverings  (cloth face covering, surgical mask, etc.) must be properly worn 
+in all non -private spaces including classrooms, teaching laboratories, co mmon spaces such as 
+lobbies and hallways, public study spaces, libraries, academic resource and support offices, and 
+outdoor spaces where 6 feet of physical distancing is difficult to reliably maintain. Description of 
+face coverings and additional guidance  are provided in the Face Covering policy  and Frequently 
+Asked Questions (FAQ)  available on the Provost website . 
+• Physical Distancing —Physical distancing must be maintained between students, instructors, and 
+others in course and course -related activities.  
+• Classroom Ingress/Egress —Students must follow marked pathways for entering and exiting 
+classrooms and other teaching spaces. Leave classrooms promptly after course activities have 
+concluded. Do not congregate in hallways and maintain 6 -foot physical distancing when waiting 
+to enter classrooms a nd other instructional spaces.  
+• To attend a face -to-face class, students must properly wear an approved face covering If a 
+student refuses to wear a face covering, the instructor should ask the student to leave and join 
+the class remotely. If the student do es not leave the class, the faculty member should report 
+that student to the Student Conduct office  for sanctions. Additionally, the faculty member may 
+choose to teach that day’s cl ass remotely for all students, or dismiss the class in the case of a 
+traditional face to face lecture.  
+ 
+Personal Illness and Quarantine  
+Students required to quarantine must participate in courses and course -related activities remotely , if 
+that option is a vailable, and must not attend face -to-face course activities . Students should notify their 
+instructors of the quarantine requirement. Students under quarantine are expected to participate in 
+courses and complete graded work unless they have symptoms that a re too severe to participate in 
+course activities.   
+Students experiencing personal injury or Illness that is too severe for the student to attend class qualify 
+for an excused absence (See Student Rule  7, Section 7.2.2 .) To receive an excused absence, students 
+must comply with the documentation and notification guidelines outlined in Student Rule 7.  
+ 
+ 

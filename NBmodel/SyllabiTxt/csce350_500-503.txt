@@ -1,0 +1,242 @@
+Course Syllabus
+ Edit
+Course Information
+ 
+Course Information
+Course Number: CSCE 350  
+Course T itle: Computer Organization and Design  
+Section: 500, 501, 502, 503  
+Time:  MWF 10:20AM to 1 1:10AM  
+Location: ZACH 310
+Lab: Tuesday and Thursday 08:25AM - 09:15AM, 09:35AM - 10:25AM, 1 1:35AM - 12:25PM and
+12:45PM -01:35PM  
+Location: ZACH 592
+Credit Hours: 4
+ 
+Instructor Details
+Instructor: Abdullah Muzahid  
+Office: Peterson 206  
+Phone:  979-458-1059  
+E-Mail: abdullah.muzahid@tamu.edu  
+Office Hours: MW 9.00 AM to 10 AM online via zoom  
+https://tamu.zoom.us/j/96231447885?pwd=K2hKY251SWgzU2crTGtoc2gyN0JIUT09
+Meeting ID: 962 3144 7885  
+Passcode: 362173  
+One tap mobile  
++13462487799,,96231447885# US (Houston)
+ 
+TA Details
+Name: Vahid Janfaza  
+Email: vahidjanfaza@tamu.edu  (mailto:vahidjanfaza@tamu.edu)Office Hours: TBA
+ 
+Course Description
+Computer architecture and design; use of register transfer languages and simulation tools to describe
+and simulate computer operation; central processing unit organization, microprogramming, input/output
+and memory system architectures. Cross-listed with CSCE 350.
+ 
+Course Prerequisites
+ECEN 248 - Introduction to Digital Systems
+ 
+Required Book
+David Patterson and John Hennessy , “Computer Organization and Design: The hardware/software
+interface”,  ARM EDITION , 2016 or newer . Electronic versions are OK.  
+(note: it must be the "ARM" edition, no other edition is usable for this class ) 
+ 
+Course Learning Outcomes
+The goal of this course is to provide the student with a working knowledge of different methods for logic
+representation, manipulation, and optimization, for both combinational and sequential logic. At the end of
+the course the student should be able to view the design of digital systems from a new perspective and
+have an understanding of several fundamental concepts that can be applied to a wide variety of digital
+design problems. List one or more learning outcomes for the course.
+Individual Course Objectives:  
+At the end of this course, students should:
+Understand the organization of a computer system including the CPU datapath, CPU control, and
+memory systems
+Understand the impact of semiconductor technology on computer design and architecture.
+Understand the basics and principles of instruction set design.
+Be familiar with programming using an assembly level language.
+Understand the impact of instruction sets on hardware design.
+Be familiar with designing datapaths for a processor .
+Understand the implications of branch instructions on program flow and hardware design.
+Understand the performance implications of various factors such as clock speed, average clock
+cycles per instruction and number of instructions.Understand the role of compilers and high-level languages in programming.
+Be familiar with designing control circuitry for a basic processor .
+Understand the dif ferences in single-cycle/multicycle design of processors.
+Be familiar with processor pipelining.
+Understand the implications of pipelining on memory design, instruction set design, compiling,
+performance etc.
+Understand the implications of branch instructions on pipelining.
+Understand basics of memory technology , registers, SRAM, DRAM.
+Understand the performance issue of various memory technologies.
+Be familiar with the notion of locality .
+Understand the memory architectures including cache architectures.
+Be familiar with various cache architectures: direct-mapped, set-associative, wide/narrow block size
+etc.
+Understand the concepts of virtual memory .
+Be familiar with the need for address translation.
+Understand the impact of address translation on cache/memory accesses.
+Be familiar with hardware designs of various cache architectures.
+Understand the basics of Input/Output.
+Understand the principles of instruction-level parallelism (ILP) and processor microarchitectures
+which exploit it.
+Understand the principles of thread-level parallelisms and processor microarchitecture which exploit
+it.
+Understand register-transfer level (R TL) system concepts and description methods, including a
+hardware description language (VERILOG)
+ 
+Grading Policy
+Breakdown:
+Exams (2 Exams) 40%
+Labs 35%
+Quizzes 20%
+Attendance 5%
+ 
+Grading Scale:
+A: 90-100%
+B: 80-89%
+C: 70-79%D: 60-69%
+F: 0-59%
+Note: in the event that the average overall grade of all students lies below a 79% there will be a curve on
+the overall grade.  I will not curve the individual exams and assignments.
+Attendance: 
+Students are expected to attend and be active discussion participants during the lectures (answering
+questions posed, asking questions, commenting etc.).  Students who attends less than 50% lectures will
+receive a 0 for this part of their grade.    
+Exams:
+There will be two exams. The second exam will be comprehensive, but with an emphasis on the material
+covered since the first exam.  
+Tentative T est schedule:  
+Exam 1 – March 04, 2022  
+Exam 2 –  May-09-2022
+Assignments/Quizzes:
+Rather than traditional homework, this course will rely upon a series of on-line quiz assessments.  The
+goal of these quizzes will be to test your knowledge of the lecture material and pinpoint which lectures
+you should go back and review on-line.  There will be one quiz for each lecture, this quiz must be
+completed prior to the next lecture.
+Students may retake the quiz as many times as desired between its release and the next lecture.  If the
+quiz is submitted in the same day as the due time, it will be graded with full credit. If it is delayed
+by few days (up to a week), you will get 50% grade. Otherwise, you will get 0.
+The T AMU Canvas system will be used for all quiz submissions.
+Labs:
+The course will have nine prelabs and nine labs (tentative).  Prelabs are expected to be
+completed  before  attending the associated lab session. Late prelabs will have 50% of the points
+deducted for being one working day late, more than 2 days late will not be accepted.
+Generally , post-labs and demos must be completed the week following the lab's introduction (the
+exception being a couple labs that take two weeks).  Late post-labs  will have 20% of the points deducted
+for being late up to 1-week. If a post-lab and/or demo is late for more than a week then, a grade of 0 will
+be assigned. 
+Lectures:Lectures will be in person in the classroom. All students are expected to be active participants during
+lecture.  
+Course Topics/Schedule:
+Hours:   T opic 
+3 hours: Overview of Computer Architecture  
+3 hours: Instruction Set Architectures (ISA), Representing instructions on the computer , Arithmetical and
+logical instructions, Memory access instructions
+3 hours: Instruction Set Architectures (ISA), Control flow instructions, Function calls instructions, Input-
+output instructions SPIM- instruction set simulator  
+3 hours: Computer Arithmetic, Signed and unsigned numbers, Addition and subtraction, Multiplication,
+Division, Floating point operations  
+3 hours: T ranslating and starting a program, Compilers, compiler optimization, Object code generation,
+assemblers, linking, Run-time execution environment  
+3 hours: Performance evaluation, CPU performance and its factors, performance metrics, performance
+factors, comparing performance, SPEC benchmarks  
+2 hours: Hardware Description Languages, V erilog hardware description language, Design-Simulation
+Process, Structural Designs in V erilog Behavioral HDL Description of Systems  
+3 hours: Datapath and Control, and ALU design  
+3 hours: Single-cycle implementation  
+3 hours: Microprogramming, catchup  
+3 hours: Pipelining, Pipelined datapath  
+4 hours: Pipelined control, Pipeline hazards: structural, control, data hazard detection and resolution,
+exception handling  
+4 hours: Memory Hierarchy , Overview of SRAM and DRAM design, Basic of caches, Framework for
+memory hierarchy , Measuring memory performance
+ 
+Late W ork Policy
+See above for late policy on Quizzes, Prelabs and Labs. Work submitted by a student as makeup work
+for an excused absence is not considered late work and is exempted from the late work policy .  
+ 
+University Policies
+This section outlines the university level policies. The T AMU Faculty Senate established the wording of
+these policies.Attendance Policy
+The university views class attendance and participation as an individual student responsibility . Students
+are expected to attend class and to complete all assignments.
+Please refer to Student Rule 7  (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about excused absences, including definitions, and related documentation and timelines.
+ 
+Makeup W ork Policy
+Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’ s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor .
+Please refer to Student Rule 7  (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about makeup work, including definitions, and related documentation and timelines.
+Absences related to T itle IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” ( Student Rule 7, Section 7.4.1  (https://student-rules.tamu.edu/rule07/) ).
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed
+because of an unexcused absence” ( Student Rule 7, Section 7.4.2  (https://student-
+rules.tamu.edu/rule07/) ).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student
+Conduct Code. ( See Student Rule 24  (https://student-rules.tamu.edu/rule24/) .)
+ 
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor . If
+asked, students must be able to produce proof that the item submitted is indeed the work of that student.
+Students must keep appropriate records at all times. The inability to authenticate one’ s work, should the
+instructor request it, may be suf ficient grounds to initiate an academic misconduct case” ( Section
+20.1.2.3, Student Rule 20  (https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-
+Rules) ).
+You can learn more about the Aggie Honor System Of fice Rules and Procedures, academic integrity ,
+and your rights and responsibilities at aggiehonor .tamu.edu  (https://aggiehonor.tamu.edu/) .[NOTE : Faculty associated with the main campus in College Station should use this Academic Integrity
+Statement and Policy . Faculty not on the main campus should use the appropriate language and
+location at their site.]
+ 
+Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability , please contact Disability Resources in the Student Services Building or at (979) 845-1637 or
+visit disability .tamu.edu  (https://disability.tamu.edu/) . Disabilities may include, but are not limited to
+attentional, learning, mental health, sensory , physical, or chronic health conditions. All students are
+encouraged to discuss their disability related needs with Disability Resources and their instructors as
+soon as possible.
+[NOTE : Faculty associated with the main campus in College Station should use this Americans with
+Disabilities Act Policy statement. Faculty not on the main campus should use the appropriate language
+and location at their site.]
+ 
+Title IX and Statement on Limits to Confidentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for all.
+University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including full
+and part-time faculty , staf f, paid graduate assistants, student workers, etc.) are Mandatory Reporters
+and must report to the T itle IX Of fice if the employee experiences, observes, or becomes aware of an
+incident that meets the following conditions (see University Rule 08.01.01.M1  (https://rules-
+saps.tamu.edu/PDFs/08.01.01.M1.pdf) ):
+The incident is reasonably believed to be discrimination or harassment.
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University .
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper , class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most
+instances, you will be able to control how the report is handled, including whether or not to pursue a
+formal investigation. The University’ s goal is to make sure you are aware of the range of options
+available to you and to ensure access to the resources you need.Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment
+with Counseling and Psychological Services  (https://caps.tamu.edu/) (CAPS).
+Students can learn more about filing a report, accessing supportive resources, and navigating the T itle
+IX investigation and resolution process on the University’ s Title IX webpage  (https://titleix.tamu.edu/) .
+[NOTE : Faculty associated with the main campus in College Station should use this T itle IX and
+Statement on Limits of Liability . Faculty not on the main campus should use the appropriate language
+and location at their site.]
+ 
+Statement on Mental Health and W ellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’ s academic success and overall wellbeing. Students are encouraged to engage in proper self-
+care by utilizing the resources and services available from Counseling & Psychological Services
+(CAPS). Students who need someone to talk to can call the T AMU Helpline (979-845-2700) from 4:00
+p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency help is also available
+through the National Suicide Prevention Hotline
+ 
+COVID-19 Guidance
+Please follow the university guidance for COVID-19. The latest guidance is here
+COVID 19 Guidance  (https://covid.tamu.edu/)

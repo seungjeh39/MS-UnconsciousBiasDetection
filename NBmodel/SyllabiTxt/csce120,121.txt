@@ -1,0 +1,257 @@
+Syllabus – CSCE 120/121 – Spring 2022 
+Course Information 
+Course Number: CSCE 120/121 Course Title: [Introduction to] Program Design and Concepts Sections Instructor Cla ss Time Location 
+588-590 & 594-599 Moore Asynchronous Online 
+591-593 Ritchey  Mondays, Wednesdays, Fridays 10:20 AM – 11:10 AM Online 
+510-517 Taele  Mondays, Wednesdays, Fridays 8:00 AM – 8:50 AM (510-513) 9:10 AM – 10:00 AM (514-517) ZACH 310 
+503-509 Taylor Mondays, Wednesdays, Fridays  9:10 AM – 10:00 AM (503-505) 10:20 AM – 11:10 AM (506-509) ZACH 350 
+Credit Hours: • CSCE 120: 3 • CSCE 121: 4 
+Instructor Details 
+• Michael Moore (he/him) 
+o Sections: 588-590 & 594-599  o Office: PETR
+ 322 
+o Phone: 979-845-5472  
+o E-Mail: jmichael@cse.tamu.edu  
+o Office Hours:  Indicate when you can attend office hours
+ (For Dr. Moore’s Sections only) 
+ Make an appointment with Michael Moore   
+• Automated system that will make an appointment and automatically add it to my calendar.  o Limit yourself to one debugging appointment per week.  o Other meetings types are NOT for debugging. o     
+• Philip Ritchey 
+o Sections: 591-593  o Office: TBD o Phone: TBD o E-Mail: pcr@tamu.edu
+ 
+o Office Hours: TBD 
+  
+2 of 13   • Paul Taele 
+o Sections: 510-517  o Office: PETR 320
+ 
+o Phone: 979-845-7977  
+o E-Mail: ptaele@tamu.edu  
+o Office Hours:  Days: Tuesdays and Thursdays  Times: 5:30 PM – 7:30 PM  Room: TBD 
+• Brennen Taylor 
+o Sections: 503-509  o Office: PETR 402 o Phone: N/A o E-Mail: brtaylor1001@t am u. e du
+ 
+o Office Hours: TBD  
+Course Description 
+• CSCE 120: Extend prior programming knowledge to create computer programs that solve problems; use the C++ language; apply computational thinking to enhance problem solving; analyze, design  and implement computer programs; use basic and aggregate data types to develop functional and object -oriented solutions; develop classes that use dynamic memory and avoid memory leaks; learn error handling strategies to develop more secure and robust programs. 
+ 
+• CSCE 121: Computation to enhance problem solving abilities; computational thinking; understanding how people communicate with computers, how computing affects society; design and implementation of algorithms; data types, program control, iteration, functions, classes, and exceptions; understanding abstraction, modularity, code reuse, debugging, maintenance, and other aspects of software development; development and execution of programs.   
+Course Prerequisites 
+• CSCE 120: Grade of C or better in E NGR 102, CSCE 110, CSCE 111, or CSCE 206, or equivalent.  
+• CSCE 121: Programming course (high school or college).  
+Course Learning Outcomes 
+Upon completion of the course students should be able to:  • Use C++ to develop programs. • Analyze a problem, identify its important features to design and develop small computer programs or functions that solve the problem. Articulate the rationale for various design and implementation decisions.  • Represent algorithm designs as pseudocode or other appropriate representations.  • Given an algorithm, write code that implements the algorithm.  • Write code that follows common code readability practices.  • Document code so that others can easily understand and follow it.  • Explain the following concepts and utilize them when developing computer programs.  o Abstraction o Information Hiding o Object-oriented decomposition • List common data types used in computer programs.  3 of 13   • Define and use aggregate data types correctly, including arrays, vectors, and linked lists.  • Describe when each aggregate data type is appropriate. • Define and use heterogeneous data types, including structs and classes.  • Use strategies that address errors in programs. • Use debugging tools and techniques to find and fix errors in C++ source code.  • Use basic control structures including sequence, selection, and iteration as well as function invocation.  • Distinguish between adding and removing memory in relation to the stack and heap memory locations.  • Describe the process of allocating and deallocating dynamic  memory. • Write programs that use dynamic memory and avoid memory leaks.  • Use functions to implement abstraction and information hiding that avoid unintended memory side effects.  • Explain the concept of recursion and deploy it in problem solving.  • Describe the parts of a recursive function. • Explain how to ensure a recursive function terminates.  • Write programs that use recursive functions.  Diversity Equity and Inclusion 
+Accessibility Statements 
+Michael Moore's Accessibility Statement 
+While the new Disability Accommodation Portal (AIM Portal)  will ease sharing accommodation information, you must still 
+make an appointment with me to discuss your accommodations. In addition to accommodations, I can help you develop strategies to become successful in this course. 
+Prior to being a professor, I worked as a certified sign language interpreter in the state of Texas while getting my MS and PhD degrees in computer science. I have a great interest in providing an environment where students with disabilities can thrive. I wish I could accommodate anyone for any need. However, the university requires that I only provide accommodations for students registered with Disability Resources
+. I’m always fascinated with the rich tapestry of diversity 
+which make up my classes. In fact, I teach a course on Accessible Computing which focuses on principles for  creating accessible applications and programs. 
+“I’d prefer that you get your accommodations and not need them, rather than trying without your accommodations and finding out that you neede d them.” Earlier in my career I noticed a disturbing pattern. Student s would try to get through the first exam without using their accommodations. I suspect this was due to negative experiences with prior  instructors. Frequently, they said they just wanted to try it without the accommodation. After the first exam, there would be a rush of students submitting their accommodation letters. These instances have greatly decreased since I’ve been explicit about my preferences.  
+Philip Ritchey's Accessibility Statement 
+I recognize disability as an aspect of diversity, equity, and inclusion.  For that reason, I try to design all of my course material to be inclusive and accessible.  However, I realize that some aspects of the course may not yet be as inclusive as they could be.  I rely in part on my students to let me know when and where they need some accommodation.  I want you to know that my top priority is for my students to learn as much as they can in my class.  That includes working with students to find solutions that help them perform at their best.  I hope tools like the Disability Accommodation Portal will make it easier for students to start the conversation about how we can work together to help them make the most out of their learning opportunities. 
+Paul Taele's Accessibility Statement 
+Your experience in this class is important to me. It is the policy and practice of Texas A&M University to create inclusive and accessible learning environments consistent with federal and state law. If you have already established accommodations with Disability Resources, please activate your accommodations via AIM Portal (
+click here to access the AIM PortalLinks to an 
+external site. ) so we can discuss how they will be implemented in this course.  
+If you have not yet established services through Disability Resources, but have a temporary health condition or permanent disability that requires accommodations (conditions include but not limited to; mental health, attention- related, learning, vision, hearing, physical or health impacts), contact Disability Resources directly to set up an accessibility plan. Disability 4 of 13   Resources facilitates the interactive process that establishes reasonable accommodations.  Click here for Disability 
+Resources's website.Links to an external site.  
+Brennen Taylor's Accessibility Statement 
+Inclusivity is important to me, and I commit to making all course materials as accessible as I can. Part of this includes support for students with disabilities. In addition to being required by campus policy, I have personally worked with students whose utilization of the resources available to them has helped them achieve greater success in their completion of the course.  Please activate your accommodations in the new Disability Accommodation Portal (AIM Portal)
+ . In addition, at the very least, 
+shoot me an email and make we aware of your accommodations so I can be aware and work with you.  I would also be happy to meet with any student and discuss their accommodations if you prefer that  as well. 
+Preferred Name and Preferred Gender Pronouns 
+Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities. Class rosters are provided to the instructor with the student’s legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records.  
+Non-Discrimination Policy 
+Texas A&M is committed to the fundamental principles of academic freedom, equality of opportunity and human dignity.  To fulfill its multiple missions as an institution of higher learning, Texas A&M encourages a climate that values and nurtures collegiality, diversity, pluralism and the uniqueness of the individual  within our state, nation and world.  All decisions and actions involving students and employees should be based on applicable law and individual merit.  Texas A&M University prohibits students, employees, and third parties from engaging in discrimination and/or harassment on the basis of race, color, sex, gender identity, age, religion, disability, national origin, sexual orientation, genetic infor mation, veteran status, or any other characteristic protected by federal, state, or local law. In addition, act ing in complicity with another who engages in any of these forms of prohibited conduct, or retaliating against a person who participates in protected activity, is also prohibited.  Harassment of a student in class, i.e., a pattern of behavior directed agai nst a particular student with the intent of humiliating or intimidating that student will not be tolerated.  The mere expression of one’s ideas is not harassment and is fully protected by academic freedom, but personal harassment of individual students is not permitted.  
+Professionalism and Respect 
+You are expected to treat your instructor and all other participants in the course with courtesy and respect.   Your comments to others should be factual, constructive, and free from harassing statements.   You are encouraged to disagree with other students, but such disagreements need to be based upon facts and documentation  (rather than prejudices and personalities). Unprofessional or disrespectful conduct will result in a lower grade on an assignment.   Warnings will not be given; part of the learning process in this course is respectful engagement of ideas with others. Students will need to contribute in intelligent, positive, and constructive manners within the course.   Behaviors that are abusive, disruptive, or harassing may result in disciplinary actions as specified within the Student Rules.  Sensitive or controversial topics might be discussed in this course.   Comments posted within this course are to remain confidential to the audience of this course; do not copy or share messages or writings from this course with others not in this course section. Students in this course are also responsible for being familiar with the Universit y’s student rules and policies
+. 5 of 13   Textbook and Resource Materials 
+Required Textbook 
+ CSCE 120/121: Program Design & Concepts C++ (Online Textbook) • zyBook
+ (http://learn.zybooks.com) 
+• Class Code: TAMUCSCE121Spring2022 • You are required to have access to your own copy linked to this class with the code above. Part of your grade depends on completion of activities in the zyBook. • zyBooks has a refund policy. The instructors have heard of refunds given as late as after Q-drops. So purchase ASAP. Even if you have to wait to purchase until after add/drop, you can sign up and get access to the first chapter for free!  • Note: You are required to know the information in “optional” sections in the first  2 chapters; however, any participation activities and challenge activities in these sections are optional.  Example sections have been made optional throughout the text, but they can be a source of additional help if needed.  
+Recommended Textbooks 
+• Programming Principles and Practice Using C++, Second Edition, Bjarne Stroustrup, Pearson, 2014.  • A Computer Science Tapestry, Second Edition
+, Owen L. Astrachan, McGraw-Hill, 2000. (Free PDF) 
+Required Computer 
+• You must have your own computer for consuming online content that fulfills the Texas A&M Computer Requirements . 
+• You will have to install software on it. We will provide links to software you can install for the course and procedures for setting things up. 
+Bandwidth 
+You should have sufficient bandwidth to watch videos and use the online tools used in this course.  
+Technology to Capture an Image 
+At times you may be asked to create a sketch or diagram to submit  electronically. You need the ability to get the diagram into a format that can be uploaded. You could sketch on paper and take a picture with your camera, sketch on a tablet device, or use a scanner. You should be able to do this quickly, especially if needed for an exam question.  
+Required Online Tools 
+Canvas  (https://canvas.tamu.edu/) 
+Dashboard for the entire course. This will link out to appropriate resources. 
+Piazza  (https://piazza.com/tamu/spring2022/csce120121/home) 
+Sign up for Piazza . 
+All questions will be fielded through Piazza. • Everyone can see answers and other students can answer as well.  o We will endorse good student responses. • Private messages can be posed to all instructors or an individual instructor.  
+6 of 13   o Email messages are more likely to be overlooked and should be used only in rare circumstances.  Note: Posts directed to instructors that would benefit the entire class and should be visible to all students will be updated so that the post is visible by the entire class. Discord (TBD) 
+Used for class meetings and meetings with instructors and TAs.  
+TAMU Google Shared Drive  (https://google.tamu.edu/) 
+Used to share some course materials such as homework and labwork prompts. You must be logged into your TAMU Google account to access these materials or submit Google Forms (e.g. for a quiz). Your TAMU Google account will have to be the default account in your browser, or you can open an incognito window and log in from there.  It might take up to 24 hours after registering for the class to be able to access materials in the Google shared drive.  
+TAMU Zoom  (https://zoom.tamu.edu) 
+Used for class meetings and meetings with instructors and TAs.  
+   
+Grading Policy 
+If you want to challenge any grading, you must do so within one week of when the grade is published.  We reserve the right to audit the grades for any assignments submitted to this course. During the audit process, we can decrease or increase your score. This could result in lowering the score of already released grades.  
+ 
+Homework (40%) 
+Homework assignments are completed individually  outside of class and submitted weekly.  • You must write your individual homework independently. • All detected plagiarism, cheating, and complicity will be reported to the Honor System Office. o Students have previously used code from Chegg; using such resources is not allowed. o Submitting code based on a solution or on starting code from such a resource is considered plagiarism .  See Academic Dishonesty
+ section below. 
+See Make Up & Late Work policy . 
+  
+Rounded % total Letter Grade 
+100 - 90 A 
+<90 and ≥ 80 B 
+<80 and ≥ 70 C 
+<70 and ≥ 60 D 
+<60 F 
+ 7 of 13   Labwork (10%) 
+Labwork are activities to help you get a better understanding of concepts that students traditionally struggle with or t hat are integral to know prior to doing homework.    • You must work collaboratively with other students during your lab session.  • Even though you will work collaboratively, you will submit individually.  • You must be present in the lab session to receive credi t. See Make Up & Late Work policy
+. 
+zyBook (5%) 
+Weekly zyBooks reading assignments will be averaged. At the end of the semester, 15% will be added to your final zyBooks average to a maximum of 100%. 
+Class Engagement (5%) 
+Your instructor will give you quizzes and other activities to assess your participation in class concepts. At the end of the semester, 15% will be added to your final class engagement  average to a maximum of 100%. See Make Up & Late Work policy
+. 
+Exams (40%) 
+The course exam average is the maximum of • Final Exam grade • Average of Exam 1, Exam 2, and Final Exam. Exams are open book, open note.  • You are not allowed  o to interact with anyone face to face or electronically during an exam.   o to use sites like Chegg, CourseHero, and StackOverflow, any tutoring service, or any site that explains  how to solve a problem or provides content already provided by allowed resources . • You are allowed  o to use your textbook. o any instructor’s slides and examples. o any code you’ve written for homework or labwork. o C++ standards sites  https://cppreference.com
+ 
+ https://cplusplus.com   
+See Make Up & Late Work policy . 
+Make Up and Late Work Policy 
+See the Makeup Work Policy, the Attendance Policy, the Statement on Mental Health and Wellness, and the COVID-19 
+Amendment  under University Policies below.  
+It is your responsibility to keep up with the class, even when unexpected events interfere.  
+Excused Absences 
+Before you can do any make up work, you must provide your instructor  with any documentation for your excused absence.   • Submit any documentation for excused absences online
+. 
+• Follow up with your instructor after submitting documentation.  
+Exam Make Up 
+You may only make up exams missed due to a university excused absence. Note that if advanced notice is not feasible, you have two business days to provide notification. See Make Up policy
+ under University Policies below.  8 of 13   A zero will be assigned for exams due to an unexcused absence. Documentation must be submitted prior to making up a missed exam.  If you miss an exam due to an excused absence you must take the make up exam on the designated date and time:  • Exam 1 Make Up: Friday, March 11 at 7:00 PM • Exam 2 Make Up: Friday, April 15 at 7:00 PM o If and only if you have a course time conflict, you can make other arrangements with your instructor. zyBook and Quizzes 
+zyBooks and Quizzes cannot be made up. It is an indication of what you are currently doing to consistently keep up with course materials. However, excused absences will be considered when determining zyBooks and Quiz averages . 
+Homework Late Work 
+Homework is not accepted late. Excused absences during the period of  the homework will extend the due date by the number of days excused. After the due date, you can submit a redemption version of the homework  that will be open until the last day of final exams. Your homework grade will be the maximum of your homework scor e submitted on time or the average of your homework score submitted on time and your score on the redemption version of the homework. Note: In the autograding system, you will get the maximum score you earn. This allows to submit a passing version even if you “break” your code while trying to pass more test cases  which commonly happens when trying to improve your score.  Note: Network congestion frequently increases close to deadlines. So,  waiting to submit until the last minute can easily lead to it becoming a late submission. We suggest finishing an assignment several hours in advance to ensure it is on time. You should also submit periodically as you develop your solution to get feedback from the autograding system.  
+Labwork Late Work 
+You should always complete labwork. If you have an excused absence, then you may complete the labwork on your own. Part of having labwork be collaborative is so you can discuss with others until you both understand the concepts and have a working solution. Feel free to discuss the labwork with a classmate, peer teacher, TA or instructor to ensure you get all of the benefits of completing the labwork. 
+Course Schedule
+Class Meetings 
+Lectures 
+• Sections 503 – 505 (Taylor) o Monday, Wednesday, Friday, 9:10 AM – 10:00 AM (ZACH
+ 350) 
+• Sections 506 – 509 (Taylor) o Monday, Wednesday, Friday, 10:20 AM – 11:10 AM (ZACH
+ 350) 
+• Sections 510 – 513 (Taele) o Monday, Wednesday, Friday, 8:00 AM – 8:50 AM (ZACH
+ 310) 
+• Sections 514 – 517 (Taele) o Monday, Wednesday, Friday, 9:10 AM – 10:00 AM (ZACH
+ 310) 
+• Sections 588 – 590 (Moore) o Asynchronous: You’ll watch videos each week. • Sections 591 – 593 (Ritchey) o Monday, Wednesday, Friday, 10:20 AM – 11:10 AM (Online) • Sections 594 – 599 (Moore) o Asynchronous: You’ll watch videos each week. 
+Labs 
+• Section 503: Tue 5:30 PM – 6:20 PM (ZACH  590) 
+• Section 504: Thur 5:30 PM – 6:20 PM (ZACH  590) 
+• Section 505: Tue 6:40 PM – 7:30 PM (ZACH  590) 9 of 13   • Section 506: Tue 8:25 AM – 9:15 AM (ZACH 582) 
+• Section 507: Thur 8:25 AM – 9:15 AM (ZACH  582) 
+• Section 508: Tue 9:35 AM – 10:25 AM (ZACH  582) 
+• Section 509: Thur 9:35 AM – 10:25 AM (ZACH  582) 
+• Section 510: Tue 11:35 AM – 12:25 AM (ZACH  582) 
+• Section 511: Thur 11:35 AM – 12:25 AM (ZACH  582) 
+• Section 512: Tue 12:45 PM – 1:35 PM (ZACH  582) 
+• Section 513: Thur 12:45 PM – 1:35 PM (ZACH  582) 
+• Section 514: Tue 2:35 PM – 3:25 PM (ZACH  582) 
+• Section 515: Thur 2:35 PM – 3:25 PM (ZACH  582) 
+• Section 516: Tue 3:55 PM – 4:45 PM (ZACH  582) 
+• Section 517: Thur 3:55 PM – 4:45 PM (ZACH  582) 
+• Section 588: Thur 3:55 PM – 4:45 PM (ZACH  590) 
+• Section 589: Tue 3:55 PM – 4:45 PM (ZACH  590) 
+• Section 590: Thur 2:35 PM – 3:25 PM (ZACH  590) 
+• Section 591: Tue 2:35 PM – 3:25 PM (ZACH  590) 
+• Section 592: Thur 12:45 PM – 1:35 PM (ZACH  590) 
+• Section 593: Tue 12:45 PM – 1:35 PM (ZACH  590) 
+• Section 594: Thur 11:35 AM – 12:25 PM (ZACH  590) 
+• Section 595: Tue 11:35 AM – 12:25 PM (ZACH  590) 
+• Section 596: Thur 9:35 AM – 10:25 AM (ZACH  590) 
+• Section 597: Tue 9:35 AM – 10:25 AM (ZACH  590) 
+• Section 598: Thur 8:25 AM – 9:10 AM (ZACH  590) 
+• Section 599: Tue 8:25 AM – 9:10 AM (ZACH  590) 
+Topics 
+• What you (should) already know, but in C++ (Week 1 & 2)  
+• Errors, Debugging, and Exceptions (Week 2  & 3 )  • Design and Planning and Object-Oriented Concepts (Week 3) • Input/Output Streams (Week 4) • Arrays (Week 5 & 6) • Functions – Pass by Reference (Week 7) • Dynamic Memory (W eek 7) • Dynamic Arrays (Week 8 & 9) • Class Design (Week 9) • Writing a Class (Week 10) • Dynamic Memory and Classes (Week 11 & 12)  • Linked Lists (Week 13 & 14) • Inheritance and Polymorphism (Week 14 & 15)  • Recursion (Week 15) 
+  10 of 13   Important Dates 
+Exam Dates 
+• Exam 1 o Tuesday, March 1  During lab.  Sections 503, 505, 506, 508, 510, 512, 514, 516, 589, 591, 593, 595, 597, and 599 o Thursday, March 3  During lab  Sections 504, 507, 509, 511, 513, 515, 517, 588, 590, 592, 594, 596, and 598 • Exam 2 o Tuesday, April 5  During lab  Sections 503, 505, 506, 508, 510, 512, 514, 516, 589, 591, 593, 595, 597, and 599 o Thursday, April 7  During Lab  Sections 504, 507, 509, 511, 513, 515, 517, 588, 590, 592, 594, 596, and 598 • Final Exam o May 5  10:00 AM – 12:00 PM  Sections 510 – 513 (ZACH 310)  12:30 PM – 1:30 PM  Sections 596 & 597 (PETR
+ 118) 
+ 3:00 PM – 5:00 PM  Sections 594 & 595 (PETR
+ 118) 
+o May 6  8:00 AM – 10:00 AM  Sections 503 – 505 (ZACH 350)  Sections 514 – 517 (ZACH 310)  1:00 PM – 3:00 PM  Sections 598 & 599 (PETR
+ 118) 
+o May 9  8:00 AM – 10:00 AM  Sections 506 – 509 (ZACH 350)  Sections 591 – 593 (PETR
+ 118) 
+ 1:00 PM – 3:00 PM  Sections 588 & 589 (PETR
+ 118) 
+o May 10  1:00 PM – 3:00 PM  Section 590 (PETR
+ 118) 
+Homework Due Dates 
+Fridays, unless otherwise specified • January 28 • February 4 • February 11 • February 18 • February 25 • March 11 • March 18 • March 25 • April 1 • April 15 • April 22 • May 3 (Tuesday)Student Behavior & Academic Integrity  
+See Academic Integrity Statement and Policy  under University Policies below. 
+Acknowledgement 
+By submitting anything to this course, electronically or otherwise, you are asserting the following: “On my honor, as an Aggie, I have neither given nor received unauthorized aid on this academic work. In particular, I certify that I have listed above all the sources that I consulted regarding this assignment, and that I have not received or given any assistance that is contrary to the letter or the spirit of the collaboration guidelines for this assignment.”
+Academic Dishonesty 
+Academic dishonesty will not be tolerated. For individual homework assignments, each student is expected to write his or her own programs from beginning to end. If it is determined to the satisfaction of the instructor that any student's submission (unless it is a group/team submission for a group/team activity) is not the product of the individual, all students involved are subject to the Texas A &M University Honor System Rules, including a course grade of F* (with the ‘*’ denoting academic dishonesty).  Additional penalties as determined by the Aggie Honor System Office may be applied if this is not the first offense.  It is imperative that each student clearly understand those rules and the severe consequences that can result from the adjudication of an Honor Code Violation. 
+Plagiarism & Cheating 
+Individual programming MUST be done on your own. Plagiarism and cheating will not be tolerated. Plagiarism is the presentation of the work of someone else without giving him or her due credit. In this course, you cannot use another’s work even if you cite it. Cheating is using or attempting to use unauthorized materials. For example, since homework assignments are to be done individually, you are cheating if you discuss it with another student. However discussing it with instructors, peer teachers and TAs is acceptable. You are also copying if you do an online search and find a solution to a homework problem or something very similar to a homework problem. If you copy, you are both plagiarizing and cheating.  To help identify possible instances of plagiarism, we use systems for plagiarism detection. Students engaging in plagiarism will be sanctioned. A typical result is an F in the course and submission of the incident to the Aggie Honor System.  
+Complicity 
+Every student should understand that complicity – helping or attempting to help another student commit an act of academic dishonesty – also constitutes academic dishonesty and carries the same punishment as cheating and plagiarism. In other words, if you provide your solution to another student, even if that student does not turn it in for credit, you have committed an act of academic dishonesty. All involved will be subject to the same consequences, such as a course grade of F*. 
+Collaboration 
+Collaboration is important for facilitating learning, and your peers can be a great resource. In this class you can only collaborate on labworks and in class activities. All other assignments and exams must be done independently. If you have an issue that needs clarification, contact an instructor or TA.  
+Netiquette 
+Netiquette is network etiquette.  Netiquette covers both common courtesy online and the informal interactions that occur when communication occurs online. Faculty and student s are expected to follow some general netiquette rules
+ 
+(https://distance.tamu.edu/Student-Rules-and-Policies/Aggie-Honor-Code-and-Netiquette). Your instructor may introduce additional guidelines as needed. 
+Course Copyright 
+The materials used within this course are copyrighted.  These materials include, but are not limi ted to, the syllabi, quizzes, exams, homework and labwork problems, online handouts, course videos, audio and visual recordings of classes, etc.  Because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted.  
+12 of 13   Recording statement 
+Students may not record audio or video of any course activity unless the student has an approved accommodation from Disability Services permitting the recording of lectures and/or laboratory sessions.  This accommodation letter must be presented to the instructor in advance of any recording being done. Students with permission to record classes are not permitted to redistribute audio or video recordings of statements or comments from the course to other  individuals without the express permission of the faculty member and of any students who are recorded.  
+Course Plagiarism 
+All materials generated by the instructor for this class (which may include but are not limited to syllabi and in- class materials) are copyrighted.  You do not have the right to copy such materials unless the instructor expressly grants permission. As commonly defined, plagiarism consists of passing off as one’s own the ideas, words, writing, etc. which belong to another.  Plagiarism is one of the worst academic violations, for the plagiarist destroys trust among others.  If you have any questions regarding plagiarism, please consult the latest issue of the Texas A&M University Student Rules, under the section “Scholastic Dishonesty.” 
+University Policies 
+Attendance Policy 
+The university views class attendance and participation as an individual student responsibility. Students are expected to attend class and to complete all assignments.  Please refer to Student Rule 7
+ in its entirety for information about excused absences, including definitions, and related 
+documentation and timelines. 
+Makeup Work Policy 
+Students will be excused from attending class on the day of a graded activity or when attendance contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate by the instructor.  Please refer to Student Rule 7
+ in its entirety for information about makeup work, including definitions, and related 
+documentation and timelines. 
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the student and instructor” (
+Student Rule 7, Section 
+7.4.1 ). 
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence” (Student Rule 7, Section 7.4.2
+). 
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student Conduct Code. (See Student Rule 24
+.) 
+Academic Integrity Statement and Policy 
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”  “Texas A&M University students are responsible for authenticating all work submitt ed to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request i t, may be sufficient grounds to initiate an academic misconduct case” (Section 20.1.2.3, Student Rule 20
+). 
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at aggiehonor.tamu.edu
+. 
+Americans with Disabilities Act (ADA) Policy 
+Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may have a disability, please contact Disability Resources in the Student Services Building or at (979) 845-1637 or visit disability.tamu.edu
+. Disabilities may include, but are not limited to  
+13 of 13   attentional, learning, mental health, sensory, physical, or chronic health conditions. All students are encouraged to discuss  their disability related needs with Disability Resources and their instructors as soon as possible.  
+Title IX and Statement on Limits to Confidentiality 
+Texas A&M University is committed to fostering a learning environment that is safe and productive for all. University policies and federal and state laws prohibit gender-based discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and stalking.  With the exception of some medical and mental health providers, all university employees (including full and part -time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that meets the following conditions (see 
+University Rule 
+08.01.01.M1 ): 
+• The incident is reasonably believed to be discrimination or harassment.  • The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the University.   Mandatory Reporters must file a report regardless of how the information comes to their attention –  including but not limited to face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post.  Although Mandatory Reporters must file a report, in most instances, you will be able to control how the report is handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the range of options available to you and to ensure access to the resources you need.  Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with 
+Counseling and 
+Psychological Services  (CAPS).  
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s Title IX webpage
+. 
+Statement on Mental Health and Wellness 
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a student’s academic success and overall wellbeing. Students are encouraged to engage in proper self -care by utilizing the resources and services available from Counseling & Psychological Services (CAPS). Students who need someone to talk to can call the TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24- hour emergency help is also available through the National Suicide Prevention Hotline (800- 273-8255) or at suicidepreventionlifeline.org
+.  
+Statement on the Value of Vaccinations and Masking to Protect Against SARS -CoV-2 
+To help protect Aggieland and stop the spread of COVID -19, Texas A&M University urges students to be vaccinated and to wear masks in classrooms and all other academic facili ties on campus, including labs.  Doing so exemplifies the Aggie Core Values of respect, leadership, integrity, and selfless service by putting community concerns above individual preferences. COVID-19 vaccines and masking — regardless of vaccination status — have been shown to be safe and effective at reducing spread to others, infection, hospitalization, and death.  

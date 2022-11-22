@@ -1,0 +1,218 @@
+1/13/22, 10:29 AM Syllabus: 22 SPRING CSCE 465 501: COMP & NET SECURITY
+https://canvas.tamu.edu/courses/129614/pages/syllabus 1/8Syllabus
+Course Information
+ 
+Course Information
+Course Number: CSCE 465  
+Course T itle: Computer and Network Security  
+Section: 501  
+Time:  MWF 8:00-8:50am  
+Location: HRBB 124  
+Credit Hours: 3
+ 
+Instructor Details
+Instructor: Martin Carlisle  
+Office: PETR 221  
+Phone: 979-862-7928  
+E-Mail: the_doctor@tamu.edu  
+Office Hours: will be posted on Canvas
+ 
+Course Description
+Fundamental concepts and principles of computer security , operating system and network security ,
+secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and
+intrusion detection systems, IPSec and VPN, wireless and web security .
+ 
+Course Prerequisites
+CSCE 313 and CSCE 315; junior or senior classification; or approval of instructor .
+ 
+Special Course Designation1/13/22, 10:29 AM Syllabus: 22 SPRING CSCE 465 501: COMP & NET SECURITY
+https://canvas.tamu.edu/courses/129614/pages/syllabus 2/8None
+Course Learning Outcomes
+This course primarily aims at providing a level of literacy in information security adequate enough to
+understand the security implications on a number of diverse domains including software engineering;
+networking; privacy; and policy . 
+A secondary objective is to provide a working knowledge of topics such as cryptography , privacy ,
+network security , and infrastructure management, so that students can acquire the necessary
+background for more advanced security courses. 
+By the end of this course, students will be able to reason about systems from the perspective of a
+security engineer . That is, they should be able to deﬁne the system to protect; determine the security
+properties that are desired for this system; identify the possible threats to these security properties,
+and their likelihood of occurrence; and consider possible mitigations against these threats.
+ 
+Textbook and/or Resource Materials
+Required T extbook  
+Introduction to Computer Security , by Michael Goodrich and Roberto T amassia, Addison-W esley
+Pearson, ISBN-10: 0-321-51294-4
+Optional T extbook  
+Handbook of Applied Cryptography – available online at: http://cacr .uwaterloo.ca/hac/
+(http://%20http://cacr.uwaterloo.ca/hac/)
+Grading Policy
+Homeworks: 550 points (distributed across 6 homeworks). Y our assignments must be typed and in
+PDF format. Submit assignment to gradescope (https://www .gradescope.com)
+You are encouraged to discuss concepts with others, but you must do all assignments by yourself
+unless specifically instructed otherwise. If you refer to any source while doing your homework, you
+must give credit in your solution, (this holds true whether it be a person, paper , book, solution set,
+web page or whatever). Y ou MUST write up the assignments in your own words. Never copy
+someone else’ s words and turn them in. For example, “the academic integrity policy on this syllabus
+was based on one obtained from Prof. Jennifer W elch”, or “Sally Smith walked me through the
+solution to #38 and then I did #39 on my own” (assuming #38 was not on the homework).
+Midterm exam: 200 points  
+Final exam: 250 points1/13/22, 10:29 AM Syllabus: 22 SPRING CSCE 465 501: COMP & NET SECURITY
+https://canvas.tamu.edu/courses/129614/pages/syllabus 3/8A >= 900 points  
+B = 800-899 points  
+C = 700-799 points  
+D = 600-699 points  
+F = <600 points
+We will make an ef fort to complete the grading of work within one week of the turnin date. If you
+believe your work was graded incorrectly or incompletely , you must either 1) meet with a T A within
+one week of the date the work is returned, or 2) submit a regrade request in Gradescope within one
+week (when applicable). Only if you can prove to the T A that your solution is correct and complete
+will your work be regraded.
+ 
+Late W ork Policy
+Late homeworks are not accepted and are worth 0 points. If you have an extended excused absence
+(per rule 7) that prevents you from completing a homework, please coordinate with the professor as
+soon as possible for a make-up.
+ 
+Version Control
+You are strongly encouraged to use a version control system to track changes and back up your
+work. T exas A&M has an institutional GitHub account (https://github.tamu.edu) that you can use. Do
+NOT create public repositories containing your assignment solutions as this may lead to
+unauthorized copying of your work and a violation of the Aggie Code of Honor .
+ 
+Course Schedule
+ 
+Week Topic Required Reading
+1 (Jan 19,21)Introduction
+Security Properties and
+Principles
+Security vocabularySyllabus
+GT Ch. 1
+Thompson paper1/13/22, 10:29 AM Syllabus: 22 SPRING CSCE 465 501: COMP & NET SECURITY
+https://canvas.tamu.edu/courses/129614/pages/syllabus 4/82 (Jan 24,26,28) OS Security
+Program vulnerabilitiesGT Ch. 3
+https://www .scmagazine.com/home/security-
+news/feds-charge-14-with-making-atm-
+cashouts-appear-like-one/
+(https://www.scmagazine.com/home/security-
+news/feds-charge-14-with-making-atm-cashouts-
+appear-like-one/)
+AlephOne paper
+3 (Jan 31, Feb 2,4)Program vulnerabilities
+HW 1 Due Mon Jan 311.8
+2.1-2.2
+4 (Feb 7,9,1 1)Program vulnerabilities
+Crypto-symmetricGT Ch. 8.1
+5 (Feb 14,16,18) Crypto-symmetric vs. public GT Ch. 8.5, 8.2
+6 (Feb 21,23,25)Crypto-hash functions and
+signatures, PKI
+HW 2 Due Mon Feb 21GT Ch. 8.3-8.4
+7 (Feb 28, Mar 2,4)Malware
+MIDTERM EXAM - W eds
+March 2GT Ch. 4
+8 (Mar 7,9,1 1)Network Security – TCP/IP ,
+UDP, NAT
+HW 3 Due Mon Mar 7GT Ch. 5
+March 14-18 SPRING BREAK  
+9 (Mar 21,23,25)Network Security – DNS,
+Firewalls, VPNGT Ch. 6.1-6.4
+10 (Mar 28, 30, Wireless Security  GT Ch. 6.51/13/22, 10:29 AM Syllabus: 22 SPRING CSCE 465 501: COMP & NET SECURITY
+https://canvas.tamu.edu/courses/129614/pages/syllabus 5/8Apr1) Web Security
+HW 4 Due W ed Mar 30GT Ch 7
+11 (Apr 4,6,8) Web Security GT Ch. 7
+12 (Apr 1 1,13)
+April 15 - NO
+CLASSSecurity Models
+HW 5 Due W ed Apr 13
+ GT Ch. 9
+13 (Apr 18,20,22) Distributed Security GT Ch. 10
+14 (Apr 25,27,29)Physical Security
+HW 6 Due W ed Apr 27GT Ch. 2
+15 (May 2)Review
+Last day of class is Mon May 213.4, 13.5
+Final exam date: (from  Registrar's website  (https://registrar.tamu.edu/Courses,-Registration,-
+Scheduling/Final-Examination-Schedules#6-May5(Thursday)) ). Section 501: May 5, 10:00 a.m. – 12:00
+p.m.    
+University Policies
+This section outlines the university level policies. The T AMU Faculty Senate established the wording
+of these policies.
+Attendance Policy
+The university views class attendance and participation as an individual student responsibility .
+Students are expected to attend class and to complete all assignments.
+Please refer to Student Rule 7   (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about excused absences, including definitions, and related documentation and timelines.
+ 
+Makeup W ork Policy1/13/22, 10:29 AM Syllabus: 22 SPRING CSCE 465 501: COMP & NET SECURITY
+https://canvas.tamu.edu/courses/129614/pages/syllabus 6/8Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’ s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor .
+Please refer to Student Rule 7  (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about makeup work, including definitions, and related documentation and timelines.
+Absences related to T itle IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” (Student Rule 7, Section 7.4.1  (https://student-rules.tamu.edu/rule07/) ).
+“The instructor is under no obligation to provide an opportunity for the student to make up work
+missed because of an unexcused absence” (Student Rule 7, Section 7.4.2  (https://student-
+rules.tamu.edu/rule07/) ).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and
+Student Conduct Code. (See Student Rule 24  (https://student-rules.tamu.edu/rule24/) ).
+ 
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor .
+If asked, students must be able to produce proof that the item submitted is indeed the work of that
+student. Students must keep appropriate records at all times. The inability to authenticate one’ s work,
+should the instructor request it, may be suf ficient grounds to initiate an academic misconduct case”
+(Section 20.1.2.3, Student Rule 20  (https://aggiehonor.tamu.edu/Rules-and-
+Procedures/Rules/Honor-System-Rules) ).
+Texas A&M at College Station
+You can learn more about the Aggie Honor System Of fice Rules and Procedures, academic integrity ,
+and your rights and responsibilities at aggiehonor .tamu.edu  (https://aggiehonor.tamu.edu/) .
+ 
+Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability , please contact Disability Resources of fice on your campus (resources listed below).
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory , physical,
+or chronic health conditions. All students are encouraged to discuss their disability related needs with
+Disability Resources and their instructors as soon as possible.1/13/22, 10:29 AM Syllabus: 22 SPRING CSCE 465 501: COMP & NET SECURITY
+https://canvas.tamu.edu/courses/129614/pages/syllabus 7/8Texas A&M at College Station
+Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit
+disability .tamu.edu  (https://disability.tamu.edu/) .
+ 
+Title IX and Statement on Limits to Confidentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for
+all. University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including
+full and part-time faculty , staf f, paid graduate assistants, student workers, etc.) are Mandatory
+Reporters and must report to the T itle IX Of fice if the employee experiences, observes, or becomes
+aware of an incident that meets the following conditions  (see University Rule 08.01.01.M1
+(https://rules-saps.tamu.edu/PDFs/08.01.01.M1.pdf) ):
+The incident is reasonably believed to be discrimination or harassment.
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University .
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper , class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in
+most instances, a person who is subjected to the alleged conduct will be able to control how the
+report is handled, including whether or not to pursue a formal investigation. The University’ s goal is to
+make sure you are aware of the range of options available to you and to ensure access to the
+resources you need.
+Texas A&M at College Station
+Students wishing to discuss concerns in a confidential setting are encouraged to make an
+appointment with Counseling and Psychological Services  (https://caps.tamu.edu/) (CAPS).
+ Students can learn more about filing a report, accessing supportive resources, and navigating the
+Title IX investigation and resolution process on the University’ s Title IX webpage
+(https://titleix.tamu.edu/) .
+Statement on Mental Health and W ellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’ s academic success and overall wellbeing. Students are encouraged to engage in healthy1/13/22, 10:29 AM Syllabus: 22 SPRING CSCE 465 501: COMP & NET SECURITY
+https://canvas.tamu.edu/courses/129614/pages/syllabus 8/8self-care by utilizing available resources and services on your campus.
+Texas A&M College Station
+Students who need someone to talk to can contact Counseling & Psychological Services
+(https://caps.tamu.edu/) (CAPS) or call the TAMU Helpline  (https://caps.tamu.edu/helpline/) (979-
+845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency
+help is also available through the National Suicide Prevention Hotline (800-273-8255) or at
+suicidepreventionlifeline.org  (https://suicidepreventionlifeline.org/) .

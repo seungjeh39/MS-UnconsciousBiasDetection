@@ -1,0 +1,290 @@
+   
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 1 of 15 
+Contents 
+Course Information ............................................................................................................................................................. 2 Instructor Details ............................................................................................................................................................. 2 Course Description .......................................................................................................................................................... 2 Course Prerequisites ....................................................................................................................................................... 3 Special Course Designation ............................................................................................................................................. 3 Course Learning Outcomes ............................................................................................................................................. 3 Textbook and/or Resource Materials ............................................................................................................................. 4 Grading Policy .................................................................................................................................................................  4 Late Work Policy ............................................................................................................................................................. 9 Course Schedule ............................................................................................................................................................ 10 Other Course Information Items ................................................................................................................................... 13 University Policies ............................................................................................................................................................. 13 Attendance Policy ......................................................................................................................................................... 13 Makeup Work Policy ..................................................................................................................................................... 13 Academic Integrity Statement and Policy ..................................................................................................................... 14 Americans with Disabilities Act (ADA) Policy ................................................................................................................ 14 Title IX and Statement on Limits to Confidentiality  ...................................................................................................... 14 Statement on Mental Health and Wellness .................................................................................................................. 15 Classroom Access and Inclusion Statement ...................................................................................................................... 15   
+    
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 2 of 15 
+Course Information 
+ In this syllabus, you will find general information for the course. All other information will be posted in Canvas.   Course Number: CSCE 431 Course Title: Software Engineering Section: Sections 500-504 Time:  TR 8-9:15 a.m. Location: ZACH 350 Credit Hours: 3  Sections with corresponding lab schedules 
+Section  Lab Days/Times  Location  
+500 F 8:20 -10 a.m.  ZACH 582  
+501 F 10:20 a.m. – 12 pm  ZACH 582  
+502 F 12:40 -2:20 p.m.  ZACH 582  
+503 F 3-4:40 p.m.  ZACH 582  
+ 
+Instructor Details 
+ Instructor: Pauline Wade Office: Virtual (Zoom) to be posted in Canvas E-Mail: paulinewade@tamu.edu Office Hours: Tues 9:30-10:30 a.m. or by appointment, all online  
+TEACHING ASSISTANT: 
+ Name: Diego Martinez  Office: Virtual (Zoom) to be posted in Canvas Email: dmartinez05@tamu.edu Office Hours: Tues 3:00-4:00 p.m. or by appointment, all online  
+Course Description 
+ The official catalog description is “Application of en gineering approach to computer software design and development; life cycle models, software requirements and specification; conceptual model design; detailed design; validation and verification; design quality assurance; software design/development environ ments and project management.”  In reality, effective software engineering requires developing a computing -based solution that solves the customer’s problem. As problems become more challenging, solid design, follow through, and teamwork skills become nece ssary to developing a solution.   You will work in a project group to complete a project, through an application of an engineering approach to computer software design and development. Every project requires complete implementation, documentation and demon stration    
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 3 of 15 
+of the solution. The focus is not only on the final product but also on design methodology, management process, and teamwork. At the end of the semester, each group will make a public presentation to the class describing and demonstrating their work.  This course offers students a unique experience to work with a real -world customer, including the following:  ● It challenges you to think critically and creatively, even under tremendous ambiguity . There is no one right way to solve the problem. ● You “learn by doing” all semester long. Working on real problems with real people has its challenges, but is also very rewarding. ● Working on teams can be messy, but it’s worth it. It is amazing what you can accomplish together, so much more than on your own.   ● Every semester is different, every team is different, every solution is different . There is always something new to learn and innovate. ● Meetings outside the class, with your project group and the teaching team (hereafter referred to as instructors), allow you to connect with your classmates and discover the effectiveness of constant communication.   
+Course Prerequisites 
+ CSCE 315   
+Special Course Designation 
+ None  
+Course Learning Outcomes 
+● Evaluate customer’s requirements and use this as a basis for the  design, implementation, and validation of a computing-based solution, with success measured by attaining at least a satisfactory customer feedback score .    
+● Build the computing-based solution and deploy to the cloud as a SaaS (software as a service) web application, resolving all high severity bugs (those with no workarounds) .  
+● Experience the entire project lifecycle from conception, implementation, deployment, and support and have the ability to describe this process with specific supporting examples.   
+● When asked about the software engineering process during an interview, provide a specific response with supporting information gained from this class, increasing the probability of progressing through the employment screening process.    
+● Determine the most effective communication techniques to function effectively as a team, with people you haven’t worked with before who have different backgrounds/personalities.  Success is measured by at least a satisfactory peer feedback.       
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 4 of 15 
+● Formulate a risk mitigation, monitoring, and management plan to reduce the negative impact of risks and difficulties that exist in software projects, to increase the likelihood of success of the group projects with success measured by attaining at least a satisfactory customer feedback score .    
+● Increase the probability of progressing through the employment screening process  by being able to describe and support with specific examples, the software development lifecycle and software engineering processes, m ethods, and tools that directly contribute to high quality software.   
+● Gain experience in answering impromptu questions , through the ability of formulating and communicating a credible answer with specific supporting examples.  This class is a 3-credit hour class and meets officially for a little over 4 hours per week (250 minutes). For every one credit hour in which you enroll, you will spend approximately 2 -3 hours outside of class studying. Therefore, a reasonable course load (including project work) will consume on average 6-9 hours outside of class.  Total commitment for this class is approximately 8.5-11.5 hours per week averaged across the semester.   
+Textbook and/or Resource Materials 
+ Pressman, Roger. Software Engineering: A Practitioner's Approach. 9 th Edition. McGraw-Hill Higher Education (US), 2019.  Options: 
+1.) Your First Day eTextbook can be easily accessed right from your Canvas course.  $46.25 for five years. 
+ 
+a) Before you get started, be sure your popup blocker is turned off and that your cookies ar e enabled.  
+b) Log in to Canvas and select the correct course.  
+c) There will be a link for “Course Materials” in the left -hand navigation of your course.  
+d) Your eBook will be displayed here, and you can click the green button to “Read Now”.  
+e) The opt out option is also displayed on the same page. **Last day to opt out is Feb 14. 
+f) If you have already accessed your eTextbook in Canvas and want to know how access it offline, or after 
+the semester has ended, click here .  You will have access to the eBook for 5 years through the Yuzu 
+app.   
+g) For more help on getting started; you can watch this help video click here  
+ 
+2.) Other retailers of your choice such as Amazon 
+ We encourage you to acquire the course material from vendors that provide the best value and amenities.   
+Grading Policy 
+ The final grade you will receive in the class will be based on points accumulated during the semester. Thus, both continued progress (the process) and the quality of your product (and other deliverables) will determine your grade. Although a substantial part of your grade is based on the team’s performance in the group project, individual performance is crucial.     
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 5 of 15 
+The grading scale is: A ≥ 90% > B ≥ 80% > C ≥ 70% > D ≥ 60% > F  The breakdown of the total percentage points in the class is shown in the table below:   
+○ Project – Group grade with points specified in the rubric  
+    Sprint 1 – 2%     Sprint 2 – 6%     Sprint 3 – 10% 
+    Project Tur nover – 12%   30%  
+○ Project – Individual grade  
+    Individual Audit – 20%     Final Average Peer Feedback  – 4% 
+    Submission of peer feedback  of teammates – 6% 30%  
+○ Quizzes - in class – no midterm or final exam.  15%  
+○ Assignments (Lab or Lecture) / Reflection  12%  
+○ Peer Review of your classmate’s work  3% 
+  
+○ Attendance – Lecture – over  5 random sessions  
+see “ Graded Attendance” section below  5% 
+○ Attendance – Lab – over 5 random sessions  
+see “ Graded Attendance” section below  5% 
+  
+Extra Credit**:  opportunities to be announced  
+When needed, to reinforce mastery of concepts, I may add additional requirements / assignments, which will count as extra credit.  There is no obligation for you to do these extra credit requirements, rather these should be viewed as opportunities to boost your grade.     
+See “Attendance” section for eligibility to get extra credit  Depending on the complexity or time 
+involved, 1-3 % point(s) added to the final grade.   For example, producing an educational video for the benefit of other students can be worth 3% points. 
+ • Due dates for the items are posted in the Canvas calendar.   • Although the project related grades make up a significant portion of the grade, individual grades will significantly help you be successful.  While some items in the table above may be worth less, they are crucial to your later success in the higher weighted items and your overall grade.   • We make every effort to provide you with the opportunity to earn an A (including opportunities for extra credit), so at the end of the course, an 89.9 is a B.  We do not curve in this class. Rather, we teach to mastery which means that we have clear expectations in terms of what you should complete and what knowledge you should have obtained by the end of the course to succeed and to earn an A. If you are participating appropriately, trying to adjust based on our feedback, and working equitably with your team, you should expect an A.   
+Graded Project       
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 6 of 15 
+Group Project Grade  You will work in a project group to develop an application for a real customer , through an application of an engineering approach to application design, development, validation, documentation, and end-of-semester class demonstration of the solution. The focus is not only on the fina l product but also on the process, project management, and teamwork.  To allow you to experience a real-world scenario, the class will mimic a software development company, with you playing the role of an employee assigned to a project team.   You will fin d a real-world customer who has a non-technical problem and build an application to solve their needs.    The instructors will play the role of managers, auditors, and mentors.    The team’s main output is a SaaS (software as a service) application, which will eventually be deployed to the cloud.   Each project group is required to use the Ruby on Rails framework, but can determine the technology used for the front-end (e.g., HTML, CSS, AJAX, JavaScript), and the data repository (e.g., NoSQL system such as Mongo, or a relational DBMS such as PostgreSQL).   The class will be divided into project groups of ~4 -5 students.  To ensure inclusiveness and avoid students feeling excluded, you will be assigned to a project group based on your lab section and results of  a skill survey to make sure that students with prior experience in particular technologies are distributed evenly across the different project groups.     Project rubrics will be distributed to class once the project groups are formed.  Any additional ite ms that may be added to the rubric will all count as extra credit, hence there is no obligation for the team to comply with the requirement, as you can still get excellent grades with the basic requirements.   Because your teammates' grades are so tightly c oupled with your own commitment to the class, many of the rules are put in place to protect you and your teammates.   ● Project Deliverables – more detail on the expectations of each one is described in the project rubric.   o Software installed and delivered to the customer   o Final code (that is clean and understandable), submitted in the assigned GitHub Classroom repository (at the end of the semester), and any other supporting documentation (e.g., readme, code comments).  Documentation will be evaluated on its completeness to understand the details of and to properly execute your system.   Note that it will be difficult to get an A in the class if you do not have a tested working system that meets the customer’s expectations (as indicated by a customer feedback score of at least “meets expectations”) by the end of the semester.   o Assigned documents (e.g., designs), submitted to Canvas  and MS Teams, which are evaluated on its completeness (using given templates), and effectiveness in communicating key aspects of    
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 7 of 15 
+your system   o High-quality recording of the final presentation submitted to Canvas  and MS Teams, evaluated on the clarity of communication and demonstration of your system .  These will be viewed by other students in the class, and will be used as the basis for their end -of-semester reflection.    o Final updated PowerPoint slide deck, used in the final presentation, submitted to Canvas  & MS Teams  o Final Report - Your final report will be critiqued on its thoroughness , completeness (using given template), and effectiveness in communicating key aspects of your system and specificity of your reflection.  o Artifacts related to your project management system e.g., Jira reports and specified in the rubric, uploaded in the MS Teams Drive:  ● The team will present incremental progress of the project during a project audit in each sprint with the instructors and teaching team (to be scheduled or impromptu).  These audits are mandatory and will be recorded in MS teams.   Students who are absent (see section “Graded Absence” below), will receive a 30% deduction from the group sprint grade, unless the absence / lateness is considered excused.   • Condition of getting the team grade is submission of all peer feedback and comple tion of all project deliverables on the date specified in the Canvas class calendar. These deadlines are intentional to make sure we have enough time to complete our assessment.   ● Final course grades will not be released until all the project deliverables are verified by the instructor.   • Your project grade can increase based on (but not limited to) the following:  o Excellent project deliverables which exceed basic expectations.  o Excellent peer feedback o Effective (polite and collaborative) communication with the instructor/teaching team.  • Your project grade can decrease based on (but not limited to) the following:  • Poor customer feedback / deployment of an application with many high severity defects  (no workaround) o My perception of your effort. This can be due to poor peer feedback from your peers (after I have the chance to investigate that the feedback  is accurate) [or] otherwise at my discretion o Continuously missing your group’s meetings. o Inappropriate (e.g., rude, not professional) communication with the instructor/teaching team .  Individual Project Grade  • This represents your individual mastery during one individual project audit conducted sometime after the midterm, which will test your knowledge of how the software engineering process, methods, and tools are    
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 8 of 15 
+used in project execution.     • Each team member is expected to commit to the GitHub repository several times a week, if not daily.   • You are expected to develop an automatic test bed for your project. You should also have appropriate unit testing throughout your code.    • Extra credit is given for those who assume the Product Owner and Scrum Master role, if the team grade is >=80%, customer feedback score and peer feedback score that are at least meets expectations.   • Each member of your project team will score and give feedback on the performance of the o ther team members through periodic peer feedback forms throughout the semester. Your peer feedback responses will be calculated along with the instructors’ peer feedback view scores and will be part of your individual project grade.  NOTE:  Credit will be given upon submission of peer feedback.  Depending on your circumstance, you will forfeit this grade after 3 days.   • Condition of getting the individual project grade is submission of all peer feedback  on a timely basis.  Quizzes  Frequent quizzes will be given and will cover material from the homework, lectures, and any pre & post lecture work.  Exams/quizzes lets us know where your knowledge might be lacking so that we may be able to make class adjustments and also informs you about the knowledge that you need to have.   Once you’ve taken the exam / quiz, you are not allowed to talk about its composition with anyone.  Any unauthorized sharing constitutes academic misconduct and will be reported to the honors council and result in the application of an appropriate sanction.  Assignments  • These are expected to be completed individually.  We will use a software plagiarism detector to ensure academic integrity.  Any violation of academic integrity constitutes academic misconduct and will be reported to the honors council and result in the application of an appropriate sanction.   
+• Homework must be submitted electronically using Canvas, and will be due midnight of the due date, unless otherwise noted.  Email submissions will not be  accepted. 
+ 
+• It is your responsibility to make sure that the submission process is completed and that the correct assignment is submitted to the correct place. It is best to double check your submission by downloading it yourself, then confirming that the one stored in Canvas is the int ended one.  Failure to confirm correct submission is not a valid excuse for incomplete / late assignments   For late submissions, please refer to the section on Late Work Policy.       
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 9 of 15 
+Graded Attendance   • Attendance will be determined through one or more of the following: quizzes, attendance logs, participation, class work submission, during 5 random days in the semester, for both lab and lecture.    • Absence and Tardiness: Failure to attend a class or late arrival (by definition > 10 minutes late) or leaving class early (> 10 minutes before class ends) without prior approval, may be counted as an absence and will impact your grade.  Emergencies, however, do happen. Lateness or absence can be excused if there is a valid reason (e.g., student rule 7).  Please inform the instructor at your earliest opportunity in the event communication channels are down or you are not able to.  NOTE:   Even if late, you should still come to class to get credit for the class participation / quiz.  • Due to the unfortunate consequences and undue burden your frequent absences would have on the rest of the team, more than 5 unexcused absences from either lecture or lab  are an automatic forfeit of the team grade.  • Excuses Not Valid: Oversleeping, cramming, etc., are not valid reasons.  Ultimately, the instructor reserves the right to determine what constitutes a “valid reason” on a case -by-case basis.  • Minimum requirement for extra credit: To be eligible for extra credit points, your attendance must be 4 out of the 5 from lab and/or lecture (i.e., in the Attendance category, your % points should be >= 4%, out of 5%).    • There will be no makeup for attendance, unless the absence meets student rule 7.   Extra Credit  When needed to reinforce mastery of concepts, extra credit assi gnments may be assigned, which will *all* count as extra credit.  There is no obligation for you to do these assignments, rather these should be viewed as opportunities to boost your grade.     Depending on the complexity or time involved, extra credit may  be worth between 1-3 % point(s) added to the final grade.     To be eligible for extra credit points, you need to meet the minimum attendance requirement which is described in the Attendance section. Details on extra credit opportunities will be announced.   
+Late Work Policy 
+ With pre-approval from the instructor, late submissions (e.g., submitting a deliverable after the established deadline ) is accepted only up to the time that the solutions will be discussed in class or as agreed to with the instructor  depending on the specific circumstance.  Late work policies must clearly link to Student Rule 7
+. 
+ The request for deadline extensions should be submitted at least three business days before the due date, by sending a request via a link to be given to you by the instructor, especially for those absences that meet student rule 7.  This will    
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 10 of 15 
+allow us time to review your request and ask for additional information when needed.    Technology-related / technological problems nor failure to confirm correct submission are not an excuse for incomplete or late assignments.   No “unapproved’ late assignments will be accepted without pr ior approval, and will receive a grade of 0.   *The only exception is in the case of an emergency, where you are not able to request in advance.   In this case, you can submit details of your absence when you are able to.   No late work will be accepted after the last day of class, irrespective of the deadline for an assignment.   
+Course Schedule 
+ **Schedule subject to change.  Check Canvas for the most up to date schedule and additional details.   Labs will be conducted weekly unless otherwise announced.   Quizzes will be given during most of the lectures.    
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 11 of 15 
+Week #  Topics / Activities  Due 
+1 • Overview of the course  
+• Software engineering and process models 
+• Intro to Ruby/Rails & MVC  • Getting to Know You survey  
+• Lab assignment 
+2 • Overview of the project  and Agile process , 
+including quality objectives that will increase 
+probability of project success 
+• Requirements 
+• Testing.   • Pre-sprint begins  
+• Submit Customer info • Contact Client  • Sprint Planning & Creating Sprint Backlog • Identify Product Owner / Scrum Master 
+• Lab assignment  
+3 • Analysis & Design  
+• Project management topic: estimation, use of 
+metrics, monitoring and control • Sprint 1 begins  
+• Data Design • Project Scope • Sprint Backlog with user stories 
+• Book Collection Assignment – Part 1  
+4 • Continuous integration/ continuous delivery 
+(CI/CD) 
+• Security  • User stories in Jira  
+• Risk Plan 
+5 • Sprint 1 end  
+• Project audits 
+• Sprint 2 begins • Sprint 1 Deliverables  
+• Sprint 1 Review • Sprint 1 Retrospective  • Sprint 1 Peer Feedback • Sprint 2  Create Sprint Backlog & Sprint Planning 
+• Peer Review – Book Collection  
+6 • Analysis & Design  
+• Maintainability using Linters (e.g., RuboCop) • Sprint 2 User Stories  
+• Data Design Revisions 
+• Book Collection Assignment – Part 2  
+7 • User experience design   
+• Accessibility   
+8 • Sprint 2 ends  
+• Sprint 3 begins 
+• Project audits for Sprint 2 • Sprint 2 Deliverables  
+• Sprint 2 Review • Sprint 2 Retrospective  
+• Sprint 2 Peer Feedback  
+9 Spring Break   
+10 • Sprint 3 Begin  
+• User acceptance test • Deployment 
+• Configuration management  • Create Sprint Backlog & Sprint Planning  
+ 
+11 • Maintenance   
+• Project close 
+• Individual audits begin  • Sprint 3:  User Stories in Jira  
+• Data design revisions    
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 12 of 15 
+12 • Project Work  
+• Individual audits continue  • User Acceptance Test Form  
+13 • Sprint 3 end  
+• Project audits for Sprint 3  
+• Customer acceptance test begin.   
+• Individual audits continue • Sprint 3 Deliverables  
+• Sprint 3 Review • Sprint 3 Retrospective • Customer user acceptance test results • Customer Turnover  
+• Peer Feedback  
+14 • Future of software engineering .   
+• Customer user acceptance test ends 
+• Project Presentations and individual audits 
+continue.   
+• Maintenance phase begins & ends for those 
+applications with no quality issues.     
+• Projects officially close for some projects.  • User acceptance test results collected 
+from the customer. 
+• Reflections on project presentations • Customer feedback form and/or user acceptance test results (if any)  
+15 • Project Presentations  
+• Maintenance phase ends for those applications 
+with quality issues.     
+• Projects officially close for remaining projects. 
+• Individual audits continue • Final Presentation Slides & Recording  
+• Reflections on project presentations • Customer feedback form and/or user acceptance test results (if any) • Instructor Turnover • Final Peer feedback  
+• Extra Credit Due  
+   
+    
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 13 of 15 
+Other Course Information Items 
+ 
+Course Expectations 
+ Course expectations, in the form of a course appreciative agreement, will be reviewed and agreed to in the first 2 weeks of class.  
+Course Copyright 
+ The materials used within this course are copyrighted and include, but are not limited to, the syllabi, quizzes, exams, homework, online handouts, course videos, audio and visual recordings of classes, etc.  Because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted.  
+ 
+Technology Support    For this course, you will be required to have access to the Internet and Canvas  to participate. If you need help with technology, please use the online help materials http://it.tamu.edu or contact Help Desk Central at: Email: helpdesk@tamu.edu  or Phone: (979) 845-8300, 24 hours a day, 7 days a week. Technology-related / Technological problems are not an excuse for incomplete or late assignments.   If your camera is not operational in your laptop, you will need to acquire an external videocam.   If you do not have internet access at home, please contact the Internet provider in your area as most are giving free Internet to college students during this time.  
+Learning Resources    LinkedIn Learning modules and other supplementary materials to be assigned   The Study Hub website lists many on-campus learning resources to support students in achieving academic excellence.   
+University Policies 
+ 
+Attendance Policy 
+ The university views class attendance and participation as an individual student respons ibility. Students are expected to attend class and to complete all assignments.   Please refer to Student Rule 7
+ in its entirety for information about excused absences, including definitions, and relat ed 
+documentation and timelines. 
+ 
+Makeup Work Policy 
+ Students will be excused from attending class on the day of a graded activity or when attendance contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate by the instructor.     
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 14 of 15 
+ Please refer to Student Rule 7
+ in its entirety for information about makeup work, including definitions, and related 
+documentation and timelines. 
+ Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the student and instructor” (
+Student 
+Rule 7, Section 7.4.1 ). 
+ “The instructor is under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence” (Student Rule 7, Section 7.4.2
+). 
+Students who request an excused absence are expected to uphold t he Aggie Honor Code and Student Conduct Code. (See Student Rule 24
+.) 
+ 
+Academic Integrity Statement and Policy 
+ “An Aggie does not lie, cheat or steal, or tolerate those who do. ”  “Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” ( Section 20.1.2.3, Student Rule 20
+). 
+ Texas A&M at College Station You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at aggiehonor.tamu.edu
+. 
+ 
+Americans with Disabilities Act (ADA) Policy 
+ Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may have a disability, please cont act the Disability Resources office on your campus (resources listed below)  Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their disability related needs with Disability Resources and their instructors as soon as possible.   Texas A&M at College Station Disability Resources is located in the Student Services Building or at (979) 845 -1637 or visit disability.tamu.edu
+. 
+ 
+Title IX and Statement on Limits to Confidentiality  
+ Texas A&M University is committed to fostering a learning environment that is safe and productive for all. University policies and federal and state laws prohibit gender -based discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and stalking.   With the exception of some medical and mental health providers, all university employees (including full an d part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must report to the Title IX    
+CSCE 431 – Software Engineering   Course Syllabus 
+ 
+ 
+  
+Page 15 of 15 
+Office if the employee experiences, observes, or becomes aware of an incident that meets the following conditions (see University Rule 08.01.01.M1
+): 
+• The incident is reasonably believed to be discrimination or harassment.  • The incident is alleged to have been committed by or against a person who, at the time of th e incident, was (1) a student enrolled at the University or (2) an employee of the University.    Mandatory Reporters must file a report regardless of how the information comes to their attention – including but not limited to face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most instances, a person who is subjected to the alleged conduct will be able to control how the report is handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the range of options available to you and to ensure access to the resources you need.  Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with 
+Counseling 
+and Psychological Services  (CAPS).  
+ Students can learn more about filing a report, accessing supportive resources, and navigating the Tit le IX investigation and resolution process on the University’s Title IX webpage
+. 
+ 
+Statement on Mental Health and Wellness 
+ Texas A&M University recognizes that mental health and wellness are critical factors that influence a student’s academic success and overall wellbeing. Students are encouraged to engage in healthy self -care by utilizing available resources and services on your campus  Students who need someone to talk to can contact Counseling & Psychological Se rvices (CAPS) or call the TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24 -hour emergency help is also available through the National Suicide Prevention Hotline (800 -273-8255) or at suicidepreventionlifeline.org
+.  
+ 
+Classroom Access and Inclusion Statement 
+ Texas A&M University is committed to engaged student participation in all of its programs and courses and provides an accessible academic environment for all students. This means that our classrooms, our virtual spaces, our practices and our interactions are as inclusive as possible and we work to provide a welcoming instructional climate and equal learning opportunities for everyone. If you have an instructional need, please notify me as soon as possible.  The Aggie Core values of respect, excellence, leadership, loyalty, integrity and selfless service in addition to civility, an d the ability to listen and to observe others are the foundation  of a welcoming instructional climate. Active, thoughtful and respectful participation in all aspects of the course supports a more inclusive classroom environment as well as our
+ 
+mutual  responsibilities to the campus community . 

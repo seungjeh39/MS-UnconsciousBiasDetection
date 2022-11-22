@@ -1,0 +1,102 @@
+9/15/22, 3:51 PM CPSC 445: Computers and New Media
+https://people.engr .tamu.edu/shipman/courses/cnm/home-ug.html 1/3CPSC 445: Computers and New Media
+   
+Spring Semester , 2022
+ Time and place: T/Th 9:35 - 10:50 am, HRBB 124
+ Instructors: Dr. Frank Shipman  
+ Office hours: PETE 335, TBA, or by appointment
+Students
+There may be students from technical and non-technical disciplines in this course. Projects and
+assignments are designed such that each student can show of f their own skills. Programming and
+software development is part of the group projects so it is recommended that students from outside of
+computer science join project teams with students from computer science.
+List of students in class
+Course description
+This class investigates three topics related to computational media:
+(1) How do interactive media change the authoring and consumption of stories/narratives?
+(2) What are the techniques and interfaces used to interact with content in a variety of media?
+(3) How does networked access and authoring of media content change our views of ownership
+and intellectual property?
+These topics will be discussed at both a conceptual and tool level. By the end of the course, you will
+be able to look at an existing system or design a new system with an understanding of the impact it
+may have on communication and storytelling.
+Prerequisites
+Students should have a basic knowledge of computing and the humanities, and either the ability to
+program complex systems or able to learn new software tools on their own. Ask instructor if you have
+any questions.
+Reading materials
+Reading schedule
+This course will focus around discussions of the readings. We will read two books and assorted
+papers taken from a variety of conferences and journals concerning human-computer interaction,
+hypertext, media studies, and computers and the humanities.
+Books:
+ Hamlet on the Holodeck: The Future of Narrative in Cyberspace , by Janet Murray , book  
+ The Public Domain: Enclosing the Commons of the Mind , by James Boyle, book
+Selected papers:
+The following links require access to the ACM Digital Library . Access to ACM Digital Library is
+available from on-campus computers.9/15/22, 3:51 PM CPSC 445: Computers and New Media
+https://people.engr .tamu.edu/shipman/courses/cnm/home-ug.html 2/3Grading
+  
+  Short assignments 10% 
+  Class participation 10% 
+  Team project  40% 
+  Write-ups/quizzes     40%  
+Grades will be on a 10 point scale: 90-100 = A, 80-89 = B, 70-79 = C, 60-69
+= D, and <60 = F.
+Short assignments
+List of assignments.
+There will be a number of assignments due in class. These assignments may require use of specific
+software outside of class time and will take the form of short essays, written answers to questions, and
+design documents. All material turned in should be printed using a computer printer or typed except
+when noted otherwise.
+Homework late policy:
+ 10% is deducted from your grade for every school day late up to a maximum of one week after the
+original due date.
+Class participation
+Most class periods will include a discussion of reading materials. All students are expected to have
+done the readings and be able to participate in discussions.
+Project
+Students will form three- to five-person teams and define a semester project or select one from a list of
+existing ideas. There will be three preliminary progress reports for the projects emphasizing particular
+phases of the interface design process:
+ (1) identifying a topic, determining cognitive and social issues, and determining an approach,
+(template for slides )
+ (2) creating an initial system design and mock-up, ( template for slides ) and
+ (3) instantiating the design in a prototype implementation (template for slides ).
+The final project report (8-12 pages in the old ACM Conference Format ) will also require the design of
+an evaluation procedure for refining the resulting interface. The in-class presentations of project
+progress will be about 4 minutes long and the final presentation on the project will be approximately 15
+minutes long and include all members of the team.
+Project grades will be determined by both the instructor's review of the project and student's
+description of their and other member's work.
+Programming for projects:
+ done in language and operating system of your choice on machines to which you have access.
+General Note on Assignments9/15/22, 3:51 PM CPSC 445: Computers and New Media
+https://people.engr .tamu.edu/shipman/courses/cnm/home-ug.html 3/3Important: All reports are to be printed on a word processor or typed (no handwritten assignments will
+be accepted). All writing should be the work of the student -- any text taken from other sources needs
+to be quoted and referenced. It is expected that students will correct grammar and spelling -- these are
+grounds to deduct from your grade. (i.e. Use a spelling checker and reread what you write before
+turning it in.)
+Attendance Policy
+All students are expected to attend and participate every class. Attendance policy will be administered
+in accordance with T exas A&M University Student Rule 7.
+Americans with Disabilities Act (ADA) Policy Statement
+The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides
+comprehensive civil rights protection for persons with disabilities. Among other things, this legislation
+requires that all students with disabilities be guaranteed a learning environment that provides for
+reasonable accommodation of their disabilities. If you believe you have a disability requiring an
+accommodation, please contact Disability Services, currently located in the Disability Services building
+at the Student Services at White Creek complex on west campus or call 979-845-1637. For additional
+information, visit http://disability .tamu.edu.
+Aggie Honor Code
+"An Aggie does not lie, cheat, or steal or tolerate those who do."
+Upon accepting admission to T exas A&M University , a student immediately assumes a commitment to
+uphold the Honor Code, to accept responsibility for learning and to follow the philosophy and rules of
+the Honor System. Students will be required to state their commitment on examinations, research
+papers, and other academic work. Ignorance of the rules does not exclude any member of the T exas
+A&M University community from the requirements or the processes of the Honor System. For
+additional information please visit: www .tamu.edu/aggiehonor/
+On all course work, assignments, and examinations at T exas A&M University , the following Honor
+Pledge shall be preprinted and signed by the student:
+"On my honor , as an Aggie, I have neither given nor received unauthorized aid on this academic
+work."

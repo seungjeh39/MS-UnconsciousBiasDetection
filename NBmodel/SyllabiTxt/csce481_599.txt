@@ -1,0 +1,106 @@
+  Course Syllabus  
+ 
+ 
+ 
+Page 1 of 3 
+ 
+ 
+Course Name   CSCE 481: Seminar  
+Term    Spring 2022  
+Meeting Time   Section 5 99: TR 11:10 am – 12:25 pm ONLINE  
+ 
+Course Description and Prerequisites  
+Seminar. Credits 1.  (1 -0). 
+The goal of this course is to expose students to a variety of topics of current interest in Computer Science, 
+with a particular focus on leader development. Topics to be addressed include practical issues related to 
+careers in the public and private  sector s, such as job seeking activities, workplace environment, and 
+graduate school. Invited speakers will make presentations in a seminar format, encouraging discussion 
+and exploration. This course is NO LONGER being taught to meet a formal writing requirement (i.e., this 
+seminar is NOT a "W" Course).  
+This course is designed for undergraduate students who are intending to graduate within 9 -21 months, 
+and therefore, students will need to be either a Junior or Senior classification.  
+Learning Outcomes or Course Obj ectives  
+The course will cover a variety of topics in class, in addition to research topics that students will be exposed 
+to through attending research seminars outside of class. The in -class topics will include:  
+- Career opportunities and pathways for those with undergraduate and/or graduate degrees in 
+computer science and engineering  
+- Job topics, including job searching, interviewing, and negotiating  
+- Company work environments  
+- Computer Science/Engineering research, including undergraduate research  
+- Graduate sch ool 
+- Leadership and Leader Development  
+Instructor Information  
+Name    Ricardo Gutierrez -Osuna  
+Email address   rgutier@tamu.edu   
+Office hours   by appointment  
+Office location   Peterson 309  
+Grader    Yingying Wang  
+Email address   wyytamu@tamu.edu  
+  
+Textbook and/or resource material  
+Optional Readings:  Interesting Readings as communicated by Course Instructor  
+Grading Policies  
+The student’s semester grade  will be based on class attendan ce and completion of a report for each 
+seminar .  Attendance will be taken via Zoom . “Online Arrival” past 11:20 am or leaving before the 
+conclusion of the lecture  without  prior approval will be marked  as ABSENT.  The seminar report will be 
+submitted at the conclusion of the talk. The length of the report should be at least 200 words but no 
+more than 400 words . The report should include the following information:    Course Syllabus  
+ 
+ 
+ 
+Page 2 of 3 
+ 
+- Name of the speaker and affiliation  
+- Summary  of the talk :  
+o For a com pany talk, you may  describe some of the following : (1) the in dustry sector of th e 
+company and its main product s, (2) the role that computing plays at the company , (3) 
+career opportunities /paths for CS/CE graduates , (4) a day in the life of a CS/CE  graduate 
+at the company , (5) anything you learned about the company . 
+o For a  regular talk (e.g., on a specific topic , such as artificial intelligence ), you may write a 
+free-form summary  or a traditional summar y (motivation, problem  statement, proposed 
+solution , results an d conclusions ), whichever  you feel is more appropriate  
+- Your thoughts:   
+o For a company talk, you may discuss some of the following  topics: (1) aspects of working 
+at the company that you liked  the most , (2) whether or not you would like to work at this 
+company, and why, (3) aspects of the presentation and Q&A that you found interesting 
+or informative , (4) aspects of the presentation and Q&A that could be improved , etc.  
+o For a regular talk, you may write a crit ique or discuss your thought s.  For example, is the 
+work interesting and why? do you think the re sults are important? what questions would 
+you ask the speaker ? do you have any eth ical co ncerns  about the t opic ? 
+ 
+Students will also be required to complete an Ethics and Professional Responsibility module that is 
+available on Canvas .  This module must be completed by May 3 , 202 2 11:59pm.  
+Class attendance is essential for student success; students are required to promptly and regularly attend 
+all their classes. A record of attendance will be maintained from the first week of classes through the last 
+day of class , and will constitute part of the participation grade for the course.  
+Absences may only be excused as defined by the Texas A&M University Student Rules available at 
+http://student -rules.tamu.edu/rule07 . These absences may be made up by watching YouTube Videos 
+(specific video links will be sent on the course ’s Canvas webpages ). Only two makeup opportunities will 
+be provided.  Deadline to submit your reports is December 8, 2021  11:59pm.  
+Grading Scale  
+The gra ding scale will be based off the number of meetings a student attends divided by the total number 
+of classes held. These points cannot be made up, and extra credit will not be offered.  So, if there are 14 
+meetings, you can miss one class and still make an A in the class  (13/14=92 %), miss two classes and still 
+make a B  (12/14=85 %), and miss three classes and still make a C  (11/14=78 %). 
+ 
+Point grading system (out of 100 assignable points)  
+A 90 - 100 points  
+B 80 - 89 points  
+C 70 - 79 points  
+D 60 - 69 points  
+F < 60 points  
+Americans with Disabilities Act (ADA)  
+The Americans with Disabilities Act (ADA) is a federal anti -discrimination statute that provides 
+comprehensive civil rights protection for persons with disabilities. Among other things, this legislation   Course Syllabus  
+ 
+ 
+ 
+Page 3 of 3 
+ 
+requires that all students with disabilities be guara nteed a learning environment that provides for 
+reasonable accommodation of their disabilities. If you believe you have a disability requiring an 
+accommodation, please contact Disability Services. For location, contact information, and other details, 
+visit  http://disability.tamu.edu . 
+Academic Integrity  
+For additional information please visit:  http://aggiehonor.tamu.edu   
+“An Aggie does not lie, cheat, or steal, or tolerate  those who do.”  

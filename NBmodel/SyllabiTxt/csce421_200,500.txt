@@ -1,0 +1,367 @@
+9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 1/11Course Syllabus
+CSCE 421-200/500 Machine Learning
+ 
+Course Information
+Course Number: 421  
+Course T itle: Machine Learning  
+Section: 200 (HNR), 500  
+Time:  TR 9:35am-10:50am  
+Location: ZACH 350  
+Credit Hours: 3
+ 
+Instructor Details
+Instructor: Y oonsuck Choe  
+Office: PETR 327  
+Phone: 979-845-5466  
+E-Mail: choe@tamu.edu  
+Office Hours:  TR 1:00pm-2:30pm T uesday/Thursday (Zoom only:
+https://tamu.zoom.us/my/yoonsuckchoe  (https://tamu.zoom.us/my/yoonsuckchoe) ) 
+ 
+TA: Xilong Zhou  
+Zoom: https://tamu.zoom.us/j/3510296288  (https://tamu.zoom.us/j/3510296288)  
+E-Mail: zhouxilong199213@tamu.edu  
+Office Hours:  : MF 2-3 pm (Zoom)
+ 
+TA: Ankit Garg  
+Zoom: TBA  
+E-Mail: ankitgarg@tamu.edu
+Office Hours: TBA  
+ 
+Course Description9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 2/11From the course catalog: Theoretical foundations of machine learning, pattern recognition and
+generating predictive models and classifiers from data; includes methods for supervised and
+unsupervised learning (decision trees, linear discriminants, neural networks, Gaussian models, non-
+parametric models, clustering, dimensionality reduction, deep learning), optimization procedures and
+statistical inference.
+Specific to this course: 
+1. learn the theoretical foundations of machine learning,
+2. learn various problems and solution strategies in machine learning, and
+3. learn practical methodology for applying ML algorithms to problem domain of your choice.
+Objectives:
+1. Become confident in the basic mathematics and algorithms underlying machine learning.
+2. Become confident in applying machine learning techniques to solve novel problems.
+3. Become ef fective in rapidly prototyping machine learning algorithms.
+4. Become ef fective in designing and conducting experiments with machine learning algorithm, and
+analyzing the results.
+ 
+Course Prerequisites
+Prerequisites: Grade of C or better in MA TH 304, MA TH 31 1, or MA TH 323; grade of C or better in
+STAT 211; grade of C or better in CSCE 221 or ST AT 404.  
+Cross Listing:  STAT 421/CSCE 421
+ 
+Special Course Designation
+Students taking this course for HNR credit (registered in section 200) will be assigned additional work,
+on top of the regular homework, programming assignments, and exams.
+ 
+Course Learning Outcomes
+1. Knowledge of basic mathematics and algorithms underlying various machine learning techniques.
+2. Knowlege of various supervised, unsupervised, and reinforcement learning algorithms.
+3. Ability to implement, from scratch, the above mentioned learning algorithms.
+4. Ability to formulate problems in a machine learning framework, and select the most appropriate
+machine learning algorithm.
+5. Ability to design and conduct machine learning experiments.
+6. Ability to analyze the results from machine learning experiments.9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 3/117. Appreciation of latest advances in machine learning (including but not limited to biologically
+motivated, neuroscience-inspired machine learning methods).
+8. Ability to seek more advanced knowledge in machine learning, as needed.
+9. Ability to use Colab for rapid prototyping, experimenting, and documenting.
+ 
+Textbook and/or Resource Materials
+Main text (required): Ethem Alpaydin (2020) Introduction to Machine Learning, 4th edition, MIT Press.
+[Book home page (4th edition)  (https://mitpress.mit.edu/books/introduction-machine-learning-
+fourth-edition) ] [Book home page (3rd edition)  (http://www.cmpe.boun.edu.tr/~ethem/i2ml3e/) ]
+Secondary text (optional but strongly recommended): T om Mitchell (1997) Machine Learning,
+McGraw-Hill. [ Book home page  (http://www.cs.cmu.edu/~tom/mlbook.html) ]
+Other recommended books:
+Kevin P . Murphy , "Probabilistic Machine Learning: An Introduction", MIT press, 2021.  [Book web
+site, with downloadable full text]  (https://probml.github.io/pml-book/book1.html)
+Chris Bishop, "Pattern Recognition and Machine Learning", Springer , 2006.  [Book web site]
+(https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) .
+Ian Goodfellow , Yoshua Bengio, and Aaron Courville, "Deep Learing", MIT press, 2016.  [Book
+web site]  (https://www.deeplearningbook.org/)
+Aston Zhang, Zachary C. Lipton, Mu Li, and Alesander J. Smola, "Dive into Deep
+Learning",  [Book web site, with downloadable jupyter notebook files]  (http://d2l.ai/)
+ 
+Grading Policy
+1. 4 assignments (each includes written and programming components), 12% each = 48%.
+Late policy: 1 point (out of 100 point total) deduction per hour (24/100 per day).
+All submissions should be done as colab notebooks. Download the ipynb file and submit it to
+Canvas.
+After completing each problem in the homework, "pin" the revision.
+As a separate file, submit the revision logs (turn of f "Output", compare current pin with
+immediate previous pin).
+Hand-written notes may be included in the notebook (scan or photo).
+If you are using a local Jupyter notebook install, submit your history (run the following
+command)
+%history -g -f filename.log 
+2. 2 exams (midterm 23%, final 23%) = 46%
+Exam will be conducted on Canvas  in class, in-person.
+3. Attendance: 6%
+1% deduction per unexcused absence (see T AMU student rules for excusable absences). Per
+university rule, only one interview is excusable. Y ou should schedule your interview to avoid9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 4/11the fixed midterm and final dates.
+Forged signatures will lead to 'F'. Use a consistent style. Do not use initials. 
+ 
+Late Work Policy
+Late penalty: 1 point (out of 100) per hour . Late submissions will not be accepted 4 days after the
+deadline and/or after the solution has been posted.
+ 
+Local Course Policy
+All work should be done  individually  and on your own .
+If you find solutions to homeworks or programming assignments on the web (or in a book, etc.),
+check with the instructor first to determine if you can use it or not.
+Assignments turned in that are significantly similar will be reported to the Aggie Honor System Of fice.
+There will be no make up exams  unless it is due to a genuine emergency defined by university
+rules. Examples of events that  do not  count as an emergency include the following: (1) Merely
+visiting the doctor's of fice without an explicit note from the of fice requesting absence. (2) Interview
+trips that got scheduled at the last moment, etc. Note that this is not an exhaustive list. All make up
+exams, if given, will be dif ferent from the original exam. Instructor may choose to give an oral exam
+instead of a written exam.
+ 
+Course Schedule
+Topics:
+1. computational learning theory: sample complexity , version space, P AC learning, VC dimension,
+mistake bound, cross-validation
+2. neural networks: perceptrons, multilayer perceptrons, backpropagation, gradient descent, stochastic
+gradient descent, optimizers, deep neural networks (convolutional networks, recurrent networks,
+attention)
+3. decision tree learning, support vector machines,
+4. dimensionality reduction: PCA, factor analysis, multidimensional scaling, Isomap, locally linear
+embedding
+5. genetic algorithms, neuroevolution
+6. unsupervised learning and local models: competitive learning, k-means, adaptive resonance theory ,
+self-organizing maps, radial basis functions, regression, learning vector quantization.
+7. Bayesian learning: maximum likelihood, minimum description length, Bayes optimal classifiers, Naive
+bayes classifiers. Bayesian belief network, EM algorithm.
+8. Biologically motivated models.9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 5/11 
+Schedule (rough): See Canvas homepage for reading and more up-to-date info. Homework dues may
+change. 
+ 
+WeekTuesday Thursday Topic AnnouncementsDues
+(Tentative)Comments
+1 1/18/2022 1/20/2022 Introduction1/16: MLK
+day
+2 1/25/2022 1/27/2022Supervised
+learning
+concepts1/24: last
+day for
+add/drop
+3 2/1/2022 2/3/2022Neural
+networkshw1 announced
+4 2/8/2022 2/10/2022Neural
+networks
+5 2/15/2022 2/17/2022Reinforcement
+learninghw2 announced hw1 due
+6 2/22/2022 2/24/2022Reinforcement
+learning
+7 3/1/2022 3/3/2022Decision tree
+learning
+8 3/8/2022 3/10/2022Midterm
+Exam  (in
+class: Thu)hw3 announced hw2 due3/7:
+midsemester
+grades due
+9 3/15/2022 3/17/2022 Spring Break
+10 3/22/2022 3/24/2022Dimensionality
+reduction
+11 3/29/2022 3/31/2022Bayesian
+learninghw4 announced hw3 due
+12 4/5/2022 4/7/2022Bayesian
+learning
+13 4/12/2022 4/14/2022 Local models4/15:
+reading day
+14 4/19/2022 4/21/2022 Deep learning4/19: last
+day for Q-
+drop
+15 4/26/2022 4/28/2022 Deep learning
+(Thu is lasthw4 due 4/28: last
+class9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 6/11class)
+16  5/5/20225/5(THU) :
+Final Exam
+12:30pm-
+2:30pm5/3:
+redefined
+day (meet
+Friday
+classes)
+ 
+Optional Course Information Items
+All homeworks and programming assignments will be in the form of google colab notebooks  (use
+TAMU NetID to login to colab).
+All submissions will be made through Canvas. 
+ 
+University Policies
+This section outlines the university level policies. The T AMU Faculty Senate established the wording of
+these policies.
+[NOTE : Faculty members should not change the written statements. A faculty member may add
+separate paragraphs if additional information is needed.]
+Attendance Policy
+The university views class attendance and participation as an individual student responsibility . Students
+are expected to attend class and to complete all assignments.
+Please refer to  Student Rule 7  (https://student-rules.tamu.edu/rule07/)  in its entirety for information
+about excused absences, including definitions, and related documentation and timelines.
+ 
+Makeup Work Policy
+Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’ s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor .
+Please refer to  Student Rule 7  (https://student-rules.tamu.edu/rule07/)  in its entirety for information
+about makeup work, including definitions, and related documentation and timelines.
+Absences related to T itle IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 7/11student and instructor”  (Student Rule 7, Section 7.4.1  (https://student-rules.tamu.edu/rule07/) ).
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed
+because of an unexcused absence”  (Student Rule 7, Section 7.4.2  (https://student-
+rules.tamu.edu/rule07/) ).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student
+Conduct Code.  (See Student Rule 24  (https://student-rules.tamu.edu/rule24/) ).
+ 
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor . If
+asked, students must be able to produce proof that the item submitted is indeed the work of that student.
+Students must keep appropriate records at all times. The inability to authenticate one’ s work, should the
+instructor request it, may be suf ficient grounds to initiate an academic misconduct case” ( Section
+20.1.2.3, Student Rule 20  (https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-
+Rules) ).
+Texas A&M at College Station
+You can learn more about the Aggie Honor System Of fice Rules and Procedures, academic integrity , and
+your rights and responsibilities at  aggiehonor .tamu.edu  (https://aggiehonor.tamu.edu/) .
+Texas A&M at Galveston
+You can learn more about the Honor Council Rules and Procedures as well as your rights and
+responsibilities at  tamug.edu/HonorSystem . (https://www.tamug.edu/HonorSystem/)
+Texas A&M at Qatar
+You can learn more about academic integrity and your rights and responsibilities at T exas A&M
+University at Qatar by visiting the  Aggie Honor System
+(https://www.qatar.tamu.edu/students/academic-services/aggie-honor-system)  website. 
+ 
+Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability , please contact Disability Resources of fice on your campus (resources listed below). Disabilities
+may include, but are not limited to attentional, learning, mental health, sensory , physical, or chronic
+health conditions. All students are encouraged to discuss their disability related needs with Disability
+Resources and their instructors as soon as possible.9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 8/11Texas A&M at College Station
+Disability Resources is located in the Student Services Building or at (979) 845-1637 or
+visit disability .tamu.edu  (https://disability.tamu.edu/) .
+Texas A&M at Galveston
+Disability Resources is located in the Student Services Building or at (409) 740-4587 or
+visit tamug.edu/counsel/Disabilities  (https://www.tamug.edu/counsel/Disabilities.html) .
+Texas A&M at Qatar
+Disability Services is located in the Engineering Building, room 318C or at +974.4423.0316 or
+visit https://www .qatar .tamu.edu/students/student-af fairs/disability-services.
+(https://www.qatar.tamu.edu/students/student-affairs/disability-services)
+ 
+Title IX and Statement on Limits to Conﬁdentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for all.
+University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including full
+and part-time faculty , staf f, paid graduate assistants, student workers, etc.) are Mandatory Reporters and
+must report to the T itle IX Of fice if the employee experiences, observes, or becomes aware of an
+incident that meets the following conditions  (see University Rule 08.01.01.M1  (https://rules-
+saps.tamu.edu/PDFs/08.01.01.M1.pdf) ):
+The incident is reasonably believed to be discrimination or harassment.
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University .
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper , class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most
+instances, a person who is subjected to the alleged conduct will be able to control how the report is
+handled, including whether or not to pursue a formal investigation. The University’ s goal is to make sure
+you are aware of the range of options available to you and to ensure access to the resources you need.
+Texas A&M at College Station
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment
+with Counseling and Psychological Services  (https://caps.tamu.edu/)  (CAPS).9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 9/11 Students can learn more about filing a report, accessing supportive resources, and navigating the T itle
+IX investigation and resolution process on the University’ s Title IX webpage  (https://titleix.tamu.edu/) .
+Texas A&M at Galveston
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment
+with the Counseling Office in the Seibel Student Center , or call (409)740-4587. For additional
+information, visit  tamug.edu/counsel  (http://www.tamug.edu/counsel) .
+Students can learn more about filing a report, accessing supportive resources, and navigating the T itle
+IX investigation and resolution process on the Galveston Campus’  Title IX webpage
+(https://www.tamug.edu/hrd/Title%20IX.html) .
+Texas A&M at Qatar
+Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting are
+encouraged to visit the  Health and W ellness  (https://www.qatar.tamu.edu/students/student-
+affairs/health-and-wellness/)  website for more information.
+Students can learn more about filing a report, accessing supportive resources, and navigating the T itle
+IX investigation and resolution process on the University’ s Title IX webpage  (https://titleix.tamu.edu/) .
+ 
+Statement on Mental Health and Wellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’ s academic success and overall wellbeing. Students are encouraged to engage in healthy self-
+care by utilizing available resources and services on your campus.
+Texas A&M College Station
+Students who need someone to talk to can contact  Counseling & Psychological Services
+(https://caps.tamu.edu/)  (CAPS) or call the  TAMU Helpline  (https://caps.tamu.edu/helpline/)  (979-845-
+2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency help is also
+available through the National Suicide Prevention Hotline (800-273-8255) or
+at suicidepreventionlifeline.org  (https://suicidepreventionlifeline.org/) .
+Texas A&M at Galveston
+Students who need someone to talk to can call (409) 740-4736 from 8:00 a.m. to 5:00 p.m. weekdays or
+visit tamug.edu/counsel  (https://www.tamug.edu/counsel/Disabilities.html)  for more information. For 24-
+hour emergency assistance during nights and weekends, contact the T AMUG Police Dept at (409) 740-
+4545. 24-hour emergency help is also available through the National Suicide Prevention Hotline (800-
+273-8255) or at  suicidepreventionlifeline.org  (https://suicidepreventionlifeline.org/) .
+Texas A&M at Qatar9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 10/11Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting are
+encouraged to visit the  Health and W ellness  (https://www.qatar.tamu.edu/students/student-
+affairs/health-and-wellness/)  website for more information.  
+ 
+Campus Speciﬁc Policies
+ 
+Texas A&M at Galveston
+Classroom Access and Inclusion Statement
+Texas A&M University is committed to engaged student participation in all of its programs and courses
+and provides an accessible academic environment for all students. This means that our classrooms, our
+virtual spaces, our practices and our interactions are as inclusive as possible and we work to provide a
+welcoming instructional climate and equal learning opportunities for everyone. If you have an
+instructional need, please notify me as soon as possible.
+The Aggie Core values of respect, excellence, leadership, loyalty , integrity and selfless service in
+addition to civility , and the ability to listen and to observe others are the foundation of a welcoming
+instructional climate. Active, thoughtful and respectful participation in all aspects of the course supports a
+more inclusive classroom environment as well as  our  (https://rules-
+saps.tamu.edu/PDFs/12.01.99.M2.pdf)  mutual
+(https://www.tamug.edu/studentrules/Students_Rights_Responsibilities.html)  responsibilities to the
+campus community .
+The following statements below are optional. Leave as is to include, or delete if preferred. Either
+way, delete this note.
+Statement on the Family Educational Rights and Privacy Act (FERP A)
+FERP A is a federal law designed to protect the privacy of educational records by limiting access to these
+records, to establish the right of students to inspect and review their educational records and to provide
+guidelines for the correction of inaccurate and misleading data through informal and formal hearings.
+Currently enrolled students wishing to withhold any or all directory information items may do so by going
+to howdy .tamu.edu   (https://howdy.tamu.edu/) and clicking on the "Directory Hold Information" link in
+the Student Records channel on the MyRecord tab. The complete  FERP A Notice to Students
+(http://registrar.tamu.edu/Catalogs%2C-Policies-Procedures/FERPA/FERPA-Notice-to-Students#0-
+StatementofRights)  and the student records policy is available on the Of fice of the Registrar webpage.
+Items that can never be identified as public information are a student’ s social security number ,
+citizenship, gender , grades, GPR or class schedule. All ef forts will be made in this class to protect your
+privacy and to ensure confidential treatment of information associated with or generated by your
+participation in the class.9/15/22, 3:44 PM Syllabus for 22 SPRING CSCE 421 MACHINE LEARNING (Sections 200/500)
+https://canvas.tamu.edu/courses/137553/assignments/syllabus 11/11Directory items include name, UIN, local address, permanent address, email address, local telephone
+number , permanent telephone number , dates of attendance, program of study (college, major , campus),
+classification, previous institutions attended, degrees honors and awards received, participation in
+officially recognized activities and sports, medical residence location and medical residence
+specialization.
+ 
+ 
+COVID safety
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’ s academic success and overall wellbeing. Students are encouraged to engage in healthy self-
+care by utilizing available resources and services on your campus.
+To help protect Aggieland and stop the spread of COVID-19, T exas A&M University urges students to be
+vaccinated and to wear masks in classrooms and all other academic facilities on campus, including labs. 
+Doing so exemplifies the Aggie Core V alues of respect, leadership, integrity , and selfless service by
+putting community concerns above individual preferences. COVID-19 vaccines and masking —
+regardless of vaccination status — have been shown to be safe and ef fective at reducing spread to
+others, infection, hospitalization, and death.  
+ 
+Texas A&M College Station

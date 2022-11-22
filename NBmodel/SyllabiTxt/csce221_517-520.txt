@@ -1,0 +1,274 @@
+Course Information   
+Course Information   
+Course Number:   CSCE221  
+Course Title:   Data Structures and Algorithms  
+Section:   517 - 520 
+Time: Lec - MWF 12:40 pm to 1:30 pm/ Labs - MW 8:00 am to 12:20 pm  
+Location:   ZACH 244/ZACH 596  
+Credit Hours: 3  
+Instructor Details   
+Instructor:   Harpreet Singh Chawla  
+Office:   L.F. Peterson Building, 2nd Floor  
+Phone:    
+E-Mail:   harpreetsc@tamu.edu  
+Office Hours: Friday 2:00 pm - 4:00 pm or appointment by email  
+Course Description   
+Specification, analysis and implemen tation of abstract data types for lists, stacks, queues, 
+trees, hash tables, graphs, and their associated algorithms. Performance trade -offs of 
+different implementations; asymptotic analysis of running time and memory usage. Includes 
+the execution of stude nts programs written in C++; emphasis on adherence to good software 
+engineering principles.   
+Course Prerequisites   
+ CSCE 121 " Introduction to Program Design and Concepts"  
+ CSCE 222 " Discrete Structures " or MATH 302 " Discre te Mathematics " (at-least co -
+requisite)  
+Course Learning Outcomes   
+At the end of this course students should be able to:  
+1. Design and implement diverse data structures that allow easy access and manipulation 
+of data using C++ programming language.  
+2. Use the dat a structures to implement algorithms.  
+3. Apply the Big -O asymptotic notation to analyse and select an efficient algorithm for 
+solving a given problem with respect to runtime and memory usage.  
+Textbook and/or Resource Materials   
+ Recommended Textbooks:  
+o “Data S tructures and Algorithm Analysis in C++”, 4th Edition, Mark A. 
+Weiss, 2014, Pearson, ISBN -13: 978 -0132847377 or ISBN -10: 013284737X.  o “Data Structures and Algorithms in C++ 2nd Edition”, 2nd Edition, Michael 
+T. Goodrich, Roberto Tamassia, David M. Mount, ISBN -13: 978 -0470383278 
+or ISBN -10: 0470383275.  
+o You may need a textbook on C++ language from the previous semester, or any 
+good C++ reference book(s).  
+ Slides used in the class/lectures.  
+Grading Policy   
+ Grading Scale: 90 -100 – A; 80 - <90 – B; 70 - <80 – C; 60- <70 – D; Below 60 – F.  
+ There will be  
+o 4 Assignments, each building upon the previous one. The 4 assignments 
+together will make one course project.  
+o Labs every week, managed by the TA(s) – Coding questions to solve in 50 
+minutes. Take home if incomplete and submit for 20% of the points by the end 
+of the day.  
+o There will be two exams, a midterm and a final, both conceptual, multi -choice.  
+o A quiz every week (1 hour, 10 points), based on the materials covered in the 
+week.  
+o Peer reviews of the pseudocode/algo rithm question of assignments.  
+ 4 Assignments – 35%; 15% Labs; 10% Peer Reviews; 25% - exams (10% midterm 
+and 15% final); 15% Quizzes.  
+Rubrics  Weightage (%)  Range of Marks  Grade  
+Assignments  35 90 – 100 A 
+Labs  15 80 – <90  B 
+Midterm  10 70 – <80 C 
+Final  15 60 – <70 D 
+Quiz  15 < 60  F 
+Peer Reviews  10     
+  
+Note about graded materials:  
+ Assignments  – The first question will be about writing the pseudocode for the 
+assignment (30%) (Unless stated otherwise). The next question will be about writing 
+the corresponding code (50%), and an analysis of the time complexity of an algorithm 
+(20%).  
+o You ARE ALLOWED to discuss with your peers, but those discussions 
+should be limited to logic and the concepts.  
+o You ARE NOT ALLOWED to copy their solutions. We have tools that detect 
+plagiarism, including similar code logic and program flow.  
+o You MUST MENTIO N the names of the students you discussed the concepts 
+with. There will be at least one name always there – of the student you did the 
+peer review with. If there are other students with whom you discuss the logic, 
+mention them. Note:  Your code will be chec ked for plagiarism against your 
+peers and github repos we can locate that have similar codes on them.  o The pseudocode aspect of the assignment will be submitted and peer reviewed 
+one week  from the doling out of the assignment. The submission date will be 
+mentioned in the assignment. Changes can be made to the pseudocode based 
+on peer reviews (if deemed appropriate by the student themselves) for final 
+submission.  
+o The code should have comments explaining the logic of the code. If there is 
+any block of code tha t is doing something logical, briefly explain the logic for 
+doing so, briefly (ideally in 2 – 3 sentences). Not doing so will lead to a 5% 
+deduction from the coding section of the assignment.  
+ Labs  – A coding assignment in the lab directed by the TA. If not  completed in the lab, 
+complete it by the end of the day to receive partial credit (20%). If you collaborate 
+with anyone (both in and out of the lab), mention it in the comments above the 
+submitted code. All labs carry equal weightage.  
+ Quiz  – A weekly quiz  to evaluate the understanding of the concepts, code and 
+complexity analysis of the algorithms or data structures taught in the week.  
+ Midterm/Final  – Questions testing the understanding of concepts. All multi -choice. 
+One-third of the final will be based on  material covered before midterm.  
+ Peer Review – Students will be reviewing each other’s pseudocode for each 
+assignment (groups of 2, different for each assignment). An advice is to consult each 
+other about the review that the students submit. They will com ment on:  
+o The correctness of the pseudocode/algorithm.  
+o How the pseudocode/algorithm could be improved.  
+o And how the reviewee’s own pseudocode/algorithm either dealt with what the 
+reviewer got wrong, and/or how the reviewee can fix mistakes in their 
+pseudoco de/algorithm.  
+Note:  The review should be about the logic, rather than focused on the syntax. Sound, good 
+faith critiquing (even if incorrect) will receive full grade.  
+Class Participation  – Peer -review and allowing discussions over the assignments and labs  
+will test your interaction skills in the course. Peer -review will substitute for your class 
+participation.   
+Attendance  – Attendance is highly recommended, but not a graded component.  
+Late Work Policy   
+Unless a student has taken permission for submitting late, the following rules will apply:  
+ We will follow a cumulative grading system . You can submit assignments late, but all 
+the late days for each assignment will be tallied at the end of the semester. Th is also 
+means that if you submit your assignment before the deadline, those number of days 
+will be subtracted from your late days tally. This is to keep you motivated and not 
+give up mid -way through the semester if you fall behind in any assignment, giving  
+you room to make up for the lost time.  
+ If in-spite of submitting any initial assignments late, ALL assignments are submitted 
+before or on the deadline day of the 4th Assignment, no late penalty will be incurred.  
+ Late day penalty: We will deduct 1.25 per e very late day from the final score of the 
+assignments . That means, if the cumulative total of all assignments was 450/500 
+(90%), for example, with a total of 10 late days, 12.5 will be deducted from 90 (totaling 77.5). In the final score, 77.5 will be cons idered for the 35% component of 
+the grading scale instead of 90.  
+ Work submitted by a student as makeup work for an excused absence is not considered late 
+work and is exempted from the late work policy. To understand the circumstances under 
+which makeup wo rk or excused absences are allowed, please read Student Rule 7 . 
+Course Schedule   
+Google Drive link is shared with the class.  
+Course Information Items   
+Technology Support – We will be using:   
+ Canvas - For Quizzes and uploading of assignments documents  
+ Github - Push your submissions to your private repositories  
+ Piazza - Join the Piazza course page for discussions regarding anything pertaining to 
+the class. https://piazza.com/tamu/spring2022/csce 221517520/home  
+University Policies   
+This section outlines the university level policies. The TAMU Faculty Senate established the 
+wording of these policies.  
+ 
+Attendance Policy   
+The university views class attendance and par ticipation as an individual student 
+responsibility. Students are expected to attend class and to complete all assignments.  
+Please refer to Student Rule 7  in its entirety for information abo ut excused absences, 
+including definitions, and related documentation and timelines.  
+Makeup Work Policy   
+Students will be excused from attending class on the day of a graded activity or when 
+attendance contributes to a student’s grade, for the reasons stat ed in Student Rule 7, or other 
+reason deemed appropriate by the instructor.  
+Please refer to Student Rule 7  in its entirety for information about makeup work, including 
+definitions, and rela ted documentation and timelines.  
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period 
+of more than 30 days for make -up work, and the timeframe for make -up work should be 
+agreed upon by the student and instructor” (Student Rule 7, Section 7.4.1 ). “The instructor is under no obligation to provide an opportunity for the student to make up 
+work missed because of an unexcused absence” (Student Rule 7, Section 7.4.2 ). 
+Students who request an excused absence are expected to uphold the Aggie Honor Code and 
+Student Conduct Code. (See Student Rule 24 ). 
+Academic Integrity Statement and Policy   
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”  
+“Texas A&M University students are responsible for authenticating all work submitted to an 
+instructor. If  asked, students must be able to produce proof that the item submitted is indeed 
+the work of that student. Students must keep appropriate records at all times. The inability to 
+authenticate one’s work, should the instructor request it, may be sufficient gr ounds to initiate 
+an academic misconduct case” ( Section 20.1.2.3, Student Rule 20 ). 
+Texas A&M at College Station  
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic 
+integrity, and your rights and responsibilities at aggiehonor.tamu.edu .  
+Texas A&M at Galveston  
+You can learn more about the Honor Council Rules and Procedures as well as your rights 
+and responsibilities at tamug.edu/HonorSystem . 
+Texas A&M at Qatar  
+You can learn more about academic integrity and your  rights and responsibilities at Texas 
+A&M University at Qatar by visiting the Aggie Honor System  website.    
+Americans with Disabilities Act (ADA) Policy   
+Texas A&M Uni versity is committed to providing equitable access to learning opportunities 
+for all students. If you experience barriers to your education due to a disability or think you 
+may have a disability, please contact Disability Resources office on your campus (r esources 
+listed below). Disabilities may include, but are not limited to attentional, learning, mental 
+health, sensory, physical, or chronic health conditions. All students are encouraged to discuss 
+their disability related needs with Disability Resources and their instructors as soon as 
+possible.  
+Texas A&M at College Station  
+Disability Resources is located in the Student Services Building or at (979) 845 -1637 or visit 
+disability.tamu.edu . 
+Texas A&M at Galveston  
+Disability Resources is located in the Student Services Building or at (409) 740 -4587 or visit 
+tamug.edu/counsel/Disabilities .  Texas A&M at Qatar  
+Disability Services is located in the Enginee ring Building, room 318C or at +974.4423.0316 
+or visit https://www.qatar.tamu.edu/students/student -affairs/disability -services.   
+Title IX and Statement on Limits to Con fidentiality   
+Texas A&M University is committed to fostering a learning environment that is safe and 
+productive for all. University policies and federal and state laws prohibit gender -based 
+discrimination and sexual harassment, including sexual assault, se xual exploitation, domestic 
+violence, dating violence, and stalking.  
+With the exception of some medical and mental health providers, all university employees 
+(including full and part -time faculty, staff, paid graduate assistants, student workers, etc.) are  
+Mandatory Reporters and must report to the Title IX Office if the employee experiences, 
+observes, or becomes aware of an incident that meets the following conditions  (see 
+Univers ity Rule 08.01.01.M1 ): 
+ The incident is reasonably believed to be discrimination or harassment.  
+ The incident is alleged to have been committed by or against a person who, at the 
+time of the incident, was (1) a student enrolled at the University or (2) an em ployee of 
+the University.  
+Mandatory Reporters must file a report regardless of how the information comes to their 
+attention – including but not limited to face -to-face conversations, a written class assignment 
+or paper, class discussion, email, text, or so cial media post. Although Mandatory Reporters 
+must file a report, in most instances, a person who is subjected to the alleged conduct will be 
+able to control how the report is handled, including whether or not to pursue a formal 
+investigation. The Universi ty’s goal is to make sure you are aware of the range of options 
+available to you and to ensure access to the resources you need.  
+Texas A&M at College Station  
+Students wishing to discuss concerns in a confidential setting are encouraged to make an 
+appointme nt with Counseling and Psychological Services  (CAPS).  
+ Students can learn more about filing a report, accessing supportive resources, and 
+navigating the Title IX investigation and resolution process on the University ’s Title IX 
+webpage .  
+Texas A&M at Galveston  
+Students wishing to discuss concerns in a confidential setting are encouraged to make an 
+appointment with the Counseling Office in the Seibel Student Center, or call (40 9)740 -4587. 
+For additional information, visit tamug.edu/counsel .  
+Students can learn more about filing a report, accessing supportive resources, and 
+navigating the Title IX investigation and resolution process o n the Galveston Campus’ Title 
+IX webpage . Texas A&M at Qatar  
+Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting 
+are encouraged to visit the Health and Wellness  website for more information.  
+Students can learn more about filing a report, accessing supportive resources, and 
+navigating the Title IX investigation and resolution process on the University’s Title IX 
+webpage .  
+Statement on Mental Health and Wellness   
+Texas A&M University recognizes that mental health and wellness are critical factors that 
+influence a student’s academic success and overall wellbeing. Students are encouraged to 
+engage in healthy self -care by utilizing available resources and se rvices on your campus.  
+Texas A&M College Station  
+Students who need someone to talk to can contact Counseling & Psychological Services  
+(CAPS) or call the TAMU Helpline  (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays 
+and 24 hours on weekends. 24 -hour emergency help is also available through the National 
+Suicide Prevention Hotline (800 -273-8255) or at suicidepreventionlifeline.org .  
+Texas A&M at Galveston  
+Students who need someone to talk to can call (409) 740 -4736 from 8:00 a.m. to 5:00 p.m. 
+weekdays or visit tamug.edu/counsel  for more information. For 24 -hour emergency 
+assistance during nights and weekends, contact the TAMUG Police Dept at (409) 740 -4545. 
+24-hour emergency help is also available through the National Suicide Prevention Hotline 
+(800-273-8255) or at suicidepreventionlifeline.org .  
+Texas A&M at Qatar  
+Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting 
+are encouraged to visit the Health and Wellness  website for more information.   
+Campus Specific Policies   
+Texas A&M at Galveston  
+Classroom Access and Inclusion Statement  
+Texas A&M University is committed to engaged student participation in all of its programs 
+and courses and provides an accessible academic environment for all students. This means 
+that our classrooms, our virtual spaces, our practices and our interactions are as inclusive as 
+possible and we work to provide a welcoming inst ructional climate and equal learning 
+opportunities for everyone. If you have an instructional need, please notify me as soon as 
+possible.  
+The Aggie Core values of respect, excellence, leadership, loyalty, integrity and selfless 
+service in addition to civil ity, and the ability to listen and to observe others are the foundation of a welcoming instructional climate. Active, thoughtful and respectful participation in all 
+aspects of the course supports a more inclusive classroom environment as well as our mutual  
+responsibilities to the campus community . 
+Statement on the Family Educational Rights and Privacy Act (FERPA)  
+FERPA is a federal law designed to protect t he privacy of educational records by limiting 
+access to these records, to establish the right of students to inspect and review their 
+educational records and to provide guidelines for the correction of inaccurate and misleading 
+data through informal and fo rmal hearings. Currently enrolled students wishing to withhold 
+any or all directory information items may do so by going to howdy.tamu.edu  and clicking 
+on the "Directory Hold Information" link in the Student Records channel on the MyRecord 
+tab. The complete FERPA  Notice to Students  and the student records policy is available on 
+the Office o f the Registrar webpage.  
+Items that can never be identified as public information are a student’s social security 
+number, citizenship, gender, grades, GPR or class schedule. All efforts will be made in this 
+class to protect your privacy and to ensure confi dential treatment of information associated 
+with or generated by your participation in the class.  
+Directory items include name, UIN, local address, permanent address, email address, local 
+telephone number, permanent telephone number, dates of attendance, p rogram of study 
+(college, major, campus), classification, previous institutions attended, degrees honors and 
+awards received, participation in officially recognized activities and sports, medical residence 
+location and medical residence specialization.  
+ 
+ 

@@ -1,0 +1,251 @@
+12/16/21, 3:19 PM Syllabus: 22 SPRING CSCE 222 501: DISCRETE STRUC COMPUTING
+https://texasam.instructure.com/courses/136448/pages/syllabus 1/9Syllabus
+Course Information
+ 
+Course Information
+Course Number: CSCE 222  
+Course T itle: Discrete Structures for Computing  
+Section: 501, 502  
+Time:  501: MWF 01:50 pm-02:40 pm, 502: MWF 03:00 pm-03:50 pm  
+Location: ZACH 350  
+Credit Hours: 3
+ 
+Instructor Details
+Instructor: Martin Carlisle  
+Office: PETR 221  
+Phone: 979-862-7928  
+E-Mail: the_doctor@tamu.edu  
+Office Hours: will be posted on Canvas
+ 
+Course Description
+This course provides the mathematical foundations from discrete mathematics for analyzing
+computer algorithms, for both correctness and performance; introduction to models of computation,
+including finite state machines and T uring machines. 
+ 
+Course Prerequisites
+MATH 151
+ 
+Special Course Designation12/16/21, 3:19 PM Syllabus: 22 SPRING CSCE 222 501: DISCRETE STRUC COMPUTING
+https://texasam.instructure.com/courses/136448/pages/syllabus 2/9None
+ 
+Course Learning Outcomes
+At the end of the course, students will understand the basic principles of logic, proofs and sets. They
+will be able to apply results from discrete mathematics to the analysis of algorithms. They will be able
+to produce proofs by induction and apply counting techniques. They will have a basic understanding
+of models of computation.
+ 
+Textbook and/or Resource Materials
+Discrete Mathematics and Its Applications , 8 Edition, Kenneth H. Rosen, McGraw Hill Education.
+ISBN-13: 978-1259676512  
+ISBN-10: 125967651X
+Canvas: https://canvas.tamu.edu  (https://canvas.tamu.edu)
+Assignment T urnin: https://gradescope.com  (https://gradescope.com)
+Course videos: https://drive.google.com/drive/folders/1i8R YXUor69_VSXv-R Y8Zxpil_I9nPBm-?
+usp=sharing  (https://drive.google.com/drive/folders/1i8RYXUor69_VSXv-RY8Zxpil_I9nPBm-?
+usp=sharing) (must use T AMU Google account to access)
+LaTeX References
+(The Not So Short) Introduction to LaT eX  (http://faculty.cse.tamu.edu/hlee/csce222/lshort.pdf)
+(Skim Chapter 1 and Study Chapter 3)
+Short Math Guide for LaT eX  (http://faculty.cse.tamu.edu/hlee/csce222/downes-short-math-
+guide.pdf)
+Comprehensive LaT eX Symbol List  (http://faculty.cse.tamu.edu/hlee/csce222/LaTexSymbols-
+letter.pdf)
+Grading Policy
+Quizzes: 25 points each (x10, but only top 8 counted)
+Homeworks: 20 points each (x13, but lowest three dropped). A subset of each homework will be
+graded for correctness. The other problems will be graded for completeness only . Your assignments
+must be submitted in LaT eX (see references above). Submit assignment to gradescope
+(https://www .gradescope.com)
+Midterm exams: 200 points each (x 2)th12/16/21, 3:19 PM Syllabus: 22 SPRING CSCE 222 501: DISCRETE STRUC COMPUTING
+https://texasam.instructure.com/courses/136448/pages/syllabus 3/9Final exam:  200 points
+A >= 900 points
+B = 800-899 points
+C = 700-799 points
+D = 600-699 points
+F = <600 points
+Regrading Policy
+We will make an ef fort to complete the grading of work within one week of the turnin date. If you
+believe your work was graded incorrectly or incompletely , you must submit a regrade request in
+Gradescope within one week.  Only if you can prove to the grader that your solution is correct and
+complete will your work be regraded.
+Late W ork/Attendance Policy
+Late homeworks are not accepted and are worth 0 points.
+Work submitted by a student as makeup work for an excused absence is not considered late work
+and is exempted from the late work policy . (See Student Rule 7  (https://student-
+rules.tamu.edu/rule07/) ).
+ 
+Course Schedule
+Week Topic Required Reading
+1 (Jan 19,21)Introduction
+Propositional LogicSyllabus
+1.1-1.4
+2 (Jan 24,26,28)Propositional Logic (HW 1 due Mon)
+Rules of Inference, Quiz 1 (W eds)
+Proofs1.5
+1.6
+1.7
+3 (Jan 31, Feb 2,4) Proofs (HW 2 due Mon)
+Quiz 2 (W eds)1.8
+ 12/16/21, 3:19 PM Syllabus: 22 SPRING CSCE 222 501: DISCRETE STRUC COMPUTING
+https://texasam.instructure.com/courses/136448/pages/syllabus 4/9Sets 2.1-2.2
+4 (Feb 7,9,1 1)Functions (HW 3 due Mon)
+Sequences and Sums
+Quiz 3 (W eds)
+Cardinality of Sets2.3
+2.4
+ 
+2.5
+5 (Feb 14,16,18)Cardinality of Sets (HW 4 due Mon)
+First Midterm Exam (W ed Feb 16)
+Algorithms2.5
+(through 2.4)
+3.1
+6 (Feb 21,23,25)Growth of Functions (HW 5 due
+Mon)
+Quiz 4 (W eds)
+Complexity of Algorithms3.2
+ 
+3.3
+7 (Feb 28, Mar 2,4)Mathematical Induction (HW 6 due
+Mon)
+Quiz 5 (W eds)5.1-5.2
+8 (Mar 8,10,12)Recursive Functions (HW 7 due
+Mon)
+Quiz 6 (W eds)
+Recursive Algorithms5.3
+ 
+5.4
+March 14-18 SPRING BREAK  
+9 (Mar 21,23,25)Counting (HW 8 due Mon)
+Quiz 7 (W eds)6.1-6.4
+10 (Mar 28, 30, Apr1)Advanced Counting (HW 9 due Mon)
+Quiz 8 (W ed)8.1-8.412/16/21, 3:19 PM Syllabus: 22 SPRING CSCE 222 501: DISCRETE STRUC COMPUTING
+https://texasam.instructure.com/courses/136448/pages/syllabus 5/911 (Apr 4,6,8) Crypto Math (HW 10 due Mon)
+2nd Midterm Exam (W ed Apr 6)4.1-4.6
+(through 8.4)
+12 (Apr 1 1,13)
+April 15 - NO CLASSCrypto Math
+NO QUIZ WEDS4.1-4.6
+13 (Apr 18,20,22)Relations (HW 1 1 due Mon)
+Quiz 9 (W ed)9.1,9.5-9.6
+14 (Apr 25,27,29)Finite State Machines (HW 12 Mon)
+Quiz 10 (W ed)
+Languages and Grammars13.3
+ 
+13.1-13.2
+15 (May 2)Languages and Grammars (HW 13
+due Mon)
+Last day of class is Mon May 213.4, 13.5
+Final exam date: (from Registrar's website  (https://registrar.tamu.edu/Courses,-Registration,-
+Scheduling/Final-Examination-Schedules#6-May9(Monday)) ). Section 501: May 9, 3:30 – 5:30 p.m.
+Section 502: May 9, 10:30 a.m. – 12:30 p.m.    
+ 
+University Policies
+This section outlines the university level policies. The T AMU Faculty Senate established the wording
+of these policies.
+ 
+Attendance Policy
+The university views class attendance and participation as an individual student responsibility .
+Students are expected to attend class and to complete all assignments.
+Please refer to Student Rule 7   (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about excused absences, including definitions, and related documentation and timelines.
+ 12/16/21, 3:19 PM Syllabus: 22 SPRING CSCE 222 501: DISCRETE STRUC COMPUTING
+https://texasam.instructure.com/courses/136448/pages/syllabus 6/9Makeup W ork Policy
+Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’ s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor .
+Please refer to Student Rule 7  (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about makeup work, including definitions, and related documentation and timelines.
+Absences related to T itle IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” (Student Rule 7, Section 7.4.1  (https://student-rules.tamu.edu/rule07/) ).
+“The instructor is under no obligation to provide an opportunity for the student to make up work
+missed because of an unexcused absence” (Student Rule 7, Section 7.4.2  (https://student-
+rules.tamu.edu/rule07/) ).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and
+Student Conduct Code. (See Student Rule 24  (https://student-rules.tamu.edu/rule24/) ).
+ 
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor .
+If asked, students must be able to produce proof that the item submitted is indeed the work of that
+student. Students must keep appropriate records at all times. The inability to authenticate one’ s work,
+should the instructor request it, may be suf ficient grounds to initiate an academic misconduct case”
+(Section 20.1.2.3, Student Rule 20  (https://aggiehonor.tamu.edu/Rules-and-
+Procedures/Rules/Honor-System-Rules) ).
+Texas A&M at College Station
+You can learn more about the Aggie Honor System Of fice Rules and Procedures, academic integrity ,
+and your rights and responsibilities at aggiehonor .tamu.edu  (https://aggiehonor.tamu.edu/) .
+ 
+ 
+Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a12/16/21, 3:19 PM Syllabus: 22 SPRING CSCE 222 501: DISCRETE STRUC COMPUTING
+https://texasam.instructure.com/courses/136448/pages/syllabus 7/9disability , please contact Disability Resources of fice on your campus (resources listed below).
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory , physical,
+or chronic health conditions. All students are encouraged to discuss their disability related needs with
+Disability Resources and their instructors as soon as possible.
+Texas A&M at College Station
+Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit
+disability .tamu.edu  (https://disability.tamu.edu/) .
+ 
+Title IX and Statement on Limits to Confidentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for
+all. University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including
+full and part-time faculty , staf f, paid graduate assistants, student workers, etc.) are Mandatory
+Reporters and must report to the T itle IX Of fice if the employee experiences, observes, or becomes
+aware of an incident that meets the following conditions  (see University Rule 08.01.01.M1
+(https://rules-saps.tamu.edu/PDFs/08.01.01.M1.pdf) ):
+The incident is reasonably believed to be discrimination or harassment.
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University .
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper , class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in
+most instances, a person who is subjected to the alleged conduct will be able to control how the
+report is handled, including whether or not to pursue a formal investigation. The University’ s goal is to
+make sure you are aware of the range of options available to you and to ensure access to the
+resources you need.
+Texas A&M at College Station
+Students wishing to discuss concerns in a confidential setting are encouraged to make an
+appointment with Counseling and Psychological Services  (https://caps.tamu.edu/) (CAPS).
+ Students can learn more about filing a report, accessing supportive resources, and navigating the
+Title IX investigation and resolution process on the University’ s Title IX webpage
+(https://titleix.tamu.edu/) .12/16/21, 3:19 PM Syllabus: 22 SPRING CSCE 222 501: DISCRETE STRUC COMPUTING
+https://texasam.instructure.com/courses/136448/pages/syllabus 8/9 
+ 
+Statement on Mental Health and W ellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’ s academic success and overall wellbeing. Students are encouraged to engage in healthy
+self-care by utilizing available resources and services on your campus.
+Texas A&M College Station
+Students who need someone to talk to can contact Counseling & Psychological Services
+(https://caps.tamu.edu/) (CAPS) or call the TAMU Helpline  (https://caps.tamu.edu/helpline/) (979-
+845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency
+help is also available through the National Suicide Prevention Hotline (800-273-8255) or at
+suicidepreventionlifeline.org  (https://suicidepreventionlifeline.org/) .
+Campus Policies
+Statement on the Family Educational Rights and Privacy Act (FERP A)
+FERP A is a federal law designed to protect the privacy of educational records by limiting access to
+these records, to establish the right of students to inspect and review their educational records and to
+provide guidelines for the correction of inaccurate and misleading data through informal and formal
+hearings. Currently enrolled students wishing to withhold any or all directory information items may
+do so by going to howdy .tamu.edu   (https://howdy.tamu.edu/) and clicking on the "Directory Hold
+Information" link in the Student Records channel on the MyRecord tab. The complete FERP A Notice
+to Students  (http://registrar.tamu.edu/Catalogs%2C-Policies-Procedures/FERPA/FERPA-Notice-to-
+Students#0-StatementofRights) and the student records policy is available on the Of fice of the
+Registrar webpage.
+Items that can never be identified as public information are a student’ s social security number ,
+citizenship, gender , grades, GPR or class schedule. All ef forts will be made in this class to protect
+your privacy and to ensure confidential treatment of information associated with or generated by your
+participation in the class.
+Directory items include name, UIN, local address, permanent address, email address, local
+telephone number , permanent telephone number , dates of attendance, program of study (college,
+major , campus), classification, previous institutions attended, degrees honors and awards received,
+participation in of ficially recognized activities and sports, medical residence location and medical
+residence specialization.
+ 12/16/21, 3:19 PM Syllabus: 22 SPRING CSCE 222 501: DISCRETE STRUC COMPUTING
+https://texasam.instructure.com/courses/136448/pages/syllabus 9/9

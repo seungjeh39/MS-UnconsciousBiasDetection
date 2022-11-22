@@ -1,0 +1,401 @@
+Human-Computer Interaction - CSCE 436 (Spring 2022)
+Seminar + Studio combined class. In this class, you will learn various details of cutting-edge technologies and
+prototyping techniques to make tangible computers for human-computer interaction. This class intends to
+provide a general understanding of HCI theories, design principles, design & implementation techniques, then
+to offer fundamental skills for prototyping to investigate users’ needs in product/system development.
+Learning Outcomes
+With the focus on a broad spectrum of technical HCI, student will be able to describe (1) fundamental HCI
+principles and how they support the process of the new technology development, (2) the process of HCI
+research from need finding to user evaluation, and develop (4) prototypes of digital/physical artifacts using
+machines and tools– skill acquisitions for effective communication.
+Instructor
+Jeeeun Kim (
+http://jeeeunkim.com/
+)
+Email:
+Jeeeun.kim@tamu.edu
+Office hours: Friday 10 am-12 pm
+PETR 336 or via Zoom (tamu.zoom.us/my/jeeeunkim), otherwise by appointment.
+Teaching Staff
+Nahyun Kwon (TA, Co-Instructor)
+Email:
+nahyunkwon@tamu.edu
+Zoom link:
+https://tamu.zoom.us/j/7647927393
+(979-422-1648)
+Office hours: Tuesday 5 pm - 7 pm, via Zoom or by appointment.
+Han Zhang (Grader)
+Email:
+zh89118877@tamu.edu
+Himani Deshpande (Co-Instructor)
+Email:
+hdeshpande11@tamu.edu
+Abul Al Arabi (Co-Instructor)
+Email:
+abulalarabi@tamu.edu
+Logistics
+F2F,
+Synchronous
+If you have tested positive for covid or need quarantine, please email the instructor, the class zoom link will be
+provided to attend immediately.
+Zoom recording of the lecture will be available through Canvas momentarily.
+Class Time: Wednesday 4:10pm - 6:50pm
+(We will start at 4:15pm for people who need some time for relocation)Course Website
+For questions, assignments, activities, midterm/final submissions, communications:
+https://csce436spring22.slack.com
+Grading Policies
+Scale
+90-100
+A
+80-89
+B
+70-79
+C
+60-69
+D
+<60
+F
+Weight
+Participation (class participation): 10%
+Assignments + In-studio activities (Individual, unless specified): 30%
+Midterm project* (Group project): 30%
+Final project* (Group project): 30%
+*project grading will be partly peer-reviewed (50%), and grader/TA graded. Breakdowns will be provided
+in the
+Class Slack (  
+csce436spring22.slack.com)& Canvas
+No written exam, no quiz
+Deliverables
+Assignment (Individual)t: HCI observation activities, interactive system design/prototyping practices, evaluation
+techniques, peer-review critiques
+Submit through the slack for
+Open Curation
+.
+Always due by Tuesday 11:59 pm (CT) of the following week, unless specified.
+Midterm 1: YouTube Video on the deployment of your flipped affordance
+Final project: Prototype of your own interactive system/machine
+invention
+1.
+Project website showcasing your work;
+■
+Introduction and Motivation: What important real-world issue does this solve?
+■
+Descriptions of system design/development processes
+■
+Photos of your prototype
+■
+Video of your usage scenario (walkthrough)
+2.
+Presentation of your final projectRequirements
+●
+No prerequisite,
+I welcome all students with various
+backgrounds
+(CS/CE, EE, ME, Architecture,
+Design, Material Science, etc.)
+●
+There will be a random selection of class activity presenters,
+if you miss the class so miss the
+presentation without notice, your final grade will be downgraded by one letter grade
+●
+Always bring something to sketch with
+●
+no texting/Facebooking/Instagramming during the class --
+No exception
+●
+Be ready for heavy hands-on studio activities and projects; you will be likely to spend 3+ hours/week
+●
+This class will introduce a wide variety of topics in rapid prototyping and late-breaking interaction
+technologies with VERY quick turnarounds. You don’t need to be a geek, but
+you should become a
+fast learner:
+acquire new skills and self-advance
+to the (semi)expert level with your investment.
+●
+Bring your own passion and motivation-- This course will help you build your portfolio & research
+experiences with QUALITY, not your course credits with QUANTITY
+Reading
+Week 1:
+■
+Reflective Physical Prototyping through Integrated Design, Test, and Analysis
+(UIST’06) by Björn
+Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher,
+Jennifer Gee
+Week 2:
+■
+How Bodies matter: five themes for interaction desig
+n
+(DIS’06) by Scott R. Klemmer, Björn Hartmann,
+and Leila Takayama
+■
+Organic User Interfaces & Tangible Interfaces
+(Communications
+of ACM) by Roel Vertegaal, Ivan
+Poupyrev, Hiroshi Ishii
+Week 3:
+■
+User Centered Design Process
+by MIT CSAIL HCI
+■
+Needfidning Tools
+by Stanford d. School
+Week 4:
+■
+Integrating Craft Materials and Computation
+by Glenn
+Blauvelt, Thomas Wrensch, Michael Eisenberg
+■
+Middle tech: blurring the division between high and low tech in education
+by Michael and Ann
+Eisenberg
+Week 5:
+■
+Creativity Support Tools
+by Ben Shneiderman
+Week 6:
+■
+What do Prototypes Prototype?
+(In Handbook of Human-computer
+interaction, 2nd ed.) by Stephanie
+Houde, Charles Hill
+■
+Getting the Right Design and the Design Right: Testing Many Is Better Than One
+by Maryam Tohidi,
+William Buxton, Ronald Baecker, Abigail SellenWeek 7:
+■
+The Dark Side (Patterns) of UX Desig
+n
+by Colin Gray,
+Yubo Kou, Bryan Battles, Joseph Hoggatt, and
+Austin L. Toombs
+Week8:
+(Spring Break)
+Week 9:
+●
+Reflective Physical Prototyping through Integrated Design, Test, and Analysis
+by Björn Hartmann, Scott
+R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee
+Week 10:
+●
+The Case for Inclusive Design
+by Microsoft
+Textbook (Optional)
+●
+Interaction Design: Beyond Human-Computer Interaction
+by Helen Sharp, Jennifer Preece, Yvonne
+Rogers
+●
+Designing the User Interface
+by Ben Shneiderman &
+Catherine Plaisant
+●
+The Design of Everyday Things
+by Don Norman
+●
+The Humane Interface: New Directions for Designing Interactive Systems
+by Jef Raskin
+Course Schedule
+The schedule below is provisional, subject to change based on the progress.
+Honors Students will be assigned in-depth project-oriented assignments, in addition to the below.
+* Indicates part of your project milestone, which is a team submission: will not be graded as part of personal
+assignments
+Week
+Class
+type Lecture & Studio activities
+Slide
+Assignment
+1
+(1/19)Lecture
+Course Intro: What’s HCI and Why?
+This semester’s theme:
+Improve Accessibility (#0) Sign up a
+course
+website
+and create a
+proﬁle picture
+2
+(1/26)Studio
+Group formation & collective poster about the
+team information
+Warm-up exercise for paper prototyping (
+Paper
+pinhole camera
+)(#1) Miroboard of team
+poster*
+(#2) Media (photo, video,
+etc.) of a complete pinhole
+camera
+3
+(2/2) Lecture
+Interaction Design Principles
+Discovery methods (Needﬁnding Studies)
+/Understanding Users(#3) A video of aﬃnity
+diagramming process and
+ﬁnal aﬃnity diagram*
+4
+(2/9) Studio
+Card sorting & observation analysis
+Cardboard prototyping to
+redeﬁne the interaction (#4) A video about your
+cardboard machine
+use-case story*
+5
+(2/16) Mid-term Project Interim Presentation
+Case studies of ﬂipped norm
+What are commons vs. what has been ﬂipped(#5) Complete
+this form to
+provide peer critiques
+during the class
+6
+(2/23)Lecture
+Special Seminar: Extended Reality
+Dr. Kangsoo Kim, University of Calgary () Reﬂection note
+7
+(3/2) Studio
+Prototyping methods and Iteration
+Input & Output (#6) Complete
+p5.js
+challenges
+8
+(3/9) Low-ﬁdelity prototyping of an interactive system
+High-ﬁdelity prototyping interactive UI using
+p5.js (#7) Replicated wireframe
+using low-ﬁ prototyping
+tools (e.g., balsamiq)
+(#8) 1 min. video of
+complete interactive UI
+3/16
+No Class; Spring break
+No assignment
+9
+(3/23)Lecture
++
+StudioMid-term Project Presentation
+Flip the norm and observe how people react (#9) Complete
+this form
+for peer-review
+10
+(3/30)Lecture
++
+StudioSpecial Topics in HCI I: Human-AI Collaboration:
+Crowdsourcing and Human-in-the-Loop (#10) Project website
+template with Motivation
+statement, detailed 5-week
+milestone
+11
+(4/6) Individual Team meeting & feedback
+(10min./team) No assignment
+12
+(4/13)Lecture
++
+StudioSpecial Topics in HCI II: 3D/4D Printing for HCI
+Application Design (#11) Complete this
+challenge for 3D Modeling
+13
+(4/20)Lecture
++
+StudioSpecial Topics in HCI III: Robotics and
+Human-Robot Interaction (#12) Complete
+this
+challenge for programming
+in 3D
+14
+(4/27) Final Project Presentation I
+Final results, Example applications, Limitation (#13) Complete
+this form
+for peer-review
+during the
+class
+15
+Final week, No class; No ﬁnal exam
+All projects materials are
+due
+Attendance Policy
+See below attendance & makeup policies for detail.
+Late Work Policy & Makeup
+If an absence is excused, make an appointment with the instructor (jeeeun.kim@tamu.edu) for make-up work.
+The subject and task will vary upon your absent assignment and deliverables. The make-up work must be
+completed in a timeframe not to exceed 30 calendar days from the last day of the initial absence.
+Work submitted by a student as makeup work for an excused absence is not considered late work and is
+exempted from the late work policy. (See Student Rule 7.) Extensions/make-ups can be given 12 hours prior to
+the deadline upon written/in-person request. 10 min. will be given as a grace period. Otherwise, 50% off from
+the credit you got for that submission. If you have more than two late submission, your final letter grade will be
+downscaled by one letter. All other submissions of a deliverable after the established deadline without prior
+request constitutes late work.
+Email Policy
+Like many professors, I get a ton of emails. When you email me, please be sure that the question you ask
+requires my answer in one or two short sentences. Otherwise, I put it back to respond with a full (long) context,
+then unfortunately, may forget.
+Slack message is a
+better way to get my immediate response.
+University Policies
+Attendance Policy
+The university views class attendance and participation as an individual student responsibility. Students are
+expected to attend class and to complete all assignments. Please refer to Student Rule 7 in its entirety for
+information about excused absences, including definitions, and related documentation and timelines. Makeup
+Work Policy Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate
+by the instructor.
+Please refer to Student Rule 7 in its entirety for information about makeup work, including definitions, and
+related documentation and timelines. Absences related to Title IX of the Education Amendments of 1972 may
+necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be
+agreed upon by the student and instructor” (Student Rule 7, Section 7.4.1).
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed
+because of an unexcused absence” (Student Rule 7, Section 7.4.2). Students who request an excused
+absence are expected to uphold the Aggie Honor Code and Student Conduct Code. (See Student Rule 24.)
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked,
+students must be able to produce proof that the item submitted is indeed the work of that student. Students
+must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor
+request it, may be sufficient grounds to initiate an academic misconduct case”(Section 20.1.2.3, Student Rule 20).
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and
+your rights and responsibilities at aggiehonor.tamu.edu.
+NOTE:
+Faculty associated with the main campus in College
+Station should use this Academic Integrity
+Statement and Policy. Faculty not on the main campus should use the appropriate language and location
+at their site.
+Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all students. If
+you experience barriers to your education due to a disability or think you may have a disability, please contact
+Disability Resources in the Student Services Building or at (979) 845-1637 or visit disability.tamu.edu.
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or chronic
+health conditions. All students are encouraged to discuss their disability related needs with Disability
+Resources and their instructors as soon as possible.
+NOTE:
+Faculty associated with the main campus in College
+Station should use this Americans with
+Disabilities Act Policy statement. Faculty not on the main campus should use the appropriate language
+and location at their site.
+Title IX and Statement on Limits to Confidentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for all.
+University policies and federal and state laws prohibit gender-based discrimination and sexual harassment,
+including sexual assault, sexual exploitation, domestic violence, dating violence, and Stalking.
+With the exception of some medical and mental health providers, all university employees (including full and
+part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must
+report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that meets
+the following conditions (see University Rule 08.01.01.M1):
+• The incident is reasonably believed to be discrimination or harassment.
+• The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University.
+Mandatory Reporters must file a report regardless of how the information comes to their attention – including
+but not limited to face-to-face conversations, a written class assignment or paper, class discussion, email, text,
+or social media post. Although Mandatory Reporters must file a report, in most instances, you will be able to
+control how the report is handled, including whether or not to pursue a formal investigation. The University’s
+goal is to make sure you are aware of the range of options available to you and to ensure access to the
+resources you need.
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment
+with Counseling and Psychological Services (CAPS). Students can learn more about filing a report, accessing
+supportive resources, and navigating the Title IX investigation and resolution process on the University’s Title
+IX webpage.NOTE:
+Faculty associated with the main campus in College Station should use this Title IX and Statement
+on Limits of Liability. Faculty not on the main campus should use the appropriate language and location
+at their site.
+Statement on Mental Health and Wellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’s academic success and overall wellbeing. Students are encouraged to engage in proper self-care
+by utilizing the resources and services available from Counseling & Psychological Services (CAPS).
+Students who need someone to talk to can call the TAMU Helpline (979-845-2700) from 4:00 p.m. to
+8:00 a.m. on weekdays and 24 hours on weekends. 24-hour emergency help is also available through the
+National Suicide Prevention Hotline (800-273-8255) or at suicidepreventionlifeline.org.

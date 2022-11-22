@@ -1,0 +1,99 @@
+9/15/22, 3:26 PM CSCE 312, Spring 2022 Course Information
+https://people.engr .tamu.edu/djimenez/classes/312/syllabus.html 1/3CSCE 312, Spring 2022 
+Computer Organization
+Instructor: Daniel A. Jiménez , djimenez@tamu.edu  
+ Ofﬁce Hours (exclusively over Zoom):  Tuesdays at 9:30am to 1 1:00am. 
+ Zoom Link:  https://tamu.zoom.us/my/djimenez  
+ 
+Teaching Assistants :
+Brady T esta 
+ Email: brady .testa@gmail.com  
+ Ofﬁce hours: 2:00pm to 3:00pm on Fridays at https://tamu.zoom.us/j/91726450029
+Sagar Adhikari 
+ Email: sagar0073@tamu.edu  
+ Ofﬁce hours: 4:00pm to 5:00pm on T uesdays at https://tamu.zoom.us/j/94250499438
+Class T imes:  
+ Lecture: 
+ Sections 504, 505, 506, and 507: T uesdays and Thursdays, 12:45pm to 2:00pm, HRBB 124 
+ Sections 508, 509, 510, and 51 1: Tuesdays and Thursdays, 2:20pm to 3:35pm, HRBB 124 
+ Lab: 
+ Section 504: Mondays and W ednesdays, 5:45pm to 6:35pm, ZACH 596. T A: Brady T esta 
+ Section 505: Mondays and W ednesdays, 7:00pm to 7:50pm, ZACH 596. T A: Brady T esta 
+ Section 506: Mondays and W ednesdays, 12:40pm to 1:30pm, ZACH 598. T A: Sagar Adhikari 
+ Section 507: Mondays and W ednesdays, 1:50pm to 2:40pm, ZACH 598. T A: Sagar Adhikari 
+ Section 508: Mondays and W ednesdays, 3:00pm to 3:50pm, ZACH 598. T A: Brady T esta 
+ Section 509: Mondays and W ednesdays, 4:10pm to 5:00pm, ZACH 598. T A: Brady T esta 
+ Section 510: Mondays and W ednesdays, 5:45pm to 6:35pm, ZACH 598. T A: Sagar Adhikari 
+ Section 51 1: Mondays and W ednesdays, 7:00pm to 7:50pm, ZACH 598. T A: Sagar Adhikari 
+ 
+Textbook:  Computer Systems: A Pr ogrammer's Perspective by Randal E. Bryant and David O'Hallaron (3rd
+Editon), ISBN 978-0134092669 ( Note:  You have to get the 3rd edition. The 2nd edition won't work.)
+From the Under graduate Catalog:
+CSCE 312 Computer Organization  
+ Credits 4. 3 Lectur e Hours. 2 Lab Hours  
+ Introduction to computer systems from programmer's perspective: simple logic design, data
+representation and processor architecture, programming of processors, memory , control ﬂow ,
+input/output, and performance measurements; hands-on lab assignments. 
+Prerequisites:  CSCE 221 or concurrent enrollment. Junior or senior classiﬁcation or approval of
+instructor .
+From the professor: 
+Think of the computer as an automobile. So far , you have begun to learn how to drive, that is, to
+program the computer in a high-level programming language. But what goes on under the hood?
+That is, what are the mechanisms underneath the programming language that cause your program to
+execute? This class will provide an answer to that question. You will learn a little about digital logic
+design. You will learn how simple electronic devices are linked together to form the complex
+computer systems we use. You will see how information is represented and how representations can
+have an impact on the programs you write. Many of the mysteries behind the sometimes strange
+behavior of high-level programming languages will be revealed. You will learn a very low-level9/15/22, 3:26 PM CSCE 312, Spring 2022 Course Information
+https://people.engr .tamu.edu/djimenez/classes/312/syllabus.html 2/3programming language called assembly language  that is part of the interface between software and
+hardware. You will learn how details of the implementation of the computer , such as the memory
+system, can af fect the performance of your programs. When you leave this class, you will have
+developed an accurate mental model of the way computers work so that when you write programs in
+a high-level language you will have a good idea of what is really going on when your program runs.
+Thus, you will become a better programmer .
+This class has two big parts: digital logic design and assembly language. Assembly language is the
+bigger part so we'll do digital logic design ﬁrst. There are little parts, too, that we'll pick up along the
+way.
+About The Lab Section  
+Your teaching assistant will lead a lab covering the topics presented the lecture. The T A will administer quizzes,
+discuss assignments, answer you questions, and in general serve as a resource to give you a better idea of what is
+going on in the class than your crazy absent-minded professor can.
+Course Requir ements:
+Homework Assignments: (25% of grade). We'll have several homework assignments, many requiring
+programming.
+Quizzes: (20% of grade). There will be quizzes in the lab section.
+Midterm exams: (25% of grade). There will be one or two exams during the semester .
+Last exam: (30% of grade). There will be a "last" exam near the end of the semester .
+Grading
+Letter grades will be assigned as follows: A is ≥ 90%; B is ≥ 80%; C is ≥ 70%; D is ≥ 60%; F is < 60%.
+Policy on Assignments and T ests
+Late assignments are not accepted. If you have not completed an assignment by the time it is due, turn in what
+you have for partial credit. Make-up tests are generally not given except for university sanctioned reasons, such
+as religious holidays, documented illnesses, catastrophic events, or other grave situations. You must inform the
+professor before missing the test. Quizzes may not be made up.
+Academic Dishonesty
+Unless a programming project or problem set is speciﬁcally assigned as a group project, students are not allowed
+to work together on assignments. You may discuss general ideas related to the assignment, but you may not e.g.
+share program code or read each others writeups. Instances of such collaboration will be dealt with harshly , but
+the real cost comes when a student doesn't know how to answer questions on a test about issues involved in
+doing an assignment. In writing assignments, you may not copy or paraphrase work in whole or in part from
+other sources without giving proper attribution and making it clear which passages of text are from other sources.
+Failure to do so is considered plagiarism.
+Academic Integrity Statement
+"An Aggie does not lie, cheat, or steal or tolerate those who do." 
+ 
+Upon accepting admission to T exas A&M University , a student immediately assumes a commitment to uphold9/15/22, 3:26 PM CSCE 312, Spring 2022 Course Information
+https://people.engr .tamu.edu/djimenez/classes/312/syllabus.html 3/3the Honor Code, to accept responsibility for learning and to follow the philosophy and rules of the Honor
+System. Students will be required to state their commitment on examinations, research papers, and other
+academic work. Ignorance of the rules does not exclude any member of the T exas A&M University community
+from the requirements or the processes of the Honor System. For additional information please visit:
+http://www .tamu.edu/aggiehonor . 
+On all course work, assignments, and examinations at T exas A&M University , the following Honor Pledge shall
+be preprinted and signed by the student: "On my honor , as an Aggie, I have neither given nor r eceived
+unauthorized aid on this academic work."
+COVID-19 Statement
+To help protect Aggieland and stop the spread of COVID-19, T exas A&M University ur ges students to be
+vaccinated and to wear masks in classrooms and all other academic facilities on campus, including labs. Doing
+so exempliﬁes the Aggie Core V alues of respect, leadership, integrity , and selﬂess service by putting community
+concerns above individual preferences. COVID-19 vaccines and masking â€” regardless of vaccination status
+â€” have been shown to be safe and ef fective at reducing spread to others, infection, hospitalization, and death.

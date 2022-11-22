@@ -1,0 +1,124 @@
+Page 1 of 7 
+ Syllabus 
+ 
+Course Information 
+ Course Number: CSCE 420 Course Title: Artificial Intelligence Section: 500 Time:  TR 3:55-5:10 Location: 124 HRBB  Credit Hours: 3 cr.  Course web page:  https://people.engr.tamu.edu/ioerger/cs420-spr22/index.html
+ 
+ 
+Instructor Details 
+ Instructor: Thomas R. Ioerger Office: 438 Peterson Building E-Mail: ioerger@cs.tamu.edu  
+Course Description 
+ Fundamental concepts and techniques of intelligent systems; representation and interpretation of knowledge on a computer; search strategies and control; active research areas and applications such as notational systems, natural language understanding, vision systems, planning algorithms, intelligent agents and expert systems.  
+Course Prerequisites 
+ CSCE 411 or approval of instructor  
+Special Course Designation 
+ none  
+Course Learning Outcomes 
+ List one or more learning outcomes for the course.  A learning outcome is a statement regarding what the student will know or be able to do upon successfully completing the course. It must be both observable and measureable. The outcomes may include competencies developed in the course. Additional assistanc e with learning outcomes is available through the Center for Teaching Excellence and the Office of Institutional Assessment.  After completing this class, students should be  able to do the following: 
+1. Design and implement intelligent search methods for building complex problem-solving programs.  Page 2 of 7 
+ 1. formulate computational problems as search tasks 2. describe how various search algorithms work and explain differences in their space- and time-complexity 3. design heuristics to improve efficiency of search  2. Use knowledge representation methods for adding knowledge -based reasoning in programs.  1. be able to encode rules and information in propositional and first -order logic 2. implement inference algorithms to extract deductions from a knowledge base  3. represent and reason about uncertainty using Bayesian probability  3. Implement intelligent decision-making methods in a program 1. generate symbolic plans to achieve goals autonomously using planning algorithms  2. use utility theory to make decisions for intelligent agents 
+ 
+Textbook and/or Resource Materials 
+ Russell, S. and Norvig, P. (2021). Artificial Intelligence: A Modern Approach. 4th  edition.  Pearson.  
+Grading Policy 
+ 
+The overall score for the course will be a weighted combination of the  following components:  
+• 50% for 6 assignments (worth 5-12% each) 
+• 25% for exam I 
+• 25% for exam II (non-comprehensive) The final grade will be determined from the weighted-average total as follows:  
+• A: 90-100%  
+• B: ≥ 80% and <90% 
+• C: ≥ 70% and <80% 
+• D: ≥ 60% and <70% 
+• F: < 60%  Grades will be posted on Canvas. 
+Late Work Policy 
+ 
+The penalty for late assignments is -5% per day ( pro-rated over 24 hours).  
+ 
+Late work is defined as submitting a deliverable after the established deadline. Work submitted by a student as makeup work for an excused absence is not considered late work and is exempted from the late work policy (See Student Rule 7).   Page 3 of 7 
+  Programming Assignments 
+ In addition to 3 written homeworks, there will be 3 programming assignments throughout the semester. The programming assignments will be done in C++ (individually).  Students are expected to be proficient in C++. The code for course projects will be submitted via Github.tamu.edu.  Students will have to create a (private) repository for this class, and then share that with the instructor and TA by making them collaborators. The date and time students turn in each project will be determined by the timestamp of their commits on their files. It is the student's responsibility to learn how to use Git well enough to commit their code (along with reports and other materials to required turn in) and push it to the Github.tamu.edu server by each deadline.   
+Course Schedule 
+ 
+week 1   Overview of AI ; core concepts  
+week 2     Search Algorithms (Ch. 3)  
+week 3   Heuristic Search (Ch. 3)  
+week 4   Iterative Improvement (Ch. 4 ) 
+week 5   Adversarial (Game) Search  (Ch. 5)  
+week 6   Constraint Satisfaction (Ch. 6)  
+week 7   Propositional Logic (Ch. 7)  
+week 8   Inference algorithms (Ch. 7)  
+week 9   (Spring Break , Mar 14 -18) 
+week 10  First -Order Logic (Ch. 8)  
+week 11  Inference in FOL (Ch. 9 ) 
+week 12  PROLOG  
+week 13  Default Reasoning and Uncertainty (Ch. 12 ,13.1)  
+week 14  Planning (Ch. 11)  
+week 15  Intelligent Agents (Ch. 2)  
+ Important dates: Tues, Jan 18, 2022:  first day of class Tues, Feb 22, 2022: assignment A1 due Thurs, Mar 3, 2022: Exam I (in-class) Thurs, Apr 28, 2022:  Exam II (non-comprehensive, in-class) (last day of class) Mon, May 9 assignment A6 due, 3:00pm (during finals week)  
+Optional Course Information Items 
+ none  
+University Policies 
+ This section outlines the university level policies that must be included in each course syllabus. The TAMU Faculty Senate established the wording of these policies.   Page 4 of 7 
+ NOTE: Faculty members should not change the written statements. A faculty member may add separate paragraphs if additional information is needed.   Attendance Policy 
+ The university views class attendance and participation as an individual student responsibility. Students are expected to attend class and to complete all assignments.   Please refer to Student Rule 7
+ in its entirety for information about excused absences, including 
+definitions, and related documentation and timelines. 
+ 
+Makeup Work Policy 
+ Students will be excused from attending class on the day of a graded activity or when attendance contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate by the instructor.   Please refer to Student Rule 7
+ in its entirety for information about makeup work, including definitions, 
+and related documentation and timelines. 
+ Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the student and instructor” (Student Rule 7, Section 7.4.1
+). 
+ “The instructor is under no obligation to provide an opportunity f or the student to make up work missed because of an unexcused absence” (Student Rule 7, Section 7.4.2
+). 
+ Students who request an excused absence are expected to uphold the Aggie Honor Code and Student Conduct Code. (See Student Rule 24
+.) 
+ 
+Academic Integrity Statement and Policy 
+ “An Aggie does not lie, cheat or steal, or tolerate those who do.”  “Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” (Section 20.1.2.3, Student Rule 20
+). 
+ You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at aggiehonor.tamu.edu
+. 
+ NOTE: Faculty associated with the main campus in College Station should use this Academic Integrity Statement and Policy. Faculty not on the main campus should use the appropriate language and location at their site.  Page 5 of 7 
+ Americans with Disabilities Act (ADA) Policy 
+ Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may have a disability, please contact Disability Resources in the Student Services Building or at (979) 845 -1637 or visit disability.tamu.edu
+. Disabilities may include, but are not limited to attentional, learning, mental 
+health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their disability related needs with Disability Resources and their instructors as soon as possible.  
+ NOTE: Faculty associated with the main campus in College Station should use this Americans with Disabilities Act Policy statement. Faculty not on the main campus should use the appropriate language and location at their site.  
+Title IX and Statement on Limits to Confidentiality 
+ Texas A&M University is committed to fostering a learning environment that is safe and productive for all. University policies and federal and state laws prohibit gender -based discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and stalking.  With the exception of some medical and mental health providers, all university employees (including full and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that meets the following conditions (see University Rule 08.01.01.M1
+): 
+ • The incident is reasonably believed to be discrimination or harassment.  • The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the University.    Mandatory Reporters must file a report regardless of how the information comes to their attention – including but not limited to face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most instances, you will be able to control how the report is handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the range of options available to you and to ensure access to the resources yo u need.  Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with Counseling and Psychological Services
+ (CAPS).  
+ Students can learn more about filing a report, accessi ng supportive resources, and navigating the Title IX investigation and resolution process on the University’s Title IX webpage
+. 
+ NOTE: Faculty associated with the main campus in College Station should use this Titl e IX and Statement on Limits of Liability. Faculty not on the main campus should use the appropriate language and location at their site.  Page 6 of 7 
+ Statement on Mental Health and Wellness 
+ Texas A&M University recognizes that mental health and wellness are critical factors that influence a student’s academic success and overall wellbeing. Students are encouraged to engage in proper self - care by utilizing the resources and services available from Counseling & Psychological Services (CAPS). Students who need someone to talk to can call the TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24 -hour emergency help is also available through the National Suicide Prevention Hotline (800-273-8255) or at suicidepreventionlifeline.org
+.  
+ 
+COVID-19 Temporary Amendment to Minimum Syllabus Requirements 
+ The Faculty Senate temporarily added the following statements to the minimum syllabus requirements in Fall 2020 as part of the university’s COVID-19 response.   
+Campus Safety Measures 
+ To promote public safety and protect students, faculty, and staff during the coronavirus pandemic, Texas A&M University has adopted policies and practices for the Fall 2020 academic term to limit virus transmission. Students must observe the following practices while participating in face -to-face courses and course-related activities (office hours, help sessions, transitioning to and between classes, study spaces, academic services, etc.):  • Self-monitoring—Students should follow CDC recommendations for self -monitoring. Students who have a fever or exhibit symptoms of COVID-19 should participate in class remotely and should not participate in face-to-face instruction. • Face Coverings—Face coverings
+ (cloth face covering, surgical mask, etc.) must be properly worn 
+in all non-private spaces including classrooms, teaching laboratories, common spaces such as lobbies and hallways, public study spaces, libraries, academic resource and support offices, and outdoor spaces where 6 feet of physical distancing is difficult to reliably maintain. Description of face coverings and additional guidance are provided in the 
+Face Covering policy and Frequently 
+Asked Questions (FAQ)  available on the Provost website . 
+• Physical Distancing—Physical distancing must be maintained between students, instructors, and others in course and course-related activities. • Classroom Ingress/Egress—Students must follow marked pathways for entering and exiting classrooms and other teaching spaces. Leave classrooms promptly after  course activities have concluded. Do not congregate in hallways and maintain 6 -foot physical distancing when waiting to enter classrooms and other instructional spaces.  • To attend a face-to-face class, students must wear a face covering (or a face shield i f they have an exemption letter). If a student refuses to wear a face covering, the instructor should ask the student to leave and join the class remotely. If the student does not leave the class, the faculty member should report that student to the Student Conduct office
+ for sanctions. Additionally, 
+the faculty member may choose to teach that day’s class remotely for all students.  
+ 
+Personal Illness and Quarantine 
+ Students required to quarantine must participate in courses and course-related activities remotely and must not attend face-to-face course activities. Students should notify their instructors of the Page 7 of 7 
+ quarantine requirement. Students under quarantine are expected to participa te in courses and complete graded work unless they have symptoms that are too severe to participate in course activities.   Students experiencing personal injury or Illness that is too severe for the student to attend class qualify for an excused absence (See Student Rule 7, Section 7.2.2.) To receive an excused absence, students 
+must comply with the documentation and notification guidelines outlined in Student Rule 7. While Student Rule 7, Section 7.3.2.1, indicates a medical confirmation note from the student’s medical provider is preferred, for Fall 2020 only, students may use the Explanatory Statement for Absence from Class form in lieu of a medical confirmation. Students must submit the Explanatory S tatement for Absence from Class within two business days after the last date of absence.  
+ 
+Operational Details for Fall 2020 Courses 
+ For additional information, please review the FAQ
+ on Fall 2020 courses at Texas A&M University.  
+ 
+College and Department Policies 
+ College and departmental units may establish their own policies and minimum syllabus requirements. As long as these policies and requirements do not contradict the university level requirements, colleges and departments can add them in this section. 

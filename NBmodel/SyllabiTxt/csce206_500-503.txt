@@ -1,0 +1,247 @@
+SYLLABUS  
+CSCE 206 Structured Programming in C  
+Sections 500 - 503   
+Spring 2022  
+Instructor  
+Ki Hwan Yum   
+Office: 216 Peterson   
+Phone:  
+Email: yum at cse dot tamu dot edu  
+ 
+Office Hours: M 11:00 am – 12:00 pm, R 1:00 pm – 2:00 pm, or by appointment 
+   Zoom link: https://tamu.zoom.us/j/492102794  
+ 
+Lectures: MWF 12:40 pm – 1:30 pm ZACH 350 
+            Zoom link: https://tamu.zoom.us/j/819004246  
+ 
+Labs: Section 500 MW 8:00 am – 8:50 am ZACH 598 
+           Section 501 MW 9:10 am – 10:00 am  ZACH 598   
+          Section 502 MW 10:20 am – 11:10 am ZACH 598 
+          Section 503 MW 11:30 am – 12:20 pm ZACH 598 
+ 
+Teaching Assistants 
+Trevor Bolton 
+Office Hours: TR 11:00 am – 12:30 pm EABC (enter through lobby, find the whiteboard with 
+TA names to find which cubicle he is in)  
+Email: tbolton2000 at tamu dot edu 
+ 
+Peer Teachers 
+Section 500  Sofia Ortega (s dot ortega at tamu dot edu) 
+Section 501  Sofia Ortega 
+Section 502  Noel John 
+Section 503  Hunter Baker 
+Visit https://engineering.tamu.edu/cse/academics/peer-teachers/current-peer-teachers.html  for 
+detailed information 
+ 
+Course Description : This course addresses principles of computer science including algorithm 
+development, programming techniques, language features, and methods of documentation. 
+Students will be introduced (in detail) to the “C” programming language.  
+  Required text : A. Kelly and C. Pohl, C by Dissection, 4th Ed., Pearson, 2001.  
+https://www.facultybookshelf.org/course/24497  
+ 
+Attendance Policy : Attendance at all lectures is required to ensure that each student is abreast of 
+the informational content of the class and becomes aware of any changes to the tentative class 
+exam, quiz, and assignment schedules as noted later in this document. Absence from a lecture is 
+not a valid excuse to be misinformed about any class activity and the student maintains the 
+responsibility for all course content. Attendance at lectures/labs will constitute 5% of your final 
+grade. 
+  
+Scholastic Dishonesty : Scholastic dishonesty will not be tolerated in any form. Working together 
+on programming assignments can be a meaningful and real-world learning experience, BUT the 
+final product submitted for a grade must be the work of the individual student submitting the 
+material. Examinations are meant to measure the knowledge of individual students and offering to, 
+or receiving any assistance from, a student that subverts this process will not be tolerated. Any 
+identified incident of scholastic dishonesty will be dealt with severely and consequences may 
+include a zero grade for the activity, course failure or dismissal from the university among others.  
+Grading Policy:   
+  
+Course Grading  
+1 Midterm  15%  
+5 Programming Assignments  30%  
+Attendance  5%  
+Final exam  20%  
+5 Homeworks  20%  
+5 Quizzes  10%  
+  
+Exams:   
+Midterm: Wednesday, March 2, 2022 .  
+Final: TBA.   
+Only with an officially approved university authorized absence will any exam makeup be 
+considered. Prior arrangements with the instructor must be made when feasible and official 
+verification of circumstances necessitating the absence will be required. One midterm and one 
+comprehensive final will be given during the semester. Note that exams are extremely important. 
+If you miss an exam (e.g. midterm), your final grade will be an ‘F’.  
+  Assignments :   
+Programming assignment grades will cumulatively represent 30% of your final grade. 
+Programming assignments should be submitted on or before the due date. Programming 
+assignment grades will lose 25% for each day after the due date. Assignments will require use of 
+standard programming style conventions and documentation which will be illustrated in lab and 
+lecture examples.   
+ 
+Final Grades: 
+Final grades will be assigned as follows:   
+90-100 A   
+80-89 B   
+70-79 C   
+60-69 D   
+Below 60 F 
+  
+This scale may be adjusted by the instructor to reflect score variations.  
+ 
+Lecture Topics   
+1. ANSI C programs, lexical elements and operators K&P Ch 1, 2   
+2. Flow of control and functions K&P Ch 3, 4   
+3. Character processing, and fundamental data types K&P Ch 5, 6   
+4. File I/O and review K&P Ch 13   
+5. Pointers, Arrays, and Strings K&P Ch 8, 9, 10   
+6. Structures, and linked lists K&P Ch 12   
+ 
+Chapter Objectives and Outcomes   
+After having read and studied the following chapters you should be able to:   
+  
+Chap 1: Create, edit, compile and execute an introductory C program.   
+Describe the use of C variables, expressions and data assignments.   
+Describe the creation and use of pre-processor commands (#define, #include).   
+Distinguish the use of printf and scanf for program I/O.   
+Describe the use of the while statement.   
+Demonstrate appropriate use of chapter topics via student written code.   
+  
+Chap 2: Describe the characters and lexical elements of the C language.   
+Describe the need and the syntax necessary for program comments.   
+Identify C language tokens including; reserved words, identifiers, constants, Operators and 
+punctuators.   
+Describe operator precedence and associativity and their impact.   
+Describe the use of increment, decrement, and assignment operators.   
+Demonstrate the appropriate use of chapter topics via student written code.     
+Chap 3: Name and describe the use of relational, equality and logical operators.  Name 
+and describe the use of and need for conditional statements including: IF, IF-ELSE, 
+Switch, and Nested-if.   
+Name and describe the use of and need for looping statements including: While, For, DOWhile.   
+Name and describe the use of and need for the break and continue statements.  Demonstrate the 
+appropriate use of chapter topics via student written code.   
+  
+Chap 4: Describe the benefit and need for the structured approach to programming Using C 
+functions.   
+Describe the format of a C function.   
+Describe the need for and use of the return statement.   
+Describe the need for and the use of function prototypes.   
+Describe effective approaches to efficient design of programming projects.   
+Describe function invocation and data transmission via call-by-value.   
+Demonstrate the appropriate use of chapter topics via student written code.   
+  
+Chap 5: Describe the need for and the use of the data type char.   
+Describe the use of char I/O commands getchar() and putchar().   
+Name the char header file containing useful char macros.   
+Demonstrate the appropriate use of chapter topics via student written code.   
+  
+Chap 6: Name the C fundamental data types.   
+Name the integral data types and data valid for such types.  Name 
+the floating data types and data valid for such types.   
+Describe the syntax and use of the sizeof operator.   
+Name the C math functions referenced and how access is achieved.   
+Describe the syntax and use for C casts and type conversions.   
+Demonstrate the appropriate use of chapter topics via student written code.   
+  
+Chap 8: Describe the declaration and use of pointer variables.   
+Describe the syntax and use for the dereference operator.   
+Describe the need for pointer variables to implement call-by-reference.   
+Describe the concept of variable scope and its impact on variable accessibility.   
+Name the storage classes studied and their impact on variable scope and Extent.  Demonstrate 
+the appropriate use of chapter topics via student written code.   
+  
+Chap 9. Describe the need for and the declaration of single-dimension arrays.   
+Describe the relationship between arrays and pointers in C.   
+Describe pointer arithmetic and its use with array element access.   
+Describe the syntax and need for passing arrays to a function.   
+Describe the need for and the declaration of multi-dimension arrays.   Describe the needed syntax and the benefit of dynamic memory allocation.  Demonstrate 
+appropriate use of chapter topics via student written code.   
+  
+Chap. 10 Describe the need for and the declaration of string data.   
+Describe the process of accessing string data through pointers.   
+Name and describe the use for string handling functions available In the standard library.  
+Demonstrate the appropriate use of chapter topics via student written code.   
+  
+Chap. 11 Describe the concept of recursion and how it is implanted in C.   
+Demonstrate the appropriate use of recursion with student written code.   
+  
+Chap. 12 Describe the need for and the declaration of C structures.   
+Describe the syntax needed to access a structure member.   
+Describe the declaration of and need for an array of structures.   
+Describe the characteristic of a self-referential structure.   
+Describe the need for and the creation of a liner linked-list.   
+Demonstrate the appropriate use of chapter topics with student written code.   
+  
+Chap 13 Describe the need for and the creation of files for data input and output.   
+Describe the syntax necessary to gain access to an existing file or create a new One.   
+Describe the use of and syntax required for the fprintf() and fscanf() functions.   
+Demonstrate  the appropriate use of chapter topics with student written code   
+Academic Integrity Statement 
+ 
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”  
+“Texas A&M University students are responsible for authenticating all work submitted to an 
+instructor. If asked, students must be able to produce proof that the item submitted is indeed the 
+work of that student. Students must keep appropriate records at all times. The inability to 
+authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an 
+academic misconduct case” (Section 20.1.2.3, Student Rule 20).  
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic 
+integrity, and your rights and responsibilities at https://aggiehonor.tamu.edu . 
+ 
+Americans with Disabilities Act (ADA) Policy 
+ 
+Texas A&M University is committed to providing equitable access to learning opportunities for 
+all students. If you experience barriers to your education due to a disability or think you may 
+have a disability, please contact the Disability Resources office on your campus (resources listed 
+below) Disabilities may include, but are not limited to attentional, learning, mental health, 
+sensory, physical, or chronic health conditions. All students are encouraged to discuss their 
+disability related needs with Disability Resources and their instructors as soon as possible. Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit 
+disability.tamu.edu . 
+ 
+Statement on Mental Health and Wellness 
+ 
+Texas A&M University recognizes that mental health and wellness are critical factors that 
+influence a student’s academic success and overall wellbeing. Students are encouraged to engage 
+in healthy self-care by utilizing available resources and services on your campus. 
+Students who need someone to talk to can contact Counseling & Psychological Services (CAPS) 
+or call the TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours 
+on weekends. 24-hour emergency help is also available through the National Suicide Prevention 
+Hotline (800-273-8255) or at suicidepreventionlifeline.org . 
+ 
+Title IX and Statement on Limits to Confidentiality 
+ 
+Texas A&M University is committed to fostering a learning environment that is safe and 
+productive for all. University policies and federal and state laws prohibit gender-based 
+discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic 
+violence, dating violence, and stalking.  
+ 
+With the exception of some medical and mental health providers, all university employees 
+(including full and part-time faculty, staff, paid graduate assistants, student workers, etc.) are 
+Mandatory Reporters and must report to the Title IX Office if the employee experiences, 
+observes, or becomes aware of an incident that meets the following conditions (see University 
+Rule 08.01.01.M1 ): 
+ 
+ The incident is reasonably believed to be discrimination or harassment.  
+ The incident is alleged to have been committed by or against a person who, at the time of 
+the incident, was (1) a student enrolled at the University or (2) an employee of the 
+University.  
+ 
+Mandatory Reporters must file a report regardless of how the information comes to their 
+attention – including but not limited to face-to-face conversations, a written class assignment or 
+paper, class discussion, email, text, or social media post. Although Mandatory Reporters must 
+file a report, in most instances, a person who is subjected to the alleged conduct will be able to 
+control how the report is handled, including whether or not to pursue a formal investigation. The 
+University’s goal is to make sure you are aware of the range of options available to you and to 
+ensure access to the resources you need. 
+Students wishing to discuss concerns in a confidential setting are encouraged to make an 
+appointment with Counseling and Psychological Services  (CAPS).  
+ 
+Students can learn more about filing a report, accessing supportive resources, and navigating the 
+Title IX investigation and resolution process on the University’s Title IX webpage .  
+Campus Safety Measures   
+ 
+To help protect Aggieland and stop the spread of COVID-19, Texas A&M University urges 
+students to be vaccinated and to wear masks in classrooms and all other academic facilities on 
+campus, including labs.  Doing so exemplifies the Aggie Core Values of respect, leadership, 
+integrity, and selfless service by putting community concerns above individual preferences. 
+COVID-19 vaccines and masking — regardless of vaccination status — have been shown to be 
+safe and effective at reducing spread to others, infection, hospitalization, and death. 
+ 

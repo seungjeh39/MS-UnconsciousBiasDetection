@@ -1,0 +1,135 @@
+ SYLLABUS  
+ 
+ 
+ 
+Course title and number  CSCE 310  – Database Systems  
+Term  Spring  2022 
+Meeting times and location  Monday & Wednesday, 4:10 – 5:25 PM, ZACH 350  
+ 
+Instructor Informatio n 
+Name  Christopher I. G. Lanclos  
+Telephone number  N/A 
+Email address  cilanclos @tamu.edu  
+Office hours  Monday  & Wednesday , https://doodle.com/mm/christopherlanclos/office -hours   
+Office location  PETR 111  
+ 
+Course Description and Prerequisites  
+File structures and access methods; database modeling, design and user interface; components of 
+database management systems; information storage and retrieval, query languages, high -level 
+language interface with database systems.  
+Prerequisites : CSCE  221 with a grade of C or better; junior or senior classification.  
+ 
+ 
+Learning Outcomes & Course Objectives  
+At the end of this class, the successful student w ill: 
+• have a broad understanding of database concepts and database management system software  
+• have a high -level understanding of major DBMS components and their function  
+• be able to model an application’s data requirements using conceptual modeling tools like ER 
+diagrams and design database schemas based on the conceptual model.  
+• be able to write SQL commands to create tables and indexes, insert/update/delete data, and 
+query data in a relational DBMS.  
+• be able to program a data -intensive application us ing DBMS APIs.  
+More specifically,  
+ 
+• To demonstrate understanding of the relational model of data, you should be able to:  
+o express queries using relational algebra  
+o create tables using SQL DDL  
+o specify primary key and foreign key constraints in CREATE TABLE sta tements  
+• To demonstrate understanding of query languages for databases, you should be able to:  
+o use relational algebra operators including extended operators under both set and bag 
+semantics  
+o express queries using relational algebra  
+• To demonstrate proficienc y in SQL, you should be able to:  
+o write single block SQL queries  
+o compose SQL queries using set (and bag) operators  
+o write SQL queries with correlated subqueries  
+o write SQL aggregation queries involving GROUP BY and HAVING clauses  
+o translate a query in English to SQL  
+• To demonstrate understanding of data Models, you should be able to:  
+o use data modeling tools like Entity -Relationship Diagrams  
+o translate data models into relational table schema  
+• To demonstrate understanding of data normalization, you should be able to:  
+o find keys given a set of functional dependencies  
+o identify tables that are not normalized  
+o decompose unnormalized tables into BCNF and/or 3NF compliant tables  
+• To demonstrate understanding of constraints, views, triggers, and indexes, you should be a ble 
+to: 
+o specify appropriate constraints  
+o define and use views  
+o define and use triggers  
+o decide what indexes to create for a given workload  
+• To demonstrate understanding of client server computing in the context of DBMSs , you should 
+be able to:  
+o write a program that interacts with a DBMS server  via the JDBC API  
+o design, develop and test a DBMS -backed web application to address a problem  
+ 
+Textbook and/or Resource Material  
+• Textbook: Database Systems, The Complete Book, 2nd  Edition, Hector Garcia -Molina, Jeffrey D. 
+Ullman, and Jennifer  Widom, Prentice Hall, 2009.  ISBN -13: 9780133002010  
+• Supplementary  Textbook:  Database Systems: Design, Implementation, & Management , 13th 
+Edition, Carlos Coronel  and Steven Morris , Cengage Learning, 2018.  ISBN:  9781337670562, 
+1337670561  
+• Instructor will provide lecture videos, copies of lecture slides, and links to resources via Canvas . 
+ 
+Grading Policies  
+The course grade will be assigned based on  exams (25%),  quizzes ( 25%), homework /discussion 
+Board  (25%) and a project (25%).  
+ 
+All homework , and project artifacts  will be submitted by uploading them into Canvas unless 
+otherwise specified.  Late homework  and project artifacts  are accepted with 10% penalty for each 
+day late up to a maximum of 3 days. (The pen alty will be waived for unexpected, excused 
+absences in accordance with Student Rule 7.)  
+ 
+Quizzes and exams will be administered in person unless otherwise specified . 
+ 
+Students will be able to earn 50% of missed points on exams and quizzes, after attending office 
+hours with instructor. 30 minutes per quizzes and 1 hour per exam.  All quizzes prior to second 
+exam will not be eligible for earning missed points back after  second  exam . Exam  points must be 
+earned back  prior to next exam, except for  the third exam.  
+ 
+Ex. Student A takes quiz 3 and scores 50 /100  on the quiz. The student can come to office hours 
+and make up 50% of the 50 points that he did not obtain in the initi al quiz.  
+ 
+ Grading Scale  
+Standard Letter Grading Scale:  
+A = 100 -90%   B = 8 9-80%   C = 7 9-70%   D = 6 9-60%   F =<  59% 
+ 
+Attendance / Make -up Work Policies  
+Attendance will be measured through quizzes and submission of assignments. The University 
+views class attendance as the responsibility of an individual student. Attendance is essential to 
+complete the course successfully. University rules related to excuse d/unexcused absences 
+and make -up work are located on -line at http://student -rules.tamu.edu/rule07 . 
+ 
+Major Assignment  and Important  Dates  
+Assignment   Date  
+Last Day to Drop Course  01/24 
+Exam 1  02/16  
+Spring break.  03/14 – 03/18  
+Exam 2  03/22  
+Reading Day, No Classes  04/15  
+Last day for all students to drop courses with no penalty (Q -drop).  
+Last day to officially withdraw from the University.  04/19 
+Exam 3  04/27 
+Wednesday. Reading day, no classes.  05/04 
+Final Project Presentations  05/02 & 02/06  
+ 
+ 
+Americans with Disabilities Act (ADA)  
+Texas A&M University is committed to providing equitable access to learning opportunities for 
+all students. If you experience barriers to your education due to a disability or think you may 
+have a disability, please contact the Disability Resources office on your campus (resources 
+listed below).  Disabilities may include, but are not limited to attentional, learning, mental 
+health, sensory, physical, or chronic health conditions. All students are encouraged to discuss 
+their disability related needs with Dis ability Resources and their instructor as soon as possible.  
+ 
+Disability Resources is located in the Student Services Building or at (979) 845 -1637 or visit 
+disability.tamu.edu . 
+ 
+ 
+Academic Integrity  
+For additional information please visit: http://aggiehonor.tamu.edu   
+ 
+“An Aggie does not lie, cheat, or steal, or tolerate those who do.”  
+ 
+ 
+ 

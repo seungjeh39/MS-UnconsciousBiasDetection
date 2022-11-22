@@ -1,0 +1,215 @@
+ 
+Page 1 of 5 
+ Syllabus  CSCE 440/640  
+ 
+ 
+Course Information  
+ 
+Course Number:   CSCE 440/640  (Klappenecker)  
+Course Title:   Quantum Algorithms    
+Time: TR 9:35 am – 10:50 am  
+Location:  HRBB 113   
+  
+Credit Hours:  3  
+ 
+Instructor Details  
+ 
+Instructor:  Andreas Klappenecker   
+Office:  zoom     
+E-Mail:  klappi  at cse.tamu.edu   
+Office Hours:  WF 10:30 am – 11:30 am , all office hours will be held on zoom  
+  
+Course Description  and Prerequisites  
+This course gives a self -contained introduction to quantum algorithms, one of the most exciting recent 
+developments in computer science. We do not expect any background knowledge in quantum 
+computing nor in quantum physics. You should know how to multiply a matrix with a vector, but the 
+most important prerequisite is simply an open mind.  
+Course Learning Outcomes  
+At the end of this course, students should understand the basics of the quantum circuit model, be able 
+to understand fundamental quantum algorithm s, and ways to protect quantum information.  
+Textbook and Resource Materials  
+Required : 
+P. Kaye, R. Laflamme, and M. Mosca: An Introduction to Quantum Computing, Oxford, 2007 (reprinted 
+2010).  
+Recommended (for a more in depth study):  
+M. Nielsen and I. Chua ng: Quantum Computation and Quantum Information, Cambridge University 
+Press, 2011.  
+Resou rces: https://canvas.tamu.edu  (check daily for updates)  
+  
+Page 2 of 5 
+  
+Grading Policy  
+ 
+Your grade will be based on the following components:  
+- Midterm exam 30%: The exams will be given in class .  
+- Final project 40%: You will have to write a term paper and record your presentation  
+- homework and exercises 30%: Th is is a mix of online questions and  essay style assignments, for 
+which you  are required to use the  LaTeX  typesetting system to type in your  answers. All 
+assignments  can be found in canvas .  Your lowest homework grade will be dropped.  CSCE 640 
+students will be expected to solve some slightly  more challenging homework problems.   
+ 
+Final grades will be assigned according to this scale:  
+A: 90 and above, B: [80,90), C: [70,80), D:[60,70), F: below 60  
+A slight curve might be applied if the course average is low.  
+ 
+Late Work Policy  
+ 
+• All assignments must be submitted on canvas . 
+• No late submissions will be accepted.  
+• E-mail submissions will not be accepted and will be ignored without notice.  
+• Work turned -in on time is eligible for partial credit . 
+• Work submitted by a student as makeup work for an excused absence is not considered late 
+work and is exempted from the late work policy. (See Student Rule 7 .)  
+ 
+Regarding Policy  
+A student can request r egrading of any graded material if the student believes that the points 
+assigned are inconsistent with the quality and merits of the submitted work. To request re -grading 
+the student needs to follow the guidelines below:  
+1. Regrading requests must be submitt ed to the Instructor within one week after the graded 
+item has been returned to the student. After this time limit no regrading requests will be 
+honored.  
+2. Regrading requests must be in written form, accompanied by a reasonable amount of 
+specific justificat ion and documentation.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Page 3 of 5 
+ Course Schedule  
+ 
+Tentative course schedule:  
+Week 1 ( 1/18-) Introduction , Quantum Cryptography  
+Week 2 ( 1/24-) Quantum Gates  
+Week 3 ( 1/31 -) Quantum Circuits  
+Week 4 ( 2/7-) Quantum Search  
+Week 5 ( 2/14-) Quantum Counting  
+Week 6 ( 2/21-) Simon’s Algorithm  
+Week 7 ( 2/28)  Midterm  (3/1),  Factoring  
+Week 8 ( 3/7-) Factoring  
+Week 9 ( 3/15) Spring Break  
+Week 10 ( 3/21-) Quantum Complexity  
+Week 11 ( 3/28-) Quantum Communication  
+Week 12  (4/4-) Quantum Codes  
+Week 13  (4/11-) Fault Tolerance  
+Week 14  (4/18-) Project Presentations  
+Week 15  (4/26-) Project Presentations  
+ 
+Exam  and Final Project  
+ 
+Midterm exam : Thursday, March 1, in class  
+ 
+Final project:  The final project consists of writing a term paper and a presentation. Reviewing the work 
+of others will be expected as part of the final project.  
+ 
+Lectures and More  
+ 
+All course information can be found on  canvas . In your CSCE 4 40/640  section on  canvas , navigate to the 
+“Lectures and more” tab on the sidebar for the most important information concerning lectures, 
+quizzes, exams, reading assignments, etc. You should also check your course announcements daily .  
+ 
+It is strongly recommended that you keep up wit h the course material and do not fall behind. Start 
+working on assignments as soon as they are assigned.  
+ 
+Attendance Policy  
+ 
+The university views class attendance and participation as an individual student responsibility. Students 
+are expected to attend class and to complete all assignments.  
+ 
+Please refer to Student Rule 7  in its entirety for information about excused absences, including 
+definitions, and related documentation and timelines.  
+  
+Page 4 of 5 
+ Makeup Work Policy  
+ 
+Students will be excused from attending class on the day of a graded activity or when attendance 
+contributes to a s tudent’s grade, for the reasons stated in Student Rule 7, or other reason deemed 
+appropriate by the instructor.  
+ 
+Please refer to Student Rule 7  in its entirety for information about makeup work, inclu ding definitions, 
+and related documentation and timelines.  
+ 
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more 
+than 30 days for make -up work, and the timeframe for make -up work should be agreed upon by the 
+student and instructor” ( Student Rule 7, Section 7.4.1 ). 
+ 
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed 
+because of an unexcused absence” ( Student Rule 7, Section 7.4.2 ). 
+ 
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student 
+Conduct Code.  (See Student Rule 24 .) 
+ 
+Academic Integrity Statement and Policy  
+ 
+“An Aggie does not lie, cheat or steal, or tolerate those who do. ” 
+ 
+All homework must be completed on your own, and written in your own words.  
+ 
+ “Texas A&M University students are responsible for authenticating all work submitted to an instructor. 
+If asked, students must be able to produce proof that the item submitted is indeed the work of that 
+student. Students must keep appropriate records at all times. The inability to authenticate one’s work, 
+should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” 
+(Section 20.1.2.3, Student Rule 20 ). 
+ 
+You can learn more about th e Aggie Honor System Office Rules and Procedures, academic integrity, and 
+your rights and responsibilities at aggiehonor.tamu.edu  
+Americans with Disabilities Act (ADA) Policy  
+ 
+Texas A&M University is committed to providing equitable access to learning opportunities for all 
+students. If you experience barriers to your education due to a disability or think you may have a 
+disability, please contact Disability Resources in the Stud ent Services Building or at (979) 845 -1637 or 
+visit disability.tamu.edu . Disabilities may include, but are not limited to attentional, learning, mental 
+health, sensory, physical, or chronic health conditions. Al l students are encouraged to discuss their 
+disability related needs with Disability Resources and their instructors as soon as possible.  
+ 
+Title IX and Statement on Limits to Confidentiality  
+ 
+Texas A&M University is committed to fostering a learning environ ment that is safe and productive for 
+all. University policies and federal and state laws prohibit gender -based discrimination and sexual  
+Page 5 of 5 
+ harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and 
+stalking.  
+ 
+With the exception of some medical and mental health providers, all university employees (including full 
+and part -time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters 
+and must report to the Title IX Office if the employee ex periences, observes, or becomes aware of an 
+incident that meets the following conditions (see University Rule 08.01.01.M1 ): 
+ 
+• The incident is reasonably believed to be discrimination or harass ment.  
+• The incident is alleged to have been committed by or against a person who, at the time of the 
+incident, was (1) a student enrolled at the University or (2) an employee of the University.   
+ 
+Mandatory Reporters must file a report regardless of how the  information comes to their attention – 
+including but not limited to face -to-face conversations, a written class assignment or paper, class 
+discussion, email, text, or social media post.  Although Mandatory Reporters must file a report, in most 
+instances, y ou will be able to control how the report is handled, including whether or not to pursue a 
+formal investigation. The University’s goal is to make sure you are aware of the range of options 
+available to you and to ensure access to the resources you need.  
+ 
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment 
+with Counseling and Psychological Services  (CAPS).   
+ 
+Students can learn more about filing a report, accessing suppor tive resources, and navigating the Title IX 
+investigation and resolution process on the University’s Title IX webpage . 
+ 
+Statement on Mental Health and Wellness  
+ 
+Texas A&M University recognizes that mental health an d wellness are critical factors that influence a 
+student’s academic success and overall wellbeing. Students are encouraged to engage in proper self -
+care by utilizing the resources and services available from Counseling & Psychological Services (CAPS). 
+Stud ents who need someone to talk to can call the TAMU Helpline (979 -845-2700) from 4:00 p.m. to 
+8:00 a.m. weekdays and 24 hours on weekends. 24 -hour emergency help is also available through the 
+National Suicide Prevention Hotline (800 -273-8255) or at suicidepreventionlifeline.org .  
+ 
+COVID Statement  
+To help protect Aggieland and stop the spread of COVID -19, Texas A&M University urges students to be 
+vaccinated and to wear masks in classrooms and all other academic facilities on campus, including labs. 
+Doing so exemplifies the Aggie Core Values of respe ct, leadership, integrity, and selfless service by 
+putting community concerns above individual preferences. COVID -19 vaccines and masking – regardless 
+of vaccination status – have been shown to be safe and effective at reducing spread to others, infection,  
+hospitalization, and death.  
+ 

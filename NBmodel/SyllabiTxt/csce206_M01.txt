@@ -1,0 +1,162 @@
+SYLLABUS
+Course Information
+Course Number: CSCE 206
+Course Title: Structured Programming in C
+Term: Spring 2022
+Section: M01
+Time: Lecture:MWF12:40 pm – 01:30 pm
+Lab:MF01:50 pm – 02:40 pm
+Location: HECM 115
+Credit Hours: 4
+Instructor Details
+Instructor: Dr. Aldo Jonathan Munoz-Vazquez
+Office: 218.6
+Phone: 956-271-1358
+E-Mail: aldo.munoz-vazquez@tamu.edu
+Office Hours: TR: 10:00 am – 12:00 pm, or by appointment.
+Course Description
+This course addresses principles of computer science, including algorithm development, programming
+techniques, language features, and methods of documentation. Students will be introduced (in detail) to
+the “C” programming language.  
+Course Learning Outcomes
+Read and comprehend C language programming.
+Design, write, and debug programs in C.
+Reading and writing of text and binary files in C.
+Recommended Text book 
+[1]C by Dissection: The Essentials of C Programming, 4th Ed., Kelly A. & Pohl C., 2001.
+ISBN-10: 0201713748, ISBN-13: 978-0201713749
+Additional References
+[1]C Primer Plus, Sixth Edition, Stephen P., 2014. 
+ISBN-10: 0-321-92842-3, ISBN-13: 978-0-321-92842-9
+[2] C Programming Language, 2nd Edition, Kernighan, B. & Ritchie, D., 1988.
+ISBN-10: 0131103628, ISBN-13: 978-0131103627
+Spring 2022SYLLABUS
+[3] C Programming: A Modern Approach, 2nd Edition, King., K.N., 2008. ISBN-13: 978-0393979503
+ISBN-10: 0393979504
+Grading Policy
+Attendance andQuizzes    5%
+Homework 15%
+Laboratories 20%
+Exams 60%
+-------------------------------------------------
+A: 90 – 100%; B: 80 – 89%; C: 70 – 79%; D: 60 – 69%; F: < 60%.
+Attendance – Attendance is recommended due to the constant coverage of information in the course.
+The student is responsible for obtaining information from missed classes. Quizzes  will  be given to
+students during some classes to allow a better understanding of discussed topics, and some of the
+quizzes can be annotated and graded.
+Homework – Homework assignments will be placed on Canvas. Homework consist on programming
+assignments, as well as their description. Homework due dates are given with assignment. A homework
+is turned in class the day it is due. Late is considered after class ends. All late assignments will lose 30%
+of their value from the first day to one week after the due date, and no submission will be accepted
+after that. Please give proper notice if expected to miss a homework. Make up homework is only
+possible with approval given a university excused absence.
+Labs – Students will work in teams for each lab exercise. A lab grade is comprised of demonstrating
+working  lab  exercises  and  a  lab  report.  One  lab  report  per  group  will  be  submitted.  All
+demonstrations of working lab exercises and lab reports are due by the beginning of the next lab.
+No late demonstrations or reports will be accepted. A failing lab grade will result in a failing course
+grade. If lab cannot be attended, student is required to give notice so that a makeup lab can be given
+accordingly. If makeup lab is not completed in a timely manner, a late grade to the lab will be
+assigned, and re-submission will be refused.
+Exams – Two mid-term exams and a final are given. All exams will be weighted equally. A reference
+sheet (if needed) will be given, calculators are allowed during the exam. Mid-terms exams dates
+may change depending at the discretion of the instructor. The final exam is based on TAMU finals
+schedule. Please give proper notice if expected to miss an exam, or if an exam is missed. Make up
+exam is only possible with approval given a university excused absence.
+Spring 2022SYLLABUS
+Course Topics, Calendar of Activities, Major Assignment Dates
+WeekLecture
+MWF   12:40 pm – 01:30 pmLab
+TR 01:50 pm – 2:40 pm
+1C Language and Programming Methodology LAB 0: Safety and Overview
+2Structure of a C program, Data types, Variables and Syntax LAB 1: Hello Aggies!
+3Input/Output Functions, Operators and Expressions LAB 2: Data types
+4Conditionals: if-else and switch-case LAB 3: Conditionals
+5Loops: for, while, and do-while LAB 4: Loops
+6Mid-term I NO LAB THIS WEEK
+7Functions: Arguments and Declaration LAB 5: Functions
+8Structures, Unions and Enumerations LAB 6: Structures
+9Storage Classes LAB 7: Storage Classes
+10Dynamic Memory Allocation LAB 8: malloc()  and free()
+11Mid-term II NO LAB THIS WEEK
+12Arrays LAB 9:  Arrays
+13Pointers LAB 10:  Pointers
+14Binary files NO LAB THIS WEEK
+Final Exam
+Relationship of course to ABET Criterion 3 student outcomes:
+Outcome 2: An ability to design systems, components, or processes meeting specified needs for 
+broadly-defined engineering problems appropriate to the discipline.
+Contribution of course to requirements of ABET Criterion 5:
+Engineering Design: Semester hrs – 4
+Attendance Policy
+The university views class attendance and participation as an individual student responsibility. Students 
+are expected to attend class and to complete all assignments. 
+Please  refer  to  Student  Rule  7 in  its  entirety  for  information  about  excused  absences,  including
+definitions, and related documentation and timelines.
+Makeup Work Policy
+Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor. 
+Spring 2022SYLLABUS
+Please refer to Student Rule 7 in its entirety for information about makeup work, including definitions, 
+and related documentation and timelines.
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” ( Student Rule 7, Section 7.4.1 ).
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed
+because of an unexcused absence” ( Student Rule 7, Section 7.4.2 ).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student 
+Conduct Code. (See Student Rule 24.)
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If
+asked, students must be able to produce proof that the item submitted is indeed the work of that
+student. Students must keep appropriate records at all times. The inability to authenticate one’s work,
+should the instructor request it, may be sufficient grounds to initiate an academic misconduct case”
+(Section 20.1.2.3, Student Rule 20 ).
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and
+your rights and responsibilities at aggiehonor.tamu.edu .
+Americans with Disabilities Act (ADA) Policy
+Texas  A&M  University  is  committed  to  providing  equitable  access  to  learning  opportunities  for  all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability, please contact Disability Resources in the Student Services Building or at (979) 845-1637 or
+visit  disability.tamu.edu. Disabilities may include, but are not limited to attentional, learning, mental
+health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their
+disability related needs with Disability Resources and their instructors as soon as possible.
+Title IX and Statement on Limits to Confidentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for
+all.  University  policies  and  federal  and  state  laws  prohibit  gender-based  discrimination  and  sexual
+harassment,  including  sexual  assault,  sexual  exploitation,  domestic  violence,  dating  violence,  and
+stalking.
+Spring 2022SYLLABUS
+With the exception of some medical and mental health providers, all university employees (including full
+and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters 
+and must report to the Title IX Office if the employee experiences, observes, or becomes aware of an 
+incident that meets the following conditions (see University Rule 08.01.01.M1 ):
+The incident is reasonably believed to be discrimination or harassment. 
+The incident is alleged to have been committed by or against a person who, at the time of the 
+incident, was (1) a student enrolled at the University or (2) an employee of the University. 
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including  but  not  limited  to  face-to-face  conversations,  a  written  class  assignment  or  paper,  class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most
+instances, you will be able to control how the report is handled, including whether or not to pursue a
+formal investigation. The University’s goal is to make sure you are aware of the range of options
+available to you and to ensure access to the resources you need.
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment 
+with Counseling and Psychological Services  (CAPS). 
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX
+investigation and resolution process on the University’s Title   IX webpage  .
+Statement on Mental Health and Wellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a 
+student’s academic success and overall wellbeing. Students are encouraged to engage in proper self-
+care by utilizing the resources and services available from Counseling & Psychological Services (CAPS). 
+Students who need someone to talk to can call the TAMU Helpline (979-845-2700) from 4:00 p.m. to 
+8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency help is also available through the 
+National Suicide Prevention Hotline (800-273-8255) or at suicidepreventionlifeline.org . 
+COVID-19 Temporary Amendment to Minimum Syllabus Requirements
+To help protect Aggieland and stop the spread of COVID-19, Texas A&M University urges students to be
+vaccinated and to wear masks in classrooms and all other academic facilities on campus, including labs.
+Doing so exemplifies the Aggie Core Values of respect, leadership, integrity, and selfless service by
+putting community concerns above individual preferences. COVID-19 vaccines and masking — regardless
+of  vaccination  status  —  have  been  shown  to  be  safe  and  effective  at  reducing  spread  to  others,
+infection, hospitalization, and death.
+Spring 2022

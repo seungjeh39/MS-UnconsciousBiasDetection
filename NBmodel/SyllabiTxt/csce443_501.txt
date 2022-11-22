@@ -1,0 +1,164 @@
+Page 1 of 9 
+ Syllabus 
+ 
+Course Information 
+ Course Number: VIST 487/CSCE 443 Course Title: Game Development Section: 500 Time:  TR 11:10am – 12:50pm Location: Langford C 109 Credit Hours: 3  
+Instructor Details 
+ Instructor: Andre Thomas Office: Langford C 104 Phone: 979-845-3465 E-Mail: manink@arch.tamu.edu Office Hours: by appointment  Teaching Assistant: Varda Grover E-Mail: varda_grover@tamu.edu  
+Course Description 
+ Aesthetic and technical aspects of computer game development, including game mechanics, story development, content creation and game programming; includes game design, interface design, 3D modeling and animation, graphics algorithms, Shader programming and  artificial intelligence; group project includes the design and development of a game from start to finish.    
+During this course students will become familiar with the Game Development process as it applies in Game development companies. The course is structured around the development of a core game, while many prototypes are being developed to prove out theories, assumptions, playability and fun factor.  
+At the end of the course students will have created a playable demo. All work will be done in a group and students are expected to actively participate in all class activities, guests from industry may join on occasion to provide feedback and review progress. This course will try to simulate a real- world production environment; students should expect the u nexpected and be ready to deal with ambiguity, new challenges and difficult unforeseen problems, while working collaboratively and having fun.     
+Course Prerequisites 
+VIST 486 or CSCE 441 or approval of instructor. Cross -listed with CSCE 443.  Page 2 of 9 
+ Special Course Designation 
+ None 
+Course Learning Outcomes 
+ 1. Describe the game development process 2. Understand the development process for game play, game mechanics and game AI  3. Implement a variety of prototypes 4. Create game content 5. Differentiate between different testing schemes  6. Critique different project management strategies   
+Textbook and/or Resource Materials 
+ Handouts as provided  
+Remote Engagement Expectations (in case it is required) 
+• Students are engaged during the designated class time. This is not a self -paced course.  • Students will actively engage in discussion, online chats, polls, and other activities throughout the entire class session during all remote sessions. Any activities conducted during class will count toward participation points.  • All visible aspects of the student require full clothing (e.g. shirts).  • Students’ faces will be visible. CAMERAS TURNED ON  • In-class activities that result in participation points cannot be made -up. 
+ Grading Policy 
+Students enrolled in this course will be evaluated according to the following criteria:   
+Game Development :      80%  
+Class participation:         20% 
+                                          100% The instructor's qualitative judgment of the student's exercises, projects, and research will include such factors as preparation, conceptualization, technical application, documentation, and aesthetic effectiveness. 
+The instructor's qualitative judgment of the student's in- class participation will include such factors as attendance, preparation, engagement, professional demeanor, and informed contribution to discussions and critique sessions.  The development of the game is broken into 4 major milestones (M1, M2, M3, M4 -  Final) and will be graded as follows:  
+ 
+M1 20%:  - Pitch Deck: 25%  - Prototypes: 20% Page 3 of 9 
+ - Meeting group-defined goals: 15%  - Progress presentation: 15%  - Final milestone demo: 5%  - Website: 10%  - Peer evaluation: 10%   M2 20%:  - Prototypes: 45%  - UI/UX mockups: 15%  - Progress presentation: 15%  - Final milestone demo: 5%  - Website: 10%  - Peer evaluation: 10%   M3 20%  - Prototypes: 45%  - Art Bible: 15%  - Progress presentation: 15%  - Final milestone demo: 5%  - Website: 10%  - Peer evaluation: 10%   M4 40%  - Finished game/demo: 45%  - Publishing deck: 30%  - Final project presentation/demo: 5%  - Website: 10%  - Peer evaluation: 10%  
+  
+Assignment Grading Practice 
+As an aide to understanding the method by which your assignments are evaluated, read the following carefully. The actual grading criteria will be related to these categories but will be more specific to the given assignment. The scores noted below are relative to a 100 point assignment.   F: 60 and below: The student work is unresolved; the intentions are unclear and major criteria or goals lack resolution; Presentation is incomplete and/or of poor quality; There is a complete lack of problem solving intent, artistic content and/or visual merit.   D: 60 - 69: The work has problems in two or more major areas; Skill and problem development is marginal or incomplete; The project lacks imagination and/or design/artistic potential.   C: 70 – 79: The student has completed the basic assignment, but the work lacks depth of understanding; Some aspects are not completely satisfied and the work contains little promise even though most issues have been addressed. Page 4 of 9 
+  B: 80 – 89: The student work shows imagination and potential; Presentation and visual content is good; The assignment requirements are fulfilled but in need of more refinement or development; The re are no major issues that would require a total redesign of the project.   A: 90 – 100: The student work has imagination and the response to the assignment show understanding and thought; The work is highly developed and well presented; The entire project  shows depth and breadth and is well coordinated; The project potential has been achieved.    Graded Class Participation   As an aide to understanding the method by which your class participation is evaluated, read the following carefully. The actual grading criteria will be related to these categories but will be more specific to the given topic. The scores noted below are relative to a 100 point total.   F: 60 and below: The student is consistently absent or significantly late to class; is rarely prepared fo r class; is rarely a willing participant or responsive to questions; consistently exhibits unprofessional and/or disruptive behavior; offers virtually no considered opinions, researched information, or constructive criticism.  D: 60 - 69: The student is frequently absent or significantly late to class; is only occasionally prepared for class; is only occasionally a willing participant or responsive to questions; frequently exhibits unprofessional and/or disruptive behavior; only infrequently offers considered opinions, researched information, and constructive criticism.  C: 70 – 79: The student is occasionally absent or significantly late to class; is inconsistently prepared for class; is sometimes a willing participant and responsive to questions; infrequen tly exhibits unprofessional and/or disruptive behavior; inconsistently offers considered opinions, researched information, and constructive criticism.  B: 80 – 89: The student is rarely absent or significantly late to class; is consistently prepared for class; is frequently a willing participant and responsive to questions; almost never exhibits unprofessional and/or disruptive behavior; usually offers considered opinions, researched information, and constructive criticism.  A: 90 – 100: The student is never absent without excuse or significantly late to class; is always very well prepared for class; is always a willing participant and responsive to questions; never exhibits unprofessional and/or disruptive behavior; always offers considered opinions, researched information, and constructive criticism. Final course grades will be assigned as follows, based on the weighted number of points earned as a percentage of total points possible: A 90% or above B 80% - 89% C 70% - 79% D 60% - 69% F less than 60% Page 5 of 9 
+  Late Work Policy 
+Any assignment can be handed in after the deadline up until the last day of class. The late submission will receive a reduction of 10% of the grade.  
+Course Schedule 
+All classes will take place live in Langford C 109 at the scheduled class time.  
+Week  Topic   Due Dates  
+1 Introduction to the course & Game Development Framework    
+2 Prototype development    
+3 Game Flow, Look and Feel   M 1 
+4 Game Play    
+5 Game Play    
+6 Game Mechanics   M 2 
+7 Screen Flow    
+8 Screen Development    
+9 Game Levels    
+10 Interface & Game Systems   M 3 
+11 Game AI    
+12 Game Tech    
+13 Game Art    
+14 Management – Budget, Schedule, Risks    
+15 Testing, Localization   M 4 
+  
+Course Evaluations 
+Each student must complete on-line evaluations of the professor and the class. The link is: https://pica.tamu.edu – complete during the last week of class 
+ University Policies 
+ 
+Attendance Policy 
+ The university views class attendance and participation as an individual student responsibility. Students are expected to attend class and to complete all assignments.   Please refer to Student Rule 7
+ in its entirety for information about excused absences, including 
+definitions, and related documentation and timelines.  
+ 
+Makeup Work Policy 
+ Students will be excused from attending class on the day of a graded activity or when attendance contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate by the instructor.  Page 6 of 9 
+  Please refer to Student Rule 7 in its entirety for information about makeup work, including definitions, 
+and related documentation and timelines. 
+ Absences related to Title IX of the Education Amendments of 1972 may  necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the student and instructor” (Student Rule 7, Section 7.4.1
+). 
+ “The instructor is under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence” (Student Rule 7, Section 7.4.2
+). 
+ Students who request an excused absence are expected to uphold the Aggie Honor Code and Student Conduct Code. (See Student Rule 24
+.) 
+ 
+Academic Integrity Statement and Policy 
+ “An Aggie does not lie, cheat or steal, or tolerate those who do. ”  “Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” (Section 20.1.2.3, Student Rule 20
+). 
+ You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at aggiehonor.tamu.edu
+. 
+ 
+Americans with Disabilities Act (ADA) Policy 
+ Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may  have a disability, please contact Disability Resources in the Student Services Building or at (979) 845 -1637 or visit disability.tamu.edu
+. Disabilities may include, but are not limited to attentional, learning,  mental 
+health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their disability related needs with Disability Resources and their instructors as soon as possible.  
+ 
+Title IX and Statement on Limits to Confidentiality  
+ Texas A&M University is committed to fostering a learning environment that is safe and productive for all. University policies and federal and state laws prohibit gender- based discrimination and sexual harassment, including sexual assault, sexual exploit ation, domestic violence, dating violence, and stalking.  With the exception of some medical and mental health providers, all university employees (including full and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that meets the following conditions (see University Rule 08.01.01.M1
+): Page 7 of 9 
+  • The incident is reasonably believed to be discrimination or harassment.  • The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the Univers ity.   Mandatory Reporters must file a report regardless of how the information comes to their attention – including but not limited to face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most instances, you will be able to control how the report is handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the range of options available to you and to ensure access to the resources you need.   Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with Counseling and Psychological Services (CAPS).  
+ Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s Title IX webpage
+. 
+ 
+Statement on Mental Health and Wellness 
+ Texas A&M University recognizes that mental health and wellness are critical factors that influence a student’s academic success and overall wellbeing. Students are encouraged to engage in proper self-care by utilizing the resources and services available from Counseling & Psychological Services (CAPS). Students who need someone to talk to can call the TAMU Helpline (979 -845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24 -hour emergency help is also available through the National Suicide Prevention Hotline (800-273-8255) or at suicidepreventionlifeline.org
+.  
+ 
+COVID-19 Temporary Addendum to Minimum Syllabus Requirements 
+ The Faculty Senate temporarily added the following statements to the minimum syllabus requirements in Spring 2021 as part of the university’s COVID-19 response.   
+Campus Safety Measures 
+ To promote public safety and protect students, faculty, and staff during the coronavirus pandemic, Texas A&M University has adopted policies and practices for the Spring 2021  academic term to limit virus transmission. Students must observe the following practices while participating in face -to-face courses and course-related activities (office hours, help sessions, transiti oning to and between classes, study spaces, academic services, etc.):  • Self-monitoring—Students should follow CDC recommendations for self -monitoring. Students who have a fever or exhibit symptoms of COVID -19 should participate in class remotely if that option is available, and should not participate in face -to-face instruction. • Face Coverings—Face coverings
+ (cloth face covering, surgical mask, etc.) must be properly worn 
+in all non-private spaces including classrooms, teaching laboratories, common spaces such as lobbies and hallways, public study spaces, libraries, academic resource and support offices, and outdoor spaces where 6 feet of physical distancing is difficult to reliably maintain . Description of Page 8 of 9 
+ face coverings and additional guidance are provided in the Face Covering policy and Frequently 
+Asked Questions (FAQ)  available on the Provost website . 
+• Physical Distancing—Physical distancing must be maintained between students, instructors, and others in course and course-related activities. • Classroom Ingress/Egress—Students must follow marked pathways for entering and exiting classrooms and other teaching spaces. Leave classrooms promptly after course activities have concluded. Do not congregate in hallways and main tain 6-foot physical distancing when waiting to enter classrooms and other instructional spaces.  • To attend a face-to-face class, students must properly wear an approved face covering If a student refuses to wear a face covering, the instructor should ask t he student to leave and join the class remotely. If the student does not leave the class, the faculty member should report that student to the Student Conduct office
+ for sanctions. Additionally, the faculty member may 
+choose to teach that day’s class remotely for all students, or dismiss the class in the case of a traditional face to face lecture. 
+   
+Personal Illness and Quarantine 
+Students required to quarantine must participate in courses and course-related activities remotely, if that option is available, and must not attend face-to-face course activities. Students should notify their instructors of the quarantine requirement. Students under quarantine are expected to participate i n courses and complete graded work unless they have symptoms that are too severe to participate in course activities.   Students experiencing personal injury or Illness that is too severe for the student to attend class qualify for an excused absence (See Student Rule 7, Section 7.2.2
+.) To receive an excused absence, students 
+must comply with the documentation and notification guidelines outlined in Student Rule 7.  
+ 
+College and Department Policies 
+ College and departmental units may establish their own policies and minimum syllabus requirements. As long as these policies and requirements do not contradict the university level requirements, colleges and departments can add them in this section.  
+Statement of Inclusion 
+Texas A&M University is committed to enriching the learning and working environment for all visitors, students, faculty, and staff by promoting a culture that embraces inclusion, diversity, equity, and accountability. Diverse perspectives, talents, and identities are vital to accomplishing our mission and living our core values  
+Care of Facilities 
+Please respect your facilities in the College of Architecture (studio space, photo lab, shop, labs, etc.)  
+ 
+The use of spray paint, spray adhesive or other surface -altering materials is not permitted in the 
+Langford Complex, except in designated zones (we do have spra y booth facilities located on our 
+complex). Students who violate this rule will be liable for the expenses associated with repairing 
+damaged building finishes and surfaces.  Page 9 of 9 
+  
+Throughout the semester and at the end of the semester, your area must be clean o f all trash. You are 
+responsible for cleaning your studio, desk, and locker at the end of each semester.  
+ 
+No power tools may be used in the design studio. No dust or odor -producing processes may be 
+conducted in the studio .No wet casting processes may be conducted in the studio. The college shop and 
+spray booth facilities must be used for the above mentioned processes. Professional behavior and 
+conduct is expected of each student.  
+ 
+All studio desks must be covered. In addition students must have at minimu m an 18” x 24” cutting mat 
+at their desk.  
+ 
+Studio Policy (Required of all Studios)  
+All students, faculty, administration and staff of the Department of Architecture at Texas A&M 
+University are dedicated to the principle that the Design Studio is the centr al component of an effective 
+education in architecture. They are equally dedicated to the belief that students and faculty must lead 
+balanced lives and use time wisely, including time outside the design studio, to gain from all aspects of a 
+university education and world experiences. They also believe that design is the integration of many 
+parts, that process is as important as product, and that the act of design and of professional practice is 
+inherently interdisciplinary, requiring active and respectful c ollaboration with others.  
+ 
+Students and faculty in every design studio will embody the fundamental values of optimism, respect, 
+sharing, engagement, and innovation. Every design studio will therefore encourage the rigorous 
+exploration of ideas, diverse viewpoints, and the integratio n of all aspects of architecture (practical, 
+theoretical, scientific, spiritual, and artistic), by providing a safe and supportive environment for 
+thoughtful innovation. Every design studio will increase skills in professional communication, through 
+drawing, modeling, writing, and speaking.  
+ 
+Every design studio will, as part of the syllabus introduced at the start of each class, include a clear 
+statement on time management, and recognition of the critical importance of academic and personal 
+growth, inside and outside the studio environment. As such, it will be expected that faculty members 
+and students devote quality time to studio activities, while respecting the need to attend to the broad 
+spectrum of academic life. Every design studio will establish oppo rtunities for timely and effective 
+review of both process and products. Studio reviews will include student and faculty peer review. Where 
+external reviewers are introduced, the design studio instructor will ensure that the visitors are aware of 
+the Studio Culture Statement and recognize that the design critique is an integral part of the learning 
+experience. The design studio will be recognized as a place for open communication and movement, 
+while respecting the needs of others, and of the facilities.  
+ 

@@ -1,0 +1,493 @@
+1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 1/15S y l l ab u s
+Senior Capstone Design
+Effective design requires identifying the “right” problem to solve, building components that meet that
+problem’ s needs, and integrating components into a single solution system.  As problems become
+more challenging, solid design, follow through, and teamwork skills become necessary to developing
+a solution.  Every computer scientist and computer engineer who wants to work on big problems
+must have these skills. 
+After this course, you will be able to:
+analyze  a complex computing problem and  identify  solutions using computing principles,
+design, implement, and evaluate  a computing-based solution to meet a given set of
+requirements,
+apply  computer science theory and software development fundamentals to  produce  computing-
+based solutions,
+collaborate  effectively as a member of a team,
+recognize  professional responsibilities, both legal and ethical, and  make informed
+judgements  in computing practice, and
+communicate
+You will work in groups of 4-5 people to complete a significant engineering design project.  Every
+project requires complete implementation, documentation, evaluation, and demonstration of a
+computing system design. The focus is not only on the final product but also on design methodology ,
+management process, and teamwork.  At the end of the semester , each group will make a public
+presentation describing and demonstrating their work.
+ 
+Why I Teach this Course
+This course of fers you a unique learning experience.  The T A and I are always especially excited to
+teach this course, and here is why:
+You finally get to combine everything that you have learned throughout your entire
+undergraduate curriculum.  This not only includes the computer science skills you have gained,
+but also the professional, cultural, and communication skills that you have developed.
+This is an opportunity for you to try to solve a problem that matters to you.  This course
+gives you a lot of freedom and choice in your semester-long project. This course can be the first
+step towards moving to the career of your choice.1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 2/15Building a system from start to finish is fun and rewarding.  Students often tell me that this
+was the greatest experience of their entire college career .
+Working on teams can be messy , but it’ s worth it.  It is amazing what you can accomplish
+together , so much more than on your own. W orking on real problems with real people has its
+challenges, but it is also very rewarding when you successfully complete your goals.
+Every semester is different, every team is different, every solution is different.  There is
+always something new to learn and innovate.
+Smaller class sizes and weekly meetings allow you to connect  with your classmates and your
+instructor .
+ 
+About Working in Teams
+Because your teammates' grades are so tightly coupled with your own dedication to the class, many
+of the assignments and rules are put in place to protect you and your teammates. These include
+requirements to participate actively in class, complete assignments in a timely manner , and treat your
+classmates with respect.
+Each team is required to:
+Time Management:  Manage its own ef forts to complete its project in a timely manner . You are
+graded based on both the quality of the group product and their individual contributions.
+Weekly Status Update Meetings:  Hold a  weekly meeting with the course instructor and the T As
+during the of ficial class hours. These meetings must be attended by every group member . Since
+the projects will be student managed, the exact nature and style of these meetings is at the
+group’ s discretion, e.g., division of tasks among group members.  However , every member of the
+group is expected to participate  in these meetings .
+ 
+Course Information
+Course Number: 482  
+Course T itle: Senior Capstone Design   
+Section: 934  
+Time: Mondays and W ednesdays 8:00am-1 1:00pm  (Lecture and Lab)  
+Location:  Engineering Activities Building A  (https://aggiemap.tamu.edu/?bldg=0460)  118  
+Credit Hours: 3
+ 
+Instructor and TA Details
+Instructor: Shawna Thomas  
+Office: 319 Peterson  1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 3/15Phone: 979-862-8877  
+E-Mail: sthomas@tamu.edu  (mailto:sthomas@tamu.edu)  
+Help/Of fice Hours: email for appointment
+TA: Yuno Min  
+E-Mail: minsibo0420@tamu.edu  (mailto:minsibo0420@tamu.edu)  
+Help/Of fice Hours: directly after class or email for appointment
+ 
+Course Description
+Project-based course to develop system integration skills for solving real-world problems in computer
+science; significant team software project that integrates advanced concepts across computer
+science specializations; projects require design, implementation, documentation and demonstration,
+as well as design methodology , management process and teamwork.
+ 
+Course Prerequisites
+Senior classification; CSCE 315 , CSCE 41 1, and two additional CSCE tracked courses
+ 
+Special Course Designation
+C (communication intensive course)
+As a communication intensive course, you will receive instruction on writing and public speaking and
+complete assignments so you can master communication related to the major . You must pass the
+written and oral components with a C or better to earn a grade in the course.
+ 
+Course Learning Outcomes
+This course will prepare you for engineering practice with a major design experience based on the
+knowledge and skills you acquired in earlier course work. Y our design will incorporate engineering
+standards and realistic constraints that include most of the following considerations: economic,
+environmental, sustainability manufacturability ethical health and safety , social, and political.
+After this course you will be able to:
+Analyze  a complex computing problem and to  apply  principles of computing and other relevant
+disciplines to identify solutions.
+Design, implement and evaluate  a computing-based solution to meet a given set of computing
+requirements in the context of the program's discipline.1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 4/15Communicate  effectively in a variety of professional contexts.
+Recognize  professional responsibilities and  make informed judgements  in computing practice
+based on legal and ethical principles.
+Collaborate  effectively as a member or leader of a team engaged in activities appropriate to the
+program's discipline.
+Apply  computer science theory and software development fundamentals to  produce  computing-
+based solutions.
+We will cover man topics including:
+Identifying engineering problems
+Project management tools
+Ethics in the discipline
+Communicating problem motivation and needs
+Exploring existing solutions
+Designing a computing system and user interface
+Evaluating a computing system through user studies and benchmark testing
+Analyzing and interpreting data
+Communicating and summarizing results, both written and orally
+ 
+Textbook and/or Resource Materials
+Required:
+Design of Everyday Things.  (https://ebookcentral.proquest.com/lib/tamucs/detail.action?
+docID=1167019)  (Basic Books 2013). A vailable free online at T AMU Libraries.
+Recommended:
+The Five Dysfunctions of a T eam: a Leadership Fable.  Patrick M. Lencioni. (Jossey-Bass, 2002).
+Available free online at T AMU Libraries.
+Technical material from the literature, manufacturers’ data sheets and user manuals.
+ 
+ABET Accreditation Information
+This course is evaluated every year through the ABET (Accreditation Board for Engineering and
+Technology) accreditation process. ABET accreditation provides assurance that a college or
+university program meets the quality standards of the profession for which that program prepares
+graduates. Y our degree is a significant achievement and perhaps the largest investment you will
+make toward your future. The quality of education you receive makes a big dif ference in your career
+success.1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 5/15ABET accreditation:
+Verifies that your educational experience meets the global standard  for technical education
+in your profession.
+Enhances your employment opportunities —multinational corporations require graduation from
+an accredited program.
+Supports your entry to a technical profession  through licensure, registration and certification
+—all of which often require graduation from an ABET -accredited program as a minimum
+qualification.
+Establishes your eligibility  for many federal student loans, grants, and/or scholarships.
+Paves the way for you to work globally , because ABET accreditation is recognized worldwide
+through international agreements, and many other countries’ national accrediting systems are
+based on the ABET model.
+In order for the department of Computer Science & Engineering to keep their accreditation, the
+students must demonstrate their abilities in each of the above expected outcomes of this class. Each
+of those skills will be evaluated by external industrial af filiate members during your final presentation.
+ 
+Grading Policy
+The final grade you will receive in the class will be based on points accumulated  during the
+semester . Thus, both continued progress (the process) and the quality of your product (and other
+deliverables) will determine your grade. Although the bulk of your grade is based on the performance
+of your team, individual performance will also be gauged. Unless otherwise noted on the syllabus or
+class calendar , all assignments will be due before class on the due date. 
+As a communication course, you must pass the communication components (both written and
+oral) with a C or better to earn a grade in the course. Failure to pass the communication
+components with a C or better results in an F for the course.
+Grading Scale:
+Grades will be assigned according to the following scale: A >= 90 > B >= 80 > C >= 70 > D >= 60 > F
+These grades represent varying degrees of achievement (see the university's grading system
+(https://registrar.tamu.edu/Transcripts-Grades/Grades#0-GradingSystem) ): A = excellent, B = good, C
+= satisfactory , D = passing, F = failing.
+We make every ef fort to provide you with the opportunity to earn an A. W e do not curve in this class.
+Rather , we teach to mastery which means that we have clear expectations in terms of what you
+should complete and what knowledge you should have obtained by the end of the course to succeed
+and to earn an A. If you are taking this class, participate appropriately , resubmit and fix your work1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 6/15based on our feedback, and work equitably with your team, you should get an A. Y ou will have every
+opportunity to earn an A, so at the end of the course an 89.9 is a B.
+Grading Components:
+Your grade for this course reflects your mastery of course material and is determined by multiple
+components. Note that you will not receive a passing grade in the class if you do not have a
+tested and working system by the end of the semester . The lower weighted items will significantly
+help you succeed in your higher-weighted items. Even if a component has a very low point value, it is
+crucial to your later success in the higher point components.
+Component Percentage
+Written Communication Elements 20%
+Oral Communication Elements 15%
+Final Deliverables and Individual
+Contribution30%
+Project Management 5%
+Testing 15%
+Status Updates 5%
+Daily Quizzes 2%
+Peer Feedback and Peer
+Evaluation3%
+Ethics 5%
+Total 100%
+Written Communication Elements - 20%:  You will have several technical writing assignments
+including (but not limited to) problem formation, related literature review , project proposals,
+documentation, and your final report. Y our writing will be critiqued on its thoroughness and
+effectiveness in communicating key aspects of your system such as its motivation, approach,
+evaluation, and engineering standard. Y our d ocumentation will be critiqued on its completeness to
+properly execute and understand the details of your system. Some assignments will require you to
+incorporate peer feedback to refine your work.
+Oral Communication Elements - 15%:  You will have several presentation assignments including
+(but not limited to) a critical design review , a final presentation, and demonstrations. Y ou will have
+opportunity to practice presenting both posters and more formal slide presentations. Some
+assignments will require you to incorporate peer feedback to refine your communication. Additionally ,
+at least one member of your team will present your project at Student Research W eek (SR W), the
+Engineering Project Showcase (EPS), and the T AMU CSCE IAP Spring meeting (if held) to provide1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 7/15you with extra practice in communicating your work and responding to external feedback. Y our final
+presentation will be to the instructors and industry panelists on the reading day before finals . You
+will also give live system demonstrations to the instructors in class at multiple points in the course.
+Final Deliverables and Individual Contribution - 30%: You will complete several deliverables
+including fully documented code, evaluation materials, final report with user manual, final updated
+oral presentation slides, final updated poster , and video advertisement. Y ou will also conduct a live
+demonstration of your project. Y our individual grade for this section may be adjusted based on your
+level of contribution  determined from logged code commits, peer evaluation, and instructor/T A
+observations.   All final deliverables must be submitted in order to receive a grade for this
+section.
+Final Deliverables
+1. Team Drive files including the following (please organize into folders, e.g., Docs, Source,
+Hardware, Media, References, Freeware, etc.)
+1. Designs: code, schematics, data, data sheets, freeware software tools, etc.
+2. Reports: proposal, weekly reports, final report, and ALL presentations
+3. Audiovisual media: close-up pictures of your system  and a high-quality video presenting your
+project (including a system demo and a project description) for posterity (see gallery in the
+course webpage for movie samples). Final video must be submitted to the instructor
+4. Presentation posters: in PDF and PPT format
+5. Individual assignments: in PDF format
+2. Final prototype in the assigned GitHub Repository , as well as any spare parts and supplies
+3. Software install, to be demonstrated on several machines
+NOTE  : Grades will not be assigned until  all project deliverables have been turned in (see above),
+all borrowed items (e.g., keys, books, equipment) have been returned to their proper location or their
+owner , and the workstations in the lab have been thoroughly cleaned up. All team members are
+required to be present at the time of the final delivery . All final deliverables are due  on the last day of
+class at 1 1:59 PM.
+Project Management - 5% : You will create project management artifacts specific to your chosen
+software development methodology . For example, teams using Agile development will provide a
+product backlog, sprint backlogs, and burn-down charts while teams using W aterfall will provide a
+requirements specification, a software architecture design, and a Gantt chart. All teams will specify
+team member roles and produce user stories. Y ou are also expected to use T AMU GitHub for version
+control and commit to your team's repository weekly , if not daily .
+Testing - 15%: Your project must be evaluated in accordance with industry standards, so you need to
+test the technical performance of your developed materials as your project goes on. Y ou are
+expected to develop an automatic test bed for your project. Y ou should also have appropriate unit
+testing, integration testing, and system testing throughout your code to verify functionality . You will1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 8/15also have user acceptance testing through a user study to evaluate your system's ability to solve your
+problem. Y ou will be assessed on how well you have prepared and conducted the evaluation of your
+system, both internally (through unit/integration/system testing) and externally (through user study).
+Note that completing this user study is part of the required final deliverables and it not optional, even
+if you prefer to abandon the points.
+Status Updates - 5%: You will submit weekly status update reports, both individually and as a team,
+and hold a weekly status update meeting with your entire team and your instructors. T eam members
+should take turns taking meeting minutes, submitting team reports, and leading the weekly meeting
+discussion. Y ou will be also assessed on your team's ability to keep to the project schedule.
+Daily Quizzes - 2%:  Every class (including the first class) will start with a 10-minute quiz. The
+quizzes will include material about your assignments, questions about your design choices, and
+knowledge that you should have gained from your past computer science courses. Research has
+repeatedly shown that the act of quizzing imparts more knowledge than lecturing or studying. Thus,
+this not only lets us know where your knowledge might be lacking so that we may be able to correct it
+within this class, but it also serves to teach you the knowledge that you need to have. This course is
+your final course in your computer science degree and should provide you with the capability to put
+all of your skills together and communicate those capabilities ef fectively .
+Peer Feedback and Peer Evaluation - 3%: Peer feedback of others' work is crucial. It is important
+that your feedback is of high quality . You will give feedback to your peers regularly throughout the
+semester on their project ideas, written work, and presentations. In addition, each member of your
+project team will score the performance of your other team members at multiple points throughout the
+semester . You will use these peer evaluations to adjust how you interact and collaborate in your
+team. You must complete all of your peer reviews to get an A in the course.
+Ethics - 5%: You will complete various activities and assignments to explore the ethics in the
+discipline.
+Class Participation:  The instructors will evaluate your attendance to meetings, participation in the
+discussions, and contributions to the team.  More than five (5) unexcused absences will lead to an
+automatic failure for the course . Note that team days in which teams may need to work in a remote
+location to accomplish certain assignments (e.g., presenting your work at a conference or SR W,
+interviewing experts, meeting with mentors, accessing technologies outside of the classroom, etc.) do
+not count toward absences provided they are approved by the instructor in advance, abide by the
+instructor ’s requirements for check-in during course time, abide by any activity reporting requirements
+by the instructor , and complete all assignments on-time relevant to that class time. 
+Submission of Assignments:
+All assignments will be turned in electronically though Canvas  (https://canvas.tamu.edu/) (unless
+otherwise specified) by the due date and time given on the assignment. Email submissions will not be
+accepted.1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 9/15 
+Late Work Policy
+All assignments must be submitted to complete the course. Assignments will be considered late after
+their posted deadline but will be accepted. Late assignments will receive a grade reduction of 10%
+per day late with a maximum reduction of 30%.
+ 
+Course Schedule
+Below is the planned but tentative  schedule of topics and major projects for the course. All
+assignment and project details will be communicated on  Canvas  (https://canvas.tamu.edu/) . 
+Weeks Course Phases Major Deliverables
+1-3Introduction, T eam Formation, and Project Ideation  
+You will learn how to identify and formulate an engineering
+problem, how to survey existing related work, how to use
+design thinking to create innovative solutions to your
+problem, and how to define project success. Y ou will also
+explore elements of good and bad design. Y ou will practice
+communicating your problem's motivation and user needs,
+create a project management plan based on software
+development methodologies, and complete ethics training.Finalized project proposal
+and plan (due by end of
+Week 3)
+4-5Project Design and Skill Development  
+You will learn how to create user stories and usage
+scenarios and how to ef fectively prototype and test dif ferent
+interface designs. Y ou will participate in rapid user studies
+with peers on initial lo-fi prototypes, identify design moves in
+response, and create a final system design. Y ou will also
+complete a literature review tailored for your project that
+places your work in the context of existing work and practice
+communicating your solution and design. Y ou will begin
+participating in peer evaluations within your team.Incremental submission of
+final report elements
+(various, see Canvas
+assignments)
+6-11Project Development  
+You will implement your system design following standard
+software development methodologies and using T AMU
+GitHub for version control. Y ou will submit a new code
+release and demo your project to the class every 2 weeks.Fully working system (due by
+end of W eek 1 1)1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 10/15You will also submit weekly status updates, hold weekly
+update meetings, and continue to participate in peer
+evaluations. At the end of this phase, you will have a full
+working system implemented and be ready for system
+evaluation. Y ou will also continue to make iterative progress
+on your final written report. 
+12-13Project Evaluation  
+You will thoroughly test your system's functionality according
+to your evaluation plan. Y ou will also conduct a user study
+and analyze collected data to evaluate the success of your
+system. Y ou will communicate results from these two types
+of evaluations in your final report. Y ou will continue to submit
+weekly status updates, hold weekly update meetings, demo
+your project to the class, and participate in peer evaluations.Fully evaluated system (due
+by end of W eek 13)
+14Project Finalization  
+You will complete your final report and finish preparing all
+final deliverables (see Grading Components above). Y ou will
+practice communicating your problem, solution, and results
+to the class. Y ou will submit your last weekly status update
+and participate in your last peer review .Complete draft of final
+deliverables (due by end of
+Week 14)
+15Project Presentations  
+Senior projects will be presented to industry panelists.All final deliverables (due on
+last day of class by
+11:59pm )
+Final Presentations to IAP
+members ( on Final Reading
+Day)
+ 
+University and Course Policies
+ 
+Inclusion Statement
+In this class we are committed to a culture of inclusivity . We reject and condemn all forms of injustice
+and actively promote diversity and inclusion within our field. As Martin Luther King Jr . said, “Injustice
+anywhere is a threat to justice everywhere.” If any student wishes to discuss anything regarding1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 11/15inclusivity within the classroom, especially anything contrary to this statement that you have
+experienced, you are encouraged to contact the instructor or T A. 
+ 
+Course Copyright
+The materials used within this course are copyrighted.  These materials include, but are not limited
+to, the syllabus, quizzes, assignments, activity descriptions, online content, course videos, audio and
+visual recordings of classes, etc.  Because these materials are copyrighted, you do not have the right
+to copy or distribute these materials, unless permission is expressly granted.
+ 
+Attendance Policy
+The university views class attendance and participation as an individual student responsibility .
+Students are expected to attend class and to complete all assignments.
+Importance of Attendance:  Not attending weekly meetings harms the other members of your
+group and makes it much more dif ficult for the instructor to assess your contributions to the group
+effort. Therefore, attendance, punctuality and active participation in the weekly meetings are
+required. Due to the unfortunate consequences and undue burden your frequent absences would
+have on the rest of the team,  more than 5 unexcused absences is an automatic failure .
+Absence and T ardiness:  Failure to attend a meeting or late arrivals (more than 10 minutes late)
+will be reflected in your individual grade. Emergencies, however , do happen. Lateness or absence
+can be excused if there is a valid reason. Illness, job interviews out of town, death in the family ,
+conference attendance, inclement weather or accidents for commuters, etc., are valid reasons.
+Valid Excuses:  Oversleeping, a term paper due, an exam to cram for , etc., are not valid reasons.
+Ultimately , the instructor reserves the right to determine what constitutes a “valid reason” on a
+case-by-case basis.
+Proper Planning:  If you know you are going to be late or miss a class, please let the instructor   
+and your teammates know , so that they may plan for your absence and make the best use of
+their time.
+Please refer to Student Rule 7   (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about excused absences, including definitions, and related documentation and timelines.
+ 
+Makeup Work Policy
+Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’ s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor .1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 12/15Please refer to Student Rule 7  (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about makeup work, including definitions, and related documentation and timelines.
+Absences related to T itle IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” (Student Rule 7, Section 7.4.1  (https://student-rules.tamu.edu/rule07/) ).
+“The instructor is under no obligation to provide an opportunity for the student to make up work
+missed because of an unexcused absence” (Student Rule 7, Section 7.4.2  (https://student-
+rules.tamu.edu/rule07/) ).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and
+Student Conduct Code.  (See Student Rule 24  (https://student-rules.tamu.edu/rule24/) ).
+Students should submit excused absence documentation to the Canvas course  (Modules ->
+Student Resources -> Excused Absence Documentation).
+ 
+Commu nication Policy
+We will use Canvas  (https://canvas.tamu.edu/) to post assignments, course resources, discussions,
+and send announcements. It is your responsibility to check Canvas and pay attention to class
+emails and announcements.  
+ 
+Bring Your Own Device Policy
+BYOD is an initiative in the College of Engineering where students are required bring their own
+computing device to lecture and lab . You need to have a computing device with a headset,
+microphone, and webcam. Y ou will also need stable internet access outside of lecture and lab. See
+the BYOD webpage  (https://engineering.tamu.edu/easa/areas/academics/byod) for information on
+the program, approved devices, and financial assistance. BYOD devices fulfill the requirements for
+this class.
+ 
+Purchases and Reimbursements
+Accurate Forms:  Please ensure that purchase order (PO) forms submitted to the department are
+accurate. Submitting a PO with incomplete specifications or backordered items increases the
+workload for our accounting staf f and causes unnecessary delays to your team. Submitting an
+incomplete PO will result in the team being prevented from submitting additional POs; and all
+additional purchases will have to be made by team members themselves and will be reimbursed
+at the end of the semester .1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 13/15In-Stock Items:  Please verify that items are in stock before submitting a PO, and provide
+alternative vendors if an item is likely to go out of stock (e.g., if the vendor only has a few units
+left). If you suspect that a critical item may become backordered, it may be better if you purchase
+it directly since POs may take several days to go through.
+Reimbursements Deadline:  Reimbursement requests are due at the time of final deliverables.
+To minimize overhead on our accounting staf f, we will only reimburse up to five purchase orders
+(of your choice); this policy also encourages teams to plan their purchases in advance. Overnight
+or express delivery will not be reimbursed unless approved in advance by the instructor .
+Reimbursement of sales taxes is not allowed by the university; please make sure to bring tax-
+exempt forms with you whenever you make local purchases (or purchases within the state).
+Equipment Return:  The equipment and materials that you purchase do not belong to you, they
+belong to T exas A&M University . Before you will be given a final grade in the course, all
+equipment and materials must be returned.
+ 
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor .
+If asked, students must be able to produce proof that the item submitted is indeed the work of that
+student. Students must keep appropriate records at all times. The inability to authenticate one’ s work,
+should the instructor request it, may be suf ficient grounds to initiate an academic misconduct case”
+(Section 20.1.2.3, Student Rule 20  (https://aggiehonor.tamu.edu/Rules-and-
+Procedures/Rules/Honor-System-Rules) ).
+You can learn more about the Aggie Honor System Of fice Rules and Procedures, academic integrity ,
+and your rights and responsibilities at aggiehonor .tamu.edu  (https://aggiehonor.tamu.edu/) .
+All suspected academic misconduct is taken seriously and will be reported to the Aggie Honor
+System Of fice.
+ 
+Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability , please contact Disability Resources of fice on your campus (resources listed below).
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory , physical,
+or chronic health conditions. All students are encouraged to discuss their disability related needs with
+Disability Resources and their instructors as soon as possible.1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 14/15Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit
+disability .tamu.edu  (https://disability.tamu.edu/) .
+ 
+Title IX and Statement on Limits to Conﬁdentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for
+all. University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including
+full and part-time faculty , staf f, paid graduate assistants, student workers, etc.) are Mandatory
+Reporters and must report to the T itle IX Of fice if the employee experiences, observes, or becomes
+aware of an incident that meets the following conditions  (see University Rule 08.01.01.M1
+(https://rules-saps.tamu.edu/PDFs/08.01.01.M1.pdf) ):
+The incident is reasonably believed to be discrimination or harassment.
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University .
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper , class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in
+most instances, a person who is subjected to the alleged conduct will be able to control how the
+report is handled, including whether or not to pursue a formal investigation. The University’ s goal is to
+make sure you are aware of the range of options available to you and to ensure access to the
+resources you need.
+Students wishing to discuss concerns in a confidential setting are encouraged to make an
+appointment with Counseling and Psychological Services  (https://caps.tamu.edu/) (CAPS).
+Students can learn more about filing a report, accessing supportive resources, and navigating the
+Title IX investigation and resolution process on the University’ s Title IX webpage
+(https://titleix.tamu.edu/) .
+ 
+Statement on Mental Health and Wellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’ s academic success and overall wellbeing. Students are encouraged to engage in healthy
+self-care by utilizing available resources and services on your campus.1/19/22, 4:50 AM Syllabus: 22 SPRING CSCE 482 934: SR CAPST ONE DESIGN
+https://canvas.tamu.edu/courses/129774/pages/syllabus 15/15Students who need someone to talk to can contact Counseling & Psychological Services
+(https://caps.tamu.edu/) (CAPS) or call the TAMU Helpline  (https://caps.tamu.edu/helpline/) (979-
+845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency
+help is also available through the National Suicide Prevention Hotline (800-273-8255) or at
+suicidepreventionlifeline.org  (https://suicidepreventionlifeline.org/) .
+ 

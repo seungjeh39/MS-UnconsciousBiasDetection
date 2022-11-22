@@ -1,0 +1,233 @@
+S y l l ab u s
+Course Information
+ 
+Course Information
+Course Number: CSCE 399  
+Course T itle: High-Impact Experience  
+Section: 500  
+Time:  N/A  
+Location: N/A  
+Credit Hours: 0
+ 
+Instructor Details
+Instructor: Richard Furuta  
+Office: virtual  
+Phone: 979-845-3839 (leave message)  
+E-Mail: furuta@tamu.edu  
+Office Hours: TBA
+ 
+Course Description
+CSCE 399: High-Impact Learning.  (0-0).  Credit 0.  Student participation in an
+approved high-impact learning practice; documentation and self-assessment of learning
+experience.
+ 
+Course Prerequisites
+Junior or above status in CSCE
+Special Course Designation
+None
+Course Learning OutcomesThe following student learning outcomes will be achieved on successful completion of this course:
+1. Students will be able to identify characteristics of their high-impact learning experience, such as
+(a) a deepened understanding of knowledge through purposeful tasks; (b) extended and
+substantive interactions with faculty and peers; (c) interactions with people who are dif ferent than
+themselves; (d) collaborative learning with frequent feedback; and (e) opportunities to apply
+knowledge in dif ferent settings.
+2. Students will be able to describe and discuss the impact of their high-impact learning experience
+on themselves.
+These outcomes will be observed and measured through the self-reflection assignment.
+Textbook and/or Resource Materials
+None
+Grading Policy
+This course will be graded on a pass/fail (S/U) basis only .
+To achieve a passing grade, you must have an approved high-impact learning
+experience, and submit an acceptable self-reflection assignment as well as acceptable
+documentation by the designated due date.   Both reflection and documentation must be
+determined to be acceptable in order to receive an "S" grade in the class. The course
+instructor will determine whether any submission will count as “successful completion” or
+“incomplete.”  Submissions deemed “incomplete” will be returned to the student for
+revision and re-submission within 7 days.  Only 1 opportunity for revision will be given. 
+A second submission deemed “incomplete” will result in a failing grade of “U.” and the
+student will be required to repeat the course.
+Submissions deemed “incomplete” will be returned to the student for revision and re-
+submission within 7 days.  Only 1 opportunity for revision will be given.  A second
+submission deemed “incomplete” will result in a failing grade of “U.” and the student will
+be required to repeat the course.
+Late Work Policy
+Course materials will be accepted until the last day of class without penalty .
+Work submitted by a student as makeup work for an excused absence is not considered late work
+and is exempted from the late work policy . (See Student Rule 7  (https://student-
+rules.tamu.edu/rule07/) ).
+Course ScheduleThe purpose of this course is to submit reflection and documentation about an already-completed
+experience satisfying the Department of Computer Science and Engineering's High Impact
+Experience requirement.  See the Department's statement of policy on what experiences meet this
+requirement, which is included in this course's materials.  The reflection should be prepared using the
+form that is provided.  The documentation should be a letter , email, or other material from the
+sponsor of the experience confirming the student's participation and successful completion (in the
+case of coursework-based experiences, a copy of the student's unof ficial transcript is suf ficient). 
+Although a due date is set on the assignments corresponding to the reflection and documentation,
+this is intended to be advisory .  Materials will be accepted through the end of the last day of classes
+without penalty .
+The assignments for the course are:
+Documentation of activities performed in high-impact learning experience through submission on
+Canvas.
+Reflection/Critical Thinking assignment.  The assignment encompasses a meaningful self-
+reflection piece that discusses the impact of the high-impact learning experience characteristics
+and the overall experience on the student’ s erudition.  The format for this assignment will be
+provided on Canvas.
+Optional Course Information Items
+ 
+University Policies
+This section outlines the university level policies. The T AMU Faculty Senate established the wording
+of these policies.
+[NOTE : Faculty members should not change the written statements. A faculty member may add
+separate paragraphs if additional information is needed.]
+Attendance Policy
+The university views class attendance and participation as an individual student responsibility .
+Students are expected to attend class and to complete all assignments.
+Please refer to Student Rule 7   (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about excused absences, including definitions, and related documentation and timelines.
+ 
+Makeup Work PolicyStudents will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’ s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor .
+Please refer to Student Rule 7  (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about makeup work, including definitions, and related documentation and timelines.
+Absences related to T itle IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” (Student Rule 7, Section 7.4.1  (https://student-rules.tamu.edu/rule07/) ).
+“The instructor is under no obligation to provide an opportunity for the student to make up work
+missed because of an unexcused absence” (Student Rule 7, Section 7.4.2  (https://student-
+rules.tamu.edu/rule07/) ).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and
+Student Conduct Code. (See Student Rule 24  (https://student-rules.tamu.edu/rule24/) ).
+ 
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor .
+If asked, students must be able to produce proof that the item submitted is indeed the work of that
+student. Students must keep appropriate records at all times. The inability to authenticate one’ s work,
+should the instructor request it, may be suf ficient grounds to initiate an academic misconduct case”
+(Section 20.1.2.3, Student Rule 20  (https://aggiehonor.tamu.edu/Rules-and-
+Procedures/Rules/Honor-System-Rules) ).
+Texas A&M at College Station
+You can learn more about the Aggie Honor System Of fice Rules and Procedures, academic integrity ,
+and your rights and responsibilities at aggiehonor .tamu.edu  (https://aggiehonor.tamu.edu/) .
+Texas A&M at Galveston
+You can learn more about the Honor Council Rules and Procedures as well as your rights and
+responsibilities at tamug.edu/HonorSystem . (https://www.tamug.edu/HonorSystem/)
+Texas A&M at Qatar
+You can learn more about academic integrity and your rights and responsibilities at T exas A&M
+University at Qatar by visiting the Aggie Honor System
+(https://www.qatar.tamu.edu/students/academic-services/aggie-honor-system) website. 
+ Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability , please contact Disability Resources of fice on your campus (resources listed below).
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory , physical,
+or chronic health conditions. All students are encouraged to discuss their disability related needs with
+Disability Resources and their instructors as soon as possible.
+Texas A&M at College Station
+Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit
+disability .tamu.edu  (https://disability.tamu.edu/) .
+Texas A&M at Galveston
+Disability Resources is located in the Student Services Building or at (409) 740-4587 or visit
+tamug.edu/counsel/Disabilities  (https://www.tamug.edu/counsel/Disabilities.html) .
+Texas A&M at Qatar
+Disability Services is located in the Engineering Building, room 318C or at +974.4423.0316 or visit
+https://www .qatar .tamu.edu/students/student-af fairs/disability-services.
+(https://www.qatar.tamu.edu/students/student-affairs/disability-services)
+ 
+Title IX and Statement on Limits to Conﬁdentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for
+all. University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including
+full and part-time faculty , staf f, paid graduate assistants, student workers, etc.) are Mandatory
+Reporters and must report to the T itle IX Of fice if the employee experiences, observes, or becomes
+aware of an incident that meets the following conditions  (see University Rule 08.01.01.M1
+(https://rules-saps.tamu.edu/PDFs/08.01.01.M1.pdf) ):
+The incident is reasonably believed to be discrimination or harassment.
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University .
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper , class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, inmost instances, a person who is subjected to the alleged conduct will be able to control how the
+report is handled, including whether or not to pursue a formal investigation. The University’ s goal is to
+make sure you are aware of the range of options available to you and to ensure access to the
+resources you need.
+Texas A&M at College Station
+Students wishing to discuss concerns in a confidential setting are encouraged to make an
+appointment with Counseling and Psychological Services  (https://caps.tamu.edu/) (CAPS).
+ Students can learn more about filing a report, accessing supportive resources, and navigating the
+Title IX investigation and resolution process on the University’ s Title IX webpage
+(https://titleix.tamu.edu/) .
+Texas A&M at Galveston
+Students wishing to discuss concerns in a confidential setting are encouraged to make an
+appointment with the Counseling Office in the Seibel Student Center , or call (409)740-4587. For
+additional information, visit tamug.edu/counsel  (http://www.tamug.edu/counsel) .
+Students can learn more about filing a report, accessing supportive resources, and navigating the
+Title IX investigation and resolution process on the Galveston Campus’ Title IX webpage
+(https://www.tamug.edu/hrd/Title%20IX.html) .
+Texas A&M at Qatar
+Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting are
+encouraged to visit the Health and W ellness  (https://www.qatar.tamu.edu/students/student-
+affairs/health-and-wellness/) website for more information.
+Students can learn more about filing a report, accessing supportive resources, and navigating the
+Title IX investigation and resolution process on the University’ s Title IX webpage
+(https://titleix.tamu.edu/) .
+ 
+Statement on Mental Health and Wellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’ s academic success and overall wellbeing. Students are encouraged to engage in healthy
+self-care by utilizing available resources and services on your campus.
+Texas A&M College Station
+Students who need someone to talk to can contact Counseling & Psychological Services
+(https://caps.tamu.edu/) (CAPS) or call the TAMU Helpline  (https://caps.tamu.edu/helpline/) (979-
+845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergencyhelp is also available through the National Suicide Prevention Hotline (800-273-8255) or at
+suicidepreventionlifeline.org  (https://suicidepreventionlifeline.org/) .
+Texas A&M at Galveston
+Students who need someone to talk to can call (409) 740-4736 from 8:00 a.m. to 5:00 p.m. weekdays
+or visit tamug.edu/counsel  (https://www.tamug.edu/counsel/Disabilities.html) for more information.
+For 24-hour emergency assistance during nights and weekends, contact the T AMUG Police Dept at
+(409) 740-4545. 24-hour emergency help is also available through the National Suicide Prevention
+Hotline (800-273-8255) or at suicidepreventionlifeline.org  (https://suicidepreventionlifeline.org/) .
+Texas A&M at Qatar
+Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting are
+encouraged to visit the Health and W ellness  (https://www.qatar.tamu.edu/students/student-
+affairs/health-and-wellness/) website for more information.  
+ 
+Campus Speciﬁc Policies
+Texas A&M at Galveston
+Classroom Access and Inclusion Statement
+Texas A&M University is committed to engaged student participation in all of its programs and
+courses and provides an accessible academic environment for all students. This means that our
+classrooms, our virtual spaces, our practices and our interactions are as inclusive as possible and we
+work to provide a welcoming instructional climate and equal learning opportunities for everyone. If
+you have an instructional need, please notify me as soon as possible.
+The Aggie Core values of respect, excellence, leadership, loyalty , integrity and selfless service in
+addition to civility , and the ability to listen and to observe others are the foundation of a welcoming
+instructional climate. Active, thoughtful and respectful participation in all aspects of the course
+supports a more inclusive classroom environment as well as our  (https://rules-
+saps.tamu.edu/PDFs/12.01.99.M2.pdf) mutual
+(https://www.tamug.edu/studentrules/Students_Rights_Responsibilities.html) responsibilities to the
+campus community .
+Statement on the Family Educational Rights and Privacy Act (FERP A)
+FERP A is a federal law designed to protect the privacy of educational records by limiting access to
+these records, to establish the right of students to inspect and review their educational records and to
+provide guidelines for the correction of inaccurate and misleading data through informal and formal
+hearings. Currently enrolled students wishing to withhold any or all directory information items may
+do so by going to howdy .tamu.edu   (https://howdy.tamu.edu/) and clicking on the "Directory HoldInformation" link in the Student Records channel on the MyRecord tab. The complete FERP A Notice
+to Students  (http://registrar.tamu.edu/Catalogs%2C-Policies-Procedures/FERPA/FERPA-Notice-to-
+Students#0-StatementofRights) and the student records policy is available on the Of fice of the
+Registrar webpage.
+Items that can never be identified as public information are a student’ s social security number ,
+citizenship, gender , grades, GPR or class schedule. All ef forts will be made in this class to protect
+your privacy and to ensure confidential treatment of information associated with or generated by your
+participation in the class.
+Directory items include name, UIN, local address, permanent address, email address, local telephone
+number , permanent telephone number , dates of attendance, program of study (college, major ,
+campus), classification, previous institutions attended, degrees honors and awards received,
+participation in of ficially recognized activities and sports, medical residence location and medical
+residence specialization.
+ 
+ 

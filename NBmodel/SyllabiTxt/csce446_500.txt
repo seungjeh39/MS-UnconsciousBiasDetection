@@ -1,0 +1,359 @@
+Course S yllabus
+Course Information
+Course Number:VIST 477, VIZA 677, CSCE 446, CSCE650
+Course Title:Virtual Reality
+Time:Tuesday/Thursday 8am to 9:15am
+Location:Langford C room 207
+Credit Hours:3
+Instructor Details
+Professor:Jinsil Hwaryoung Seo
+E-Mail:hwaryoung@tamu.edu
+Office Hours:By appointment
+Instructor:Brian Beams
+E-Mail:brianmbeams@gmail.com
+Office Hours:By appointment
+Instructor of record:Emma McLauchlan
+E-Mail:emma.mclauchlan@tamu.edu
+Office Hours:By appointment
+Teaching Assistant:Brett Dishongh
+E-Mail:brett.michael29@tamu.edu
+Office Hours:By appointment
+Course Description
+This course covers the theory and practice of virtual reality (VR). Virtual reality includes interactive 3D
+virtual  environments that take advantage of immersive technology to provide enhanced perceptual
+realism and an  embodied interaction experience. The course aims to provide an overview of VR with
+topics including input  devices, output devices, 3D interaction techniques, augmented reality, the role of
+realism in VR, navigation  techniques, design guidelines, and evaluation methods. Students will gain
+hands-on experience designing VR  experiences emphasizing application, demonstration, or research
+purposes.
+For the final project in this course, students will be introduced to concepts in sustainability, and how to
+use interactive technology to educate and inform people’s idea of sustainable practices in their own life
+and society. Students will work on a series of individual activities as well as work as a team to create a
+large-scale group activity, which will focus on the creation and analysis of interactive art projects in the
+form of a fully realized VR project.
+Page1of9
+Course S yllabus
+Course Prerequisites
+Students are expected to have some experience with computer programming and 3D graphics tools prior
+to  taking this course. While the course has no official prerequisites, recommended experience includes
+topics  covered in courses such as VIST 271, CSCE 221, or CSCE 441. Students who are uncertain of the
+expected  level of technical proficiency are encouraged to contact the instructor to discuss specifics.
+Experience with  graphical and visualization tools, frameworks, and libraries (e.g., Unity, Unreal,
+Processing, OpenGL) is recommended. Familiarity with concepts of human-computer interaction,
+aesthetic design, and mathematical functions is also recommended, but experience with all is not
+required.
+Special Course Designation
+This is  cross-listed and stacked which means it is both in department of Visualization and Computer
+science and has both undergraduate and graduate students.
+Course Learning Outcomes
+•Produce interactive 3D virtual environments and 3D interaction techniques
+•Develop immersive virtual reality applications with a team
+•Characterize and describe virtual reality systems in terms of display properties and interaction
+techniques
+•Evaluate virtual reality applications in terms of design, purpose, benefits, and limitations
+•Review and organize past and current virtual reality techniques and knowledge
+•Analyze the response users have to your developed project
+•Identify sources of information outside the classroom that can be helpful for the design problems and
+technical problems presented in class.
+•Analyze, critique, and present work in a productive and effective manner using appropriate
+terminology.
+Textbook and/or Resource Materials
+Reading and viewing assignments will be given from articles and research papers that are available
+through the  university. There is no required textbook for the course, but the recommended textbook will
+complement the  topics covered in the course.
+Recommended:
+3D User Interfaces: Theory and Practice (2nd Edition). Joseph J. LaViola Jr., Ernst  Kruijff, Ryan P.
+McMahan, Doug Bowman, Ivan P. Poupyrev. ISBN-10: 0134034325
+Page2of9
+Course S yllabus
+Course Structure
+Students enrolled in Virtual Reality (VIST 477, VIZA 677, CSCE 446, CSCE 650) will have both individual
+and group activities. The individual activities  will be in the form of in-class presentations and writing
+assignments which will inform, and be informed by, the group activities, which will be the backbone
+of the course. The group activities will account for much of the work in the course.
+Individual activities 20%
+Exams 20%
+Team Project 45%
+Final Paper 10%
+Peer Evaluation 5%
+Total: 100
+Individual Activities
+Students will participate in individual activities that contribute to their ﬁnal grades. These are graded
+separately from Group Activities. These will include:
+●Quizzes and Exams
+●In-Class Presentations
+●Written Analysis of Readings and other materials
+All individual activities will be weighted equally with each other.
+Quizzes and Exams
+There will be exams and quizzes given via Canvas throughout the semester. These will be on topics
+covered in class during lectures, readings, and other assigned materials.
+In-class presentations
+Students will have assignments that will require them to present on a topic during class. The
+presenting students will then be asked to help lead discussions on that topic. To prepare for this,
+students will be assigned a research paper on their assigned topic.
+Written Analysis
+Students may be given written assignments to be submitted on Canvas. Using the discussion
+sections on Canvas, students will have homework assignments where they are asked to reﬂect on
+and analyze a paper, web article, or video.
+Group Activities
+Students will work in teams to create a VR project from start to finish. This includes the following:
+Concept/Design
+●
+Background research and writing assignments
+○
+Design Document
+Page3of9
+Course S yllabus
+■
+Concept Art
+■
+Interaction Flow Charts
+■
+Core Mechanics
+○
+Literature Review
+■
+Existing Projects
+■
+Related studies
+■
+Subject Matter Research
+Production
+●
+Build out prototype of team’s project
+●
+Add art and features
+●
+Develop finished “Vertical Slice” of the project
+Evaluation
+●
+Develop user study plan
+●
+Create a video presentation and a research paper
+Teams will be responsible for the timely submission of milestones and final deliverables.
+There will be periods of the class where students are expected to work on their projects, even if nothing is explicitly
+assigned for any given class day. Students are expected to show up to class with progress reports  during these
+course dates.
+Final Deliverables for the Group Project
+●
+1 Design Document
+●
+1 VR project, compiled to an executable
+●
+1 final documentation video
+●
+1 research  paper
+VR Demo Times (outside of lectures)
+Students are encouraged to schedule time outside of class to explore VR projects in the VIRL lab. If
+students have their own VR setup, they are allowed to use that at home.
+Grading Policy
+To aid in understanding the method by which your project assignments are evaluated, read the
+following carefully. The actual grading criteria will be related to these categories but will be more specific
+in nature.
+F: 59 and below:The student work is unresolved; theintentions are unclear and major criteria or goals
+lack resolution. Presentation is incomplete and/or of poor quality. There is a complete lack of problem
+solving, creative content and/or technical merit.
+Page4of9
+Course S yllabus
+D: 60 -69:The solution has problems in two or moremajor areas; skill and design development is
+marginal or incomplete. The project lacks imagination and/or design potential.
+C: 70 -79:The student has solved the problem, butthe solution lacks depth of understanding; Some
+program goals are not completely satisfied and the solution contains little promise even though most
+issues have been addressed.
+B: 80 -89:The student work shows imagination andpotential. Presentation and design content is good;
+program requirements are fulfilled but in need of more refinement or development. There are no major
+issues that would require a total redesign of the project.
+A: 90- 100:The student work has imagination and thesolutions to the problems show understanding and
+thought. The problem solution is highly developed and well presented; the entire assignment shows
+depth and breadth and is well coordinated. The assignment’s potential has been achieved.
+Peer Evaluation
+The final group project will be turned in with peer evaluation forms. Students will give themselves and
+each other scores on the following criteria:
+1. Reliable for meetings
+2. Contributes ideas to the group
+3. Conducts Research
+4. Gives input for work in progress
+5. Individual Contribution
+Late Work Policy
+●
+Late work will have 10 points deducted for every day that it is late.
+Work submitted by a student as makeup work for an excused absence is not considered late work and is
+exempted from the late work policy (Student Rule 7).
+Course Schedule
+Class attendance is expected. Students should report any known future absences at least one week
+prior to the absence. Any graded class activities missed (e.g., exams, presentations, homework
+submissions) during unapproved absences cannot be made up without the instructor’s prior
+approval and a valid excuse.
+Page5of9
+Course S yllabus
+This below schedule is tentative and may change (notice will be given if changes are made):
+Week
+Tuesdays
+Thursdays
+1
+Lecture:
+Course Introduction/VR Overview
+Class Activity:
+Bio Presentations
+2
+Lecture:
+History and Uses of VR
+Lecture :
+Virtual Environments and 3D Graphics
+3
+Lecture:
+Immersion, Presence and Avatars
+Online Discussion Lecture:
+Education, Empathy, and Environment
+4
+Lecture:
+Virtual Economies, Systems, and Core
+Mechanics
+Online DiscussionLecture:
+Project Introduction(VR for Good)/Project
+Structure;
+DEMO
+: GitHub
+5
+Lecture :
+Navigation, Manipulation, and Control
+Independent Exploration of VR Projects Lecture:
+Design Documents
+Reading Presentation (Grad)
+Project related literature review due
+6
+Lecture :
+Tracking, Controllers, and Motion
+Capture DEMO:
+TBD
+Reading Presentation (Grad)
+Design Document due (discuss with instructor)
+7
+Midterm review
+Schedule project demos Midterm Exam
+8
+Lecture:
+User Interface Design (UI/UX)
+DEMO:
+TBD
+Reading Presentation (Grad)
+9
+Presenting and reporting
+Preliminary project report
+(introduction,
+literature review, description, team roles,
+progress, schedule)DEMO:
+TBD
+Reading Presentation (Grad)
+10
+Lecture:
+Social and Collaborative VR
+DEMO:
+TBD
+Reading Presentation (Grad)
+11
+Lecture:
+VR Research approaches and evaluation/
+IRB DEMO:
+TBD
+Reading Presentation (Grad)
+12
+Project user study plan due
+Work Day
+13
+Individual team meetings
+Work Day
+14
+Project presentations
+Project presentations
+15
+Project presentations
+Final project deliverables
+Final Exam
+May 6, 1pm-2pm
+Page6of9
+Course S yllabus
+Technolog y Support
+–Please contact Emma McLauchlan if you run into technical difficulties
+University Policies
+This section outlines the university level policies that must be included in each course syllabus. The TAMU
+Faculty Senate established the wording of these policies.
+NOTE: Faculty members should not change the writtenstatements. A faculty member may add separate
+paragraphs if additional information is needed.
+Attendance Policy
+The university views class attendance and participation as an individual student responsibility. Students
+are expected to attend class and to complete all assignments.
+Please refer toStudent Rule 7in its entirety forinformation about excused absences, including
+definitions, and related documentation and timelines.
+Makeup Work Policy
+Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor.
+Please refer toStudent Rule 7in its entirety forinformation about makeup work, including definitions,
+and related documentation and timelines.
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” (Student Rule 7, Section 7.4.1).
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed
+because of an unexcused absence” (Student Rule 7,Section 7.4.2).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student
+Conduct Code. (SeeStudent Rule 24.)
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If
+asked, students must be able to produce proof that the item submitted is indeed the work of that
+student. Students must keep appropriate records at all times. The inability to authenticate one’s work,
+Page7of9
+Course S yllabus
+should the instructor request it, may be sufficient grounds to initiate an academic misconduct case”
+(Section 20.1.2.3, Student Rule 20).
+Texas A&M at College Station
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and
+your rights and responsibilities ataggiehonor.tamu.edu.
+Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability, please contact the Disability Resources office on your campus (resources listed below)
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or
+chronic health conditions. All students are encouraged to discuss their disability related needs with
+Disability Resources and their instructors as soon as possible.
+Texas A&M at College Station
+Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit
+disability.tamu.edu.
+Title IX and Statement on Limits to Confidentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for
+all. University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including full
+and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and
+must report to the Title IX Office if the employee experiences, observes, or becomes aware of an
+incident that meets the following conditions (seeUniversity Rule 08.01.01.M1):
+●
+The incident is reasonably believed to be discrimination or harassment.
+●
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University.
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper, class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most
+instances, a person who is subjected to the alleged conduct will be able to control how the report is
+handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure
+you are aware of the range of options available to you and to ensure access to the resources you need.
+Page8of9
+Course S yllabus
+Texas A&M at College Station
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment
+withCounseling and Psychological Services(CAPS).
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX
+investigation and resolution process on the University’sTitle IX webpage.
+Statement on Mental Health and Wellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’s academic success and overall wellbeing. Students are encouraged to engage in healthy
+self-care by utilizing available resources and services on your campus
+Texas A&M College Station
+Students who need someone to talk to can contact Counseling & Psychological Services (CAPS) or call the
+TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends.
+24-hour emergency help is also available through the National Suicide Prevention Hotline (800-273-8255)
+or atsuicidepreventionlifeline.org.
+Page9of9

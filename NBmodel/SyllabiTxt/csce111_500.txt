@@ -1,0 +1,498 @@
+CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 1 of 12 
+ 
+CSCE 111 Introduction to Programming 
+Concepts  Course Syllabus  
+Wait a Minute  
+What are all of these NON -computer science majors doing taking this class? I am about 
+to reach over 1 500 students this semester in this class. Why are students taking this 
+and why are other majors requiring it?  
+The use of computers in every industry makes this a very good reason.  
+Required for all Students?  
+Throughout many college careers, there are classes that are required for every major. 
+There are people that believe one or t wo computer science classes should be included 
+in this list. Like English (in an English speaking location) is required to be able to 
+communicate with people, more and more, we need to communicate with machines. 
+Computer science classes can help with that.  
+Why do I Teach This  
+There are a lot of reasons this is a class I chose to teach:  
+ I think it is fun to see a machine do exactly what I command.  
+ I think it is more fun to see students realize this is very doable.  
+ I enjoy the challenge and the reward of your success . 
+ I have had a fantastic career developing software.  
+ I think there is so much more to come, I want to help others get ready.  
+ With such a large base of software now, one can focus on their specialty and not 
+have to be a “Computer Scientist” to make good use of computing.  
+ Java is a fun language to teach.  
+What ’s Next ? 
+Students completing this course should be able to:  
+ Feel comfortable using a computer.  CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 2 of 12 
+ Use Java to produce software.  
+ Understand programming in other settings, like Excel  or JavaScript . 
+ Feel comfortable changing their major to Computer Science.  
+Course Overview  
+The computer’s role in culture has expanded from a calculating machine used by 
+governments to the iPod as a fashion accessory, the Smart Phone as a compani on, and 
+the Internet as a medium of self -expression. In the 1950s, the idea of dedicating a 
+computer to entertainment was unthinkable; today revenues from the computer game 
+industry exceed Hollywood. More humans own a computer than own a toothbrush and 
+Apple is one of the world’s largest company having overtaken many Oil, Agriculture, and 
+Manufacturing  sectors . 
+We inhabit a century where every job will be technical. In the 21st century, learning to 
+program a computer is empowerment. From “if” conditionals t o “for” loops, knowing the 
+basics of programming allows you to understand the way the modern world works. 
+Programming instruction teaches procedural and functional thinking, project 
+management and time management, skills that are essential components of an  
+empowered individual. Programming is the power to create, the power to change, and 
+the power to influence. Today’s students regardless of their ultimate field of study or 
+occupation need this fundamental knowledge.  
+Programming teaches logic, algorithmic t hinking, and an iterative approach to solving 
+problems and testing your ideas. These skills make you smarter and are useful no 
+matter what you do. Learning to program can be incredibly rewarding, give you a new 
+appreciation for technology, and introduce co untless career opportunities.  
+Catalog Description  
+Using computation to enhance problem -solving abilities; understanding how people 
+communicate with computers, and how computing affects society; computational 
+thinking; software design principles, including algorithm design, data representation, 
+abstraction, modularity, structured and object -oriented programming, documentation, 
+testing, portability, and maintenance; understanding programs’ abilities and limitations; 
+development and execution of programs.  
+Week ly Topics  
+Some of the topics to be covered in lecture periods are:  
+ Formal and natural languages.  CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 3 of 12 
+ Variables, assignment, printing, mental models for computers.  
+ Operators, math, random numbers, algorithms.  
+ Conditionals, if statements. Switch statements, tree s, composing conditionals.  
+ Looping, while do loops, do while loops, flow charts.  
+ Arrays and Lists , enhanced for loops  
+ Combining branching looping and I/O  
+ Methods  and Classes  
+ Code refactoring, Java Libraries, Objects, Exceptions, Code verification  
+ File I/O  
+ Object Creation and Design  
+ Graphical user interface  
+Learning Outcomes  
+Students completing this course should be able to:  
+ Use a text editor to program Java code.  
+ Use a Java compiler to produce executable software.  
+ Identify the basic syntax and semantics of the Java programming language.  
+ Use appropriate commenting, layout, and naming to communicate code intent  
+ Understand the primitive data types built into the Java language.  
+ Understand the concepts of Java classes and objects.  
+ Understand the concepts of lifet ime, scope, and the initialization mechanism of 
+variables.  
+ Implement Java code branching using if or switch statements.  
+ Program loops with while, for, and do statements.  
+ Make use of arrays to store and process lists of data.  
+ Assemble data and methods into  classes following the software engineering 
+principles of encapsulation and data hiding.  
+ Organize Java code following the software engineering principles of modularity 
+and abstraction.  
+ Create Java I/O interfaces  
+ Read, interpret, analyze, and explain introd uctory Java programs.  
+ Test and evaluate introductory Java programs.  
+Class Meetings:  
+This course re quires you to have a computer.   This complies with the College of Engineering’s Bring 
+Your Own Device (BYOD) policy .   
+Lecture:  
+ Sections 500 – 501: Innovati ve Learning Classroom Building  112 
+o  MWF 11:30 AM – 12:20 PM CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 4 of 12 
+Lab: 
+ Section 501: Innovati ve Learning Classroom Building   223 
+o Mondays and Wednesdays 3:00 pm - 3:50 pm  
+ Section 502: Innovati ve Learning Classroom Building   223 
+o Mondays and Wednesdays 4:10 pm - 5:00 pm  
+ 
+Instructor:  
+Robert Lightfoot  
+Use Canvas email for question about class and grades.  
+ 
+Help/Office Hours:   Days/Times Posted on Canvas  
+Teaching Assistants:  
+CSCE 111 has 7 undergraduate TAs this semester. You will find their office hours in 
+Canvas.  
+Grading  
+Grading will come from the accumulation of points throughout the semester. There  are a 
+total of 1500 point s available to earn. You need 105 0 or more to get an A. Unlike the 
+traditional 90%  or 1350 points , you can choose from different assignments with different 
+values to get your points.  You can choose the point level you want to achieve and know 
+the grade you have earned base on the items you have shown mastery towards.  
+To show mastery in a topic, you must achieve 70% or greater. Otherwise no credit is 
+given for that topic.  
+The grading s cale expected to be used is:  
+A >= 1050 points  > B >= 950 points  > C >= 850 points  D >= 750 points > F < 750 points  
+The main path includes 4 categories . A student  must get 70% on each of the main  
+assignment groups to get a C or better in the class.  
+Main  Categories  
+4 of the 11 pathways make up the main  Categories that need to be mastered to 
+be successful in this class.  To pass the class you must pass the core 
+categories . To get a C or better in the class, you must get 70% or better in the 
+core categories.   CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 5 of 12 
+The main  requirements will provide enough points to get a C  in the course.  This 
+is the minimum needed to pass.  By choosing other assignments  or additional 
+pathways , you can build your grade to the grade you want.   
+zyBooks : (Core)  
+Weekly zyBooks assignmen ts account for 100 points . Each week will have a 
+reading to do before class and examples and challenge activities to do by the 
+end of the week. You must archive 70 points for this to count towards your point 
+total.  
+Lab:  (Core)  
+Lab works, activities, and/or demos count for 100 points of your grade.  You must 
+archive 70 points for this to count towards your point total.  
+Assignments:  (Core)  
+Weekly coding assignments account for 500 points  of your grade. More 
+complicated assignments towards the end of the semester are weighted heavier 
+than earlier ones.  You must archive 350 points for this to count towards your 
+point total.  
+ 
+Projects:  (Core)  
+Projects account for 200 points  of your grade. There will be two projects with 
+each project having multiple deliverables. Projects are team -based.  You must 
+archive 140 points for this to count towards your point total.  You must be pr esent 
+for milestone checks and project demonstrations to receive  credit for your 
+project.  
+ 
+Additional pathways  to build your personal learning experience:  
+7 of the 11 categories are additional pathways  that you can pick. If you show 
+mastery in this topic (score 70 or more) these points can go to your total.  Many of 
+these are a great way to build a solid base of points that will get you the grade 
+you want.  
+Engagement  and Participation:  
+Engagement  counts for 100 points . Historically in my classes, those students 
+who get full credit for engagement  make the highest grades. Those who get less 
+than full credit, down to zero credit, do not make the highest grades.  
+Each week you will have several opportunities to show your engagement . This is 
+one of the best ways to earn points. Most engagement points will be earned 
+while in class.  There will be more than 100 points of opportunity to account for CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 6 of 12 
+some missed chances. This path follows along each week of the semester.  
+There is no way to make up engagement.   
+Discussions  
+Weekly discussions account for 100 points . Topics will be given every week. You 
+will provide your thoughts on the discussion and reflect on 2 other students work. 
+You must archive 70 points for this to count towards your point total.  These are 
+online discussions in Canvas  that happen once p er week for the whole semester.  
+Coding Challenges   
+Coding challenges will be worth 100 points. There will be coding challenges 
+available for you to be able to do. Information will be posted when the challenge 
+is available.  You must archive 70 points  (combi ned score on all 5 ) for this to 
+count towards your point total.  Coding Challenges is a 5 week “scenic tour” of 
+things we have learned.  
+Social Media Scavenger Hunt   
+A scavenger hunt will be worth 50 points. Information will be posted when the 
+challenge is available. You must archive 35 points for this to count towards your 
+point total.  The scavenger hunt is a small rest stop on your path  that will be 
+available early in the semester.  
+JavaScript  
+A JavaScript option worth 50 points will be added to one of you r assignments. 
+Details will be provided. If you would like to try this, it can add to your points. You 
+must archive 35 points for this to count towards your point total.  This is another 
+small rest stop on your path that will be available once you have lear ned enough 
+in the class to be successful.  
+YouTube Channel  
+A YouTube Channel option worth 100 points will be available as one of your 
+assignments. Details will be provided. If you would like to try this, it can add to 
+your points. You must archive 70 point s for this to count towards your point total.  
+The YouTube option is another scenic side road that will help you show your 
+mastery in this class.  
+Final Test (Optional)  
+A Final test will be worth 100 points. If you usually do well at test s, this will be a 
+chance to take one. Information will be posted when the test is available, how CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 7 of 12 
+you will take it, and what it will cover. You must archive 70 points for this to count 
+towards your point total.  This is a great way to make up for some things that 
+might not have  gone as planned.  It only adds to your grade and cannot reduce it.  
+Late Work:  
+Late work on coding assignments will receive a 10% reduction per day for a maximum 
+of 3 days. After this period, late work is not accepted.  Late work is not accepted for 
+other i tems.  
+Extensions  on due dates are required for any excused absences. You may ask for 
+these in class.  
+Required Textbook  
+zyBooks Java Textbook is required for this class. To subscribe:  
+1. Click any zyBooks assignment link in your learning management system  
+(Do not go to the zyBooks website and create a new account)  
+2. Subscribe   
+ 
+A subscription is  $77. Students may begin subscribing on  Dec 27, 202 1 and the cutoff 
+to subscribe is  May 10, 202 2. Subscriptions will last  until Jun 13, 202 2. 
+ 
+ 
+University and Course Policies  
+Attendance Policy:  
+The univer sity views class attendance and participation as an individual student 
+responsibility. Students are expected to attend class and to complete all 
+assignments.   Please refer to  Student Rule 7  in its enti rety for information about 
+excused absences, including definitions, and related documentation and timelines.  
+Attendance  and participation  is expected in the course and will be recorded in both 
+lectures and labs.   Up to 100 points  of the course grade will be based on participation , 
+and absences may prevent you from earning any partici pation  points .   
+It is particularly important to attend lab sessions since this will often serve as a team 
+meeting time for your project work.   In addition, students may miss in -class activities, 
+which  will not be made up without prior approval.   Note that remote students are still 
+required to attend class online sessions and participate in in -class activities.  
+Makeup Work Policy:   CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 8 of 12 
+Students will be excused from attending class on the day of a graded activity or when 
+attendance contributes to a student’s grade, for the reasons stated in  Student Rule 7 , or 
+other reasons deemed appropriate by the instructor.   Please refer to  Student Rule 7  in 
+its entirety for information about makeup work, including definitions, and related 
+documentation and timelines.  
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a 
+period of more than  30 days for make -up work, and the timeframe for make -up work 
+should be agreed upon by the student and instructor” ( Student Rule 7, Section 7.4.1 ). 
+“The instructor is under no obligation to provide an o pportunity for the student to make 
+up work missed because of an unexcused absence” ( Student Rule 7, Section 7.4.2 ). 
+Students who request an excused absence are expected to uphold the Aggie Honor 
+Code an d Student Conduct Code. (See  Student Rule 24 .) 
+If you know you are going to miss a class or assessment, please let the instructor know 
+ahead of time.   If an absence is excused (see  Student Rule 7 ), the instructor will either 
+provide you an opportunity to make up any work that contributes to the final grade or 
+provide a satisfactory alternative by a date agreed upon by you and instructor.   You are 
+respo nsible for providing satisfactory evidence to the instructor to substantiate the 
+reason for the absence.   Falsification of documentation is a violation of the Honor 
+Code.   Other absences may be excused at the discretion of the instructor with prior 
+notific ation and proper documentation.   In cases where prior notification is not feasible 
+(e.g., accident or emergency) you must provide notification by the end of the second 
+working day after the absence, including an explanation of why notice could not be sent 
+prior to the class.   Accommodations sought for absences due to the observance of a 
+religious holiday can be sought either prior or after the absence, but not later than two 
+working days after the absence.  
+Bring Your Own Device:  
+BYOD is an  initiative in the  college of engineering where students are required to bring 
+their own computing device to class.   Students need to have a computer or laptop with 
+stable internet access, microphone, and webcam.   Students also need a smartphone as 
+a backup in the case of a  network outage.   See the  BYOD webpage  for information on 
+the program, approved devices, and financial assistance.   BYOD devices fulfill the 
+requirements for this class.  
+Communication:  
+We will use  Canvas  to post assignments, course resources, and send 
+announcements.   It is your responsibility to check Canvas and pay attention to class 
+emails.  CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 9 of 12 
+Other forms of Communication will be outlined in Canvas.  
+For personal or private questions, email me through canvas .  I receive a lot of email  in 
+the regular TAMU email , this will help me find you and answer your question much 
+quicker.  
+Submissions of Assignments:   
+All assignments will be turned in electronicall y through  Canvas  (unless otherwise 
+specified) by the due date and time given on the assignment.   Email submissions will 
+not be accepted.  
+ 
+Academic Integrity Statement and Policy:  
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”  
+For this class, any use of websites like Chegg, CourseHero, or others is neither needed 
+nor allowed. All instances of this will be sent to the Honor Council with the 
+recommended sanction of F*. No assignment is worth this.  In fact, many assignments 
+can be skipped altogether without preventing an A in the course. The posting of 
+assignments from this course, as well as accessing the answers provided is considered 
+cheating. Logs are provided from these companies and any access  to a question can 
+result in an Honor Council Violation.  (See the Course Resource tab on Canvas for 
+approved resources.)  
+ “Texas A&M University students are responsible for authenticating all work submitted to 
+an instructor. If asked, students must be able  to produce proof that the item submitted is 
+indeed the work of that student. Students must keep appropriate records at all times. 
+The inability to authenticate one’s work, should the instructor request it, may be 
+sufficient grounds to initiate an academic  misconduct case” ( Section 20.1.2.3, Student 
+Rule 20 ). 
+You can learn more about the Aggie Honor System Office Rules and Procedures, 
+academic integrity, and your right s and responsibilities at  aggiehonor.tamu.edu . 
+ Definitions of academic misconduct  which includes plagiarism.  
+ List of sanctions  that can be applied if academic misconduct is found.  
+For this class, certain aspects of the honor code need to be clarified.  
+1. There will be times in this course whe re you or your team make use of external 
+code/software/libraries. Whenever this is done, you must make sure that you:  
+A. Follow any licensing and/or use restrictions that library/code requires  
+B. Clearly document what the source of the external code was, and how  it was 
+used  CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 10 of 12 
+2. There may be cases in this course where you or your team seek outside 
+assistance related to one of the projects. Any assistance received from people 
+other than members of your team, the professor, teaching assistants, or peer 
+teacher needs to be clearly documented.  
+3. You will be working in team environments in this course, and your work as a team 
+will be used to determine grades. As such, it is your responsibility, when asked, to:  
+a. Accurately describe the work that you have done on a team project.  
+Claiming credit for work that you have not done or that others did instead is 
+a violation of the honor code.  
+b. Accurately describe (to the best of your knowledge) the performance of other 
+team members. “Covering” for another team member (claiming they did 
+more work than you know they did, or exaggerating the work they did) or 
+“spiking” them (claiming they did less work than you know they did or 
+purposefully minimizing the work they did) are examples of honor code 
+violations.  
+c. Prevent (as best you can) or repo rt (known or suspected) violations of the 
+honor code by your other team members. You share responsibility when a 
+project is turned in; if you are aware of a teammate having violated the code 
+in his/her work on the project, and do not report it, you are cla iming credit for 
+that violation yourself.  
+If there are any questions or concerns about whether an action is appropriate, you 
+should check with the professor or teaching assistant first. If in doubt, assume that it is 
+not appropriate.  
+ 
+Americans with Disabi lities Act (ADA) Policy Statement:  
+Texas A&M University is committed to providing equitable access to learning 
+opportunities for all students. If you experience barriers to your education due to a 
+disability or think you may have a disability, please conta ct Disability Resources in the 
+Student Services Building or at (979) 845 -1637 or visit  disability.tamu.edu . Disabilities 
+may include but are not limited to attentional, learning, mental health, sensory, physical, 
+or chronic health conditions. All students are encouraged to discuss their disability -
+related needs with Disability Resources and their instructors as soon as possible.  
+ 
+Title IX and Statement on Limits to Confidentiality:  
+Texas A&M University is  committed to fostering a learning environment that is safe and 
+productive for all. University policies and federal and state laws prohibit gender -based 
+discrimination and sexual harassment, including sexual assault, sexual exploitation, 
+domestic violence,  dating violence, and stalking.  
+With the exception of some medical and mental health providers, all university 
+employees (including full and part -time faculty, staff, paid graduate assistants, student CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 11 of 12 
+workers, etc.) are Mandatory Reporters and must report to the Title IX Office if the 
+employee experiences, observes, or becomes aware of an incident that meets the 
+following conditions (see  University Rule 08.01.01.M1 ): 
+ The incident is reasonably  believed to be discrimination or harassment.  
+ The incident is alleged to have been committed by or against a person who, at the 
+time of the incident, was (1) a student enrolled at the University or (2) an 
+employee of the University.  
+Mandatory Reporters must file a report regardless of how the information comes to their 
+attention – including but not limited to face -to-face conversations, a written class 
+assignment or paper, class discussion, email, text, or social media post. Although 
+Mandatory Reporters must file a report, in most instances, you will be able to control 
+how the report is handled, including whether or not to pursue a formal investigation. The 
+University’s goal is to make sure you are aware of the range of options available to you 
+and to ens ure access to the resources you need.  
+Students wishing to discuss concerns in a confidential setting are encouraged to make 
+an appointment with  Counseling and Psychological Services  (CAPS).  
+Students can learn more abo ut filing a report, accessing supportive resources, and 
+navigating the Title IX investigation and resolution process on the University’s  Title IX 
+webpage . 
+ 
+ 
+Statement on Mental Health and Wellness:  
+Texas A&M Univer sity recognizes that mental health and wellness are critical factors 
+that influence a student’s academic success and overall wellbeing. Students are 
+encouraged to engage in proper self -care by utilizing the resources and services 
+available from Counseling & Psychological Services (CAPS). Students who need 
+someone to talk to can call the TAMU Helpline (979 -845-2700) from 4:00 p.m. to 8:00 
+a.m. weekdays and 24 hours on weekends. 24 -hour emergency help is also available 
+through the National Suicide Prevention Hotline (800 -273-8255) or 
+at suicidepreventionlifeline.org . 
+ 
+Campus Safety Measures:  
+To promote public safety and protect students, faculty, and staff during the coronavirus 
+pandemic, Texas A&M University has adopted policies and practices for the Fall 2020 
+academic term to limit virus transmission. Students must observe the following prac tices 
+while participating in face -to-face courses and course -related activities (office hours, 
+help sessions, transitioning to and between classes, study spaces, academic services, 
+etc.):  CSCE 111: Introduction to Computer Science , Spring  2022 
+Department of Computer Science and Engineering,  
+Texas A&M University
+ 
+ 
+ 
+ 
+© 2016 –2022  Robert Lightfoot                  Page 12 of 12 
+ Self-monitoring:   Students should follow CDC recommendations for sel f-
+monitoring.  Students who have a fever or exhibit symptoms of COVID -19 
+should participate in class remotely and should not participate in face -to-
+face instruction.  
+ Face Coverings:  Face co verings  (cloth face covering, surgical mask, etc.) are 
+encouraged to  be properly worn in all non -private spaces including classrooms, 
+teaching laboratories, common spaces such as lobbies and hallways, public study 
+spaces, libraries, academic resource, and support offic es, and outdoor spaces 
+where 6 feet of physical distancing is difficult to reliably maintain. Description of 
+face coverings and additional guidance are provided in the  Face Covering 
+policy  and Frequently Asked Questions (FAQ)  available on the  Provost website . 
+  
+Personal Illness and Quarantine:  
+Student s required to quarantine must participate in courses and course -related activities 
+remotely and  must not attend face -to-face course activities . Students should notify 
+their instructors of the quarantine requirement. Students under quarantine are expected 
+to participate in courses and complete graded work unless they have symptoms that are 
+too severe to participate in course activities.  
+Students experiencing personal injury or illness that is too severe for the student to 
+attend class qualify for an excused absence (See  Student Rule 7, Section 7.2.2 .) To 
+receive an excused absence, students must comply with the documentation and 
+notification guidelines outlined in Student Rule 7. While Student Rule 7, Section 7.3.2.1, 
+indicates a medical confirmation note from the student’s medical provider is preferred . 
+ 
+Schedule  
+In this class, our weekly schedule will be very constant. The week will contain a module 
+that has zyBooks reading and some challenge activities. A discussion over current 
+topics. And a coding assignment.  
+Each week in Lab you are likely to get 2 lab works to complete.  We will introduce 
+additional projects throughout the semester to  
+After module 6, we will start our first project.  
+After m odule 10, we will start our final project.  
+© 2016 –2022  Robert Lightfoot    
+ 

@@ -1,0 +1,214 @@
+  Course Syllabus  
+ 
+ 
+ 
+ 
+Page 1 of 5 
+Course Information  
+ 
+Course Number:  CSCE 222  
+Course Title:  Discrete Structures for Computing  
+Section:  599 
+Time:  MWF 01:50 PM – 02:40 PM 
+Location:  ONLINE  
+Credit Hours: 3  
+ 
+Instructor Details  
+ 
+Instructor:  Qin Huang  
+Office:  PETR 4 45 
+Phone:  979-402-6216  
+E-Mail:  huangqin@tamu.edu  
+Office Hours: will be posted on Canvas  
+ 
+Course Description  
+ 
+Provide mathematical foundations from discrete mathematics for analyzing computer algorithms, for 
+both correctness and performance; introduction to models of computation, including finite state 
+machines and Turing machines . 
+ 
+Course Prerequisites  
+ 
+MATH 151  
+ 
+Course Learning Outcomes  
+ 
+The course will allow students to understand the relationships between logic, proofs and sets, and apply 
+results from discrete mathematics to analysis of algorithms.  Students will be able to produce proofs and 
+apply counting techniques. They will have a basic understanding of models of computation.  
+ 
+Textbook  and/or Resource Materials  
+ 
+Discrete Mathematics and  Its Applications, 8 Edition, Kenneth H. Rosen, McGraw Hill Education.  
+ 
+Campuswire ( https://campuswire.com/p/GFD9B2B2C ): 
+All questions will be fielded through Campuswire.  
+• Everyone can see answers and other students can answer as well.  
+• You may post to the entire class, or to instructors and TAs only  
+o Email messages are more likely to be overlooked and should be used only in rare  
+circumstances.  
+Join the course and use code 5442.    Course Syllabus  
+ 
+ 
+ 
+ 
+Page 2 of 5 
+Grading Poli cy 
+If you want to challenge any grading, you must do so within one week of when the grade is published.  
+We reserve the right to audit the grades for any assignments submitted to this course. During the audit 
+process, we can decrease or increase your score. This could result in lowering the score of already  
+released grades.  
+Letter grades will be assigned as follows:  
+90-100 A  
+80-89   B or better  
+70-79   C or better  
+60-69   D or better  
+<60       F or better  
+Exams  (50%)  
+• One midterm (20%).  
+• Final exam (30%).   
+Exams are open book, open note.  
+• You are allowed  
+o to use your textbook.  
+o any instructor’s slides and examples.  
+• You are not  allowed  
+o to interact with anyone face to face or electronically during an exam.  
+Homework (50%)  
+Written assignments are handed out every one or two weeks. A subset of each homework will be 
+graded for correctness. The other problems will be graded for completeness only.   
+The number of homework assignments is indeterminate (you cannot as sume there will be a certain 
+number).   
+• You must write your individual homework independently.  
+• You are not  allowed to interact with other students currently taking the course or those who have 
+taken the course before.  
+• You are allowed  
+o to use your textbook.  
+o any instructor’s slides and examples.  
+o to get help from the grader and instructor.     Course Syllabus  
+ 
+ 
+ 
+ 
+Page 3 of 5 
+ 
+Late Work Policy  
+ 
+Submission of late assignments and scheduling of make -up exams should be arranged before the due 
+date.  
+ 
+Course Schedule  
+ 
+Week  Topic  
+1 Logic and proofs  
+2 Sets 
+3 Functions  
+4 Sequences and sums  
+5 Algorithms and complexity  
+6 Induction and recursion  
+7 Counting  
+8 Permutations and combinations  
+9 Generalized permutations and combinations  
+10 Recurrence relations  
+11 Generating functions  
+12 Inclusion -exclusion  
+13 Relations  
+14 Models of computation  
+ 
+University Policies  
+ 
+Attendance Policy  
+ 
+The university views class attendance and participation as an individual student responsibility. Students 
+are expected to attend class and to complete all assignments.  
+ 
+Please refer to Student Rule 7  in its entirety for information about excused absences, including 
+definitions, and related documentation and timelines.  
+ 
+Makeup Work Policy  
+ 
+Students will be excused from attending class on the day of a graded activity or when attendance 
+contributes to a s tudent’s grade, for the reasons stated in Student Rule 7, or other reason deemed 
+appropriate by the instructor.  
+ 
+Please refer to Student Rule 7  in its entirety for information about makeup work, inclu ding definitions, 
+and related documentation and timelines.  
+   Course Syllabus  
+ 
+ 
+ 
+ 
+Page 4 of 5 
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more 
+than 30 days for make -up work, and the timeframe for make -up work should be agreed upon by the 
+student and instructor” ( Student Rule 7, Section 7.4.1 ). 
+ 
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed 
+because of an unexcused absence” ( Student Rule 7, Section 7.4.2 ). 
+ 
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student 
+Conduct Code. (See Student Rule 24 .) 
+ 
+Academic Integrity Statement and Policy  
+ 
+“An Aggie does not lie, ch eat or steal, or tolerate those who do. ” 
+ 
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If 
+asked, students must be able to produce proof that the item submitted is indeed the work of that 
+student. St udents must keep appropriate records at all times. The inability to authenticate one’s work, 
+should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” 
+(Section 20.1.2.3, Student Rule 20 ). 
+ 
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and 
+your rights and responsibilities at aggiehonor.tamu.edu . 
+ 
+Americans with Disabilities Act (ADA) Policy  
+ 
+Texas A&M University is committed to providing equitable access to learning opportunities for all 
+students. If you experience barriers to your ed ucation due to a disability or think you may have a 
+disability, please contact Disability Resources in the Student Services Building or at (979) 845 -1637 or 
+visit disability.tamu.edu . Disabilities may include, b ut are not limited to attentional, learning, mental 
+health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their 
+disability related needs with Disability Resources and their instructors as soon as possible.  
+ 
+Title I X and Statement on Limits to Confidentiality  
+ 
+Texas A&M University is committed to fostering a learning environment that is safe and productive for 
+all. University policies and federal and state laws prohibit gender -based discrimination and sexual 
+harassme nt, including sexual assault, sexual exploitation, domestic violence, dating violence, and 
+stalking.  
+ 
+With the exception of some medical and mental health providers, all university employees (including full 
+and part -time faculty, staff, paid graduate assis tants, student workers, etc.) are Mandatory Reporters 
+and must report to the Title IX Office if the employee experiences, observes, or becomes aware of an 
+incident that meets the following conditions (see University Rule 08.01.01.M1 ): 
+ 
+• The incident is reasonably believed to be discrimination or harassment.    Course Syllabus  
+ 
+ 
+ 
+ 
+Page 5 of 5 
+• The incident is alleged to have been committed by or against a person who, at the time of the 
+incident, was (1) a student enrolled at the University or (2) an employee of the University.   
+ 
+Mandatory Reporters must file a report regardless of how the information comes to their attention – 
+including but not limited to face -to-face conversations, a written class assignment or paper, class 
+discu ssion, email, text, or social media post.  Although Mandatory Reporters must file a report, in most 
+instances, a person who is subjected to the alleged conduct  will be able to control how the report is 
+handled, including whether or not to pursue a formal in vestigation. The University’s goal is to make sure 
+you are aware of the range of options available to you and to ensure access to the resources you need.  
+ 
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment 
+with Counseling and Psychological Services  (CAPS).   
+ 
+Students can learn more about filing a report, accessing suppor tive resources, and navigating the Title IX 
+investigation and resolution process on the University’s Title IX webpage . 
+ 
+Statement on Mental Health and Wellness  
+ 
+Texas A&M University recognizes that mental health an d wellness are critical factors that influence a 
+student’s academic success and overall wellbeing. Students are encouraged to engage in proper self -
+care by utilizing the resources and services available from Counseling & Psychological Services (CAPS). 
+Stud ents who need someone to talk to can call the TAMU Helpline (979 -845-2700) from 4:00 p.m. to 
+8:00 a.m. weekdays and 24 hours on weekends. 24 -hour emergency help is also available through the 
+National Suicide Prevention Hotline (800 -273-8255) or at suicidepreventionlifeline.org . 

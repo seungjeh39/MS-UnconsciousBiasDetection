@@ -1,0 +1,649 @@
+Course S yllabus
+CSCE 482-932, Senior Capstone Design
+Instructor Tracy Hammond, TA Adrita Anika
+Course Ov erview
+Effective design requires identifying the “right” problem to solve, building components that meet that
+problem’s needs, and integrating components into a single solution system.  As problems become more
+challenging, solid design, follow through, and teamwork skills become necessary to developing a
+solution.  Every computer scientist and computer engineer who wants to work on big problems must
+have these skills.
+After this course, you will be able to:
+●
+analyzea complex computing problem andidentifysolutionsusing computing principles,
+●
+design, implement, and evaluatea computing-basedsolution to meet a given set of requirements,
+●
+applycomputer science theory and software developmentfundamentals toproduce
+computing-based solutions,
+●
+collaborateeffectively as a member of a team,
+●
+recognizeprofessional responsibilities, both legaland ethical, andmake informed judgementsin
+computing practice, and
+●
+communicateeffectively.
+You will work in groups of 4-5 people to complete a significant engineering design project.  Every project
+requires complete implementation, documentation, evaluation, and demonstration of a computing
+system design. The focus is not only on the final product but also on design methodology, management
+process, and teamwork.  At the end of the semester, each group will make a public presentation
+describing and demonstrating their work.
+This course offers you a unique learning experience.  The TA and I are always especially excited to teach
+this course, and here is why:
+●
+You finally get to combine everything that you have learned throughout your entire
+undergraduate curriculum.This not only includes thecomputer science skills you have gained,
+but also the professional, cultural, and communication skills that you have developed.
+●
+This is an opportunity for you to try to solve a problem that matters to you.This course gives
+you a lot of freedom and choice in your semester-long project. This course can be the first step
+towards moving to the career of your choice.
+●
+Building a system from start to finish is fun and rewarding.Students often tell me that this was
+the greatest experience of their entire college career.
+●
+Working on teams can be messy, but it’s worth it.It is amazing what you can accomplish
+together, so much more than on your own.  Working on real problems with real people has its
+challenges, but it is also very rewarding when you successfully complete your goals.
+●
+Every semester is different, every team is different, every solution is different.There is always
+something new to learn and innovate.
+●
+Smaller class sizes and weekly meetings allow you to connectwith your classmates and your
+instructor.
+Page1of15
+Course S yllabus
+Course Expectations
+Inclusion Statement
+In this class, we are committed to a culture of inclusivity. We reject and condemn all forms of racism,
+discrimination, brutality, and violence. We actively promote diversity and inclusion within our field not
+limited to race, ethnicity, religion, disability, age, sex, gender identity, or sexual orientation. Thus, we are
+united in our condemnation of racism and any form of injustice. As Martin Luther King Jr. said, “Injustice
+anywhere is a threat to justice everywhere.” If any student wishes to discuss anything regarding
+inclusivity within the classroom, especially anything contrary to this statement that you have
+experienced, you are encouraged to contact the TA or instructor.  We also endeavor to make the course
+materials themselves inclusive and accessible, and we encourage you to contact the TA or instructor if
+you have any concerns or questions regarding class materials.
+About Working in Teams
+Because your teammates' grades are so tightly coupled with your own dedication to the class, many of
+the assignments and rules are put in place to protect you and your teammates. These include
+requirements to participate actively in class, complete assignments in a timely manner, keep the video
+on with your face visible in virtual meetings, and treat your classmates and instructors with respect.
+CSCE 482 is a project-oriented course aimed at developing system integration skills. You will work in
+groups of 4–5 people to complete a significant software design project. Every project requires you to
+complete implementation, documentation, evaluation, and demonstration of a software system. The
+focus is not only on the final product but also on design methodology, management process, and
+teamwork.
+Each team is required to accommodate the following:
+●
+Time Management:Manage its own efforts to completeits project in a timely manner. You are
+graded based on both the quality of the group product and their individual contributions.
+●
+Scheduled Meetings:Schedule a weekly meeting withthe course instructor and the TAs during
+the official class hours. These meetings must be attended by every group member. Since the
+projects will be student managed, the exact nature and style of these meetings is at the group’s
+discretion, e.g., division of tasks among group members.However, every member of the group
+is expected to participate in these meetings
+ 
+.
+At the end of the semester, each group will make a public presentation describing and demonstrating
+their work. These presentations are open to the university community.
+Page2of15
+Course S yllabus
+Online Elements
+We will use Canvas for course materials, assignments, and communication. While most materials and
+assignments will be handled online, the class itself will be held in-person and synchronously, which
+means you are required to be present and active during all classes and all class times. If remotely
+attending for an approved reason, we will require attendees to have your video on with your face visible.
+Attendance Policy
+Students required to quarantine or self-isolate should still participate in courses and course-related
+activities remotely and must not attend face-to-face course activities. Students under quarantine or
+self-isolation are expected to participate in courses and complete graded work unless they have
+symptoms that are too severe to participate in course activities. Instructors teaching courses delivered
+only face-to-face should work closely with students who are in quarantine or self-isolation to ensure the
+student keeps up with the work.
+Students experiencing personal injury or illness that is too severe for the student to attend class qualify
+for an excused absence (seeStudent Rule 7, Section7.2.2). To receive an excused absence, students
+must comply with the documentation and notification guidelines outlined in Student Rule 7. While
+Student Rule 7, Section 7.3.2.1, indicates a medical confirmation note from the student’s medical
+provider is preferred, please be understanding as not all illnesses may require a visit to a physician,
+especially during this time.
+●
+Importance of Attendance:Not attending weekly meetingsharms the other members of your
+group and makes it much more difficult for the instructor to assess your contributions to the
+group effort. Therefore, attendance, punctuality and active participation in the weekly meetings
+are required. Due to the unfortunate consequences and undue burden your frequent absences
+would have on the rest of the team,more than 5 unexcusedabsences is an automatic failure.
+●
+Video Presence:If you are attending this class online,then you are required to have your video
+showing your face. Just as it is not appropriate to attend a face-to-face class with a blanket over
+your head, it is not appropriate to attend class with your video off. If you need to use a bio break
+or step away briefly, you will need to communicate this with your team as long as an estimate
+when you will return. This class has a significant communication component, and facial
+expressions are vital to communication. We understand that you may have a “bad hair day” or
+some other reason that you will need to keep your video off, and those are completely fine. Just
+note thathaving your video off will count as oneof your unexcused absences.
+●
+Absence and Tardiness:Failure to attend a meetingor late arrivals (more than 10 minutes late)
+will be reflected in your individual grade. Emergencies, however, do happen. Lateness or absence
+can be excused if there is a valid reason. Illness, job interviews out of town, death in the family,
+conference attendance, inclement weather or accidents for commuters, etc., are valid reasons.
+●
+Valid Excuses:Oversleeping, a term paper due, anexam to cram for, etc., are not valid reasons.
+Ultimately, the instructor reserves the right to determine what constitutes a “valid reason” on a
+case-by-case basis.
+●
+Proper Planning:If you know you are going to be lateor miss a class, please let the instructor
+ 
+and your teammates know,
+so that they may plan foryour absence and make the best use of
+their time.
+Page3of15
+Course S yllabus
+Student Expectations:
+You are expected to:
+●
+Always use your @tamu.edu e-mail account to send correspondence between yourself and the
+teaching team. Check your @tamu.edu email account daily.
+●
+Use your Canvas account (canvas.tamu.edu) to access course information, assignments, and your
+grades.
+●
+Be an active problem solver, contributor, and discussant in lecture and lab.
+●
+Be prepared and accountable for both lecture and lab by reading the assigned material ahead of
+time and be able to answer simple questions over said material.
+●
+Be held accountable for all assigned material that is, or is not, explicitly discussed in class.
+●
+Have a public presence in the class.
+●
+Attend class as a community expectation.
+Course Logistics
+Course Time:11:30AM–2:30 PM (Lecture & Lab) on Tuesdays and Thursdays
+Location:EABA 121
+Credit Hours:3
+Prerequisites:Senior classification; CSCE 315, CSCE 411, and two additional CSCE tracked
+courses.
+Instructor:Dr. Tracy A. Hammond
+Office:EABC 103
+E-Mail:hammond@tamu.edu
+Office Hours:In person after class and online by appointment
+TAs:Adrita Anika and Samantha J. Ray
+Office:EABC 112C
+E-Mail:Adrita:adrita.anika@tamu.edu; Sam:sjr45@tamu.edu
+Office Hours:In person after class and online by appointment
+Course Description
+Senior Capstone Design is a project-based course to develop system integration skills for solving
+real-world problems in computer science; a significant team software project that integrates advanced
+concepts across computer science specializations; projects require design, implementation,
+documentation and demonstration, as well as design methodology, management process and teamwork.
+Special Designation: C (oral communication)
+As per university requirements: 1) at least 35% of your grade will involve written or oral communications,
+2) 70% of that 35% is based on individual (not group) writing or speaking, 3) at least 1250 words are
+individually written, 4) feedback is provided to you to allow for revision of some amount of documents
+or slides, 5) you have at least 5 minutes of individual public speaking.
+To receive C credit for this course, you must pass the C component.
+Page4of15
+Course S yllabus
+Course Objectives
+To prepare you for engineering practice with a major design experience based on the knowledge and
+skills acquired in earlier course work and incorporating engineering standards and realistic constraints
+that include most of the following considerations: economic; environmental; sustainability;
+manufacturability; ethical; health and safety; social; and political.
+Expected Outcomes
+It is expected that successful participation in the course will allow you to demonstrate:
+1.Analyzea complex computing problem and toapplyprinciplesof computing and other relevant
+disciplines to identify solutions.
+2.Design, implement and evaluatea computing-based solutionto meet a given set of computing
+requirements in the context of the program's discipline.
+3.Communicateeffectively in a variety of professionalcontexts.
+4.Recognizeprofessional responsibilities andmake informedjudgementsin computing practice
+based on legal and ethical principles.
+5.Collaborateeffectively as a member or leader of ateam engaged in activities appropriate to the
+program's discipline.
+6.Applycomputer science theory and software developmentfundamentals toproduce
+computing-based solutions.
+List of Topics
+●
+Designing engineering problems
+●
+Using project management tools, e.g.,  Gantt, Trello, Github, Jira, etc.
+●
+Undergoing ethics training: CITI
+●
+Writing project motivation and identifying needs
+●
+Conducting a literature review
+●
+Designing and communicating a user interface
+●
+Designing and running a user study
+●
+Analyzing and interpreting data
+●
+Communicating and summarizing results
+●
+Developing professional writing skills and writing technical reports
+Textbook and/or Resource Materials
+Required:Design of Everyday Things. Don Norman.(BasicBooks 2013). Available free online at TAMU
+Libraries.
+Recommended:
+●
+The Five Dysfunctions of a Team: a Leadership Fable.Patrick M. Lencioni. (Jossey-Bass, 2002).
+Available free online at TAMU Libraries.
+●
+Design for Electrical and Computer Engineers. RalphFord and Chris Coulston. (McGraw-Hill
+Science, 2007). Physical copy available at TAMU Libraries.
+●
+Technical material from the literature, manufacturers’ data sheets and user manuals.
+Page5of15
+Course S yllabus
+ABET Accreditation
+The program is evaluated every year through the ABET (Accreditation Board for Engineering and
+Technology) accreditation process. This class is part of the holistic evaluation. ABET accreditation
+provides assurance that a college or university program meets the quality standards of the profession for
+which that program prepares graduates. Your degree is a significant achievement and perhaps the largest
+investment you will make toward your future. The quality of education you receive makes a big
+difference in your career success.
+ABET accreditation:
+●
+Verifies that your educational experience meets the global standardfor technical education in
+your profession.
+●
+Enhances your employment opportunities—multinationalcorporations require graduation from
+an accredited program.
+●
+Supports your entry to a technical professionthroughlicensure, registration and
+certification—all of which often require graduation from an ABET-accredited program as a
+minimum qualification.
+●
+Establishes your eligibilityfor many federal studentloans, grants, and/or scholarships.
+●
+Paves the way for you to work globally, because ABETaccreditation is recognized worldwide
+through international agreements, and many other countries’ national accrediting systems are
+based on the ABET model.
+In order for the department of Computer Science & Engineering to keep their accreditation, the students
+must demonstrate their abilities in each of the above expected outcomes of this class. Each of those
+skills will be evaluated by external industrial affiliate members during your final presentation.
+Grading P olicy
+The final grade you will receive in the class will bebased on points accumulatedduring the semester.
+Thus, both continued progress (the process) and the quality of your product (and other deliverables) will
+determine your grade. Although the bulk of your grade is based on the performance of your team,
+individual performance will also be gauged. Unless otherwise noted on the syllabus or class calendar, all
+assignments will be due before class on the due date. The following is the breakdown of the grading
+policy.
+Grade Sc ale
+F < 60% 
+≤
+ D < 70% 
+≤
+ C < 80%  
+≤
+ B < 90% 
+≤
+ A
+We make every effort to provide you with the opportunity to earn an A. We do not curve in this class.
+Rather, we teach to mastery which means that we have clear expectations in terms of what you should
+complete and what knowledge you should have obtained by the end of the course to succeed and to
+earn an A. If you are taking this class, participate appropriately, resubmit and fix your work based on our
+feedback, and work equitably with your team, you should get an A. You will have every opportunity to
+earn an A, so at the end of the course an 89.9 is a B.
+Grade Distribution
+1.Daily Quizzes:3%
+Page6of15
+Course S yllabus
+2.Peer Feedback:2%
+3.Project Proposal:5%
+4.Weekly Reports:5%
+5.Reading Responses:5%
+6.Poster Design and Presentation: 10%
+7.Auxiliary Deliverables:5%
+8.Project Testing:5%
+9.IRB Materials:5%
+10.User Study:5%
+11.Final Presentation:20%
+12.Final Deliverables:30%
+-----------------------------------------------
+TOTAL100%
+Note that you will not receive a passing grade in the class if you do not have a tested working system
+by the end of the semester. The lower weighted items will significantly help you succeed in your
+higher-weighted items.
+To repeat, while some of these sections might appear to have very low point values, they are crucial to
+your later success in the higher point sections.
+1. Daily Quizzes (3%)
+Every class (including the first class) will start with a 10-minute quiz. The quizzes will include material
+about your assignments, questions about your design choices, and knowledge that you should have
+gained from your past computer science courses.  Research has repeatedly shown that the act of
+quizzing imparts more knowledge than lecturing or studying. Thus, this not only lets us know where your
+knowledge might be lacking so that we may be able to correct it within this class, but it also serves to
+teach you the knowledge that you need to have. This course is your final course in your computer
+science degree, and should provide you with the capability to put all of your skills together and
+communicate those capabilities effectively.
+2. Peer Feedback (2%)
+Peer feedback is crucial. It is also important that your feedback is of high quality. You will be asked to give
+feedback to your peers regularly throughout the semester. This includes feedback on their presentations,
+their proposal ideas, and their written work.
+3. Project Proposal (5%)
+Initial Individual Proposal (1%), Final Individual Proposal (1%), Group Proposal
+(3%)
+This grading criteria focus on formulating iterations of potential project ideas that will eventually lead to
+your team’s final project idea for the rest of the semester. You individually and your team separately will
+use the feedback from these proposals to help define that final project idea. During each of these
+proposal phases, you will give feedback to your classmates to help refine the ideas and potentially find
+teammates with similar interests.
+Page7of15
+Course S yllabus
+4. Weekly Reports (5%)
+Team Updates (2%), Individual Updates (2%), Agile Project Management (1%)
+This grading criteria will be based on your team’s ability to maintain the project on schedule. Each team
+submits a weekly report as a group and individually, which should be incremental
+ 
+. The group reports
+should specifically address the following:
+●
+Minutes
+ 
+ from the previous meeting agenda
+ 
+ for the weekly meeting with the instructor and the
+TA
+●
+Team’s accomplishments during this period. Accomplishments need to be measurable, e.g., “did
+more research on such and such” is not an accomplishment, it is an activity (and a loosely
+defined one).
+●
+Team’s goals
+ 
+ for the following week
+Both team and individual weekly reports are due at 11:59 PM on the Monday of each week starting on
+Week 4. Reports are limited to one page and should be submitted according to the template provided in
+the course website. The 
+ 
+team leader will be responsible for submitting team reports and leading the
+discussion during the weekly meeting. One of the team members, acting as a scribe
+ 
+, will be responsible
+for generating the meeting minutes throughout the semester.
+5. Reading Responses (5%)
+Book Readings (2%), Literature Review (3%): 10 breadth and 2 depth papers per
+team member
+This grading criteria supplement your project team’s work by accumulating the knowledge necessary to
+design and develop your system through book chapter readings from The Design of Everyday Things by
+Don Norman and from literature review readings related to your team project. Each team member is
+expected to identify 10 relevant papers for their project and specify how they should be referenced in
+their final report. These papers will be different for each team member (so that a team of 4 will have 40
+papers to reference in their final report). Of these papers, each person will read two of these papers that
+are especially relevant in depth and write a reading summary on those two papers. This requirement is
+to ensure that you have a strong understanding of what relevant work exists.
+6. Poster Design and Presentation (10%)
+ 
+Poster Design & Updates (5%), CDR Midterm Presentation (2%), External Poster
+Presentations (3%)
+This grading criteria evaluate your team’s project progress in terms of its critical design in the mid-point
+of the semester. Your midterm presentation will serve as a critical design review for your project. Your
+team will demonstrate this progress through a poster design and corresponding in-class discussion of
+your poster. Your poster will receive feedback from your instructors and peers that you must address in
+order to receive credit. Additionally, at least one member of your team will present your poster at an
+external poster presentation, e.g., Student Research Week, the Aggie Research Expo, the TAMU CSCE IAP
+Spring meeting, or similar, to provide you with extra practice in communicating your work and
+responding to external feedback.
+Page8of15
+Course S yllabus
+7. Auxiliary Deliverables (5%)
+CITI Training (1%) Gantt Chart (1%), User Stories (1%), References List: 50 papers
+(1%), GitHub Management (1%)
+This grading criteria focus on other assignment contents in the course that relate to your semester
+progress in preparing your team project. Each team member is expected to commit to your GitHub
+repository weekly, if not daily.
+8. Project Testing (5%)
+Your project must be evaluated in accordance with industry standards, so you need to test the technical
+performance of your developed materials as your project goes on. You are expected to develop an
+automatic test bed for your project. You should also have appropriate unit testing throughout your code.
+This grading criteria evaluates the materials that you have taken, written, and conducted for preparing
+for and executing the evaluation of your team project’s system.
+9. IRB Materials (5%)
+IRB Supplementary Documents (1%), Initial IRB Application (2%), Revised IRB
+Application (2%),
+In order to conduct an evaluation with human participants, e.g., a user study or a survey, you must have
+an active IRB application with Texas A&M. This process involves writing recruitment materials, an
+evaluation protocol, and a survey as well as any other materials as needed for your project’s evaluation
+plan. Your team will prepare these evaluation materials throughout the semester, and must complete
+these contents properly and timely to ensure sufficient time in completing the evaluation of your system.
+10. User Study (5%)
+User Studies (5%): at least 20 participants
+This grading criteria evaluates the materials that you have taken, written, and conducted for preparing
+for and executing the evaluation of your team project’s system. Your team will prepare these evaluation
+materials throughout the semester, and must complete these contents properly and timely to ensure
+sufficient time in completing the evaluation of your system. Note that completing this a user study is part
+of the required final deliverables and it not optional, even if you prefer to abandon the 5%
+11. Final Presentation (20%)
+Oral Presentation (15%), In-Class Demo (5%)
+This grading criteria evaluates the communication and demonstration of your team project’s system
+through a presentation, which you will present to the instructors and to industry panelists on the reading
+day before finals; and a live system demonstration, which you will present to the instructors in class.
+12. Final Deliverables (30%)
+Final Report (20%), Documentation & Coding (5%), Demo Video (5%)
+This grading criteria evaluates the technical writing of your final outcomes through the final report and
+through the document and coding of your system. Your final report will be critiqued on its thoroughness
+and effectiveness in communicating key aspects of your system such as its motivation, approach,
+evaluation, and engineering standard, while your documentation and coding will be critiqued on its
+Page9of15
+Course S yllabus
+completeness to properly execute and understand the details of your system. The final deliverables
+include: a) a video advertisement of your project, b) a live demo, c) a final updated poster, d) a final
+updated PowerPoint slidedeck, e) fully documented code source, f) user manual, g) evaluation materials,
+and h) a final project report with all of the required sections. All final deliverables must be submitted in
+order to receive a grade for this section.
+Final Deliverables
+1.Team Drive files including the following (please organize into folders, e.g., Docs, Source,
+Hardware, Media, References, Freeware, etc.)
+a.Designs: code, schematics, data, data sheets, freeware software tools, etc.
+b.Reports: proposal, weekly reports, final report (completed in Overleaf), and ALL
+presentations
+c.Audiovisual media: close-up pictures of your system 
+ 
+and a high-quality video presenting
+your project (including a system demo and a project description) for posterity (see
+gallery in the course webpage for movie samples). Final video must be submitted to the
+instructor
+d.Presentation posters: in PDF and PPT format
+e.Individual assignments: in PDF format
+2.Final prototype in the assigned GitHub Repository, as well as any spare parts and supplies
+3.Software install, to be demonstrated on several machines
+NOTE 
+: Grades will not be assigned until all project
+deliverables have been turned in (see below), all
+borrowed items (e.g., keys, books, equipment) have been returned to their proper location or their
+owner, and the workstations in the lab have been thoroughly cleaned up. All team members are
+required to be present at the time of the final delivery.
+All final deliverables are dueon the last day ofclass at 11:59 PM (date in Canvas).
+13. Peer Reviews
+Each member of your project team will score and review the performance of your other team members
+through periodic peer review forms throughout the semester. Your peer review responses will be
+calculated with the instructors’ internal scores for adjusting each member’s overall semester score.You
+must complete all of your peer reviews to get an A in the course.
+14. Class Participation
+The instructors will evaluate your attendance to meetings, participation in the discussions, and
+contributions to the team.More than five (5) unexcusedabsences will lead to an automatic failure for
+the course. Note that team days in which teams mayneed to work in a remote location to accomplish
+certain assignments (e.g., presenting your work at a conference or SRW, interviewing experts, meeting
+with mentors, accessing technologies outside of the classroom, etc.) do not count toward absences
+providing they are approved by the instructor in advance, abide by the instructor’s requirements for
+check in during course time, abide by any activity reporting requirements by the instructor, and
+complete all assignments on-time relevant to that class time.
+Page10of15
+Course S yllabus
+Late Work Policy
+All assignments must be submitted to complete the course. Assignments will be considered late after
+their given deadline but will be accepted. Late assignments will receive a grade reduction of 10% per day
+late with a maximum reduction of 30%.
+Purchases and Reimbursements
+●
+Accurate Forms:Please ensure that purchase order(PO) forms submitted to the department are
+accurate. Submitting a PO with incomplete specifications or backordered items increases the
+workload for our accounting staff and causes unnecessary delays to your team. Submitting an
+incomplete PO will result in the team being prevented from submitting additional POs; and all
+additional purchases will have to be made by team members themselves and will be reimbursed
+at the end of the semester.
+●
+In-Stock Items:Please verify that items are in stockbefore submitting a PO, and provide
+alternative vendors if an item is likely to go out of stock (e.g., if the vendor only has a few units
+left). If you suspect that a critical item may become backordered, it may be better if you
+purchase it directly since POs may take several days to go through.
+●
+Reimbursements Deadline:Reimbursement requests aredue at the time of final deliverables. To
+minimize overhead on our accounting staff, we will only reimburse up to five purchase orders (of
+your choice); this policy also encourages teams to plan their purchases in advance. Overnight or
+express delivery will not be reimbursed unless approved in advance by the instructor.
+Reimbursement of sales taxes is not allowed by the university; please make sure to bring
+tax-exempt forms with you whenever you make local purchases (or purchases within the state).
+●
+Equipment Return:The equipment and materials thatyou purchase do not belong to you, they
+belong to Texas A&M University.  Before you will be given a final grade in the course, all
+equipment and materials must be returned.
+Course Schedule
+As aC (communication)course, you will be continuouslytaught, and be given experience practicing, how
+to present their work professionally. This will occur during all of the weeks of the course.
+Introduction to Senior Capstone Design: Weeks 1-3
+You will learn how to identify and formulate an engineering problem, how to function effectively on
+multi-disciplinary teams, how to communicate and place their work in the context of other work, how to
+communicate the motivation, need, and ethical considerations for their system, and how to define
+success in their projects.
+Major Deadlines
+Teams Finalized bythe end of the second class meetingof Week 2 (date in Canvas).
+Finalized Project Proposal Dueat the beginning ofthe second class meeting of Week 4 (date in Canvas).
+Page11of15
+Course S yllabus
+Project Design and Skill Development: Weeks 4-6
+You will learn how to do project management, how to evaluate the success of their project, and how to
+effectively evaluate their projects and create an evaluation plan according to their definition of success.
+You will complete a literature review, user stories, Gantt charts, and paper prototypes. They will use
+project management software such as GitHub and Trello. The groups and individual students will present
+weekly updates on their project development progress.
+Major Deadlines
+Submit IRB Applicationby the end of the second classmeeting of Week 6 (date in Canvas).
+Project Development: Weeks 7-11
+The teams will learn how to communicate the user interface design and design choices and how to write
+technical documentation. The teams will continue to make progress on their projects. There will
+continue to be weekly reports, peer reviews, and in-class demonstrations. Additionally, teams will
+continue to make iterative progress on their final reports.
+Major Deadlines
+Fully working systemby the end of the second classmeeting of Week 11 (date in Canvas).
+Project Evaluation: Weeks 12-13
+The teams will run and implement a user study to evaluate the success of their system. They will learn
+how to analyze and interpret data from an experiment and how to communicate about the results of an
+experiment. The course will shift focus to the teams continuing to make progress on their projects. There
+will continue to be weekly reports, peer reviews, and in-class demonstrations. Additionally, teams will
+finalize their final reports.
+Major Deadlines
+Fully evaluated systemby the end of the second classmeeting of Week 13 (date in Canvas).
+Project Finalization: Week 14
+The teams will learn how to think critically about the results and their implications and how to effectively
+summarize their contribution. There will continue to be weekly reports, peer reviews, and in-class
+demonstrations. Additionally, teams will finish preparing all of their final deliverables (see below).
+Major Deadlines
+Complete draft of their final deliverablesby theend of the second class meeting of Week 14 (date in
+Canvas).
+Page12of15
+Course S yllabus
+Project Presentations: Week 15
+Senior projects will be presented to industry panelists.
+Major Deadlines
+Final Deliverables Due onthe last day of classby11:59pm (date in Canvas)
+Final Presentations to IAP members onFinal ReadingDay (date in Canvas).
+IMPORTANT DATES:
+January 18 (Tue.) –First day of spring semester classes
+January 24 (Mon.) –Last day for adding/dropping courses
+March 07 (Mon.) –Mid-semester grades due
+March 14-18 (Mon.-Fri.) –Spring Break
+April 15 (Fri.) –Reading day (no class)
+April 19 (Tue.) –Last day to drop classes (TAMU Q-drop)
+May 03 (Tue.) –Redefined Day; attend Friday classes (our class does not meet)
+May 04 (Wed.) –Industry Panel Presentations; Reading day (no class)
+May 05-10 (Thurs.-Tues.) –Final Exams
+Course Cop yrig ht
+The materials used within this course are copyrighted.  These materials include, but are not limited to,
+the syllabi, quizzes, exams, homework and labwork problems, online handouts, course videos, audio and
+visual recordings of classes, etc.  Because these materials are copyrighted, you do not have the right to
+copy or distribute these materials, unless permission is expressly granted.
+University P olicies
+Makeup Work Policy
+Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor.
+Please refer toStudent Rule 7in its entirety forinformation about makeup work, including definitions,
+and related documentation and timelines.
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” (Student Rule 7, Section 7.4.1).
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed
+because of an unexcused absence” (Student Rule 7,Section 7.4.2).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student
+Conduct Code. (SeeStudent Rule 24.)
+Page13of15
+Course S yllabus
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If
+asked, students must be able to produce proof that the item submitted is indeed the work of that
+student. Students must keep appropriate records at all times. The inability to authenticate one’s work,
+should the instructor request it, may be sufficient grounds to initiate an academic misconduct case”
+(Section 20.1.2.3, Student Rule 20).
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and
+your rights and responsibilities ataggiehonor.tamu.edu.
+Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability, please contact Disability Resources in the Student Services Building or at (979) 845-1637 or
+visitdisability.tamu.edu. Disabilities may include,but are not limited to attentional, learning, mental
+health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their
+disability related needs with Disability Resources and their instructors as soon as possible.
+Title IX and Statement on Limits to Confidentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for
+all. University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including full
+and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and
+must report to the Title IX Office if the employee experiences, observes, or becomes aware of an
+incident that meets the following conditions (seeUniversity Rule 08.01.01.M1):
+●
+The incident is reasonably believed to be discrimination or harassment.
+●
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University.
+Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper, class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most
+instances, you will be able to control how the report is handled, including whether or not to pursue a
+formal investigation. The University’s goal is to make sure you are aware of the range of options available
+to you and to ensure access to the resources you need.
+Page14of15
+Course S yllabus
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment
+withCounseling and Psychological Services(CAPS).
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX
+investigation and resolution process on the University’sTitle IX webpage.
+Statement on Mental Health and Wellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’s academic success and overall wellbeing. Students are encouraged to engage in proper self-care
+by utilizing the resources and services available from Counseling & Psychological Services (CAPS).
+Students who need someone to talk to can call the TAMU Helpline (979-845-2700) from 4:00 p.m. to
+8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency help is also available through the
+National Suicide Prevention Hotline (800-273-8255) or atsuicidepreventionlifeline.org.
+COVID Statement
+The Faculty Senate has added the following statement as an optional addendum to the Fall 2021 syllabus
+as part of the university’s COVID response.
+To help protect Aggieland and stop the spread of COVID-19, Texas A&M University urges students to be
+vaccinated and to wear masks in classrooms and all other academic facilities on campus, including labs.
+Doing so exemplifies the Aggie Core Values of respect, leadership, integrity, and selfless service by
+putting community concerns above individual preferences. COVID-19 vaccines and masking — regardless
+of vaccination status — have been shown to be safe and effective at reducing spread to others, infection,
+hospitalization, and death.
+Student Observances for Religious Holy Days
+In accordance with Texas Education Code §51.911(b) and TAMU Student Rule 7: Attendance, students
+shall be excused from attending classes or other required activities, including examinations, for the
+observance of a religious holy day, including travel for that purpose. For more information about excused
+absences due to religious holy days, please visit the Dean of Faculties website at
+dof.tamu.edu/rules/religious-observance.
+Page15of15

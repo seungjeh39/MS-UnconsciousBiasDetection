@@ -1,0 +1,236 @@
+  Course Syllabus  
+ 
+ 
+ 
+ 
+Page 1 of 5 January 28, 2022  
+Course Information  
+ 
+Course Number:   CSCE 441  
+Course Title:  Computer Graphics  
+Section:  200, 500  
+Time: Tue/Thu 12:45 pm -2:00 pm 
+Location : ZACH 350  
+Credit Hours:  3 
+ 
+Instructor Details  
+ 
+Instructor : Shinjiro Sueda  
+E-Mail: sueda@tamu.edu   
+Zoom: LINK  
+Office Hours  (tentative) : 
+• M 2p -3p, W 1p -2p TA: Libing Zeng  
+E-Mail: libingzeng@tamu.edu   
+Zoom: LINK  
+Office Hours  (tentative) : 
+• T 3p-5p, R/F 10a -12p Grader : Samraat Gupta  
+ 
+Course Description  
+ 
+Principles of interactive computer graphics; 2 -D and 3 -D rendering pipelines, including geometric object and 
+view transformations, projections, hidden surface removal, and rasterization; lighting models for local and 
+global illumination; hierarchical models of 3 -D objects; systems and libraries supporting display and user  
+interaction.  
+ 
+Course Prerequisites  
+ 
+CSCE 221; junior or senior classification or approval of instructor.  
+ 
+Course Learning Outcomes  
+ 
+• Understand  the graphics pipeline and make use of a  basic implementation of the pipeline in modern 
+hardware (and graphics li braries)  
+• Apply coordinate transforms and affine transformations and understand the application of such 
+transforms using a vertex shader  
+• Apply basic geometric computations involving points, lines, planes, and triangles related to spatial 
+queries  
+• Develop  basic data structures to represent a mesh, including applying transforms and necessary data 
+for shading  
+• Implement basic  rasterization methods (algorithm, stage in the graphics pipeline, and relationship to 
+fragment shaders)  
+• Make use of  hierarchical animation  
+• Create  local shading models (Phong, etc.)  
+• Apply basic texture mapping  
+• Implement basic  ray tracing  
+• Be introduced to the application of more advanced computer graphics topics (including, rendering, 
+animation, real time and visualization)  
+• Practice translating mathematics into C/C++ programs  
+   Course Syllabus  
+ 
+ 
+ 
+ 
+Page 2 of 5 January 28, 2022  
+Textbook and/or Resource Materials  
+ 
+There is required no textbook for this class, since there are many online resources available. The following 
+optional  text may be useful:  
+• [OPTIONAL] Fundamentals of Computer G raphics 4th ed., CRC Press  
+• [OPTIONAL] OpenGL Programming Guide 9th ed., Addison -Wesley  
+ 
+We will be using  Campuswire  [CODE 3617] for: 
+• Announcements  
+• Discussions /help  
+We will be using Canvas  for: 
+• Assignment submission  
+ 
+Grading Policy  
+ 
+• 70%: 6 substantial programming assignments  (11.667 % each)  
+• 10% Midterm exam  
+• 20%: Final exam  
+• You must obtain at least 50% on the final exam to pass the course.  
+• You may optionally skip the midterm and make the final be worth 30% of the course grade.  
+• Final course grades will be based on the following scale:  
+A = [ 100, 90], B = (90, 80], C = (80,  70], D = (70, 60], F = (60, 0]  
+ 
+Late Work Policy  
+ 
+All assignments must be submitted on tim e. However, you get 6 free days for the entire semester which can 
+be applied to any of the programming assignments. You do not need to explain why you are using the days —
+these late days will be automatically applied to any late assignments. All assignments  are due at 23:59. The free 
+days will be given out in increments of full days.  
+ 
+Course Schedule  
+ 
+The following schedule for the lectures and assignments may (and will) change —it is meant to serve as a basic 
+outline of topics and schedule.  
+ 
+Week 1  1/18 Introduction; Meshes   
+1/20  
+Week 2  1/25 Graphics Pipeline; Rasterization ; Z-buffering   
+1/27  
+Week 3  2/1 Linear Algebra Review; Transformation Matrices   
+2/2 Assignment 1 due  
+Week 4  2/8 Matrix Stacks ; Hierarchical Transforms   
+2/10  
+Week 5  2/15 GLSL; Colors   
+2/17 Assignment 2 due  
+Week 6  2/22 Transforming Normals; Lighting and Materials   
+2/24  
+Week 7  3/1 Camera; Projection ; Clipping; Culling; Viewport   
+3/3 Assignment 3 due    Course Syllabus  
+ 
+ 
+ 
+ 
+Page 3 of 5 January 28, 2022  
+Week 8  3/8 Review   
+3/10 Midterm  
+ 3/15  Spring Break   
+3/17   
+Week 9  3/22 Free-look Camera   
+3/24   
+Week 10  3/29 Texture Mapping   
+3/31 Assignment 4 due  
+Week 11  4/5 Ray Tracing   
+4/7  
+Week 12  4/12 Reflection/Refraction ; Spatial Data Structures   
+4/14 Assignment 5 due  
+Week 13  4/19 Heightfields ; Render -to-texture   
+4/21  
+Week 14  4/26 Deferred Rendering ; Cubemaps; Shadows   
+4/28 Assignment 6 due 
+Exam 
+Week  5/10 (Tuesday ) 8:00 a.m. – 10:00 a.m. Final  exam  
+ 
+University Policies  
+ 
+Attendance Policy  
+ 
+The university views class attendance and participation as an individual student responsibility. Students are 
+expected to attend class and to complete all assignments.  
+ 
+Please refer to Student Rule 7  in its entirety for information about excused absences, including definitions, 
+and related documentation and timelines.  
+ 
+Makeup Work Policy  
+ 
+Students will be excused from attending class on the day of a graded activity or when attendance contributes 
+to a s tudent’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate by the 
+instructor.  
+ 
+Please refer to Student Rule 7  in its entirety for information about makeup work, inclu ding definitions, and 
+related documentation and timelines.  
+ 
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 
+30 days for make -up work, and the timeframe for make -up work should be agreed upon by the stu dent and 
+instructor” ( Student Rule 7, Section 7.4.1 ). 
+ 
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed 
+because of an unexcused absence” ( Student Rule 7, Section 7.4.2 ). 
+ 
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student 
+Conduct Code. (See Student Rule 24 .) 
+ 
+Academic Integrity Statement and Policy  
+ 
+“An Aggie does not lie, cheat or steal, or tolerate those who do. ”   Course Syllabus  
+ 
+ 
+ 
+ 
+Page 4 of 5 January 28, 2022  
+ 
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If 
+asked, students must be able to produce proof that the item submitted is indeed the work of that student. 
+Students must keep appropriate records at all times. The inability to authenticate one’s work, should the 
+instructor request it, may be sufficient grounds to initiate an acad emic misconduct case” ( Section 20.1.2.3, 
+Student Rule 20 ). 
+ 
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and 
+your rights and responsibilities at aggiehonor.tamu.edu . 
+ 
+Americans with Disabilities Act (ADA) Policy  
+ 
+Texas A&M University is committed to providing equitable access to learning opportunities for all students. 
+If you experience barriers to your education due to a disability or think you may have a disability, please 
+contact Disability Resources in the Student Services Building or at (979) 845 -1637 or visit disability.tamu .edu. 
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or 
+chronic health conditions. All students are encouraged to discuss their disability related needs with Disability 
+Resources and their instruct ors as soon as possible.  
+ 
+Title IX and Statement on Limits to Confidentiality  
+ 
+Texas A&M University is committed to fostering a learning environment that is safe and productive for all. 
+University policies and federal and state laws prohibit gender -based d iscrimination and sexual harassment, 
+including sexual assault, sexual exploitation, domestic violence, dating violence, and stalking.  
+ 
+With the exception of some medical and mental health providers, all university employees (including full and 
+part-time fa culty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must 
+report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that 
+meets the following conditions (see University Rule 08.01.01.M1 ): 
+ 
+• The incident is reasonably believed to be discrimination or harassment.  
+• The incident is alleged to have been committed by or against a person who, at the time of the 
+incident, w as (1) a student enrolled at the University or (2) an employee of the University.   
+ 
+Mandatory Reporters must file a report regardless of how the information comes to their attention – 
+including but not limited to face -to-face conversations, a written class  assignment or paper, class discussion, 
+email, text, or social media post.  Although Mandatory Reporters must file a report, in most instances, a 
+person who is subjected to the alleged conduct  will be able to control how the report is handled, including 
+whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the 
+range of options available to you and to ensure access to the resources you need.  
+ 
+Students wishing to discuss concerns in a confidential setting are e ncouraged to make an appointment with 
+Counseling and Psychological Services  (CAPS).   
+ 
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX 
+investigation and resolu tion process on the University’s Title IX webpage . 
+ 
+ 
+   Course Syllabus  
+ 
+ 
+ 
+ 
+Page 5 of 5 January 28, 2022  
+Statement on Mental Health and Wellness  
+ 
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a 
+student’s academic success and overall wellbeing. Students are encouraged to engage in healthy  self-care by 
+utilizing the resources and services available from Counseling & Psychological Services (CAPS). Students who 
+need someone to talk to can call the TAMU Helpline (979 -845-2700) from 4:00 p.m. to 8:00 a.m. weekdays 
+and 24 hours on weekends. 24 -hour emergency help is also available through the National Suicide Prevention 
+Hotline (800 -273-8255) or at suicidepreventionlifeline.org .  
+ 

@@ -1,0 +1,53 @@
+SYLLABUS 
+CPSC 462, Microcomputer Systems  2022 Spring 
+ 
+Instructor 
+Jyh-Charn (Steve) Liu PETR 435 Tel: 845-8739  Email: liu@cse.tamu.edu
+  
+Office Hours:  by appointments  
+Teaching Assistants Yu, Yuncheng      Email: yyc@tamu.edu
+  
+EABA 108B  Office Hours:  lab hours, other time by appointment       LEARNING OBJECTIVES: Develop independent and team design skills for microcomputer systems. Special emphasis is placed on embedded computing systems.   OUTCOMES: At the end of this course you should   • be able to plan an open project, and be able to make a live demonstr ation of the prototype; • be able to analyze and choose microcontroller technologies to meet functional requirements; • be able to cross compile application codes, and  be able to  document the design process.  COURSE PRE-REQUISITES: CSCE 350, or approval of instructor.  
+Course Summary 
+The main technical focus of this class is integrated development of software and hardware components into a system that can interact with sensors and actuators to perform real-time sensing and control functions.  Starting from the hands-on learning of development resources, constraints, and tools; the class will guide students to the next level of system design and implementation process in a few lab sessions. The lecture sessions will focus on selective design principles such as system modeling and abstraction, bus architectures, and basic integration of components.  At completion of the lab exercises, students are organized into project teams for the term project. The class style is highly interactive and students are expected to  eventually advance to a self-learning process to solve term project problems.  
+Course Outline 
+ 
+Sensing and timing  Digital power control  
+Address decoding  Interrupts and exceptions  
+I/O fundamentals  Parallel and serial I/O  
+Microcontroller kits  Instruments  (Scope, logic analyzer)  
+ Course Schedule      To be discussed during the first day of the class based on a separate document.  COURSE REQUIREMENTS / GRADING SCHEME:  
+Tasks  Frequency  weight  
+Test 1  1 20 points  
+Test 2  1 20 points  
+Labs   4 20 points  
+Open P roject (detail breakdown at end of syllabus)  1 40 points   GRADE  SCHEME:   Final grades are ranked into different grade letters. There is no hard numerical cutoff between letters.         Grade disputes may be appealed to the instructor in person.    TEXTBOOKS: None  • All the major technical materials are drawn from the vendor datasheets and open literature published on various web pages.  • Lab manual – will be distributed with lab assignments, and available in lab and on the class Web site.   LAB: SEE THE “LAB OVERVIEW” DOCUMENT COMMUNICATIONS: Canvas, which contains the majority of the material with. Emails will be used for classroom communications.  ASSIGNMENTS & GRADING:  No homework assignment Midterm and Final:  Closely follow the lectures, with pre -exam reviews.  Labs: For 4 labs, each lab is worth of 25% of the lab grade.   Standard lab turn-in requirements: 1. source codes, designs, annotation, following the report template  2. live demo to TA’s 3. If you fail to complete 3 labs, your lab grad (20 points) will become zero. And at discretion of the instructor, you may receive an F grade.   4. Two strike deduction: 20% final lab grade deduction.  5. Tardiness: latest late submission Friday of due week, with up to 20% of penalty.   Open project:  40 points  The open project includes the following major stages:  1. One pager: A potential project idea to be described in a single page.  2. Work plan: Translate a chosen idea into an actionable plan, which will include a technical specification, part list and budget. Typically 5+ pages. 
+3. Procurement: It sometimes takes 2 weeks to receive your parts. You will be responsible for rush 
+order shipping charge.   
+4. Actions: Activities will be tracked using Canvas or an alternative medium like Slack.  5. Demonstration and final report submission. Report Submission • Lab reports:  Canvas  • Final project reports (it is a progressive build up process) Google Shared Folders   One pager  Work plan  Final report extended from the work plan  PowerPoint presentation  Short demo video clips • Canvas project channels The Canvas channels are used to track your activities.  • Project cost reimbursement requests (optional) – separate forms, receipts, in emails     COVID 19 and US To help protect Aggieland and stop the spread of COVID-19, Texas A&M University urges students to be vaccinated and to wear masks in classrooms and all other academic facilities on campus, including labs.  Doing so exemplifies the Aggie Core Values of respect, leadership, integrity, and selfless service by putting community concerns above individual preferences. COVID-19 vaccines and masking — regardless of vaccination status — have been shown to be safe and effective at reducing spread to others, infection, hospitalization, and death.  ATTENDANCE POLICY:   As the lectures will be delivered in class using zoom, you may choose to attend the lectures in person, or in zoom. The previous experience suggest that students have very positive experience in using zoom for this class. The lectures will be recorded, and made available for students to view them at later time. Stats showed that most lectures have over 80% of reviewing rates.  To the extent practically feasible, we will try to allow virtual submissions for lab assignments and term projects as well.  For excused absences, an opportunity will be provided to make up any graded work that w as missed. For unexcused absences, a grade of zero will be assigned for a missed quiz or in- class assignment. Missed exams will be rescheduled without penalty for an excused absence, or with a 25% penalty if the absence is not excused, and at approval of the instructor.  To request approval of an absence, send me an e-mail explaining the reason for the absence prior to the class or lab. If advance notification is not possible (e.g. unexpected illness) send the e -mail within 48 hours of the absence and be sure to explain why you were not able to notify me in advance. For illness, follow -up the     e- mail by submitting a note from a doctor or clinic to my office.    SCHOLASTIC DISHONESTY  will not be tolerated.  Plagiarism is the presentation of the work of someone else without giving him or her due credit.  Any identified instances of scholastic dishonesty will be dealt with in accordance with the procedures outlined in the University Student Rules .  Some specific rules: 1. In most cases, you are encouraged to discuss and to assist each other concerning programming strategy or technique or for one student to help another debug code which will not work; but each student is expected to write his or her own programs from beginning to end.  2. Always be prepared to answer the questions: “What is your contribution?” “Where did you get this design?” “What is your responsibility and contribution in the team?” 3. Giving or receiving unauthorized assistance during tests and quizzes is cheating . It is assumed that college students know what is honest and what is not.   STUDENTS WITH DISABILITIES:  The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities. Among other things, this legislation requires that all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. If you believe you have a disability requiring an accommodation, please contact Disability Services, currently located in the Disability Services building at the Student Services at White Creek complex on west campus or call 979 -845-1637. For additional information, visit http://disability.tamu.edu
+. 
+ COPYRIGHT NOTICE: The handouts used in this course are copyrighted and cannot be copied without permission. By “handouts,” this means all materials generate d for this class, which includes but is not limited to syllabi, quizzes, exams, lab and homework problems, lab handbook, lab manuals, in- class materials, review sheets, and Web site materials. You must obtain the instructor’s explicit permission to video/r ecord the class  contents.   Final Project Grading   “Average” is set at 50% of the full credit for each category  
+Criteria  Credit  Penalty/bonus  
+Challenge level/novelty  1-15 0-10 
+Below avg:  
+1 step advance from lab exercises  Direct application/slight modification of lab exercises, existing libraries Lack of open problem formulation and its solution process  Good-Excellence Independent formulation of open problem(s), solving the problems beyond using of libraries and vendor provided resources  Bonus:  
+Exceeding the normal class expectation by a significant threshold; investigate problems reaching 
+conference/journal publication levels   
+Quality of prototype  1-15 0-5 
+Minimal requirement:  functional, standalone, free of lo ose wires, self -contained. Release  (not 
+debugging) version of code 
+Electronics  Breadboard: case by case  Prototyping board Wire wrap  Soldering, printed circuit  Casing:   Off-the-shelf (plastic) project boxes,  Wood work,  Laser cut and 3D printed (selective for critical elements) Carboard – low grade expected 
+Bonus: prototype could be used for beyond class demo purposes;   
+Timeliness of milestones  
+proposal, procurement, proje ct progress  0-5 -10 - 0 
+Avg: Follow the class pace step by step  
+Penalty: missing deadlines, irresponsive to warning, reminders,  
+Communications, report  0-5 -10 - 0 
+Richness of the report contents; effectiveness of discussion in solving problems.  
+Note: a rich report for a poorly executed project does not mean you will get a grade portion for this category. Lack of technical substance means a low quality report.  
+Penalty: tardiness, lack of attention, uncooperative with teammates (fail to contribute; monop olize work)  
+Need for special attention   -20 - 0 
+Example: fail to change conducts after being reminded of important concerns  
+Plagiarism, cheating (claiming credit for work not done by you)   -40 – 0 ; subject to 
+honors office actions  
+ In addition to grade points assigned based on the rubric, the “Excellent” designation is reserved for projects that have demonstrated extraordinary efforts, and the produced artifact is deemed to be worth of outside demonstration.   

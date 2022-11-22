@@ -1,0 +1,360 @@
+1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 1/11S y l l ab u s
+Programming Studio
+It is estimated that Windows XP has 50,000,000 lines of code. The average mobile phone has over
+10 million lines of code. The average developer writes 10 – 20 useful lines of code per day , so a
+couple of engineers and 2 friends could break away , start a new company , and create a new
+“Windows” operating system in only about  1700 years . That’ s not reasonable.
+Up until now , most of the programs that you have been asked to write could probably fit in your mind.
+When you complete the letter , you fold it, seal it up, and mail it of f (or hit send). But now it is plain to
+see that products that you use daily simply could not be recreated by you and 10 of your best friends
+in an afternoon, weekend, or semester . A 1700-year project is wildly unreasonable. There must be a
+better way .
+In this course, you will learn a better way . You will dive into the world of software engineering and
+hone your teamwork (and, yes, coding) skills. Ef fective teamwork is essential, and software design
+methodologies make development more ef ficient. This course gives you very practical skills for being
+an ef fective member of a development team and producing high-quality , sustainable software.
+Learning these methods of working together , managing requirements, producing quality software
+products, and testing, delivering, and maintaining these products is every bit as valuable as coding.
+ 
+Why I Teach this Course
+This course is of fers you a unique learning experience. I am always especially excited to teach this
+course, and here is why:
+Building software is fun and rewarding  
+You get many opportunities to “learn by doing”
+There’ s more to software than just coding  
+You get a taste of software engineering
+Working on teams can be messy , but it’ s worth it  
+It is amazing what you can accomplish together , so much more than on your own
+ 
+Course Information
+Course Number: 315  
+Course T itle: Programming Studio  1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 2/11Credit Hours: 3 (2 Lecture Hours, 2 Lab Hours)
+Lecture:
+Sections 908-91 1,970: Face-to-Face, Mondays, W ednesdays, and Fridays 1 1:30am-
+12:20pm,  Zachry Engineering Education Complex  (https://aggiemap.tamu.edu/?bldg=0518)
+244
+Lab:
+Section 908 and 970: Face-to-Face, T uesdays and Thursdays 8:25am-9:15am,  Zachry
+Engineering Education Complex  (https://aggiemap.tamu.edu/?bldg=0518) 598
+Section 909: Face-to-Face, T uesdays and Thursdays 9:35am-10:25am,  Zachry Engineering
+Education Complex  (https://aggiemap.tamu.edu/?bldg=0518) 598
+Section 910: Face-to-Face, T uesdays and Thursdays 1 1:35am-12:25pm,  Zachry Engineering
+Education Complex  (https://aggiemap.tamu.edu/?bldg=0518) 598
+Section 91 1: Face-to-Face, T uesdays and Thursdays 12:40pm-1:30pm,  Zachry Engineering
+Education Complex  (https://aggiemap.tamu.edu/?bldg=0518) 598
+Final Exam Schedule  (https://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-
+Examination-Schedules#0-Spring2022) :
+Section 908 and 970: Face-to-Face, Friday May 6, 1:00pm-3:00pm,  Zachry Engineering
+Education Complex  (https://aggiemap.tamu.edu/?bldg=0518) 598
+Section 909: Face-to-Face, Thursday May 5, 12:30pm-2:30pm,  Zachry Engineering Education
+Complex  (https://aggiemap.tamu.edu/?bldg=0518) 598
+Section 910: Face-to-Face, Thursday May 5, 3:00pm-5:00pm,  Zachry Engineering Education
+Complex  (https://aggiemap.tamu.edu/?bldg=0518) 598
+Section 91 1: Face-to-Face, T uesday May 10, 8:00am-10:00am,  Zachry Engineering Education
+Complex  (https://aggiemap.tamu.edu/?bldg=0518) 598
+ 
+Instructor Details
+Instructor: Shawna Thomas  
+Office: 319 Peterson  
+Phone: 979-862-8877  
+E-Mail: sthomas@tamu.edu  (mailto:sthomas@tamu.edu)  
+Help/Of fice Hours: email for appointment
+ 
+Teaching Assistants 1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 3/11Joseph Nyangwechi  
+jnyangwe@tamu.edu  (mailto:jnyangwe@tamu.edu)  
+Help/Of fice Hours: TBD, all online
+Pratyusha V udutala  
+pratyusha@tamu.edu  (mailto:pratyusha@tamu.edu)  
+Help/Of fice Hours: TBD, all online
+ 
+Course Description
+Intensive programming experience that integrates core concepts in Computer Science and
+familiarizes with a variety of programming/development tools and techniques; students work on 2 or 3
+month-long projects each emphasizing a dif ferent specialization within Computer Science; focuses on
+programming techniques to ease code integration, reusability , and clarity .
+ 
+Course Prerequisites
+CSCE 312 and CSCE 314; or CSCE 350/ECEN 350
+Corequisite: CSCE 313
+ 
+Special Course Designation
+W (writing intensive course)
+As a writing intensive course, you will receive instruction on writing and complete writing assignments
+so you can master writing related to the major . You must pass the writing components with a C or
+better to earn a grade in the course.
+ 
+Course Learning Outcomes
+This course is intended to be an intensive programming experience that integrates core concepts in
+Computer Science and familiarizes you with a variety of programming/development tools and
+techniques. Y ou will primarily work in small teams on projects emphasizing dif ferent specializations
+within computer science. The course focuses on honing good programming techniques to ease code
+integration, reuse, and clarity . The primary goal for this class is for you to emerge with strong
+programming skills, able to address both individual and team programming challenges competently .
+In this course, you will improve your programming skills through significant practice.
+After this course you will be able to:1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 4/11Explain  the need for software engineering through industry examples  and personal experience
+Exercise  the fundamental concepts of software construction (including managing requirements,
+design, implementation, testing, and deployment)
+Design and develop  software that is clearer , more maintainable, and integrates  current software
+technologies
+Collaborate and communicate  effectively in small teams
+Recognize and apply  characteristics of ef fective technical writing
+We will cover many topics including:
+Software system design for portability , performance, and testability
+Coding layout and style considerations
+Programming specifications and documentation
+Use of basic software tools and APIs
+Subject-specific topics related to the team projects (DB, HCI)
+Though many topics will overlap, this course is not intended to be as in-depth or comprehensive as a
+standard software engineering course. For a deeper understanding of software development and
+project management, take software engineering after completing this class.
+ 
+Required Textbooks
+Code Complete, 2nd edition  (https://go.oreilly.com/TAMU/library/view/-/0735619670/?ar)  by Steve
+McConnell (Microsoft Press, 2004).  
+(Code Complete PDF)  (http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-
+v413hav.pdf)
+Database Design, 2nd edition  (https://opentextbc.ca/dbdesign01/)  by Adrienne W att (BCcampus
+Open Education, 2014).
+(Database Design PDF)  (https://opentextbc.ca/dbdesign01/open/download?type=pdf)
+Other supplementary material as needed will be supplied electronically .
+ 
+Grading Policy
+Grading Components:
+Your grade for this course reflects your mastery of course material and is determined by multiple
+components. As a writing course,  you must pass the writing components with a C or better to
+earn a grade in the course. Failure to pass the writing components with a C or better results in an F
+for the course.1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 5/11Team Projects – 40%:  Two major projects, each worth 20% of the course grade, for 40% total.
+Specific grading practices for each project will be announced when that project is given out. Y our
+individual contribution determined from logged code commits, peer evaluation, and instructor/T A
+observations will be a significant contributing factor to these project grades.
+Individual Project – 5%: The individual project will be completed prior to the team projects. Specific
+grading practices will be announced when the assignment is given out.
+Written Elements – 35%: This is a writing intensive course. Y ou are required to pass this component
+with a C or better to earn a grade in the course. Y ou will have several written assignments within the
+projects (roughly 10% from the individual project, 12% from the first team project, and 13% from the
+second team project). Specific grading practices will be announced when each assignment is given
+out.
+Other Course Activities – 20%:  The course has several dif ferent types of activities to help you
+better understand concepts and connect with the material. This includes (but is not limited to) at-
+home activities, in-class activities, and lab activities. These activities bring deeper , longer-term
+learning as you work, either individually or with other students. For submitted assignments, grading
+will be based on the quality of the submitted work. For group assignments, your full participation
+is required to receive a grade for that assignment . This component will be divided as follows: 10%
+in-class activities (lowest grade dropped), 5% lab activities (lowest grade dropped), 3% at-home
+activities, and 2% in-class knowledge checks (lowest two grades dropped).
+Grading Scale:
+Grades will be assigned according to the following scale: A >= 90 > B >= 80 > C >= 70 > D >= 60 > F
+These grades represent varying degrees of achievement (see the university's grading system
+(https://registrar.tamu.edu/Transcripts-Grades/Grades#0-GradingSystem) ): A = excellent, B = good, C
+= satisfactory , D = passing, F = failing
+Stacked Honors Section:
+The stacked honors section will explore course concepts more deeply through readings, discussions,
+reflections, and projects. They will have honors-only lecture sessions on the first Friday of each
+month.
+Submission of Assignments:
+All assignments will be turned in electronically though Canvas  (https://canvas.tamu.edu/) (unless
+otherwise specified) by the due date and time given on the assignment. Email submissions will not be
+accepted.
+ 
+Late Work Policy1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 6/11Assignments turned in after the posted deadline will have a penalty applied of 5% per day late. For
+team assignments, the late penalty af fects the grade for the entire team. If the assignment is
+individual, the late penalty only af fects the grade for that team member .
+ 
+Course Schedule
+The course is listed as a 2-hour per week lecture, and 2-hour per week lab, however it has been
+intentionally scheduled for 3 hours per week of lecture (along with the lab). W e will meet
+approximately 2/3 of the lecture periods over the course of the semester . After the first week of class,
+the regular sections will only meet on Mondays and W ednesdays with Fridays reserved as optional
+workdays. The honors section will also meet the first Friday of each month for deep dive discussions.
+Below is the planned but tentative  schedule of topics and major projects for the course. All
+assignment and project details will be communicated on  Canvas  (https://canvas.tamu.edu/) . 
+WeekLecture T opics Lab T opicsProject Deliverables  
+(due Monday midnight at
+beginning of week unless
+otherwise noted)
+1Introductions, Professional
+PresenceNo labs
+2Software Construction and
+DesignHTML, Javascript, CSS,
+using git
+3Software Development
+Methodologies, W aterfallHTML, Javascript, CSS Project 1 V ersion 1
+4Databases, T eam SuccessDatabase design
+diagrams, A WS database
+interactionProject 1 V ersion 2
+5Code as Communication,
+Style Guides, T echnical
+WritingDatabase population Project 2 Phase 1
+6Collaborative Development,
+Formal InspectionsProject 2 demos,
+connecting database and
+GUIProject 2 Phase 2, Project 2
+Status Update* (due W ed.
+midnight)
+7Testing/Debugging/Refactoring Project 2 demos Project 2 Phase 3
+8Commenting and Project 2 demos, user Project 2 Phase 4, Project 21/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 7/11Automatically Generated
+Documentation, Agilestories Retrospective Reports* (due
+Wed. midnight)
+Spring Break
+9Design Thinking and Ideation APIs, Sprint artifactsProject 3 Proposal* (due Sun.
+midnight at end of week)
+10 User Studies, PrototypingFull stack development,
+advanced git
+11Accessibility , Integration and
+Configuration ManagementUser studiesProject 3 Sprint 1 Materials*
+(due W ed. midnight)
+12 Workdays WorkdaysProject 3 User Study 1, Project
+3 Status Update* (due W ed.
+midnight)
+13 Team Meetings Team meetingsProject 3 Sprint 2 Materials*
+(due W ed. midnight)
+14 Workdays Workdays Project 3 User Study 2
+15Course W rap-up, Final
+Presentation InstructionsNo labsProject 3 Sprint Materials,
+Project 3 Retrospective
+Reports* (due W ed. midnight)
+Finals Project 3 Final Presentations
+ 
+University and Course Policies
+ 
+Inclusion Statement
+In this class we are committed to a culture of inclusivity . We reject and condemn all forms of injustice
+and actively promote diversity and inclusion within our field. As Martin Luther King Jr . said, “Injustice
+anywhere is a threat to justice everywhere.” If any student wishes to discuss anything regarding
+inclusivity within the classroom, especially anything contrary to this statement that you have
+experienced, you are encouraged to contact the instructor or T A. 
+ 
+Course Copyright
+The materials used within this course are copyrighted.  These materials include, but are not limited
+to, the syllabus, quizzes, assignments, activity descriptions, online content, course videos, audio and1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 8/11visual recordings of classes, etc.  Because these materials are copyrighted, you do not have the right
+to copy or distribute these materials, unless permission is expressly granted.
+ 
+Attendance Policy
+The university views class attendance and participation as an individual student responsibility .
+Students are expected to attend class and to complete all assignments.
+Please refer to Student Rule 7   (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about excused absences, including definitions, and related documentation and timelines.
+ 
+Makeup Work Policy
+Students will be excused from attending class on the day of a graded activity or when attendance
+contributes to a student’ s grade, for the reasons stated in Student Rule 7, or other reason deemed
+appropriate by the instructor .
+Please refer to Student Rule 7  (https://student-rules.tamu.edu/rule07/) in its entirety for information
+about makeup work, including definitions, and related documentation and timelines.
+Absences related to T itle IX of the Education Amendments of 1972 may necessitate a period of more
+than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the
+student and instructor” (Student Rule 7, Section 7.4.1  (https://student-rules.tamu.edu/rule07/) ).
+“The instructor is under no obligation to provide an opportunity for the student to make up work
+missed because of an unexcused absence” (Student Rule 7, Section 7.4.2  (https://student-
+rules.tamu.edu/rule07/) ).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and
+Student Conduct Code.  (See Student Rule 24  (https://student-rules.tamu.edu/rule24/) ).
+Students should submit excused absence documentation to the Canvas course  (Modules ->
+Student Resources -> Excused Absence Documentation).
+ 
+Commu nication Policy
+We will use Canvas  (https://canvas.tamu.edu/) to post assignments, course resources, discussions,
+and send announcements. It is your responsibility to check Canvas and pay attention to class
+emails and announcements.  
+ 1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 9/11Bring Your Own Device Policy
+BYOD is an initiative in the College of Engineering where students are required bring their own
+computing device to lecture and lab . You need to have a computing device with a headset,
+microphone, and webcam. Y ou will also need stable internet access outside of lecture and lab. See
+the BYOD webpage  (https://engineering.tamu.edu/easa/areas/academics/byod) for information on
+the program, approved devices, and financial assistance. BYOD devices fulfill the requirements for
+this class.
+ 
+Academic Integrity Statement and Policy
+“An Aggie does not lie, cheat or steal, or tolerate those who do.”
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor .
+If asked, students must be able to produce proof that the item submitted is indeed the work of that
+student. Students must keep appropriate records at all times. The inability to authenticate one’ s work,
+should the instructor request it, may be suf ficient grounds to initiate an academic misconduct case”
+(Section 20.1.2.3, Student Rule 20  (https://aggiehonor.tamu.edu/Rules-and-
+Procedures/Rules/Honor-System-Rules) ).
+You can learn more about the Aggie Honor System Of fice Rules and Procedures, academic integrity ,
+and your rights and responsibilities at aggiehonor .tamu.edu  (https://aggiehonor.tamu.edu/) .
+All suspected academic misconduct is taken seriously and will be reported to the Aggie Honor
+System Of fice.
+For this class, certain aspects of the honor code need to be clarified:
+1. External code/software/libraries:  There will be times in this course where you or your team
+make use of external code/software/libraries. Whenever this is done, you must make sure that
+you: follow any licensing and/or use restrictions that library/code requires and clearly document
+what the source of the external code was, and how it was used. Failure to follow licensing or
+usage restrictions or neglecting to clearly document usage is an honor code violation.
+2. Outside assistance:  There may be times in this course where you or your team would like to
+seek outside assistance related to projects and assignments. Any assistance from any person
+other than members of your team, the instructor , teaching assistants, or peer teachers  needs
+prior approval from the instructor  and needs to be clearly documented. This also includes
+online websites and material. Do not assume that if you have access to something that it is
+approved.  Using unapproved outside assistance of any kind is an honor code violation.  
+3. Working in teams:  You will be working in team environments in this course, and your work as a
+team will be used to determine grades. As such, it is your responsibility , when asked, to:
+Accurately describe the work that you have done on a team project.  Claiming credit for
+work that you have not done or that others did instead is an honor code violation.1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 10/11Accurately describe (to the best of your knowledge) the performance of other team
+members.  “Covering” for another team member (claiming they did more work than you know
+they did, or exaggerating the work they did) or “spiking” them (claiming they did less work than
+you know they did, or purposefully minimizing the work they did) are examples of honor code
+violations.
+Prevent (as best you can) or report (known or suspected) violations of the honor code
+by your other team members.  You share responsibility when a project is turned in; if you are
+aware of a teammate having violated the code in his/her work on the project, and do not report
+it, you are claiming credit for that violation yourself .
+If there are any questions or concerns about whether an action is appropriate, you should check with
+the instructor or teaching assistant first.  If in doubt, assume that the action is not appropriate.
+ 
+Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all
+students. If you experience barriers to your education due to a disability or think you may have a
+disability , please contact Disability Resources of fice on your campus (resources listed below).
+Disabilities may include, but are not limited to attentional, learning, mental health, sensory , physical,
+or chronic health conditions. All students are encouraged to discuss their disability related needs with
+Disability Resources and their instructors as soon as possible.
+Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit
+disability .tamu.edu  (https://disability.tamu.edu/) .
+ 
+Title IX and Statement on Limits to Conﬁdentiality
+Texas A&M University is committed to fostering a learning environment that is safe and productive for
+all. University policies and federal and state laws prohibit gender-based discrimination and sexual
+harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and
+stalking.
+With the exception of some medical and mental health providers, all university employees (including
+full and part-time faculty , staf f, paid graduate assistants, student workers, etc.) are Mandatory
+Reporters and must report to the T itle IX Of fice if the employee experiences, observes, or becomes
+aware of an incident that meets the following conditions  (see University Rule 08.01.01.M1
+(https://rules-saps.tamu.edu/PDFs/08.01.01.M1.pdf) ):
+The incident is reasonably believed to be discrimination or harassment.
+The incident is alleged to have been committed by or against a person who, at the time of the
+incident, was (1) a student enrolled at the University or (2) an employee of the University .1/17/22, 4:30 PM Syllabus: 22 SPRING CSCE 315 908-91 1,970: PROGRAMMING STUDIO
+https://canvas.tamu.edu/courses/136192/pages/syllabus 11/11Mandatory Reporters must file a report regardless of how the information comes to their attention –
+including but not limited to face-to-face conversations, a written class assignment or paper , class
+discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in
+most instances, a person who is subjected to the alleged conduct will be able to control how the
+report is handled, including whether or not to pursue a formal investigation. The University’ s goal is to
+make sure you are aware of the range of options available to you and to ensure access to the
+resources you need.
+Students wishing to discuss concerns in a confidential setting are encouraged to make an
+appointment with Counseling and Psychological Services  (https://caps.tamu.edu/) (CAPS).
+ Students can learn more about filing a report, accessing supportive resources, and navigating the
+Title IX investigation and resolution process on the University’ s Title IX webpage
+(https://titleix.tamu.edu/) .
+ 
+Statement on Mental Health and Wellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a
+student’ s academic success and overall wellbeing. Students are encouraged to engage in healthy
+self-care by utilizing available resources and services on your campus.
+Students who need someone to talk to can contact Counseling & Psychological Services
+(https://caps.tamu.edu/) (CAPS) or call the TAMU Helpline  (https://caps.tamu.edu/helpline/) (979-
+845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency
+help is also available through the National Suicide Prevention Hotline (800-273-8255) or at
+suicidepreventionlifeline.org  (https://suicidepreventionlifeline.org/) .
