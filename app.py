@@ -34,7 +34,7 @@ def my_form_post():
             word = word.lower()
             if word in dictionary:
                 inputVec[0][dictionary.index(word)] = 1
-        
+
 
         loadedModel = pickle.load(open('finalizedModel.pkl', 'rb'))
         predictionResult = loadedModel.predict(inputVec)
