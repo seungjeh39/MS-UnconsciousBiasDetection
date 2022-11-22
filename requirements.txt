@@ -90,7 +90,6 @@ lazy-object-proxy==1.4.2
 libarchive-c==2.8
 libclang==14.0.6
 lief==0.9.0
-llvmlite==0.29.0
 mkl-fft==1.0.14
 mkl-random==1.1.0
 mkl-service==2.3.0
