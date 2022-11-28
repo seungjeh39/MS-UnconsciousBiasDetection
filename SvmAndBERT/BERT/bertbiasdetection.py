@@ -308,5 +308,9 @@ def GeneralBertBiasDetection(currentDirPath):
   for i in range(len(result)):
     if result[i] == 1:
       biasCount += 1
+      
+  if(len(result) == 0):
+    return "N/A"
+
   print("Bias Score: ", round(biasCount / len(result), 2), "%")
   return round(biasCount / len(result), 2)

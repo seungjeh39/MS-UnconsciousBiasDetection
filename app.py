@@ -1,4 +1,5 @@
 from SvmAndBERT.BERT.bertbiasdetection import GeneralBertBiasDetection
+from SvmAndBERT.SVM_Main import SVM
 import string
 import pickle
 import numpy as np
@@ -71,6 +72,20 @@ def ConvertTxtToCsv(text):
             else:
                 tempString += ' ' + word
 
+def ConvertTxtToTxtFile(text):
+    with open(currentDirPath + '/SVMAndBERT/inputTestSyllabi/' + "inputSyllabi.txt", 'w') as out_file:
+        tempString = ""
+        for word in text.strip().split():
+            if('.' in word):
+                if(tempString.lower().__contains__("university policies") or tempString.lower().__contains__("americans with disabilities")):
+                    break
+                tempString += " " + word
+                out_file.write(tempString)
+
+                tempString = ""
+            else:
+                tempString += ' ' + word
+
 @app.route('/')
 def my_form():
     return render_template('index.html')
@@ -79,9 +94,11 @@ def my_form():
 def my_form_post():
     text = request.form['text']
     ConvertTxtToCsv(text)
+    ConvertTxtToTxtFile(text)
 
     if request.method == "POST" and text != "":
         GeneralBERTBias = GeneralBertBiasDetection(currentDirPath)
+        SVM_BiasProbabilities = SVM(currentDirPath)
 
         dictionary = ["responsibility","maintain","curve","expect",
                     "expected","expectation","expectations","knowledge",
@@ -105,19 +122,26 @@ def my_form_post():
         biasProbability = loadedModel.predict_proba(inputVec)
 
         if predictionResult[0] == 1:
-            label1 = f'This syllabus is biased.'
-            label2 = f'NotBiased vs Biased probability = {biasProbability[0]}'
+            label1 = f'This syllabus is biased according to Naive Bayes Model.'
+            label2 = f'NotBiased vs Biased probability (NB) = {biasProbability[0]}'
         elif predictionResult[0] == 0:
-            label1 = f'This syllabus is not biased.'
-            label2 = f'NotBiased vs Biased probability = {biasProbability[0]}'
+            label1 = f'This syllabus is not biased according to Naive Bayes Model.'
+            label2 = f'NotBiased vs Biased probability (NB) = {biasProbability[0]}'
+
+        if SVM_BiasProbabilities[0][0] == 1:
+            label4 = f'This syllabus is biased according to Support Vector Machine Model.'
+            label5 = f'NotBiased vs Biased Probability (SVM) = {SVM_BiasProbabilities[1][0]}'
+        elif SVM_BiasProbabilities[0][0] == 0:
+            label4 = f'This syllabus is not biased according to Support Vector Machine Model.'
+            label5 = f'NotBiased vs Biased Probability (SVM) = {SVM_BiasProbabilities[1][0]}'
         
         label3 = f'BERT General Bias Detection Probability = {GeneralBERTBias}'
         print(GeneralBERTBias)
 
     else:
-        label1, label2, label3 = "", "", ""
+        label1, label2, label3, label4, label5 = "", "", "", "", ""
 
-    return(render_template('index.html', predictionTxt=label1, probabilityTxt=label2, BertTxt=label3))
+    return(render_template('index.html', NBpredictionTxt=label1, NBprobabilityTxt=label2, BertTxt=label3, SVMpredictionTxt = label4, SVMprobabilityTxt=label5))
 
 
 if __name__ == "__main__":
