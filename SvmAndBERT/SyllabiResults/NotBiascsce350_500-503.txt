@@ -1,0 +1,30 @@
+ office hours: mw 9.0
+course prerequisites ecen 248 - introduction to digital systems required book david patterson and john hennessy , “computer organization and design: the hardware/software interface”, arm edition , 2016 or newer 
+electronic versions are ok
+(note: it must be the "arm" edition, no other edition is usable for this class ) course learning outcomes the goal of this course is to provide the student with a working knowledge of different methods for logic representation, manipulation, and optimization, for both combinational and sequential logic
+individual course objectives: at the end of this course, students should: understand the organization of a computer system including the cpu datapath, cpu control, and memory systems understand the impact of semiconductor technology on computer design and architecture
+understand the basics and principles of instruction set design
+understand the impact of instruction sets on hardware design
+be familiar with designing datapaths for a processor 
+understand the implications of branch instructions on program flow and hardware design
+understand the role of compilers and high-level languages in programming
+understand the dif ferences in single-cycle/multicycle design of processors
+understand basics of memory technology , registers, sram, dram
+understand the memory architectures including cache architectures
+be familiar with various cache architectures: direct-mapped, set-associative, wide/narrow block size etc
+be familiar with the need for address translation
+understand the impact of address translation on cache/memory accesses
+be familiar with hardware designs of various cache architectures
+understand the basics of input/output
+understand the principles of thread-level parallelisms and processor microarchitecture which exploit it
+i will not curve the individual exams and assignments
+attendance: students are expected to attend and be active discussion participants during the lectures (answering questions posed, asking questions, commenting etc.)
+exams: there will be two exams
+tentative t est schedule: exam 1 – march 04, 2022 exam 2 – may-09-2022 assignments/quizzes: rather than traditional homework, this course will rely upon a series of on-line quiz assessments
+the goal of these quizzes will be to test your knowledge of the lecture material and pinpoint which lectures you should go back and review on-line
+there will be one quiz for each lecture, this quiz must be completed prior to the next lecture
+students may retake the quiz as many times as desired between its release and the next lecture
+the t amu canvas system will be used for all quiz submissions
+labs: the course will have nine prelabs and nine labs (tentative)
+late post-labs will have 20% of the points deducted for being late up to 1-week
+lectures: lectures will be in person in the classroom

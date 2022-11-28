@@ -1,0 +1,64 @@
+ syllabus – csce 120/121 – spring 2022 course information course number: csce 12 0/121 course title: [introduction to] program design and concepts sections instructor cla ss time location 588-590 & 594- 599 moore asynchronous online 591-593 ritchey mondays, wednesdays, fridays 10:20 am – 11:10 am online 510-517 taele mondays, wednesdays, fridays 8:00 am – 8:50 am (510- 513) 9:10 am – 10:00 am (514- 517) zach 310 503-509 taylor mondays, wednesdays, fridays 9:10 am – 10:00 am (503- 505) 10:20 am – 11:10 am (506- 509) zach 350 credit hours: • csce 120: 3 • csce 121: 4 instructor details • michael moore (he/him) o sections: 588- 590 & 594- 599 o office: petr 322 o phone: 979- 845 -5472 o e-mail: jmichael@cse.tamu.ed
+o office hours: tbd 2 of 13 • paul taele o sections: 510- 517 o office: petr 320 o phone: 979- 845 -7977 o e-mail: ptaele@tamu.ed
+o office hours:  days: tuesdays and thursdays  times: 5:30 pm – 7:30 pm  room: tbd • brennen taylor o sections: 503- 509 o office: petr 40 2 o phone: n/a o e-mail: brtaylor1001 @t am u
+e du o office hours: tbd course description • csce 120: extend prior programming knowledge to create computer programs that solve problems; use the c++ language; apply computational thinking to enhance problem solving; analyze, design and implement computer programs; use basic and aggregate data types to develop functional and object -oriented solutions; develop classes that use dynamic memory and avoid memory leaks; learn error handling strategies to develop more secure and robust prog rams
+course prerequisites • csce 120: grade of c or better in e ngr 102 , csce 110 , csce 111 , or csce 206 , or equivalent
+• csce 121: programming course (high school or college)
+course learning outcomes upon completion of the course students should be able to: • use c++ to develop programs 
+• represent algorithm designs as pseudocode or other appropriate representations
+o abstraction o information hiding o object -oriented decomposition • list common data types used in computer programs
+• descr ibe when each aggregate data type is appropriate
+• use strategies that address errors in programs
+diversity equity and inclusion accessibility statements michael moore's accessibility statement while the new disability accommodation portal (aim portal) will ease sharing accommodation information, you must still make an appointment with me to discuss your accommodations
+however, the university requires that i only provide accommodations for students registered with disability resources 
+in fact, i teach a course on accessible computing which focuses on principles for creating accessible applications and programs
+philip ritchey's accessibility statement i recognize disability as an aspect of diversity, equity, and inclusion
+however, i realize that some aspects of the course may not yet be as inclusive as they could be
+if you have already established accommodations with disability resources, please activate your accommodations via aim portal ( click here to access the aim portallinks to an external site
+if you have not yet established services through disability resources, but have a temporary health condition or permanent disability that requires accommodations (conditions include but not limited to; mental health, attention- related, learning, vision, hearing, physical or health impacts), contact disability resources directly to set up an accessibility plan
+to an external site
+brennen taylor's accessibility statement inclusivity is important to me, and i commit to making all course materials as accessible as i can
+in addition, at the very least, shoot me an email and make we aware of your accommodations so i can be aware and work with you
+preferred name and preferred gender pronouns professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities
+non- discrimination policy texas a&m is committed to the fundamental principles of academic freedom, equality of opportunity and human dignity
+all decisions and actions involving students and employees should be based on applicable law and individual merit
+in addition, act ing in complicity with another who engages in any of these forms of prohibited conduct, or retaliating against a person who participates in protected activity, is also prohibited
+harassment of a student in class, i.e.
+a pattern of behavior directed agai nst a particular student with the intent of humiliating or intimidating that student will not be tolerated
+the mere expression of one’s ideas is not harassment and is fully protected by academic freedom, but personal harassment of individual students is not permitted
+professionalism and respect you are expected to treat your instructor and all other participants in the course with courtesy and respect
+you are encouraged to disagree with other students, but such disagreements need to be based upon facts and documentation (rather than prejudices and personalities)
+warnings wi ll not be given; part of the learning process in this course is respectful engagement of ideas with others
+students will need to contribute in intelligent, positive, and constructive manners within the course
+students in this course are also responsible for being familiar with the universit y’s student rules and policies 
+5 of 13 textbook and resource materials required textbook csce 12 0/121: program design & concepts c++ (online textbook) • zybook (http://learn.zybooks.com
+• class code: tamucsce121spring2022 • you are required to have access to your own copy linked to this class with the code above
+even if you have to wait to purchase until after add/drop, you can sign up and get access to the first chapter for free! • note: you are required to know the information in “optional” sections in the first 2 chapters; however, any participati on activities and challenge activities in these sections are optional
+example sections have been made optional throughout the text, but they can be a source of additional help if needed
+recommended textbooks • programming principles and practice using c++, second edition, bjarne stroustrup, pearson, 2014
+(free pdf) required computer • you must have your own computer for consuming online content that fulfills the texas a&m computer requirements 
+bandwidth you should have sufficient bandwidth to watch videos and use the online tools used in this course
+you should be able to do this quickly, especially if needed for an exam question
+required online tools canvas (https:// canvas .tamu.edu/
+piazza (https:// piazza.com/tamu/spring2022/csce120121/hom
+6 of 13 o email messages are more li kely to be overlooked and should be used only in rare circumstances
+note: posts directed to instructors that would benefit the entire class and should be visible to all students will be updated so that the post is visible by the entire class
+tamu google shared drive (https://google.tamu.edu/
+you must be logged into your tamu google account to access these materials or submit google forms (e.g
+your tamu google account will have to be the default account in y our browser, or you can open an incognito window and log in from there
+it might take up to 24 hours after registering for the class to be able to access materials in the google shared drive
+tamu zoom (https://zoom.t
+mu.edu
+grading policy if you want to challenge any grading, you must do so within one week of when the grade is published
+o students have previously used code from chegg; using such resources is not allowed
+o submitting code based on a solution or on starting code from such a resource is considered plagiarism 
+see academic dishonesty section below
+see make up & late work policy 
+rounded % total letter grade 100 - 90 a <90 and ≥ 80 b <80 and ≥ 70 c <70 and ≥ 60 d <60 f 7 of 13 labwork (10%) labwork are activities to help you get a better understanding of concepts that students traditionally struggle with or t hat are integral to know prior to doing homework 
+• you must work collaboratively with other students during your lab session
+• you must be present in the lab session to receive credi t
+see make up & late work policy 
+see make up & late work policy 
+exams (40%) the course exam average is the maximum of • final exam grade • average of exam 1, exam 2, and final exam
+o any instructor’s slides and examples 
+see make up & late work policy 

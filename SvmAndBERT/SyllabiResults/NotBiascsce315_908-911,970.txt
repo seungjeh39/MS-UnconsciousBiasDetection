@@ -1,0 +1,59 @@
+ the average developer writes 10 – 20 useful lines of code per day , so a couple of engineers and 2 friends could break away , start a new company , and create a new “windows” operating system in only about 1700 years 
+that’ s not reasonable
+up until now , most of the programs that you have been asked to write could probably fit in your mind
+when you complete the letter , you fold it, seal it up, and mail it of f (or hit send)
+a 1700-year project is wildly unreasonable
+in this course, you will learn a better way 
+you will dive into the world of software engineering and hone your teamwork (and, yes, coding) skills
+this course gives you very practical skills for being an ef fective member of a development team and producing high-quality , sustainable software
+learning these methods of working together , managing requirements, producing quality software products, and testing, delivering, and maintaining these products is every bit as valuable as coding
+why i teach this course this course is of fers you a unique learning experience
+i am always especially excited to teach this course, and here is why: building software is fun and rewarding you get many opportunities to “learn by doing” there’ s more to software than just coding you get a taste of software engineering working on teams can be messy , but it’ s worth it it is amazing what you can accomplish together , so much more than on your own course information course number: 315 course t itle: programming studio 1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu
+598 section 910: face-to-face, t uesdays and thursdays 1 1:35am-12:25pm, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518
+598 section 909: face-to-face, thursday may 5, 12:30pm-2:30pm, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518
+598 instructor details instructor: shawna thomas office: 319 peterson phone: 979-862-8877 e-mail: sthomas@tamu.ed
+(mailto:sthomas@tamu.edu
+3/11joseph nyangwechi jnyangwe@tamu.ed
+help/of fice hours: tbd, all online pratyusha v udutala pratyusha@tamu.ed
+(mailto:pratyusha@tamu.edu
+help/of fice hours: tbd, all online course description intensive programming experience that integrates core concepts in computer science and familiarizes with a variety of programming/development tools and techniques; students work on 2 or 3 month-long projects each emphasizing a dif ferent specialization within computer science; focuses on programming techniques to ease code integration, reusability , and clarity 
+course learning outcomes this course is intended to be an intensive programming experience that integrates core concepts in computer science and familiarizes you with a variety of programming/development tools and techniques
+the course focuses on honing good programming techniques to ease code integration, reuse, and clarity 
+the primary goal for this class is for you to emerge with strong programming skills, able to address both individual and team programming challenges competently 
+in this course, you will improve your programming skills through significant practice
+after this course you will be able to: 1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu
+4/11explain the need for software engineering through industry examples and personal experience exercise the fundamental concepts of software construction (including managing requirements, design, implementation, testing, and deployment) design and develop software that is clearer , more maintainable, and integrates current software technologies collaborate and communicate effectively in small teams recognize and apply characteristics of ef fective technical writing we will cover many topics including: software system design for portability , performance, and testability coding layout and style considerations programming specifications and documentation use of basic software tools and apis subject-specific topics related to the team projects (db, hci) though many topics will overlap, this course is not intended to be as in-depth or comprehensive as a standard software engineering course
+by steve mcconnell (microsoft press, 2004)
+v413hav.pdf
+database design, 2nd edition (https://opentextbc.ca/dbdesign01/
+by adrienne w att (bccampus open education, 2014)
+other supplementary material as needed will be supplied electronically 
+5/11team projects – 40%: two major projects, each worth 20% of the course grade, for 40% total
+specific grading practices for each project will be announced when that project is given out
+y our individual contribution determined from logged code commits, peer evaluation, and instructor/t a observations will be a significant contributing factor to these project grades
+individual project – 5%: the individual project will be completed prior to the team projects
+written elements – 35%: this is a writing intensive course
+y ou will have several written assignments within the projects (roughly 10% from the individual project, 12% from the first team project, and 13% from the second team project)
+specific grading practices will be announced when each assignment is given out
+other course activities – 20%: the course has several dif ferent types of activities to help you better understand concepts and connect with the material
+this includes (but is not limited to) at- home activities, in-class activities, and lab activities
+these activities bring deeper , longer-term learning as you work, either individually or with other students
+for submitted assignments, grading will be based on the quality of the submitted work
+for group assignments, your full participation is required to receive a grade for that assignment 
+): a = excellent, b = good, c = satisfactory , d = passing, f = failing stacked honors section: the stacked honors section will explore course concepts more deeply through readings, discussions, reflections, and projects
+they will have honors-only lecture sessions on the first friday of each month
+email submissions will not be accepted
+w e will meet approximately 2/3 of the lecture periods over the course of the semester 
+after the first week of class, the regular sections will only meet on mondays and w ednesdays with fridays reserved as optional workdays
+the honors section will also meet the first friday of each month for deep dive discussions
+below is the planned but tentative schedule of topics and major projects for the course
+all assignment and project details will be communicated on canvas (https://canvas.tamu.edu/
+
+weeklecture t opics lab t opicsproject deliverables (due monday midnight at beginning of week unless otherwise noted) 1introductions, professional presenceno labs 2software construction and designhtml, javascript, css, using git 3software development methodologies, w aterfallhtml, javascript, css project 1 v ersion 1 4databases, t eam successdatabase design diagrams, a ws database interactionproject 1 v ersion 2 5code as communication, style guides, t echnical writingdatabase population project 2 phase 1 6collaborative development, formal inspectionsproject 2 demos, connecting database and guiproject 2 phase 2, project 2 status update* (due w ed
+midnight) spring break 9design thinking and ideation apis, sprint artifactsproject 3 proposal* (due sun
+midnight at end of week) 10 user studies, prototypingfull stack development, advanced git 11accessibility , integration and configuration managementuser studiesproject 3 sprint 1 materials* (due w ed
+midnight) finals project 3 final presentations university and course policies inclusion statement in this class we are committed to a culture of inclusivity 
+said, “injustice anywhere is a threat to justice everywhere.
+course copyright the materials used within this course are copyrighted
+8/11visual recordings of classes, etc
+because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted

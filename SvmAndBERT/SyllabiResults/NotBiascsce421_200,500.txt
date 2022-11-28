@@ -1,0 +1,55 @@
+ office hours: tr 1:00pm-2:30pm t uesday/thursday (zoom only: https://tamu.zoom.us/my/yoonsuckcho
+e-mail: zhouxilong199213@tamu.ed
+2/11from the course catalog: theoretical foundations of machine learning, pattern recognition and generating predictive models and classifiers from data; includes methods for supervised and unsupervised learning (decision trees, linear discriminants, neural networks, gaussian models, non- parametric models, clustering, dimensionality reduction, deep learning), optimization procedures and statistical inference
+specific to this course: 1
+learn the theoretical foundations of machine learning, 2
+objectives: 1
+become confident in applying machine learning techniques to solve novel problems
+3
+4
+course learning outcomes 1
+knowledge of basic mathematics and algorithms underlying various machine learning techniques
+2
+knowlege of various supervised, unsupervised, and reinforcement learning algorithms
+ability to implement, from scratch, the above mentioned learning algorithms
+4
+ability to formulate problems in a machine learning framework, and select the most appropriate machine learning algorithm
+5
+ability to design and conduct machine learning experiments
+ability to analyze the results from machine learning experiments
+9
+ability to use colab for rapid prototyping, experimenting, and documenting
+[book home page (4th edition) (https://mitpress.mit.edu/books/introduction-machine-learning
+fourth-edition) ] [book home page (3rd edition) (http://www.cmpe.boun.edu.tr/~ethem/i2ml3e/
+] secondary text (optional but strongly recommended): t om mitchell (1997) machine learning, mcgraw-hill
+] other recommended books: kevin p 
+
+ian goodfellow , yoshua bengio, and aaron courville, "deep learing", mit press, 2016
+[book web site] (https://www.deeplearningbook.org/
+lipton, mu li, and alesander j
+smola, "dive into deep learning", [book web site, with downloadable jupyter notebook files] (http://d2l.ai/
+grading policy 1
+4 assignments (each includes written and programming components), 12% each = 48%
+download the ipynb file and submit it to canvas
+after completing each problem in the homework, "pin" the revision
+hand-written notes may be included in the notebook (scan or photo)
+if you are using a local jupyter notebook install, submit your history (run the following command) %history -g -f filename.lo
+2
+2 exams (midterm 23%, final 23%) = 46% exam will be conducted on canvas in class, in-person
+3
+4/11the fixed midterm and final dates
+forged signatures will lead to 'f'
+if you find solutions to homeworks or programming assignments on the web (or in a book, etc.)
+check with the instructor first to determine if you can use it or not
+assignments turned in that are significantly similar will be reported to the aggie honor system of fice
+there will be no make up exams unless it is due to a genuine emergency defined by university rules
+(2) interview trips that got scheduled at the last moment, etc
+instructor may choose to give an oral exam instead of a written exam
+course schedule topics: 1
+dimensionality reduction: pca, factor analysis, multidimensional scaling, isomap, locally linear embedding 5
+genetic algorithms, neuroevolution 6
+8
+5/11 schedule (rough): see canvas homepage for reading and more up-to-date info
+homework dues may change
+weektuesday thursday topic announcementsdues (tentative)comments 1 1/18/2022 1/20/2022 introduction1/16: mlk day 2 1/25/2022 1/27/2022supervised learning concepts1/24: last day for add/drop 3 2/1/2022 2/3/2022neural networkshw1 announced 4 2/8/2022 2/10/2022neural networks 5 2/15/2022 2/17/2022reinforcement learninghw2 announced hw1 due 6 2/22/2022 2/24/2022reinforcement learning 7 3/1/2022 3/3/2022decision tree learning 8 3/8/2022 3/10/2022midterm exam (in class: thu)hw3 announced hw2 due3/7: midsemester grades due 9 3/15/2022 3/17/2022 spring break 10 3/22/2022 3/24/2022dimensionality reduction 11 3/29/2022 3/31/2022bayesian learninghw4 announced hw3 due 12 4/5/2022 4/7/2022bayesian learning 13 4/12/2022 4/14/2022 local models4/15: reading day 14 4/19/2022 4/21/2022 deep learning4/19: last day for q- drop 15 4/26/2022 4/28/2022 deep learning (thu is lasthw4 due 4/28: last class 9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu
+all submissions will be made through canvas

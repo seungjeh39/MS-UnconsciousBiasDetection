@@ -1,0 +1,19 @@
+ 1/3cpsc 445: computers and new media spring semester , 2022 time and place: t/th 9:35 - 10:50 am, hrbb 124 instructors: dr
+projects and assignments are designed such that each student can show of f their own skills
+list of students in class course description this class investigates three topics related to computational media: (1) how do interactive media change the authoring and consumption of stories/narratives? (2) what are the techniques and interfaces used to interact with content in a variety of media? (3) how does networked access and authoring of media content change our views of ownership and intellectual property? these topics will be discussed at both a conceptual and tool level
+by the end of the course, you will be able to look at an existing system or design a new system with an understanding of the impact it may have on communication and storytelling
+ask instructor if you have any questions
+reading materials reading schedule this course will focus around discussions of the readings
+we will read two books and assorted papers taken from a variety of conferences and journals concerning human-computer interaction, hypertext, media studies, and computers and the humanities
+books: hamlet on the holodeck: the future of narrative in cyberspace , by janet murray , book the public domain: enclosing the commons of the mind , by james boyle, book selected papers: the following links require access to the acm digital library 
+short assignments list of assignments
+there will be a number of assignments due in class
+these assignments may require use of specific software outside of class time and will take the form of short essays, written answers to questions, and design documents
+homework late policy: 10% is deducted from your grade for every school day late up to a maximum of one week after the original due date
+class participation most class periods will include a discussion of reading materials
+project students will form three- to five-person teams and define a semester project or select one from a list of existing ideas
+the final project report (8-12 pages in the old acm conference format ) will also require the design of an evaluation procedure for refining the resulting interface
+the in-class presentations of project progress will be about 4 minutes long and the final presentation on the project will be approximately 15 minutes long and include all members of the team
+project grades will be determined by both the instructor's review of the project and student's description of their and other member's work
+programming for projects: done in language and operating system of your choice on machines to which you have access
+use a spelling checker and reread what you write before turning it in.

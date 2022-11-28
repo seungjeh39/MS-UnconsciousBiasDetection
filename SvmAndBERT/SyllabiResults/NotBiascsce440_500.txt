@@ -1,0 +1,17 @@
+ page 1 of 5 syllabus csce 440/640 course information course number: csce 440/640 (klappenecker) course title: quantum algorithms time: tr 9:35 am – 10:50 am location: hrbb 113 credit hours: 3 instructor details instructor: andreas klappenecker office: zoom e-mail: klappi at cse.tamu.ed
+office hours: wf 10:30 am – 11:30 am , all office hours will be held on zoom course description and prerequisites this course gives a self -contained introduction to quantum algorithms, one of the most exciting recent developments in computer science
+textbook and resource materials required : p
+mosca: an introduction to quantum computing, oxford, 2007 (reprinted 2010)
+chua ng: quantum computation and quantum information, cambridge university press, 2011
+(check daily for updates) page 2 of 5 grading policy your grade will be based on the following components: - midterm exam 30%: the exams will be given in class 
+- final project 40%: you will have to write a term paper and record your presentation - homework and exercises 30%: th is is a mix of online questions and essay style assignments, for which you are required to use the latex typesetting system to type in your answers
+all assignments can be found in canvas 
+your lowest homework grade will be dropped
+late work policy • all assignments must be submitted on canvas 
+• no late submissions will be accepted
+• e-mail submissions will not be accepted and will be ignored without notice
+• work turned -in on time is eligible for partial credit 
+after this time limit no regrading requests will be honored
+2
+reviewing the work of others will be expected as part of the final project
+start working on assignments as soon as they are assigned

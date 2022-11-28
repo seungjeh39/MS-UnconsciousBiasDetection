@@ -1,0 +1,14 @@
+ page 1 of 5 course syllabus 1 course information course number: csce 463-500/612-600 course title: networks and distributed processing time: tr 12:45-2pm location: 113 hrbb credit hours: 3 website: http://irl.cse.tamu.edu/courses/463
+piazza: http://piazza.com/tamu/spring2022/csce46
+course prerequisites csce 315 (programming studio), csce 313 (computer systems), cs ce 312 (computer organization), csce 221 (data str uctures and algorithms), and m ost importantly fluent knowledge of c/c++
+kurose and k.w
+page 2 of 5 course syllabus grading policy a: 90-100%, b: 80-89%, c: 70- 79%, d: 60-69%, f: 0-59% assignment qty format percent of final grade homework 4 implementation and report 40% (10% each) midterms 3 closed-book 45% (15% each) quizzes 3 closed-book 15% (5% each) late work policy homework submissions are due at 10 am
+your score is then reduced by 40 points and becomes 36
+example #2 : your submission scores 19 out of 25 pts, but is 1 day late
+the reduction is th en 5 pts, which brings the grade down to 14
+boost) will not be graded
+each homework must be accompanied by a written report (if there are multiple parts in the homework, the report applies on ly to the last part) describing your implementation and showing the performance analysis requested in the handout
+write in as much detail as possible, explain the various observations, and comment on the sanity of obtained results
+c urrent students, prior students, material found online)
+the only e xception to this policy is sa mple code provided by the instructor and microsoft help pages
+academic dishonesty, including cheating and plagiarism, will result in an f* for the course and may lead to expulsion from the university

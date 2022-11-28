@@ -1,0 +1,17 @@
+ course syllabus page 1 of 6 course information course number: csce 314 course title: programming languages section: 500 time: mwf 12:40-1:30 p.m
+or hlee42@tamu.ed
+office hours: tuesdays 10:00-11:00 a.m
+vedangi bengali office: zoom (meeting id: tba on canvas) e-mail: vedangibengali@tamu.ed
+course prerequisites grade of c or better in csce 221, or concurrent enrollment; or approval of instructor
+special course designation none
+course learning outcomes at the end of the course, students will be able to use modern programming languages more effectively and be able to learn new programming languages more easily
+isbn-13: 978-0-321-34980-4
+course homepage: canvas course page https://canvas.tamu.edu
+it is the student’s responsibility to be aware of the announcements, lecture schedule, and any assignments and their deadlines, and whether the assignment is held/submitted in-class or online
+grading policy • graded items and their weights are as follows: o exams 60%: there will be two midterm exams each worth 20% and one comprehensive final exam also worth 20%
+• final grades will be assigned according to this scale based on the weighted final average: a: 90 and above, b: [80, 90), c: [70, 80), d: [60, 70), f: below 60 the scale may be adjusted by the instructor to reflect score variations
+• make-ups for homework assignments, quizzes, exercises, and exams will be given only under circumstances beyond student's control (a university sanctioned excuse)
+prior arrangements with the instructor must be made when feasible and official verification of circumstances necessitating the absence will be required
+• any make-up work must be completed before the solutions are discussed or posted or the graded results become available to the students, whichever occurs first
+please refer to student rule 7 for more information
+submission of work and late work policy • all assignments (including exams, homework, quizzes, and exercises) must be submitted by the due date and time specified for the assignment

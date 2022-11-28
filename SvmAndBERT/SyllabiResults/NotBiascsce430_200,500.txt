@@ -1,0 +1,44 @@
+ office hours: tbd teaching assistant: dhruv patel e-mail: dhruv414@tamu.ed
+office hours: tbd course description this course teaches methods for analyzing fundamental programming problems from a variety of domains and implementing solutions quickly and efficiently
+the class will use problems based on competitive programming contests to develop skills in problem analysis, codin g, and testing
+solving problems will involve identifying and applying a range of algorithmic solutions, including those dealing with combinatorics, dynamic programming, graphs, numerical calculations, string processing, and geometry, along with other mor e specialized algorithms
+textbook and/or resource materials competitive programming , by steven halim, felix halim, and (for the 4th edition) suhendry effendy
+the book can be bought via the website: https://cpbook.ne
+
+the 4th edition is in two separate books, available only in paperback
+the 3rd edition is available in e -book (and hardcover) format
+we will cover almost everything in book 1, and will cover parts of book 2
+grading policy the course grades will consist of a large number of programming problems of varying difficulty and topics given over the course of the semester
+problems will be assigned in 3 different ways: • problems to be completed individually on the student’s own time
+generally, individual problems will be assigned each week and due on saturdays, unless the class agrees on a different time
+• problems to be completed within a timed period - lab
+in each lab period, students will be given a set of problems to be solved during that lab period
+these pro blems are meant to be challenging, with the time pressure being a significant factor
+• team problems to be completed within a timed period - lab
+during some of the lab portions of the class, students may be teamed up with one or two other students, and together they may be asked to complete problems during the lab period
+note: team problem solvin g may be limited or re moved depending on needs for personal intera ction as the semester goes on 
+the total number of base problems over the course of the semester will be approximately 125
+each problem will be noted as either complete or incomplete by the given time (either the due date or the end of the timed lab period)
+this is page 3 of 10 referred to as “upsolving.
+students will have a limited period to upsolve these problems late for half credit; typically this will be one week following the original deadline
+all problems will be weighted equally
+the deadlines for submission will be set automatically and are strict
+course schedule schedule the following is the expected schedule, including some of the types of algorithms that are expected to be covered each week
+however, as the semester goes on, this will likely be adjusted
+week topic chapter s 1 introduction; problem formats; online judging systems; parsing input; formatting output 1 2-4 fundamental data structures and their implementation on your own or in libraries (various trees, sets, graphs, search structures) 2 5-7 applying divide and conq uer, greedy, and dynamic programming approaches 3 8-11 applying graph algorithms (search, shortest path, minimum spanning tree, network flow, bipartite graph matching) 4, 8.4-8.
+12 string processing (editing, edit distance, subsequences, suffixes) 6 page 4 of 10 13 applying numerical algorithms and combinatorics (gcd, lcm, chinese remainder theorem and modular math, large number computations, generating and counting permutations and combinations) 5 14 applications of geometric algorithms (2d line seg ment and polygon queries – intersection, area; calculations on a sphere; 3d volume calculations; ray -surface intersection; convex hull; spatial subdivisions) 7 ? selected additional algorithms and their application (if time allows) 8-9 optional course information items fee for online system we will be using the kattis system (see online judging below) under a program that allows free use for our educational activities
+however, at some point in the semester there may be a fee required t o continue to use the kattis system
+this fee will not exceed $35 per student
+online judging online judging systems will be used to perform the testing and acceptance of solutions to problems
+this will require students to obtain a user account on these external systems
+the kattis system (tamu.kattis.com
+will be the main system used, but other s might be used on occasion
+communication we will use canvas for the course materials
+the discussion area of canvas will be used to allow students to post and answer questions, to make course announcements, etc
+grades will be posted on canvas, though the actual submission and grading will be through the kattis system
+students are responsible for checking canvas regularly for communications and occasionally verifying that grading matches their kattis judgm ents
+limitations on anonymity the course will use a competitive programming framework for judging and posting results of all problem sets
+source code presentations some problems worked on may have multiple solutions, and throughout the course, individu als’ work might be used as examples for illustrating approaches to solving a problem, page 5 of 10 writing code, etc
+alternately, students’ code may be used as an example shown to other students for how a given solution might be coded; code presented this way will be kept anonymous unless the student has first agreed to let it be presented
+computers you will need to use your own computer for programming and submitting assignments, including during lab
+students will need to bring their own laptop to the friday lab sessions 

@@ -1,0 +1,40 @@
+id,keyword,location,text
+1,,,course syllabus page 1 of 6 course information course number: csce 411 course title: design and analysis of algorithms section: 502 time: t-tr 3:55-5:10pm location: zach 244 credit hours: 3 instructor details instructor: juan a
+2,,,garay office: petr 429 phone: 979-845-4359 e-mail: garay@tamu.ed
+3,,,"office hours (virtual): m-w 4:00-5:00pm, https://tamu.zoom.us/j/9593907915"
+4,,,course description study of computer algorithms for numeric and non-numeric problems; design paradigms; analysis of time and space requirements of algorithms; correctness of algorithms; np-completeness and undecidability of problems
+5,,,course prerequisites grade of c or better in csce 221 and csce 222/ecen 222; junior or senior classification or approval of instructor
+6,,,"course learning outcomes at the end of the semester, you should be able to: • describe and use standard algorithms and techniques • design algorithms to solve specific problems • analyze algorithms’ running times and space complexity • prove impossibility results for lower bounds on running time and space complexity • clearly and articulately state proofs and intuitions for algorithms • analyze existing data structures • choose an appropriate data structure for a problem and give a pseudocode implementation • prove a problem is np-complete using reduction and understand the implications • understand the notion of undecidability, know that some problems are undecidable and the implications thereof course syllabus page 2 of 6 textbook and/or resource materials introduction to algorithms, third edition, cormen, leiserson, rivest, and stein, mit press, 2009"
+7,,,"isbn 9978-0-262-03384-8/978-0-262-53305-8 grading policy problem sets will have a variety of algorithmic design and analysis questions, and will be proof-focused"
+8,,,we will have two midterms and one final
+9,,,"these will be in the style of the problem sets, but shorter, so that they can be completed in one sitting"
+10,,,"tentatively, we will also have a programming project"
+11,,,"late assignments will lose 10%, plus 10% for every 24 hours that pass after the due date"
+12,,,"if we discuss the assignment in class, or i provide solutions, no further late submissions will be accepted"
+13,,,it is assumed that you will attend every class and participate in discussion
+14,,,"questions are encouraged, especially if you do not understand something"
+15,,,frequent and consistent unexcused absences will result in lost participation points
+16,,,see http://student-rules.tamu.edu/rule0
+17,,,for a list of reasons absences will be excused
+18,,,"for all other absences, contact the instructor to ask for permission"
+19,,,"the tentative weights will be as follows: • assignments: 35% • midterm i, midterm ii, final: 20% each • participation: 5% letter grades will be assigned per 10% interval: [90%,100%] = a, [80%,90%) = b, etc"
+20,,,i reserve the right to curve grades up for any assignment or for the course
+21,,,"cooperation: for the assignments in this class, discussion of concepts with others is allowed, but all assignments must be done on your own, unless otherwise instructed"
+22,,,"if you use any source other than the text, reference it, whether it be a person, a book, a solution set, a web page or whatever"
+23,,,you must write up the solutions in your own words
+24,,,copying is strictly forbidden
+25,,,"every assignment must be turned in with a cover page, which lists all sources you used"
+26,,,"late work policy: late assignments will lose 10% of the maximum score, plus 10% for every 24 hours that pass after the due date"
+27,,,"if we discuss the assignment in class, or i provide solutions, no further late submissions will be accepted"
+28,,,course topics topics are listed below
+29,,,this is subject to change
+30,,,1
+31,,,introduction and algorithmic analysis • chapter 1: role of algorithms • chapter 2: getting started course syllabus page 3 of 6 • chapter 3: growth of functions 2
+32,,,divide and conquer and recurrences • chapter 4; not 4.
+33,,,3
+34,,,sorting • chapters 4-8 4
+35,,,advanced design and analysis techniques • chapter 15: dynamic programming • chapter 16: greedy algorithms • chapter 17: amortized analysis 5
+36,,,randomized algorithms • chapter 5 6
+37,,,data structures • chapter 10: elementary data structures • chapter 11: hash tables • chapter 12: binary search tress • chapter 13: red-black trees • chapter 18: b-trees • chapter 19: fibonacci heaps • chapter 21: disjoint sets 7
+38,,,graph algorithms • chapter 22: elementary graph algorithms • chapter 23: minimum spanning trees • chapter 24: single-source shortest paths • chapter 25: all-pairs shortest paths • chapter 26: max flow 8
+39,,,np-completeness • chapter 34: np-completeness 9

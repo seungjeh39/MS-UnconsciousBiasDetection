@@ -1,0 +1,12 @@
+ prerequisites: csce 315 and junior or senior standing; or approval of the instructor
+in addition, students should have had some exposure to basic probability, statistics, data structures and algorithms
+you should be able to learn new software libraries on your own and design and develop functions on top
+instructor information name ruihong huang telephone number 979-862-2908 email address huangrh@cse.tamu.ed
+gradin g policies the course grading policy is as follows: two programming assignments (30%), four written assignments (20%), class participation (5%), class project (25%) and final exam (20%)
+the late policy is: for the programming/written homework assignments, you have a total of 5 late days that you can use during the sem ester
+however, a single assignment can be submitted up to 2 days late only
+grading scale the grading scale is : a: 90 -100, b: 80 -89, c: 70 -79, d: 60 -69, f: 0 -59
+attendance / make -up work policies the university views class attendance as the responsibility of an individual student
+attendance is essential to complete the course successfully
+university rules related to excused/unexcused absences and make -up work are located on -line at http://student -rules.tamu.edu/rule0
+

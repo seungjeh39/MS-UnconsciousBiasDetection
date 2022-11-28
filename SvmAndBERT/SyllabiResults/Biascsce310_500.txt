@@ -1,0 +1,19 @@
+ lanclos telephone number n/a email address cilanclos @tamu.ed
+prerequisites : csce 221 with a grade of c or better; junior or senior classification
+learning outcomes & course objectives at the end of this class, the successful student w ill: • have a broad understanding of database concepts and database management system software • have a high -level understanding of major dbms components and their function • be able to model an application’s data requirements using conceptual modeling tools like er diagrams and design database schemas based on the conceptual model
+• be able to program a data -intensive application us ing dbms apis
+more specifically, • to demonstrate understanding of the relational model of data, you should be able to: o express queries using relational algebra o create tables using sql ddl o specify primary key and foreign key constraints in create table sta tements • to demonstrate understanding of query languages for databases, you should be able to: o use relational algebra operators including extended operators under both set and bag semantics o express queries using relational algebra • to demonstrate proficienc y in sql, you should be able to: o write single block sql queries o compose sql queries using set (and bag) operators o write sql queries with correlated subqueries o write sql aggregation queries involving group by and having clauses o translate a query in english to sql • to demonstrate understanding of data models, you should be able to: o use data modeling tools like entity -relationship diagrams o translate data models into relational table schema • to demonstrate understanding of data normalization, you should be able to: o find keys given a set of functional dependencies o identify tables that are not normalized o decompose unnormalized tables into bcnf and/or 3nf compliant tables • to demonstrate understanding of constraints, views, triggers, and indexes, you should be a ble to: o specify appropriate constraints o define and use views o define and use triggers o decide what indexes to create for a given workload • to demonstrate understanding of client server computing in the context of dbmss , you should be able to: o write a program that interacts with a dbms server via the jdbc api o design, develop and test a dbms -backed web application to address a problem textbook and/or resource material • textbook: database systems, the complete book, 2nd edition, hector garcia -molina, jeffrey d
+ullman, and jennifer widom, prentice hall, 2009
+isbn -13: 9780133002010 • supplementary textbook: database systems: design, implementation, & management , 13th edition, carlos coronel and steven morris , cengage learning, 2018
+isbn: 9781337670562, 1337670561 • instructor will provide lecture videos, copies of lecture slides, and links to resources via canvas 
+grading policies the course grade will be assigned based on exams (25%), quizzes ( 25%), homework /discussion board (25%) and a project (25%)
+(the pen alty will be waived for unexpected, excused absences in accordance with student rule 7.
+quizzes and exams will be administered in person unless otherwise specified 
+students will be able to earn 50% of missed points on exams and quizzes, after attending office hours with instructor
+all quizzes prior to second exam will not be eligible for earning missed points back after second exam 
+grading scale standard letter grading scale: a = 100 -90% b = 8 9-80% c = 7 9-70% d = 6 9-60% f =< 59% attendance / make -up work policies attendance will be measured through quizzes and submission of assignments
+the university views class attendance as the responsibility of an individual student
+attendance is essential to complete the course successfully
+university rules related to excuse d/unexcused absences and make -up work are located on -line at http://student -rules.tamu.edu/rule0
+last day to officially withdraw from the university
+04/19 exam 3 04/27 wednesday

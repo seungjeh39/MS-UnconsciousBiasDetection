@@ -1,0 +1,44 @@
+ americans with disabilities act (ada) policy statement the americans with disabilities act (ada) is a federal anti -discrimination statute that provides comprehensive civil rights p rotection for persons with disabilities
+among other things, this legislation requires that all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities
+if you believe you have a disa bility requiring an accommodation, please contact disability services, located at the department of disability resources at 471 houston street or call 979 -845 -1637
+for additional information, visit http://disabil ity.tamu.ed
+syllabus: computer organization course description page 1 catalog description page 1 ada page 1 prerequisites page 2 getting started page 2 important dates page 2 resources page 2/3 course copyright page 3 course plagiarism page 3 office hours page 4 people page 4 methodology page 5 tentative schedule page 5 resources page 5 programming page 5 communication page 5 grading page 6 make up & late work page 7 course support page 7 student rules page 8 academic integrity page 8 course acknowledgments page 9 csce 312 | spring 2022 2 prerequisites all the computer science knowledge necessary for completing this course is given in the course lectures, projects, and textbook
+some co-requisite basic background in data structures and algorithms will be helpful 
+review the entire syllabus 
+2
+3
+publisher: mit press, 20 21
+printed copy of the book may be available in campus bookstore as well as other book suppliers like amazon, barnes & noble, mit press, etc
+purchase of course textbook is not required 
+reference textbook s – purchase not required computer systems: a programmer's perspective, randal e
+i do not recommend purchasing the vahid book because it will be referenced in a very limited capacity
+
+you probably don’t have to buy a new computer for this class .
+web canvas : https://canvas.tamu.edu/courses/13808
+primarily used for course material and publishing of grades 
+the recommended browsers for canvas access are safari (mac), mozilla firefox or google chrome 
+teams has excellent mobile and desktop support, and has direct messaging and video conferencing capabilities
+w e believe the platform is fairl y well suited to promote a healthy interaction between the students, as well as with the teaching staff 
+barring exceptions, t he lecture materials will be released on canvas by 11:59pm on saturday for the week ahead (typically two sets) in accordance with the master schedule (see pp
+people instructor aakash tyagi , phd professor of practice • email : tyagi@cse.tamu.ed
+office hours to be announced on course teams site teaching assistants : mayukh roy chowdhury: mayukhrc95@tamu.ed
+sagar adhikari : sagar0073@tamu.ed
+peer teachers kaleb dickerson kaleb.dickerson2001@tamu.ed
+senhe hao senhehao@tamu.ed
+
+exams will not be comprehensiv e
+projects 56% projects are aligned lock -step with the course lecture content and help us reinforce the in - class learnings and vice -versa
+there will be a total of 7 projects all projects carry equal weight unless specified otherwise 
+exam make up missed exams will only be rescheduled for university excused absences
+a zero will be as signed for exams due to an unexcused absence
+documentation must be submitted prior to making up a missed exam
+everyone will be given 5 credit days for the semester which translates to 5*24*60 = 7200 minutes
+• adjusted project total = (raw total project score * 0.9998(m-7200))fo
+m>7200 • how turning in late work can affect your grade: minutes late max grade 5 99.9
+60 98.8
+technology support: for technological issues related to canvas and cse s/w , contact the tamu help desk: • student canvas help website, https://lms.tamu.edu/trainin
+-support • tamu it help desk : o website: http://hdc.tamu.edu/index.ph
+• cse help desk o website: https://wiki.cse.tamu.edu/index.php/main_pag
+if your technical problems are una ble to be resolved within 48 hours, please contact instructor s or tas for additional assistance
+technology issues are not an excuse for missing a course requirement – make sure your computer is configured correctly and address issues well in advance of de adlines
+more specific rules, information and procedures may be fou nd in various publications pertaining to each particular service or department

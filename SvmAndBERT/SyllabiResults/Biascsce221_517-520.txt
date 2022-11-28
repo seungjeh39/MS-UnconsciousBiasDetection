@@ -1,0 +1,32 @@
+ course information course information course number: csce221 course title: data structures and algorithms section: 517 - 520 time: lec - mwf 12:40 pm to 1:30 pm/ labs - mw 8:00 am to 12:20 pm location: zach 244/zach 596 credit hours: 3 instructor details instructor: harpreet singh chawla office: l.f
+peterson building, 2nd floor phone: e-mail: harpreetsc@tamu.ed
+performance trade -offs of different implementations; asymptotic analysis of running time and memory usage
+includes the execution of stude nts programs written in c++; emphasis on adherence to good software engineering principles
+course prerequisites  csce 121 " introduction to program design and concepts"  csce 222 " discrete structures " or math 302 " discre te mathematics " (at-least co - requisite) course learning outcomes at the end of this course students should be able to: 1
+textbook and/or resource materials  recommended textbooks: o “data s tructures and algorithm analysis in c++”, 4th edition, mark a
+weiss, 2014, pearson, isbn -13: 978 -0132847377 or isbn -10: 013284737x
+goodrich, roberto tamassia, david m
+o you may need a textbook on c++ language from the previous semester, or any good c++ reference book(s)
+grading policy  grading scale: 90 -100 – a; 80 - <90 – b; 70 - <80 – c; 60- <70 – d; below 60 – f
+take home if incomplete and submit for 20% of the points by the end of the day
+rubrics weightage (%) range of marks grade assignments 35 90 – 100 a labs 15 80 – <90 b midterm 10 70 – <80 c final 15 60 – <70 d quiz 15 < 60 f peer reviews 10 note about graded materials:  assignments – the first question will be about writing the pseudocode for the assignment (30%) (unless stated otherwise)
+o you are allowed to discuss with your peers, but those discussions should be limited to logic and the concepts
+we have tools that detect plagiarism, including similar code logic and program flow
+o you must mentio n the names of the students you discussed the concepts with
+o the code should have comments explaining the logic of the code
+if there is any block of code tha t is doing something logical, briefly explain the logic for doing so, briefly (ideally in 2 – 3 sentences)
+if not completed in the lab, complete it by the end of the day to receive partial credit (20%)
+they will com ment on: o the correctness of the pseudocode/algorithm
+o how the pseudocode/algorithm could be improved
+o and how the reviewee’s own pseudocode/algorithm either dealt with what the reviewer got wrong, and/or how the reviewee can fix mistakes in their pseudoco de/algorithm
+note: the review should be about the logic, rather than focused on the syntax
+attendance – attendance is highly recommended, but not a graded component
+late work policy unless a student has taken permission for submitting late, the following rules will apply:  we will follow a cumulative grading system 
+th is also means that if you submit your assignment before the deadline, those number of days will be subtracted from your late days tally
+ if in-spite of submitting any initial assignments late, all assignments are submitted before or on the deadline day of the 4th assignment, no late penalty will be incurred
+per e very late day from the final score of the assignments 
+will be deducted from 90 (totaling 77.5)
+in the final score, 77.
+will be cons idered for the 35% component of the grading scale instead of 90
+work submitted by a student as makeup work for an excused absence is not considered late work and is exempted from the late work policy
+https://piazza.com/tamu/spring2022/csc

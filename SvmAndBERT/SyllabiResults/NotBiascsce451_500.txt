@@ -1,0 +1,20 @@
+ office hours: by appointment, on -line teaching assistant office: eaba 108b email: hdwang@tamu.ed
+office hour by appointment, on -line course description this course aims to introduce the art of inferring, and/or reproducing of partial or complete high -level computing logics from a binary executable code with out the original source codes
+the cou rse starts with introduction of the relationship among high level programming languages and x86 asm statements 
+it will then expand to the x86 instruction set architecture (isa) and its computing models, and the compiler generated binary executables 
+through extensive hands -on exercises, assignments and tests, students will be guided to learn to develop the reserving strategy, starting from scope of reversing goal, hypothesis formation , iterative validation , selection of tool chains for static and dynamic analysis , disassembling, up to validation of reversing outcomes
+the class also introduces basics of exploits , and defensive design against static and dynamic analysis
+the term hacking refers to the process of exploiting vulnerability of software systems by manual or automated processes
+a “gut feeling, common sense” based mentality can lead to regrettable situations
+in this class students will learn about selective legal cases related to real world re cases 
+course syllabus page 2 of 8 ● this class has extensive hands -on work
+ identify common copyrights and other related laws governing software rights and their reverse engineering activities
+ gain knowledge on the relationship between hll and assembly statements
+ identify and utilize the knowledge on the compilation process to identify high level language programs and their machine code interpretations
+ extract the needed binary code structure information from the portable executable file formats
+ form ulation and optimization of reversing strategies (such as brute force based, or math logic based) to perform static & dynamic analysis of binary codes
+● major tools ida pro, ghidra, godbolt.org
+special rules for graded team projects ● every student is required to contribute technical and documentation work
+using third party codes and tools to solve challenging computing problems is critical to most software reverse engineering, and therefore is allowed
+● 3-strike rule: a final grade of d/f for m issing 3 graded activities
+unexpected illness , family emergency ) for the absence, contact the instructor at the earliest time with some supporting evidence/document

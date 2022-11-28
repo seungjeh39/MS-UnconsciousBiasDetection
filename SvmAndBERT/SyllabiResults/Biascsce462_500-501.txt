@@ -1,0 +1,13 @@
+ syllabus cpsc 462, microcomputer systems 2022 spring instructor jyh-charn (steve) liu petr 435 tel: 845- 8739 email: liu@cse.tamu.ed
+eaba 108b office hours: lab hours, other time by appointment learning obj ectives : develop independent and team design skills for microcomputer systems
+special emphasis is placed on embedded computing systems
+outcomes : at the end of this course you should • be able to plan an open project, and be able to make a live demonstr ation of the prototype ; • be able to analyze and choose microco ntroller technologies to meet functional requirements ; • be able to cross compile application codes , and be able to document the design process 
+course pre -requisites: csce 350, or approval of i nstructor
+course summary the main technical focus of this class is integrat ed development of software and hardware components into a system that can interact with sensors and actuators to perform real -time sensing and control functions
+the class style is highly interactive and students are expected to eventually advance to a self -learning process to solve term project problems 
+grade disputes may be appealed to the instructor in person
+textbooks: none • all the major technical materials are drawn from the vendor datasheets and open literature published on various web pages
+and at discretion of the instructor, you may receive an f grade
+4
+two strike deduction: 20% final lab grade deduction
+covid-19 vaccines and masking — regardless of vaccination status — have been shown to be safe and effective at reducing spread to others, infection, hospitalization, and death

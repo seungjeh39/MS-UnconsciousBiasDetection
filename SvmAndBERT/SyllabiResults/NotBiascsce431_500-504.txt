@@ -1,0 +1,90 @@
+ csce 431 – software engineering course syllabus page 2 of 15 course information in this syllabus, you will find general information for the course
+all other information will be posted in canvas
+or by appointment, all online teaching assistant: name: diego martinez office: virtual (zoom) to be posted in canvas email: dmartinez05@tamu.ed
+or by appointment, all online course description the official catalog description is “application of en gineering approach to computer software design and development; life cycle models, software requirements and specification; conceptual model design; detailed design; validation and verification; design quality assurance; software design/development environ ments and project management.
+in reality, effective software engineering requires developing a computing -based solution that solves the customer’s problem
+as problems become more challenging, solid design, follow through, and teamwork skills become nece ssary to developing a solution
+you will work in a project group to complete a project, through an application of an engineering approach to computer software design and development
+every project requires complete implementation, documentation and demon stration csce 431 – software engineering course syllabus page 3 of 15 of the solution
+the focus is not only on the final product but also on design methodology, management process, and teamwork
+at the end of the semester, each group will make a public presentation to the class describing and demonstrating their wo rk
+this course offers students a unique experience to work with a real -world customer, including the following: ● it challenges you to think critically and creatively, even under tremendous ambiguity 
+there is no one right way to solve the problem 
+● you “learn by doing” all semester long
+working on real problems with real people has its challenges, but is also very rewarding 
+● working on teams can be messy , but it’s worth it
+it is amazing what you can accomplish together, so much more than on your ow n
+● every semester is different, every team is different, every solution is different 
+there is always something new to learn and innovate
+● meetings outside the class, with your project group and the teaching team (hereafter referred to as instructors), allow you to connect with your classmates and discover the effectiveness of constant communication
+● build the computing- based solution and deploy to the cloud as a saas (software as a service) web application, resolving all high severity bugs (those with no workarounds) 
+this class is a 3 -credit hour class and meets officially for a little over 4 hours per week (250 minutes)
+for every one credit hour in which you enroll, you will spend approximately 2 -3 hours outside of class studying
+total commitment for this class is approximately 8.5-11.
+hours per week averaged across the semester
+software engineering: a practitioner's approach
+9 th edition
+options: 1.
+your first day etextbook can be easily accessed right from your canvas course
+$46.2
+for five years
+b) log in to canvas and select the correct course
+c) there will be a link for “course materials” in the left -hand navigation of your course
+d) your ebook will be displayed here, and you can click the green button to “read now”
+**last day to opt out is feb 14
+you will have access to the ebook for 5 years through the yuzu app
+g) for more help on getting started; you can watch this help video click here 2.
+other retailers of your choice such as amazon we encourage you to acquire the course material from vendors that provide the best value and amenities
+• due dates for the items are posted in the canvas calendar
+• we make every effort to provide you with the opportunity to earn an a (including opportunities for extra credit), so at the end of the course, an 89.
+graded project csce 431 – software engineering course syllabus page 6 of 15 group project grade you will work in a project group to develop an application for a real customer , through an application of an engineering approach to application design , development, validation, documentation , and end-of-semester class demonstration of the solution
+the focus is not only on the fina l product but also on the process, project management, and teamwork
+to allow you to experience a real- world scenario, the class will mimic a software development company, with you playing the role of an employee assigned to a project team
+you will fin d a real- world customer who has a non-technical problem and build an application to solve their needs
+each project group is required to use the ruby on rails framework, but can determine the technology used for the front -end (e.g.
+html, css, ajax, javascript), and the data repository (e.g.
+the class will be divided into project groups of ~4 -5 students
+project rubrics will be distributed to class once the project groups are formed
+because your teammates' grades are so tightly c oupled with your own commitment to the class, many of the rules are put in place to protect you and your teammates
+● project deliverables – more detail on the expectations of each one is described in the project rubric
+readme, code comments)
+documentation will be evaluated on its completeness to understand the details of and to properly execute your system
+o assigned documents (e.g.
+designs), submitted to canvas and ms teams , which are evaluated on its completeness (using given template s), and effectiveness in communicating key aspects of csce 431 – software engineering course syllabus page 7 of 15 your system o high- quality recording of the final presentation submitted to canvas and ms teams , evaluated on the clarity of communication and demonstration of your system 
+these will be viewed by other students in the class, and will be used as the basis for their end -of-semester reflection
+o final updated powerpoint slide deck, used in the final presentation, submitted to canvas & ms teams o final report - your final report will be critiqued on its th oroughness , completeness (using given template), and effectiveness in communicating key aspects of your system and specificity of your reflection
+these audits are mandatory and will be recorded in ms teams
+these deadlines are intentional to make sure we have enough time to complete our assessment
+● final course grades will not be released until all the project deliverables are verified by the instructor
+o excellent peer feedback o effective (polite and collaborative) communic ation with the instructor/teaching team 
+• each team member is expected to commit to the github repository several times a week, if not daily
+• you are expected to develop an automatic test bed for your project
+• each member of your project team will score and give feedback on the performance of the o ther team members through periodic peer feedback forms throughout the semester
+your peer feedback responses will be calculated along with the instructors’ peer feedback view scores and will be part of your individual project grade 
+depending on your circumstance, you will forfeit this grade after 3 days
+quizzes frequent quizzes will be given and will cover material from the homework, lectures, and any pre & post lecture work 
+once you’ve taken the exam / quiz, you are not allowed to talk about its composition with anyone
+assignments • these are expected to be completed individually
+we will use a software plagiarism detector to ensure academic integrity
+email submissions will not be accepted
+• it is your respons ibility to make sure that the submission process is completed and that the correct assignment is submitted to the correct place
+emergencies, however, do happen
+lateness or absence can be excused if there is a valid reason (e.g.
+please inform the instructor at your earliest opportunity in the event communication channels are down or you are not able to
+details on extra credit opportunities will be announced
+this will csce 431 – software engineering course syllabus page 10 of 15 allow us time to review your requ est and ask for additional information when needed
+*the only exception is in the case of an emergency, where you are not able to request in advance
+in this case, you can submit details of your absence when you are able to
+course schedule **schedule subject to change
+check canvas for the most up to date schedule and additional details
+quizzes will be given during most of the lectures
+• individual audits continue • sprint 3 deliverables • sprint 3 review • sprint 3 retrospective • customer user acceptance test results • customer turnover • peer feedback 14 • future of software engineering 
+• customer user acceptance test ends • project presentations and individual audits continue
+• maintenance phase begins & ends for those applications with no quality issues
+• projects officially close for some projects
+• user acceptance test results collected from the customer
+• projects officially close for remaining projects
+• individual audits continue • final presentation slides & recording • reflections on project presentations • customer feedback form and/or user acceptance test results (if any) • instructor turnover • final peer feedback • extra credit due csce 431 – software engineering course syllabus page 13 of 15 other course information items course expectations course expectations , in the form of a c ourse appreciat ive agreement, will be reviewed and agreed to in the first 2 weeks of class 
+because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted
+or contact help desk central at: email: helpdesk@tamu.ed
+learning resources linkedin learning modules and other supplementary materials to be assigned the study hub website lists many on -campus learning resources to support students in achieving academic excellence

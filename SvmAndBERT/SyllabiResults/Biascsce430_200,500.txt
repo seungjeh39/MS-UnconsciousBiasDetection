@@ -1,0 +1,27 @@
+ page 1 of 10 syllabus course information course number: csce 430 course title: problem solving programming strategies section: 500, 200 (see supplement for section 200 additional information) time: lecture: mw 3:00 -3:50 lab: f 3:00 -5:30 location: lecture: hrbb 113 lab: eaba 118 see canvas for links for online access credit hours: 3 instructor details instructor: john keyser office: pete 408 phone: (979)458 -0167 e-mail: keyser@cse.tamu.ed
+office hours: mw 4:00 -5:00 other times or by zoom available by appointmen t teaching assistant: adil rasiyani e-mail: adil.rasiyan
+@tamu.ed
+course prerequisites csce 411 or permission of instructor course learning outcomes at the conclusion of this course, students should be able to: page 2 of 10 • analyze a given programming problem to identify the algorithms needed to solve th e problem • implement a program, including implementing the basic algorithms needed, to solve specified problems • develop test cases that will ensure that implemented programs are robust to a full range of valid inputs
+the textbook is considered required, in the sense that we will refer to it and you will be able to make use of it thr ough the course
+however, students in the past have been able to go through the course without buying it
+y ou should expect to spend several hours every week on your own, working on these problems
+in this case, all students on the team will receive credit for problems completed
+for each set of problems, students will be given a “base” number of problems they are expected to solve; there may be more problems given than that number, and students may solve more than the base number, if they are able to do so
+in all cases, completing a problem will mean that the code passes a series of validated test data that the students will not be shown
+problems completed after the deadline (i.e
+after the submission time for weekly individual problems, or outside of lab time during the t imed period) can receive half credit
+the final grade in the course will be based on the percentage of problems solved by each student (i.e
+the number completed divided by the base number)
+that is, the number completed will be the number of problems completed individually on their own time, plus the number completed ind ividually within a timed period, plus the number completed on a team within a timed period
+the number possible will be the number of problems assigned as a base for students’ own time, plus the number assigned as a base during the individual timed period s, plus the number assigned as a base during team timed periods
+to earn an a grade, a student must also get at least 50% of the base points for the problems to be completed individually on their own time, in ever y week of the class
+this can include points for solving during the week, or later upsolving of the problems
+the grading scale will be: a = 90 % or greater, and at least 50% of available problems in individual weeks b = 80 -89 % c = 70 -79 % d = 60 -69 % f = <60 % late work policy late work is not accepted (see excused absence information below)
+note, however, that the upsolve period allows for solving problems following the due da te
+if this fee becomes required, students must agree to pay the fee individually (likely requiring a credit/debit card payment) promptly
+students are expected to keep their login information private, as they would for a department computer system
+the online system’s judgment will be the sole factor determining whether problems are accepted or not, and this wi ll generally mean passing all test cases (not just some) for the problem
+this means that students will be able to see an indication of which problems other students have attempted, and th eir success or lack of success in having these accepted
+while there can be the option of hiding the specific user name, students cannot expect their performance to be kept completely anonymous from others, and it may be that other individuals can determi ne their performance on problem sets either by process of elimination, or from other information they determine from the competitive system
+students may be called on to describe their own solution to a problem or the approach they tried; advance warning will be given in such cases with stu dents given the opportunity to opt -out of presenting
+the laptop should be set up with necessary compi lers/software, or access to shared/o nline sources, sufficient to enable to students to write and test their own computer programs

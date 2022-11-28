@@ -1,0 +1,37 @@
+id,keyword,location,text
+1,,,"page 1 of 6 csce 221:200 spring 2022 syllabus course information course information course number: csce 221h course title: honors data structures and algorithms section: 200 time: monday, wednesday, friday 9:10 am – 10:00 am (lecture); friday 12:40 – 2:20 pm (lab) location: hrbb 126 (lecture); eaba 118(lab) credit hours: 4 (3 lecture hours and 2 lab hours per week) instructor details instructor: dr"
+2,,,roger pearce office: petr 110 e-mail: rpearce@cse.tamu.ed
+3,,,"office hours: monday, wednesday, friday 10:00 am – 11:00 am; other times by appointment"
+4,,,teaching assistant: trevor bolton e-mail: tbolton2000@tamu.ed
+5,,,"office hours: tbd course description specification and implementation of basic abstract data types and their associated algorithms including stacks, queues, lists, sorting and selection, searching, graphs, and hashing; performance tradeoffs of different implementations and asymptotic analysis of running time and memory usage; includes the execution of student programs written in c++"
+6,,,course prerequisites prerequisite is csce 113 or csce 121 as well as honors eligibility
+7,,,"corequisite is csce 222 / ecen 222 (that is, you must have already taken this course or be taking it this semester)"
+8,,,"course learning outcomes at the end of the semester, the student should be fluent in the use of the basic data structures and their associated algorithms; be familiar with the performance tradeoffs of different implementations of the data structures; understand and apply the principles of abstraction, modularity, and information hiding; appreciate and adhere to good software development practices; and be able to program competently in the subset of c++ covered in the course"
+9,,,"textbook and/or resource materials recommended textbook: data structures and algorithm analysis in c++ (fourth edition), mark allen weiss, addison-wesley, 2013"
+10,,,isbn: 978-0132847377
+11,,,"webpage for the book, including errata (list of errors) is https://users.cs.fiu.edu/~weiss/#dsaac++"
+12,,,(links to an external site.)
+13,,,"page 2 of 6 grading policy your grade will be based on these components: • 30% exams (15% for midterm, 15% for final) • 25% weekly quizzes (12 approx."
+14,,,two lowest grades will be dropped) • 30% lab programming assignments (5 approx.
+15,,,"• 10% culture report (written report and oral presentation) • 5% participation (class discussion, etc."
+16,,,course grades will be assigned according to this scale: % total points 90–100 80–89 70–79 60–69 < 60 letter grade a b c d f late work policy 10% of the maximum possible points will be deducted for each 24 hours that an assignment is late
+17,,,"for example, if the assignment is due at midnight on sep 1, and you turn it in any time on sep 2, 10% of the maximum points will be deducted; if you turn it in any time on sep 3, 20% of the maximum points will be deducted; etc"
+18,,,"once solutions have been discussed or handed out, the assignment will not be accepted (grade of 0)"
+19,,,"make-up assignments will only be available for university-excused absences; see student rule 7, attendance ( http://student-rules.tamu.edu/rule07link"
+20,,,to an external site.)
+21,,,"since your lowest two quiz grades will be dropped, a make-up quiz will only be available if you have three or more excused absences on quiz days"
+22,,,course schedule approximate course schedule approx
+23,,,week of lecture topic lab topic textbook 1: jan 18 introduction c++ review chap
+24,,,1 2: jan 24 algorithm analysis code asymptotic analysis chap
+25,,,2 3: jan 31 lists pointers chap
+26,,,3 4: feb 7 stacks and queues recursion chap
+27,,,3 5: feb 14 trees measuring code running time chap
+28,,,4 6: feb 21 binary search trees c++ stl maps and sets chap
+29,,,4 7: feb 28 hashing – chaining debugging tools chap
+30,,,5 8: mar 7 hashing – probing debugging exercises chap
+31,,,5 9: mar 21 priority queues – heaps make files chap
+32,,,6 10: mar 28 priority queues – applications exceptions chap
+33,,,6 11: apr 4 sorting – algorithms c++ templates chap
+34,,,7 12: apr 11 sorting – lower bounds c++ templates chap
+35,,,7 13: apr 18 graph algorithms graph data structures practice chap
+36,,,9 page 3 of 6 14: apr 25 graph algorithms – applications graph data structures practice chap

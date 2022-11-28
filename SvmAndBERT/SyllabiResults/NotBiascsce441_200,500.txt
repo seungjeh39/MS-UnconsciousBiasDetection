@@ -1,0 +1,9 @@
+ zoom: link office hours (tentative) : • m 2p -3p, w 1p -2p ta: libing zeng e-mail: libingzeng@tamu.ed
+the following optional text may be useful: • [optional] fundamentals of computer g raphics 4th ed.
+crc press • [optional] opengl programming guide 9th ed.
+however, you get 6 free days for the entire semester which can be applied to any of the programming assignments
+you do not need to explain why you are using the days — these late days will be automatically applied to any late assignments
+all assignments are due at 23:59
+the free days will be given out in increments of full days
+course schedule the following schedule for the lectures and assignments may (and will) change —it is meant to serve as a basic outline of topics and schedule
+week 1 1/18 introduction; meshes 1/20 week 2 1/25 graphics pipeline; rasterization ; z-buffering 1/27 week 3 2/1 linear algebra review; transformation matrices 2/2 assignment 1 due week 4 2/8 matrix stacks ; hierarchical transforms 2/10 week 5 2/15 glsl; colors 2/17 assignment 2 due week 6 2/22 transforming normals; lighting and materials 2/24 week 7 3/1 camera; projection ; clipping; culling; viewport 3/3 assignment 3 due course syllabus page 3 of 5 january 28, 2022 week 8 3/8 review 3/10 midterm 3/15 spring break 3/17 week 9 3/22 free-look camera 3/24 week 10 3/29 texture mapping 3/31 assignment 4 due week 11 4/5 ray tracing 4/7 week 12 4/12 reflection/refraction ; spatial data structures 4/14 assignment 5 due week 13 4/19 heightfields ; render -to-texture 4/21 week 14 4/26 deferred rendering ; cubemaps; shadows 4/28 assignment 6 due exam week 5/10 (tuesday ) 8:00 a.m

@@ -1,0 +1,34 @@
+ course description this course gives an overview of the general architecture and the most important components of modern operating systems
+the student will leverage knowledge acquired in previous courses on computer architecture and computer systems to understand (and to some level implement) aspects of operating systems, such as memory management, persistent storage and file systems, threading, scheduling, and resource management in general
+the student will understand fundamental approaches to virtualization and what it takes to build a distributed system
+the course will cover general aspects, realization approaches, and case studies
+in addition, the student will implement a simple operating system that will be able to boot and run on a bare pc
+special course designation this is a stacked course
+course learning outcomes • describe the role, the architecture, and the major components of an operating system
+• implement a virtual memory manager for a paged system
+• describe and compare various forms of concurrency mechanisms
+• describe and compare various synchronization mechanisms, both for single-processor and multiprocessor systems
+• implement a kernel-level threading system for a single-processor system
+• implement a simple device driver
+• implement a simple file system
+• describe the motivation for virtualization
+course syllabus page 2 of 7 • describe and compare the various virtualization approaches and their effect on system performance
+new york, 2012, isbn-13: 978-1118063330
+(any recent edition will be fine
+reading assignments in the course will use the chapter numberings from the 9th and 10th edition
+if you use an earlier textbook, you will have to map the chapters to your edition.
+this book is available for free in pdf form
+it can also be purchased as hardcopy
+grading policy event undergraduate points graduate points examination 1 150 150 examination 2 200 200 examination 3 250 250 homework (5) 150 100 project 1 125 100 project 2 125 100 project 3 not required 100 total 1000 1000 a = 900 points or more b = 800 – 899 points c = 700 – 799 points d = 600 – 699 points f = 599 points or less assignment submissions homework assignments, projects and take-home exams will be posted and submitted on canvas
+it is the student's responsibility to make sure that the correct assignment is submitted to the correct place
+it is the student's responsibility to make sure that the submission process is completed
+(time stamps of files can be easily tampered with and will therefore not be considered.
+after 96 hours, the assignment will receive no credit
+if you need further clarification, ask your instructor before submitting the project
+examination resources: all examinations in this course will be open book and open note
+you may bring and use any written references to the exams
+the use of any electronic devices such as laptops, pdas, calculators, etc
+submission of individual work that was created by another student and subsequently transferred (using any automated transfer facilities) to the submitting student's account is prohibited
+electronic transfer of portions of formal (i.e.
+instructor-designated) group projects among members of that group is also permitted
+course syllabus page 4 of 7 software reuse: accordingly, unless otherwise instructed, reusable software components may be acquired from a variety of free software repositories available on the internet

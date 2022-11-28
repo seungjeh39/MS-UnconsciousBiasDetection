@@ -1,0 +1,35 @@
+ course syllabus! editcourse syllabuscourse informationcourse number: csce 221course title: data structures and algorithmssection: 500-509lecture time:sections 500–502: mwf 8:00-8:50am, zach 244sections 503–505: tr 8:00-9:15am, zach 244sections 506–509: tr 9:35-10:50am, zach 244 lab time: see canvas for detailslocation: lectures and labs are scheduled f2fcredit hours: 4instructor detailsinstructor: dr
+performance trade-offs of different implementations; asymptotic analysis ofrunning time and memory usage
+prerequisites• csce 121 or csce 120 "introduction to program design and concepts"• csce 222 "discrete structures" or math 302 "discrete mathematics"course learning outcomesat the end of this course students should be able to:1
+identify the latest developments in the computer science area or be familiar with turing award winners.textboo
+and/or resource materials• required textbook: “data structures and algorithm analysis in c++,” 4th edition, mark a
+also, you may need a textbook on c++language from the previous semester, or any good c++ reference book(s).
+the recommended browsers to access canvas are mozilla firefox and googlechrome.gradin
+policygrading scale90–100a80–89.9b70–79.9c60–69.9d0–59.9f
+all grade appeals must be made no later than one week after the grade is posted.grade
+make-up exams and quizzes will only be given with documented university-approved excuses, see universityregulations (http://student-rules.tamu.edu/
+
+the student rule 7 (http://student-rules.tamu.edu/rule07
+about graded materialssyllabus for 22 spring csce 221 leyk: data struc & algor...https://canvas.tamu.edu/courses/136654/assignments/syllabu
+the written part of homework assignments or programming reports, and the cover page should be typedpreferably using latex, overleaf.co
+(an online latex text editor), or lyx (document processor based onlatex), see the class webpage for a tutorial
+the homework (in pdf format) should be submitted to canvas orgradescope.
+all programming assignments should be implemented in c++ and transferred to canvas or/and gradeskope forgrading.
+the homework should be submitted tocanvas or/and gradescope.
+the instructor and tas can request oral exam to check student’s knowledge over material covered by test orassignment.lat
+work submitted by a student as makeup work for an excused absence is not considered late work and isexempted from the late work policy
+(see rule 7 (http://student-rules.tamu.edu/rule07
+parsersyllabus for 22 spring csce 221 leyk: data struc & algor...https://canvas.tamu.edu/courses/136654/assignments/syllabu
+3 of 812/29/21, 6:37 pm module 5feb
+28mskip lists | hashingexam 2module 10apr
+04mheap | huffman treespriority queuesmodule 11apr
+11mgraphs | bfs | dfsdigraph algorithmsmodule 12apr
+18mshortest path algorithmsdijkstra's algorithmmodule 13apr
+4 of 812/29/21, 6:37 pm module 13may 02mkruskal's algorithm implementationusing disjoint sets adtmay 05 &06final exams:500-502, 05/05/22 10:00 am-12:00 pm506-509, 05/05/22 12:30-2:30 pm503-505, 05/06/22 1:00-3:00 pmthe topics and related chapters from the textbook:introductionc++ overview: arrays, vectors, strings, matriceschap
+5priority queues
+6sortingchap
+7disjoint setschap
+8graphschap
+9algorithms designchap
+please see also universityacademic calendar (http://registrar.tamu.edu/catalogs,-policies-procedures/academic-calendar
+the tas assigned and i are willing to help you to learn andsyllabus for 22 spring csce 221 leyk: data struc & algor...https://canvas.tamu.edu/courses/136654/assignments/syllabu

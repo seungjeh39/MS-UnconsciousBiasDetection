@@ -1,0 +1,11 @@
+ course syllabus page 1 of 7 course information course number: csce 411 course title: design and analysis of algorithms section: 501 time: mwf 1:50-2:40pm location: zach 310 credit hours: 3 instructor details instructor: nate veldt e-mail: nveldt@tamu.ed
+ students will be able to prove correctness and analyze the space and runtime requirements of an algorithm  students will be able to prove a problem is np-complete using appropriate reductions textbook and/or resource materials required textbook: cormen, leiserson, rivest, stein: introduction to algorithms, 3rd edition, the mit press, 2009
+course syllabus page 2 of 7 grading policy • participation 2% • homework assignments 25% • algorithm history/application essay 3% • midterm 1 23% • midterm 2 23% • final exam 24% the grading scale will be: a ≥ 91% > b ≥ 81% > c ≥ 71% > d ≥ 61% > f
+if the course average is slow, a slight upward curve may be applied
+participation grade can be met by in-class participation (e.g.
+answering questions, presenting answers to in-class activities, answering polling questions), and out-of-class engagement (e.g.
+if it is submitted within 5 hours of the deadline, it will be graded with a smaller penalty of 5% x (number of hours since deadline)
+work submitted more than 24 hours after the deadline will not be accepted
+if a student needs to be absent from class on a test day due to an unavoidable and acceptable excused absence, that student needs to get approval from the instructor in advance
+if any tests are missed, the final grade will be computed using the weighted average of remaining assignments in the course (which includes other tests, homework assignments, and quizzes)
+homework policy although it is not required, you are encouraged to work on and complete all homework assignments on your own without consulting peers or outside sources

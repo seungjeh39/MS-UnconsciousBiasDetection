@@ -1,0 +1,14 @@
+ course syllabus page 1 of 5 course information course number: csce 222 course title: discrete structures for computing section: 599 time: mwf 01:50 pm – 02:40 pm location: online credit hours: 3 instructor details instructor: qin huang office: petr 4 45 phone: 979-402-6216 e-mail: huangqin@tamu.ed
+students will be able to produce proofs and apply counting techniques
+textbook and/or resource materials discrete mathematics and its applications, 8 edition, kenneth h
+rosen, mcgraw hill education
+• you may post to the entire class, or to instructors and tas only o email messages are more likely to be overlooked and should be used only in rare circumstances
+course syllabus page 2 of 5 grading poli cy if you want to challenge any grading, you must do so within one week of when the grade is published
+this could result in lowering the score of already released grades
+letter grades will be assigned as follows: 90-100 a 80-89 b or better 70-79 c or better 60-69 d or better <60 f or better exams (50%) • one midterm (20%)
+• final exam (30%)
+o any instructor’s slides and examples
+the other problems will be graded for completeness only
+the number of homework assignments is indeterminate (you cannot as sume there will be a certain number)
+• you are not allowed to interact with other students currently taking the course or those who have taken the course before
+course syllabus page 3 of 5 late work policy submission of late assignments and scheduling of make -up exams should be arranged before the due date

@@ -1,0 +1,194 @@
+id,keyword,location,text
+1,,,"1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+2,,,"1/15s y l l ab u s senior capstone design effective design requires identifying the “right” problem to solve, building components that meet that problem’ s needs, and integrating components into a single solution system"
+3,,,"as problems become more challenging, solid design, follow through, and teamwork skills become necessary to developing a solution"
+4,,,every computer scientist and computer engineer who wants to work on big problems must have these skills
+5,,,"after this course, you will be able to: analyze a complex computing problem and identify solutions using computing principles, design, implement, and evaluate a computing-based solution to meet a given set of requirements, apply computer science theory and software development fundamentals to produce computing- based solutions, collaborate effectively as a member of a team, recognize professional responsibilities, both legal and ethical, and make informed judgements in computing practice, and communicate you will work in groups of 4-5 people to complete a significant engineering design project"
+6,,,"every project requires complete implementation, documentation, evaluation, and demonstration of a computing system design"
+7,,,"the focus is not only on the final product but also on design methodology , management process, and teamwork"
+8,,,"at the end of the semester , each group will make a public presentation describing and demonstrating their work"
+9,,,why i teach this course this course of fers you a unique learning experience
+10,,,"the t a and i are always especially excited to teach this course, and here is why: you finally get to combine everything that you have learned throughout your entire undergraduate curriculum"
+11,,,"this not only includes the computer science skills you have gained, but also the professional, cultural, and communication skills that you have developed"
+12,,,this is an opportunity for you to try to solve a problem that matters to you
+13,,,this course gives you a lot of freedom and choice in your semester-long project
+14,,,this course can be the first step towards moving to the career of your choice
+15,,,"1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+16,,,2/15building a system from start to finish is fun and rewarding
+17,,,students often tell me that this was the greatest experience of their entire college career 
+18,,,"working on teams can be messy , but it’ s worth it"
+19,,,"it is amazing what you can accomplish together , so much more than on your own"
+20,,,"w orking on real problems with real people has its challenges, but it is also very rewarding when you successfully complete your goals"
+21,,,"every semester is different, every team is different, every solution is different"
+22,,,there is always something new to learn and innovate
+23,,,smaller class sizes and weekly meetings allow you to connect with your classmates and your instructor 
+24,,,"about working in teams because your teammates' grades are so tightly coupled with your own dedication to the class, many of the assignments and rules are put in place to protect you and your teammates"
+25,,,"these include requirements to participate actively in class, complete assignments in a timely manner , and treat your classmates with respect"
+26,,,each team is required to: time management: manage its own ef forts to complete its project in a timely manner 
+27,,,you are graded based on both the quality of the group product and their individual contributions
+28,,,weekly status update meetings: hold a weekly meeting with the course instructor and the t as during the of ficial class hours
+29,,,these meetings must be attended by every group member 
+30,,,"since the projects will be student managed, the exact nature and style of these meetings is at the group’ s discretion, e.g."
+31,,,division of tasks among group members
+32,,,"however , every member of the group is expected to participate in these meetings "
+33,,,course information course number: 482 course t itle: senior capstone design section: 934 time: mondays and w ednesdays 8:00am-1 1:00pm (lecture and lab) location: engineering activities building a (https://aggiemap.tamu.edu/?bldg=0460
+34,,,"118 credit hours: 3 instructor and ta details instructor: shawna thomas office: 319 peterson 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+35,,,3/15phone: 979-862-8877 e-mail: sthomas@tamu.ed
+36,,,(mailto:sthomas@tamu.edu
+37,,,help/of fice hours: email for appointment ta: yuno min e-mail: minsibo0420@tamu.ed
+38,,,(mailto:minsibo0420@tamu.edu
+39,,,"help/of fice hours: directly after class or email for appointment course description project-based course to develop system integration skills for solving real-world problems in computer science; significant team software project that integrates advanced concepts across computer science specializations; projects require design, implementation, documentation and demonstration, as well as design methodology , management process and teamwork"
+40,,,"course prerequisites senior classification; csce 315 , csce 41 1, and two additional csce tracked courses special course designation c (communication intensive course) as a communication intensive course, you will receive instruction on writing and public speaking and complete assignments so you can master communication related to the major "
+41,,,you must pass the written and oral components with a c or better to earn a grade in the course
+42,,,course learning outcomes this course will prepare you for engineering practice with a major design experience based on the knowledge and skills you acquired in earlier course work
+43,,,"y our design will incorporate engineering standards and realistic constraints that include most of the following considerations: economic, environmental, sustainability manufacturability ethical health and safety , social, and political"
+44,,,after this course you will be able to: analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions
+45,,,"design, implement and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline"
+46,,,"1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+47,,,4/15communicate effectively in a variety of professional contexts
+48,,,recognize professional responsibilities and make informed judgements in computing practice based on legal and ethical principles
+49,,,collaborate effectively as a member or leader of a team engaged in activities appropriate to the program's discipline
+50,,,apply computer science theory and software development fundamentals to produce computing- based solutions
+51,,,"we will cover man topics including: identifying engineering problems project management tools ethics in the discipline communicating problem motivation and needs exploring existing solutions designing a computing system and user interface evaluating a computing system through user studies and benchmark testing analyzing and interpreting data communicating and summarizing results, both written and orally textbook and/or resource materials required: design of everyday things"
+52,,,(https://ebookcentral.proquest.com/lib/tamucs/detail.action
+53,,,docid=1167019) (basic books 2013)
+54,,,a vailable free online at t amu libraries
+55,,,recommended: the five dysfunctions of a t eam: a leadership fable
+56,,,patrick m
+57,,,lencioni
+58,,,"(jossey-bass, 2002)"
+59,,,available free online at t amu libraries
+60,,,"technical material from the literature, manufacturers’ data sheets and user manuals"
+61,,,abet accreditation information this course is evaluated every year through the abet (accreditation board for engineering and technology) accreditation process
+62,,,abet accreditation provides assurance that a college or university program meets the quality standards of the profession for which that program prepares graduates
+63,,,y our degree is a significant achievement and perhaps the largest investment you will make toward your future
+64,,,the quality of education you receive makes a big dif ference in your career success
+65,,,"1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+66,,,5/15abet accreditation: verifies that your educational experience meets the global standard for technical education in your profession
+67,,,enhances your employment opportunities —multinational corporations require graduation from an accredited program
+68,,,"supports your entry to a technical profession through licensure, registration and certification —all of which often require graduation from an abet -accredited program as a minimum qualification"
+69,,,"establishes your eligibility for many federal student loans, grants, and/or scholarships"
+70,,,"paves the way for you to work globally , because abet accreditation is recognized worldwide through international agreements, and many other countries’ national accrediting systems are based on the abet model"
+71,,,"in order for the department of computer science & engineering to keep their accreditation, the students must demonstrate their abilities in each of the above expected outcomes of this class"
+72,,,each of those skills will be evaluated by external industrial af filiate members during your final presentation
+73,,,grading policy the final grade you will receive in the class will be based on points accumulated during the semester 
+74,,,"thus, both continued progress (the process) and the quality of your product (and other deliverables) will determine your grade"
+75,,,"although the bulk of your grade is based on the performance of your team, individual performance will also be gauged"
+76,,,"unless otherwise noted on the syllabus or class calendar , all assignments will be due before class on the due date"
+77,,,"as a communication course, you must pass the communication components (both written and oral) with a c or better to earn a grade in the course"
+78,,,failure to pass the communication components with a c or better results in an f for the course
+79,,,grading scale: grades will be assigned according to the following scale: a >= 90 > b >= 80 > c >= 70 > d >= 60 > f these grades represent varying degrees of achievement (see the university's grading system (https://registrar.tamu.edu/transcripts-grades/grades#0-gradingsystem
+80,,,"): a = excellent, b = good, c = satisfactory , d = passing, f = failing"
+81,,,we make every ef fort to provide you with the opportunity to earn an a
+82,,,w e do not curve in this class
+83,,,"rather , we teach to mastery which means that we have clear expectations in terms of what you should complete and what knowledge you should have obtained by the end of the course to succeed and to earn an a"
+84,,,"if you are taking this class, participate appropriately , resubmit and fix your work 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+85,,,"6/15based on our feedback, and work equitably with your team, you should get an a"
+86,,,"y ou will have every opportunity to earn an a, so at the end of the course an 89."
+87,,,is a b
+88,,,grading components: your grade for this course reflects your mastery of course material and is determined by multiple components
+89,,,note that you will not receive a passing grade in the class if you do not have a tested and working system by the end of the semester 
+90,,,the lower weighted items will significantly help you succeed in your higher-weighted items
+91,,,"even if a component has a very low point value, it is crucial to your later success in the higher point components"
+92,,,"component percentage written communication elements 20% oral communication elements 15% final deliverables and individual contribution30% project management 5% testing 15% status updates 5% daily quizzes 2% peer feedback and peer evaluation3% ethics 5% total 100% written communication elements - 20%: you will have several technical writing assignments including (but not limited to) problem formation, related literature review , project proposals, documentation, and your final report"
+93,,,"y our writing will be critiqued on its thoroughness and effectiveness in communicating key aspects of your system such as its motivation, approach, evaluation, and engineering standard"
+94,,,y our d ocumentation will be critiqued on its completeness to properly execute and understand the details of your system
+95,,,some assignments will require you to incorporate peer feedback to refine your work
+96,,,"oral communication elements - 15%: you will have several presentation assignments including (but not limited to) a critical design review , a final presentation, and demonstrations"
+97,,,y ou will have opportunity to practice presenting both posters and more formal slide presentations
+98,,,some assignments will require you to incorporate peer feedback to refine your communication
+99,,,"additionally , at least one member of your team will present your project at student research w eek (sr w), the engineering project showcase (eps), and the t amu csce iap spring meeting (if held) to provide 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+100,,,7/15you with extra practice in communicating your work and responding to external feedback
+101,,,y our final presentation will be to the instructors and industry panelists on the reading day before finals 
+102,,,you will also give live system demonstrations to the instructors in class at multiple points in the course
+103,,,"final deliverables and individual contribution - 30%: you will complete several deliverables including fully documented code, evaluation materials, final report with user manual, final updated oral presentation slides, final updated poster , and video advertisement"
+104,,,y ou will also conduct a live demonstration of your project
+105,,,"y our individual grade for this section may be adjusted based on your level of contribution determined from logged code commits, peer evaluation, and instructor/t a observations"
+106,,,all final deliverables must be submitted in order to receive a grade for this section
+107,,,final deliverables 1
+108,,,"team drive files including the following (please organize into folders, e.g."
+109,,,"docs, source, hardware, media, references, freeware, etc."
+110,,,1
+111,,,"designs: code, schematics, data, data sheets, freeware software tools, etc"
+112,,,2
+113,,,"reports: proposal, weekly reports, final report, and all presentations 3"
+114,,,audiovisual media: close-up pictures of your system and a high-quality video presenting your project (including a system demo and a project description) for posterity (see gallery in the course webpage for movie samples)
+115,,,final video must be submitted to the instructor 4
+116,,,presentation posters: in pdf and ppt format 5
+117,,,individual assignments: in pdf format 2
+118,,,"final prototype in the assigned github repository , as well as any spare parts and supplies 3"
+119,,,"software install, to be demonstrated on several machines note : grades will not be assigned until all project deliverables have been turned in (see above), all borrowed items (e.g."
+120,,,"keys, books, equipment) have been returned to their proper location or their owner , and the workstations in the lab have been thoroughly cleaned up"
+121,,,all team members are required to be present at the time of the final delivery 
+122,,,all final deliverables are due on the last day of class at 1 1:59 pm
+123,,,project management - 5% : you will create project management artifacts specific to your chosen software development methodology 
+124,,,"for example, teams using agile development will provide a product backlog, sprint backlogs, and burn-down charts while teams using w aterfall will provide a requirements specification, a software architecture design, and a gantt chart"
+125,,,all teams will specify team member roles and produce user stories
+126,,,"y ou are also expected to use t amu github for version control and commit to your team's repository weekly , if not daily "
+127,,,"testing - 15%: your project must be evaluated in accordance with industry standards, so you need to test the technical performance of your developed materials as your project goes on"
+128,,,y ou are expected to develop an automatic test bed for your project
+129,,,"y ou should also have appropriate unit testing, integration testing, and system testing throughout your code to verify functionality "
+130,,,"you will 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+131,,,8/15also have user acceptance testing through a user study to evaluate your system's ability to solve your problem
+132,,,"y ou will be assessed on how well you have prepared and conducted the evaluation of your system, both internally (through unit/integration/system testing) and externally (through user study)"
+133,,,"note that completing this user study is part of the required final deliverables and it not optional, even if you prefer to abandon the points"
+134,,,"status updates - 5%: you will submit weekly status update reports, both individually and as a team, and hold a weekly status update meeting with your entire team and your instructors"
+135,,,"t eam members should take turns taking meeting minutes, submitting team reports, and leading the weekly meeting discussion"
+136,,,y ou will be also assessed on your team's ability to keep to the project schedule
+137,,,daily quizzes - 2%: every class (including the first class) will start with a 10-minute quiz
+138,,,"the quizzes will include material about your assignments, questions about your design choices, and knowledge that you should have gained from your past computer science courses"
+139,,,research has repeatedly shown that the act of quizzing imparts more knowledge than lecturing or studying
+140,,,"thus, this not only lets us know where your knowledge might be lacking so that we may be able to correct it within this class, but it also serves to teach you the knowledge that you need to have"
+141,,,this course is your final course in your computer science degree and should provide you with the capability to put all of your skills together and communicate those capabilities ef fectively 
+142,,,peer feedback and peer evaluation - 3%: peer feedback of others' work is crucial
+143,,,it is important that your feedback is of high quality 
+144,,,"you will give feedback to your peers regularly throughout the semester on their project ideas, written work, and presentations"
+145,,,"in addition, each member of your project team will score the performance of your other team members at multiple points throughout the semester "
+146,,,you will use these peer evaluations to adjust how you interact and collaborate in your team
+147,,,you must complete all of your peer reviews to get an a in the course
+148,,,ethics - 5%: you will complete various activities and assignments to explore the ethics in the discipline
+149,,,"class participation: the instructors will evaluate your attendance to meetings, participation in the discussions, and contributions to the team"
+150,,,more than five (5) unexcused absences will lead to an automatic failure for the course 
+151,,,note that team days in which teams may need to work in a remote location to accomplish certain assignments (e.g.
+152,,,"presenting your work at a conference or sr w, interviewing experts, meeting with mentors, accessing technologies outside of the classroom, etc."
+153,,,"do not count toward absences provided they are approved by the instructor in advance, abide by the instructor ’s requirements for check-in during course time, abide by any activity reporting requirements by the instructor , and complete all assignments on-time relevant to that class time"
+154,,,submission of assignments: all assignments will be turned in electronically though canvas (https://canvas.tamu.edu/
+155,,,(unless otherwise specified) by the due date and time given on the assignment
+156,,,email submissions will not be accepted
+157,,,"1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+158,,,9/15 late work policy all assignments must be submitted to complete the course
+159,,,assignments will be considered late after their posted deadline but will be accepted
+160,,,late assignments will receive a grade reduction of 10% per day late with a maximum reduction of 30%
+161,,,course schedule below is the planned but tentative schedule of topics and major projects for the course
+162,,,all assignment and project details will be communicated on canvas (https://canvas.tamu.edu/
+163,,,
+164,,,"weeks course phases major deliverables 1-3introduction, t eam formation, and project ideation you will learn how to identify and formulate an engineering problem, how to survey existing related work, how to use design thinking to create innovative solutions to your problem, and how to define project success"
+165,,,y ou will also explore elements of good and bad design
+166,,,"y ou will practice communicating your problem's motivation and user needs, create a project management plan based on software development methodologies, and complete ethics training.finalize"
+167,,,project proposal and plan (due by end of week 3) 4-5project design and skill development you will learn how to create user stories and usage scenarios and how to ef fectively prototype and test dif ferent interface designs
+168,,,"y ou will participate in rapid user studies with peers on initial lo-fi prototypes, identify design moves in response, and create a final system design"
+169,,,y ou will also complete a literature review tailored for your project that places your work in the context of existing work and practice communicating your solution and design
+170,,,y ou will begin participating in peer evaluations within your team.incrementa
+171,,,"submission of final report elements (various, see canvas assignments) 6-11project development you will implement your system design following standard software development methodologies and using t amu github for version control"
+172,,,y ou will submit a new code release and demo your project to the class every 2 weeks.full
+173,,,"working system (due by end of w eek 1 1) 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+174,,,"10/15you will also submit weekly status updates, hold weekly update meetings, and continue to participate in peer evaluations"
+175,,,"at the end of this phase, you will have a full working system implemented and be ready for system evaluation"
+176,,,y ou will also continue to make iterative progress on your final written report
+177,,,12-13project evaluation you will thoroughly test your system's functionality according to your evaluation plan
+178,,,y ou will also conduct a user study and analyze collected data to evaluate the success of your system
+179,,,y ou will communicate results from these two types of evaluations in your final report
+180,,,"y ou will continue to submit weekly status updates, hold weekly update meetings, demo your project to the class, and participate in peer evaluations.full"
+181,,,evaluated system (due by end of w eek 13) 14project finalization you will complete your final report and finish preparing all final deliverables (see grading components above)
+182,,,"y ou will practice communicating your problem, solution, and results to the class"
+183,,,y ou will submit your last weekly status update and participate in your last peer review .complet
+184,,,draft of final deliverables (due by end of week 14) 15project presentations senior projects will be presented to industry panelists.al
+185,,,final deliverables (due on last day of class by 11:59pm ) final presentations to iap members ( on final reading day) university and course policies inclusion statement in this class we are committed to a culture of inclusivity 
+186,,,we reject and condemn all forms of injustice and actively promote diversity and inclusion within our field
+187,,,as martin luther king jr 
+188,,,"said, “injustice anywhere is a threat to justice everywhere."
+189,,,"if any student wishes to discuss anything regarding 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu"
+190,,,"11/15inclusivity within the classroom, especially anything contrary to this statement that you have experienced, you are encouraged to contact the instructor or t a"
+191,,,course copyright the materials used within this course are copyrighted
+192,,,"these materials include, but are not limited to, the syllabus, quizzes, assignments, activity descriptions, online content, course videos, audio and visual recordings of classes, etc"
+193,,,"because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted"

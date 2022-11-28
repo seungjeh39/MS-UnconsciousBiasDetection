@@ -1,0 +1,104 @@
+id,keyword,location,text
+1,,,"syllabus csce 206 structured programming in c sections 500 - 503 spring 2022 instructor ki hwan yum office: 216 peterson phone: email: yum at cse dot tamu dot edu office hours: m 11:00 am – 12:00 pm, r 1:00 pm – 2:00 pm, or by appointment zoom link: https://tamu.zoom.us/j/49210279"
+2,,,lectures: mwf 12:40 pm – 1:30 pm zach 350 zoom link: https://tamu.zoom.us/j/81900424
+3,,,"labs: section 500 mw 8:00 am – 8:50 am zach 598 section 501 mw 9:10 am – 10:00 am zach 598 section 502 mw 10:20 am – 11:10 am zach 598 section 503 mw 11:30 am – 12:20 pm zach 598 teaching assistants trevor bolton office hours: tr 11:00 am – 12:30 pm eabc (enter through lobby, find the whiteboard with ta names to find which cubicle he is in) email: tbolton2000 at tamu dot edu peer teachers section 500 sofia ortega (s dot ortega at tamu dot edu) section 501 sofia ortega section 502 noel john section 503 hunter baker visit https://engineering.tamu.edu/cse/academics/peer-teachers/current-peer-teachers.htm"
+4,,,"for detailed information course description : this course addresses principles of computer science including algorithm development, programming techniques, language features, and methods of documentation"
+5,,,students will be introduced (in detail) to the “c” programming language
+6,,,required text : a
+7,,,kelly and c
+8,,,"pohl, c by dissection, 4th ed."
+9,,,"pearson, 2001"
+10,,,https://www.facultybookshelf.org/course/2449
+11,,,"attendance policy : attendance at all lectures is required to ensure that each student is abreast of the informational content of the class and becomes aware of any changes to the tentative class exam, quiz, and assignment schedules as noted later in this document"
+12,,,absence from a lecture is not a valid excuse to be misinformed about any class activity and the student maintains the responsibility for all course content
+13,,,attendance at lectures/labs will constitute 5% of your final grade
+14,,,scholastic dishonesty : scholastic dishonesty will not be tolerated in any form
+15,,,"working together on programming assignments can be a meaningful and real-world learning experience, but the final product submitted for a grade must be the work of the individual student submitting the material"
+16,,,"examinations are meant to measure the knowledge of individual students and offering to, or receiving any assistance from, a student that subverts this process will not be tolerated"
+17,,,"any identified incident of scholastic dishonesty will be dealt with severely and consequences may include a zero grade for the activity, course failure or dismissal from the university among others"
+18,,,"grading policy: course grading 1 midterm 15% 5 programming assignments 30% attendance 5% final exam 20% 5 homeworks 20% 5 quizzes 10% exams: midterm: wednesday, march 2, 2022 "
+19,,,final: tba
+20,,,only with an officially approved university authorized absence will any exam makeup be considered
+21,,,prior arrangements with the instructor must be made when feasible and official verification of circumstances necessitating the absence will be required
+22,,,one midterm and one comprehensive final will be given during the semester
+23,,,note that exams are extremely important
+24,,,if you miss an exam (e.g
+25,,,"midterm), your final grade will be an ‘f’"
+26,,,assignments : programming assignment grades will cumulatively represent 30% of your final grade
+27,,,programming assignments should be submitted on or before the due date
+28,,,programming assignment grades will lose 25% for each day after the due date
+29,,,assignments will require use of standard programming style conventions and documentation which will be illustrated in lab and lecture examples
+30,,,final grades: final grades will be assigned as follows: 90-100 a 80-89 b 70-79 c 60-69 d below 60 f this scale may be adjusted by the instructor to reflect score variations
+31,,,lecture topics 1
+32,,,"ansi c programs, lexical elements and operators k&p ch 1, 2 2"
+33,,,"flow of control and functions k&p ch 3, 4 3"
+34,,,"character processing, and fundamental data types k&p ch 5, 6 4"
+35,,,file i/o and review k&p ch 13 5
+36,,,"pointers, arrays, and strings k&p ch 8, 9, 10 6"
+37,,,"structures, and linked lists k&p ch 12 chapter objectives and outcomes after having read and studied the following chapters you should be able to: chap 1: create, edit, compile and execute an introductory c program"
+38,,,"describe the use of c variables, expressions and data assignments"
+39,,,"describe the creation and use of pre-processor commands (#define, #include)"
+40,,,distinguish the use of printf and scanf for program i/o
+41,,,describe the use of the while statement
+42,,,demonstrate appropriate use of chapter topics via student written code
+43,,,chap 2: describe the characters and lexical elements of the c language
+44,,,describe the need and the syntax necessary for program comments
+45,,,"identify c language tokens including; reserved words, identifiers, constants, operators and punctuators"
+46,,,describe operator precedence and associativity and their impact
+47,,,"describe the use of increment, decrement, and assignment operators"
+48,,,demonstrate the appropriate use of chapter topics via student written code
+49,,,"chap 3: name and describe the use of relational, equality and logical operators"
+50,,,"name and describe the use of and need for conditional statements including: if, if-else, switch, and nested-if"
+51,,,"name and describe the use of and need for looping statements including: while, for, dowhile"
+52,,,name and describe the use of and need for the break and continue statements
+53,,,demonstrate the appropriate use of chapter topics via student written code
+54,,,chap 4: describe the benefit and need for the structured approach to programming using c functions
+55,,,describe the format of a c function
+56,,,describe the need for and use of the return statement
+57,,,describe the need for and the use of function prototypes
+58,,,describe effective approaches to efficient design of programming projects
+59,,,describe function invocation and data transmission via call-by-value
+60,,,demonstrate the appropriate use of chapter topics via student written code
+61,,,chap 5: describe the need for and the use of the data type char
+62,,,describe the use of char i/o commands getchar() and putchar()
+63,,,name the char header file containing useful char macros
+64,,,demonstrate the appropriate use of chapter topics via student written code
+65,,,chap 6: name the c fundamental data types
+66,,,name the integral data types and data valid for such types
+67,,,name the floating data types and data valid for such types
+68,,,describe the syntax and use of the sizeof operator
+69,,,name the c math functions referenced and how access is achieved
+70,,,describe the syntax and use for c casts and type conversions
+71,,,demonstrate the appropriate use of chapter topics via student written code
+72,,,chap 8: describe the declaration and use of pointer variables
+73,,,describe the syntax and use for the dereference operator
+74,,,describe the need for pointer variables to implement call-by-reference
+75,,,describe the concept of variable scope and its impact on variable accessibility
+76,,,name the storage classes studied and their impact on variable scope and extent
+77,,,demonstrate the appropriate use of chapter topics via student written code
+78,,,chap 9
+79,,,describe the need for and the declaration of single-dimension arrays
+80,,,describe the relationship between arrays and pointers in c
+81,,,describe pointer arithmetic and its use with array element access
+82,,,describe the syntax and need for passing arrays to a function
+83,,,describe the need for and the declaration of multi-dimension arrays
+84,,,describe the needed syntax and the benefit of dynamic memory allocation
+85,,,demonstrate appropriate use of chapter topics via student written code
+86,,,chap
+87,,,10 describe the need for and the declaration of string data
+88,,,describe the process of accessing string data through pointers
+89,,,name and describe the use for string handling functions available in the standard library
+90,,,demonstrate the appropriate use of chapter topics via student written code
+91,,,chap
+92,,,11 describe the concept of recursion and how it is implanted in c
+93,,,demonstrate the appropriate use of recursion with student written code
+94,,,chap
+95,,,12 describe the need for and the declaration of c structures
+96,,,describe the syntax needed to access a structure member
+97,,,describe the declaration of and need for an array of structures
+98,,,describe the characteristic of a self-referential structure
+99,,,describe the need for and the creation of a liner linked-list
+100,,,demonstrate the appropriate use of chapter topics with student written code
+101,,,chap 13 describe the need for and the creation of files for data input and output
+102,,,describe the syntax necessary to gain access to an existing file or create a new one
+103,,,describe the use of and syntax required for the fprintf() and fscanf() functions

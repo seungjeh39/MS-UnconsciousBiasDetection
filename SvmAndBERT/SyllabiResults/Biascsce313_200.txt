@@ -1,0 +1,12 @@
+ page 1 of 5 course syllabus 1 course information course number: csce 313-200 (honors) course title: introductio n to computer systems time: tr 3:55-5:10pm location: 126 hrbb credit hours: 4 lab time: f 8-10am lab location: 590 zach website: http://irl.cse.tamu.edu/courses/313
+piazza: http://piazza.com/tamu/spring2022/csce31320
+course prerequisites csce 312 (computer organization), csce 222 (discrete structures for computing), csce 221 (data structures and algorithms ), csce 113 (intermediate progra mming and design), and knowledge of c/c++, debugging, and pointers
+course learning outcomes at the end of the semester, the s tudents will obtain experience with basic operating-system functionality, multi-threadi ng, synchronization, file i/o, virt ual memory, and c/c++ system apis
+page 2 of 5 course syllabus textbook and/or resource materials w
+grading policy a: 90-100%, b: 80-89%, c: 70- 79%, d: 60-69%, f: 0-59% assignment qty format percent of final grade homework 4 implementation and report 40% (10% each) midterms 3 closed-book 45% (15% each) quizzes 3 closed-book 15% (5% each) late work policy homework submissions are due at 10 am
+late homework is accepta ble with a penalty of 20% of the original grade per day (no poi nts after 5 days)
+write in as much detail as possible, explain the various observations, and comment on the sanity of obtained results
+you may not copy any part of other students’ work, no matter how short , or material found online unle ss explicitly allowed by the ins tructor
+if external sources are used, even with modification or adaptation , they must be clearly acknowledged in the submission
+if unsure, check with t he instructor ahead of time
+any academic dishonesty, including cheating and plagiarism, will re sult in an f* for the course and may lead to expulsion from the university

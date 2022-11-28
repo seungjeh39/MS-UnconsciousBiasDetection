@@ -1,0 +1,15 @@
+ syllabus course title and number information storage and retrieval , csce470 term spring 2022 meeting times and location 8-9:15 am, tu/th, hrbb 124 course description and prerequisites this course will introduce the key concepts , models, algorithms and techniques at the core of modern text-based search systems
+the topics covered in this course includ e efficient text indexing, boolean, vector space and probabilistic retrieval models, retrieval evaluation, relevance feedback, docu ment classification, learning to rank, document clustering and link analysis
+the students will have an opportunity to implement key retrieval models on top of an open -source search engine system
+learning outcomes or course objectives the main objective of this course is to equip students with solid theoretical knowledge and enough practical experience to develop and diagnose their own search systems in the future
+upon successful completion of the course, a student will be able to: • define and explain the key concepts and models relevant to information storage and retrieval
+• implement important algorithms, recognize and fix common problems in practice
+• design and develop his/her own text search systems addressing customized information needs 
+office hours tbd office location online textbook and/or resource material the primary textbook: introduction to information retrieval, christopher d
+manning, prabhakar raghavan, and hinrich schutze, cambridge university press
+2008
+instructor will provide copies of lecture slides and links to resources on the internet
+class participation will be measured through attendance in class, submission of assignments and participation in online piazza discussions
+for the purposes of the class, a late day is an indivisible 24 -hour unit
+once you exhaust your 5 late days, we will not accept any late submissions 
+scores are rounded up

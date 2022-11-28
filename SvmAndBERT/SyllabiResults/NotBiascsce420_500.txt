@@ -1,0 +1,32 @@
+ page 1 of 7 syllabus course information course number: csce 420 course title: artificial intelligence section: 500 time: tr 3:55-5:10 location: 124 hrbb credit hours: 3 cr
+ioerger office: 438 peterson building e-mail: ioerger@cs.tamu.ed
+course description fundamental concepts and techniques of intelligent systems; representation and interpretation of knowledge on a computer; search strategies and control; active research areas and applications such as notational system s, natural language understanding, vision systems, planning algorithms, intelligent agents and expert systems
+design and implement intelligent search methods for building complex problem -solving programs
+page 2 of 7 1
+formulate computational problems as search tasks 2
+design heuristics to improve efficiency of search 2
+use knowledge representation methods for adding knowledge -based reasoning in programs
+1
+implement inferenc e algorithms to extract deductions from a knowledge base 3
+represent and reason about uncertainty using bayesian probability 3
+implement intelligent decision -making methods in a program 1
+generate symbolic plans to achieve goals autonomously using planning algorithms 2
+and norvig, p
+artificial intelligence: a modern approach
+pearson 
+page 3 of 7 programming assignments in addition to 3 written homeworks, t here will be 3 programming assignments throughout the semester
+the programming assignments will be done in c++ (individually)
+the code for course projects will be submitted via github.tamu.edu
+students will have to create a (private) repository for this class, and then share that with the instructor and ta by making them collaborators 
+the date and time studen ts turn in each project will be determined by the timestamp of their commits on their files
+server by each deadline
+course schedule week 1 overview of ai ; core concepts week 2 search algorithms (ch
+3) week 3 heuristic search (ch
+3) week 4 iterative improvement (ch
+4 ) week 5 adversarial (game) search (ch
+5) week 6 constraint satisfaction (ch
+6) week 7 propositional logic (ch
+7) week 8 inference algorithms (ch
+7) week 9 (spring break , mar 14 -18) week 10 first -order logic (ch
+8) week 11 inference in fol (ch
+week 14 planning (ch

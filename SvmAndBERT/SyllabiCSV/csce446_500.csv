@@ -1,0 +1,73 @@
+id,keyword,location,text
+1,,,"course s yllabus course information course number:vist 477, viza 677, csce 446, csce650course title:virtual realitytime:tuesday/thursday 8am to 9:15amlocation:langford c room 207credit hours:3 instructor details professor:jinsil hwaryoung seoe-mail:hwaryoung@tamu.eduoffic"
+2,,,hours:by appointment instructor:brian beamse-mail:brianmbeams@gmail.comoffic
+3,,,hours:by appointment instructor of record:emma mclauchlane-mail:emma.mclauchlan@tamu.eduoffic
+4,,,hours:by appointment teaching assistant:brett dishonghe-mail:brett.michael29@tamu.eduoffic
+5,,,hours:by appointment course description this course covers the theory and practice of virtual reality (vr)
+6,,,virtual reality includes interactive 3dvirtual environments that take advantage of immersive technology to provide enhanced perceptualrealism and an embodied interaction experience
+7,,,"the course aims to provide an overview of vr withtopics including input devices, output devices, 3d interaction techniques, augmented reality, the role ofrealism in vr, navigation techniques, design guidelines, and evaluation methods"
+8,,,"students will gainhands-on experience designing vr experiences emphasizing application, demonstration, or researchpurposes"
+9,,,"for the final project in this course, students will be introduced to concepts in sustainability, and how touse interactive technology to educate and inform people’s idea of sustainable practices in their own lifeand society"
+10,,,"students will work on a series of individual activities as well as work as a team to create alarge-scale group activity, which will focus on the creation and analysis of interactive art projects in theform of a fully realized vr project"
+11,,,page1of9 course s yllabus course prerequisites students are expected to have some experience with computer programming and 3d graphics tools priorto taking this course
+12,,,"while the course has no official prerequisites, recommended experience includestopics covered in courses such as vist 271, csce 221, or csce 441"
+13,,,students who are uncertain of theexpected level of technical proficiency are encouraged to contact the instructor to discuss specifics.experienc
+14,,,"with graphical and visualization tools, frameworks, and libraries (e.g."
+15,,,"unity, unreal,processing, opengl) is recommended"
+16,,,"familiarity with concepts of human-computer interaction,aesthetic design, and mathematical functions is also recommended, but experience with all is notrequired"
+17,,,special course designation this is cross-listed and stacked which means it is both in department of visualization and computerscience and has both undergraduate and graduate students
+18,,,"course learning outcomes •produce interactive 3d virtual environments and 3d interaction techniques•develop immersive virtual reality applications with a team•characterize and describe virtual reality systems in terms of display properties and interactiontechniques•evaluate virtual reality applications in terms of design, purpose, benefits, and limitations•review and organize past and current virtual reality techniques and knowledge•analyze the response users have to your developed project•identify sources of information outside the classroom that can be helpful for the design problems andtechnical problems presented in class.•analyze"
+19,,,"critique, and present work in a productive and effective manner using appropriateterminology"
+20,,,textbook and/or resource materials reading and viewing assignments will be given from articles and research papers that are availablethrough the university
+21,,,"there is no required textbook for the course, but the recommended textbook willcomplement the topics covered in the course"
+22,,,recommended: 3d user interfaces: theory and practice (2nd edition)
+23,,,joseph j
+24,,,laviola jr.
+25,,,"ernst kruijff, ryan p.mcmahan"
+26,,,"doug bowman, ivan p"
+27,,,poupyrev
+28,,,"isbn-10: 0134034325 page2of9 course s yllabus course structure students enrolled in virtual reality (vist 477, viza 677, csce 446, csce 650) will have both individual and group activities"
+29,,,"the individual activities will be in the form of in-class presentations and writing assignments which will inform, and be informed by, the group activities, which will be the backbone of the course"
+30,,,the group activities will account for much of the work in the course
+31,,,individual activities 20% exams 20% team project 45% final paper 10% peer evaluation 5% total: 100 individual activities students will participate in individual activities that contribute to their ﬁnal grades
+32,,,these are graded separately from group activities
+33,,,these will include: ● quizzes and exams ● in-class presentations ● written analysis of readings and other materials all individual activities will be weighted equally with each other
+34,,,quizzes and exams there will be exams and quizzes given via canvas throughout the semester
+35,,,"these will be on topics covered in class during lectures, readings, and other assigned materials"
+36,,,in-class presentations students will have assignments that will require them to present on a topic during class
+37,,,the presenting students will then be asked to help lead discussions on that topic
+38,,,"to prepare for this, students will be assigned a research paper on their assigned topic"
+39,,,written analysis students may be given written assignments to be submitted on canvas
+40,,,"using the discussion sections on canvas, students will have homework assignments where they are asked to reﬂect on and analyze a paper, web article, or video"
+41,,,group activities students will work in teams to create a vr project from start to finish
+42,,,this includes the following: concept/design ●background research and writing assignments ○design document page3of9 course s yllabus ■concept art ■interaction flow charts ■core mechanics ○literature review ■existing projects ■related studies ■subject matter research production ●build out prototype of team’s project ●add art and features ●develop finished “vertical slice” of the project evaluation ●develop user study plan ●create a video presentation and a research paper teams will be responsible for the timely submission of milestones and final deliverables
+43,,,"there will be periods of the class where students are expected to work on their projects, even if nothing is explicitlyassigned for any given class day"
+44,,,students are expected to show up to class with progress reports during thesecourse dates
+45,,,"final deliverables for the group project ●1 design document ●1 vr project, compiled to an executable ●1 final documentation video ●1 research paper vr demo times (outside of lectures) students are encouraged to schedule time outside of class to explore vr projects in the virl lab"
+46,,,"if students have their own vr setup, they are allowed to use that at home"
+47,,,"grading policy to aid in understanding the method by which your project assignments are evaluated, read thefollowing carefully"
+48,,,the actual grading criteria will be related to these categories but will be more specificin nature
+49,,,f: 59 and below:the student work is unresolved; theintentions are unclear and major criteria or goalslack resolution
+50,,,presentation is incomplete and/or of poor quality
+51,,,"there is a complete lack of problemsolving, creative content and/or technical merit"
+52,,,page4of9 course s yllabus d: 60 -69:the solution has problems in two or moremajor areas; skill and design development ismarginal or incomplete
+53,,,the project lacks imagination and/or design potential
+54,,,"c: 70 -79:the student has solved the problem, butthe solution lacks depth of understanding; someprogram goals are not completely satisfied and the solution contains little promise even though mostissues have been addressed"
+55,,,b: 80 -89:the student work shows imagination andpotential
+56,,,presentation and design content is good;program requirements are fulfilled but in need of more refinement or development
+57,,,there are no majorissues that would require a total redesign of the project
+58,,,a: 90- 100:the student work has imagination and thesolutions to the problems show understanding andthought
+59,,,the problem solution is highly developed and well presented; the entire assignment showsdepth and breadth and is well coordinated
+60,,,the assignment’s potential has been achieved
+61,,,peer evaluation the final group project will be turned in with peer evaluation forms
+62,,,students will give themselves andeach other scores on the following criteria: 1
+63,,,reliable for meetings2
+64,,,contributes ideas to the group3
+65,,,conducts research4
+66,,,gives input for work in progress5
+67,,,individual contribution late work policy ●late work will have 10 points deducted for every day that it is late
+68,,,work submitted by a student as makeup work for an excused absence is not considered late work and isexempted from the late work policy (student rule 7)
+69,,,course schedule class attendance is expected
+70,,,students should report any known future absences at least one week prior to the absence
+71,,,any graded class activities missed (e.g.
+72,,,"exams, presentations, homework submissions) during unapproved absences cannot be made up without the instructor’s prior approval and a valid excuse"

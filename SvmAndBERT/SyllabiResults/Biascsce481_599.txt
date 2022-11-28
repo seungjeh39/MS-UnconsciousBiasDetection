@@ -1,0 +1,15 @@
+ course syllabus page 1 of 3 course name csce 481: seminar term spring 2022 meeting time section 5 99: tr 11:10 am – 12:25 pm online course description and prerequisites seminar
+topics to be addressed include practical issues related to careers in the public and private sector s, such as job seeking activities, workplace environment, and graduate school
+this seminar is not a "w" course)
+this course is designed for undergraduate students who are intending to graduate within 9 -21 months, and therefore, students will need to be either a junior or senior classification
+textbook and/or resource material optional readings: interesting readings as communicated by course instructor grading policies the student’s semester grade will be based on class attendan ce and completion of a report for each seminar 
+“online arrival” past 11:20 am or leaving before the conclusion of the lecture without prior approval will be marked as absent
+the length of the report should be at least 200 words but no more than 400 words 
+the report should include the following information: course syllabus page 2 of 3 - name of the speaker and affiliation - summary of the talk : o for a com pany talk, you may describe some of the following : (1) the in dustry sector of th e company and its main product s, (2) the role that computing plays at the company , (3) career opportunities /paths for cs/ce graduates , (4) a day in the life of a cs/ce graduate at the company , (5) anything you learned about the company 
+o for a regular talk (e.g.
+on a specific topic , such as artificial intelligence ), you may write a free-form summary or a traditional summar y (motivation, problem statement, proposed solution , results an d conclusions ), whichever you feel is more appropriate - your thoughts: o for a company talk, you may discuss some of the following topics: (1) aspects of working at the company that you liked the most , (2) whether or not you would like to work at this company, and why, (3) aspects of the presentation and q&a that you found interesting or informative , (4) aspects of the presentation and q&a that could be improved , etc
+for example, is the work interesting and why? do you think the re sults are important? what questions would you ask the speaker ? do you have any eth ical co ncerns about the t opic ? students will also be required to complete an ethics and professional responsibility module that is available on canvas 
+class attendance is essential for student success; students are required to promptly and regularly attend all their classes
+absences may only be excused as defined by the texas a&m university student rules available at http://student -rules.tamu.edu/rule0
+
+so, if there are 14 meetings, you can miss one class and still make an a in the class (13/14=92 %), miss two classes and still make a b (12/14=85 %), and miss three classes and still make a c (11/14=78 %)

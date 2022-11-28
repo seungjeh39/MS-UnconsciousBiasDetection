@@ -1,0 +1,47 @@
+ hours:in person:112 eabcmf2:00 pm - 3:30 pmonline:calendly.com/spolsleyb
+appointment teaching assistant:pedro figueiredoemail:pedrofigueiredo@tamu.eduoffic
+hours:online:calendly.com/pedrofigueiredob
+appointment course description from the csce course catalog:specification and implementation of basic abstract data types and their associated algorithmsincluding stacks, queues, lists, sorting and selection, searching, graphs, and hashing; performancetradeoffs of different implementations and asymptotic analysis of running time and memory usage;includes the execution of student programs written in c++
+data structures and algorithms is one of the core cs classes because it covers fundamentals of storingand processing data while introducing design and analysis of algorithms
+many coding interviews,programming tests, and future classes will depend on material from this class
+course prerequisites pre-requisit es: csce 121 (introduction to program design and concepts) orcsce 113 (intermediate programming & design) co-requisit es:csce 222 / ecen 222 (discrete structures for computing) ormath 302 (discrete mathematics) course learning outcomes this course details key concepts in computer science, aligning closely with the two tightly-integratedfields in the title: “data structures” and “algorithms.
+accordingly, the content and expected outcomesare structured along these paths
+-apply big-o asymptotic notation toevaluate and select efficient algorithmsfor a given problem with respect totimeand memory usage
+textbook and resources textbookrecommended textbook:data structures and algorithm analysis in c++by markweiss, 4th ed
+while this book is widely used in the field, there are many other c++ guidesand websites that you may find helpful to consult as well
+canvascanvas will contain class materials, assignment descriptions, and grades
+youcan access the course on canvas through your howdy portal
+piazz a piazza will be used for q&a, announcements, and as a forum for other questions in the class
+piazza ispreferred over email so that others can benefit from seeing the answers to your questions
+you can alsoask private questions to the instructor and ta
+88266112) csce 221 syllabuspage2of7 mimirlab and programming assignments will be submitted through mimir
+mimir is an auto-grading systemwhich can give you more direct feedback while allowing the instructor and ta flexibility to review manualportions of the assignments
+you can self-enroll by visiting the link below and using the specified accesscode, or you may visit the direct enrollment link
+alternatively, you will be auto-enrolled by the end ofthe add/drop period
+code: 4c322d38c7) mimir direct enrollment gradesc opesome assignments, such as quizzes and exams, will be graded on gradescope where there are betteroptions for submitting online and handling print exams than canvas
+grading scale this class will use a standard a, b, c, etc
+labswill be held on mondays and wednesdays beforelecture
+they will test concepts throughapplied problems and be guided by the ta with the help of our grading platforms
+quizzeswill typically be short and held in-classabout once a week
+following the goal of formativeassessment, individual quizzes are a low stakes way to evaluate concept understanding
+•assignments:homeworksare take-home assignments that will notusually involve programming but will practiceconcepts related to the programming assignments and the overall course
+programming assignmentscomprise the single largestportion of the course grade
+these willrequire programming a solution to the given prompt and submitting your code and, if applicable,discussion of the results
+because thisis a foundational class for the field, exams will include conceptual and applied problems
+policies •attendance:the university views class attendance as the responsibility of an individual student
+lab attendance will be evaluated based on your being present in the laband submitting the lab work
+class attendance will be based on in-class activities and quizzes
+•absences and make-up work:university rules related to excused/unexcused absences and make-up work are located in studentrule 7:http://student-rules.tamu.edu/rule07
+an unexcused absence on an exam will result in a zero
+csce 221 syllabuspage4of7 •late submissions:typically, assignments are due at 11:59 pm on the day of the deadline
+the penalty will be 15% every day, up to 4 days
+after4 days, late work will receive no credit
+additionally, you have a pool of 4 late days that you can use to extend an assignment an additional24 hours without penalty
+while the assignments are organized so that you have plenty of time tocomplete them, late days give you extra flexibility to handle unforeseen circumstances according toyour own judgement
+be sure tospecify the affected assignment
+you are responsible for tracking your own late days! we willmaintain this information and will only allow up to 4 to be used
+•accommodations:the division of student affairs has made a new portal available,disability accommodation portal(aim), which you can use to request and send accommodationletters
+please also visitcalendly.com/spolsleyt
+book an appointment withme
+i want to make the class as accessible aspossible, and i would like to talk with you to discuss the best plan for meeting your needs
+25 7heaps 8special trees 9hashing 10dictionaries and maps 11exam 2 - friday, apr

@@ -1,0 +1,83 @@
+ texas a&m university – department of computer science and engineering spring 2022 csce 312 all sections spring 202 2 in this syllabus: course description the course objective is to integrate key notions from algorithms, computer architecture, compilers, and software engineering in one unified framework
+this will be done constructively, by building a general - purpo se computer system from the ground up
+in the process, we will explore many ideas and techniques used in the design of modern hardware and software systems, and discuss major trade -offs and future trends
+throughout this journey, you will gain many cross -section views of the computing field, from the bare - bone details of switching circuits to the high -level abstraction of software design
+the course consists of materials on the following topics: introduction to computer systems, data representation, machine language, processor architecture, memory hierarchy, and assembler
+several laboratory assignments will provide hands -on experience to many of the above topics
+catalog description introduction to computer systems from programmer’s perspective: simple logic design, data representation and processor architecture, programming of processors, memory, control flow, input/output, and performance measurements; hands -on lab assignments
+
+lab assignments will require basic computer programming skills
+getting started 1
+log into canvas using your tamu netid and password
+sign on to microsoft teams (instructions provided on pp
+3 of this document) important announcement course runs from jan 18, 202 2 – apr 27, 202 2
+• exams: there will be 2 exams (midterm and final) to test knowledge of key topics
+o midterm exam: wednesday march 9 during respective lab sessions
+o final exam: wednesday april 27 during respective lab sessions 
+• projects: there will be 7 projects spread evenly through the course content 
+resources textbook csce 312: the elements of computing systems, second edition building a modern computer from first principles , by noam nisan, shimon schocken
+online link (1st half of the book is free): https://www.nand2tetris.org
+the first half of the textbook is available free online 
+this is what we cover in the course in addition to advanced concepts that are covered from other sources
+bryant and david r
+o'hallaron, prentice hall, 2015 
+digital design, 2nd ed, frank vahid, wiley publication, 2010 the reference from bryant and o’hallaron is useful for advanced cs course like cs - 313
+computer you are required to have a computing device on which you have permission to install software 
+please contact the instructor if you do not have a computing device
+bring your own device (byod) is an initiative in the college of engineering where students are required to bring their own computing device to class
+the following link explains the program and provides inf ormation about approved devices: https://engineering.tamu.edu/easa/areas/academics/byo
+approved byod devices csce 312 | spring 2022 3 fulfill the requirements for this class , although many other devices are sufficient (i.e
+in the past, we have also hosted online exams on canvas 
+microsoft teams : all course communication will occur on microsoft teams 
+this is provided free to all students
+the primary benefit is that for many questions everyone can see the answer and other students can answer as well
+instructions on signing up to teams are posted on canvas in student resources module → how do i setup microsoft teams document
+csce 312 | spring 2022 4 course logistics: lectures the course lectures will be offered in “asynchronous” pre-recorded format 
+6 of this document) 
+labs the labs will be held f2f 
+see howdy for lab timings of your section 
+• web : http://faculty.cse.tamu.edu/tyagi
+cale b terry calebterry@tamu.ed
+office hours to be announced on course teams site csce 312 | spring 2022 5 methodology this is mostly a hands -on course, evolving around building a series of hardware and software modules
+each module development task is accompanied by a design document, an api, an executable solution, a test script (illustrating what the module is supposed to do), and a detailed implementation plan (proposing how to build it)
+the projects are spread out evenly and tightly coupled with the lecture material 
+each lecture will start by reviewing the work that was done thus far, and giving guidelines on what to do nex t
+resources all the baseline course materials – lecture notes, book chapters, simulators, software tools, tutorials and test programs – can be downloaded freely from the course web site http://www.nand2tetris.or
+your teaching staff will guide you through the early p hase of software installation and do’s and don’ts the supplied software can run as is on linux or windows or mac os
+the lecture notes presented in class are modified with instructor’s own thoughts and inputs as deemed necessary
+programming the hardware p rojects will be done in a simple hardware description language (hdl) that can be learned in a few hours
+it is covered i n the appendix in our textbook and will also be covered by the ta’s in the lab
+the resulting chips (as well as the topmost computer -on-a-chip system) will be tested and simulated on a supplied hardware simulator, running on the student's computer
+the software projects can be done in java or python or c++
+any exceptions to this will be noted in the project documents
+communication the te aching staff will do its best to communicate relevant administrative information (deadlines, information about posted material, details about projects, locations of tutorials, and so on) in an effective and timely manner on teams 
+e-mails lis ted on exchang e are used for communication 
+if you are not receiving updates, please contact the instructor
+please use teams for all corre spondence related to the course 
+this is a very convenient and potentially effective way to communicate with the teaching staff 
+order of topics (subject to change) block topic (project release) 1 introduction and setup , boolean algebra, combinational logic design (project 1) 2 combinational logic design, boolean arithmetic (project 2), sequential logic design (project 3) 3 machine language (project 4) 4 cpu architecture (project 5), assembler (project 6) 5 advanced topics: memory hierarchy, virtual memory, cache memory (project 7) csce 312 | spring 2022 6 grading* exams 36% there will be a total of 2 exams 
+date and time of the exams are shown on page 2 of this document
+the mode of exams and other logistical advice will be provided ahead of the exams
+• 20% midterm, 16% final exams will be a combination of problem solving and multiple -choice questions 
+quizzes 8% there will be a bunch of take -home online quizzes aligned with lecture content
+these are key opportunities to build and apply fundamental concepts to problem solving
+some portion of the project may be a ssigned as “online lab - quiz”
+master plan – subject to change % total >=90 80-89 70-79 60-69 <60 letter grade a b c d f csce 312 | spring 2022 7 make up & late work please review texas a&m student rule 7: http://student -rules.tamu.edu/rule0
+participation is expected 
+it is your responsibility to keep up with the class , even when unexpected events interfere 
+note that if advanced notice is not feasible, you have 2 business days to provide notification
+see student rules 
+late quiz/project submission • quiz : late submissions not accepted without prior approval
+• projects : note details as described belo w: • submission time is determined by the timestamp recorded for your submission on canvas 
+if submitted late, project s will receive a grading penalty
+the number of minutes late the work is turned in ( m) will be used to compute the penalty
+your overall grade for the project will be multiplied by 0.9998m
+penalty will be charged only for late minutes that exceed 7200
+1440 (1 day) 75% 2880 (2 days) 56.2
+4320 (3 days) 42.1
+course support in addition to contacting the instructor or graduate assistant for course con tent related questions, there are a variety of campus resources for course support
+(online chat is available) o phone: (979) 845 -8300 o email: helpdesk@tamu.ed
+o phone: (979) 845 -5550 o email: helpdesk@cse.tamu.ed
+the tamu help desk is open 24 hours a day 7 days a week
+csce 312 | spring 2022 8 student rules each student has the responsibility to be fully acquainted with and to comply with the texas a&m university student rules
+for more information, please visit http://student -rules.tamu.edu

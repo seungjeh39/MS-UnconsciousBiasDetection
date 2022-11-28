@@ -1,0 +1,18 @@
+ office hours: will be posted on canvas course description provide mathematical foundations from discrete mathematics for analyzing computer algorithms, for both correctness and performance; introduction to models of computation, including finite state machines and turing machines 
+course prerequisites math 151 course learning outcomes the course will allow students to understand the relationships between logic, proofs and sets, and apply results from discrete mathematics to analysis of algorithms
+they will have a basic understanding of models of computation
+campuswire ( https://campuswire.com/p/gfd9b2b2
+): all questions will be fielded through campuswire
+• everyone can see answers and other students can answer as well
+join the course and use code 5442
+we reserve the right to audit the grades for any assignments submitted to this course
+during the audit process, we can decrease or increase your score
+exams are open book, open note
+• you are allowed o to use your textbook
+• you are not allowed o to interact with anyone face to face or electronically during an exam
+homework (50%) written assignments are handed out every one or two weeks
+a subset of each homework will be graded for correctness
+• you must write your individual homework independently
+• you are allowed o to use your textbook
+o any instructor’s slides and examples
+o to get help from the grader and instructor

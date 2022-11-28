@@ -1,0 +1,75 @@
+ , tas: yingtao jiang : entao@tamu.ed
+om.us/j/237184966
+___________________________________________________________________________ catalog d escription csce 482 : engineering design; working as a design -team member, conceptual design methodology, design evaluations, total project planning an d management techniques, design optimization, systems manufacturing costs considerations; emphasis placed upon student's activities as design professionals
+lencioni (jossey -bass, 2002) recommended • design for electrical and computer engineers , by ralph ford and chris coulston (mcgraw -hill science, 2007)
+• fundamentals of engineering design , 2nd ed.
+by barry hyman (prentice hall, 2003)
+smith, collins (2003)
+supplementa l • technical material from the literature, manufacturer’s datasheets and user manuals
+detailed course description cpsc 48 2 is a project -oriented course aimed at developing system integration skills
+students work in groups of 3-5 people to complete a significant engineering design project
+every project requires complete implementation, documentation and demonstration of a computing system design with both hardware and software components
+the focus is not only on the final product but also on desig n methodology, management process and teamwork
+each team will be required to manage its own efforts to complete its proje ct in a timely manner
+since the projects will be student managed , the exact nature and style of these meetings is at the group’s discretion
+at the end of the semester, each group will make a public presentation describing and demonstrating their work
+the se presentations will be open to the university community
+course objectives to prepare students for engineering practice with a major design experience based on the knowledge and skills acquired in earlier course work and incorporating en gineering standards and realistic constraints that include most of the following considerations: economic; environmental; sustainability; manufac turability; ethical; health and safety; social; and political
+expected outcomes it is expected that successful participation in the course will allow the student to demonstrate: • analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions
+• communicate effectively in a variety of professional contexts
+1
+apply computer science theory and software development fundamentals to produce computing -based solutions
+a template for the proposal report and a presentation rubric are available on the course webpage
+3 critical design review (10%) : the cdr is a mid -semester evaluation of your project
+a template for the cdr report and a presentation rubric are available on the course webpage 
+4 final communication (15%): this grade will be based on the quality of the final presentation (5%), as well as the contents and professional finish of the documentation (10%)
+a template for the final report and a presentation rubric are available on the course webpage
+2 weekly p rogress (10%): this grade will be based on your team’s ability to mai ntain the project on schedule
+agenda for the weekly meeting with the instructor and the ta b
+an overview of the plan of work for the following two weeks d
+an update on project management, including teamwork, purchases, schedule and milestone status e
+minutes of the previous meeting weekly progress reports are due two h ours prior to the time of the weekly meeting
+the responsibility of preparing these reports will be rotated among team members
+the team member preparing the report will also be in char ge of facilitating the discussions during that weekly meeting, and pre paring an action list for the following week
+the action list contains the set of specific goals that each team member gas agreed to complete and a deadline for completing them
+5 project grade (20%): a final grade will be assigned to your project based on the completion of all the objectives stated in the proposal, as well as on a live demonstration in front of the class
+the complexity of your project and the size of your team w ill be factored in
+this earlier deadline for the demo ensures that teams have time to prepare the final communication and fina l presentation
+for items 1 -5: using github sites for your group and gra ding purposes: i.team
+will use the tamu enterprise github to organize and trace course progress and materials
+a lso, the activity log of the github will be used to access how each iv.individua
+and wiki in order to provide documentation for their project
+2% is given to the teamwork quiz and ii
+notebook ( 5%): you are required to record what you do as a member of the project
+a grade will be assigned to your personal design notebook based on: i
+the regularity of your entries throughout the semester
+ii
+the evidence of an engineering design process, including but not limited to schematics, block diagrams, circ uits, pseudo -code, tables of experiment al results, and mathematical derivations
+the clarity, legibility and organization of your annotations
+electronic notebook can be either word file or pdf file
+participation ( 4%): the instructor and ta will evaluate your attendance to meetings, participation in the discussions, and contributions to the team
+item (6) above
+there are three pe er reviews throughout the semester
+github insights (10%): all projects will be hosted on tamu’s enterprise github (github.
+through proper version control techn iques, your individual work history on the project will be documented
+you will be required to maintain a stable master project b ranch by implementing features on separate working branches and creating pull requests for the entire team to review and merge into the master branch
+you will be assigned a grade for your github contributions based on: i
+(3%) the regularity of your commit history throughout the semester
+ii
+(4%) the quality and quantity of code and documentation you committed to the project throughout the semester
+iii
+online cou rse about ethics (2%) : we will provide an online ethics cours e in canvass
+autodrive challenge participation extra credit (max 5%): all projects this semester are facilitated through the texas a&m unmanned team as part of the gm/sae autodrive challen ge
+preparing or presenting team reports for the autodrive competition
+note : grades will not be assigned until all project deliverables have been turned in (see below), all borrowed items (e.g.
+keys, books, equipment) have been returned to their proper locati on or their owner, and the workstations in the lab have been thoroughly cleaned up
+final deliverables 1) final doc umentation and project materials in electronic zip file with name as team_name_ project_report.zi
+under the google site of the project
+the detailed materials should includ e the following (please organize into folders, e.g.
+docs, sour ce, hardware, media, references, freeware , videos ) a) designs: code, schematics, data, data sheets, freeware software tools, etc
+b) reports: proposal, cdr, weekly reports, final report, and all presentations c) audiovisual media: close -up pictures of your system *and* a high-quality movie demo of the system working, for posterity 
+document preparation all major documents (proposal, cdr, and final documentation) should be submitted in a professional format (e.g.
+pl ease run a spell check before submitting
+tentative course schedule and milestones week date classroom meeting material due dates 1 01/19 course introduction 2 01/24 kick-off lectures: chaps:1&2 resumes 01/26 kick-off lectures, chaps: 3&7 teams are formed 3 01/31 kick-off lecture: intro to ros 02/02 4 02/07 02/09 5 02/14 02/16 proposal presentations prestation slides, project proposal 6 02/21 02/23 7 02/28 03/02 8 03/07 03/09 9 03/14 spring break 03/16 spring break 10 03/21 03/23 11 03/28 cdr presentations cdr report, slides, peer review 1 03/30 12 04/04 04/06 13 04/11 04/13 14 04/18 peer review 2 04/20 15 04/25 04/27 project demos - 1 16 05/02 project demos - 2 05/04 final project presentation – all teams 05/06 check out (before 5pm) peer review 3 final report, all deliverables note: 1
+2
+this is our intended schedule, but we may modify it during the semester to accommodate necessary changes

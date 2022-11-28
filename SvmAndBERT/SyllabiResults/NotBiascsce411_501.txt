@@ -1,0 +1,15 @@
+ office: petr 306 office hours: monday, 3-4pm senior grader: venkata sameer kumar betana bhotla grader: ravi pranjal course description this course presents standard techniques for designing algorithms to solve computational problems, proving their correctness, and analyzing their space and runtime requirements
+np-completeness and hardness reductions will also be covered
+course prerequisites csce 221 and csce 222 course learning outcomes  students will learn about fundamental methods for designing and analyzing algorithms for computational problems
+resources: check canvas multiple times each week for updates
+your lowest homework assignment will be dropped attendance and participation attendance will be taken indirectly via in-class polls
+answering questions on course messaging boards, submitting intro video)
+students can guarantee full points for participation if they satisfy one of the following: (1) uploading an intro video, plus participation in in-class polls on 10 different days, or (2) participating in in-class polls on 20 different days
+late work and makeup work policy homework
+homework assignments may be submitted up to 24 hours late with a penalty of 25%
+(recall that your lowest homework assignment will be dropped.
+tests
+no make-up tests will be given
+the absence must be acceptable as defined by tamu’s policy and will require formal verification (e.g.
+a doctor’s note)
+course syllabus page 3 of 7 you are allowed, under a very specific set of guidelines, to consult outside sources and discuss homework problems with other students

@@ -1,0 +1,61 @@
+ syllabus: 22 spring csce 315 900 -907: programming studio syllabus programming studio it is estimated that windows xp has 50,000,000 lines of code
+the average developer writes 10 – 20 useful lines of code per day, so a couple of engineers and 2 friend s could break away, start a new company, and create a new “windows” operating system in only about 1700 years 
+that’s not reasonable
+up until now, most of the programs that you have been asked to write could probably fit in your mind
+when you complete th e letter, you fold it, seal it up, and mail it off (or hit send)
+but now it is plain to see that products that you use daily simply could not be recreated by you and 10 of your best friends in an afternoon, weekend, or semester
+a 1700 -year project is wil dly unreasonable
+there must be a better way
+in this course, you will learn a better way
+you will dive into the world of software engineering and hone your teamwork (and, yes, coding) skills
+effective teamwork is essential, and software design methodolo gies make development more efficient
+this course gives you very practical skills for being an effective member of a development team and producing high -quality, sustainable software
+learning these methods of working together, managing requirements, produ cing quality software products, and testing, delivering, and maintaining these products is every bit as valuable as coding
+why i teach this course this course is offers you a unique learning experience
+i am always especially excited to teach this course, and here is why: building software is fun and rewarding you get many opportunities to “learn by doing” there’s more to software than just coding you get a taste of software engineering working on teams can be messy, but it’s worth it it is am azing what you can accomplish together, so much more than on your own course information course number: 315 course title: programming studio credit hours: 3 (2 lecture hours, 2 lab hours) syllabus: 22 spring csce 315 900 -907: programming studio lecture: sections 900 -903: face -to-face, mondays, wednesdays , and fridays 9:10 am - 10:00 am, zachr y engineerin g education com plex (https://a ggiemap.tamu.edu/?bl
+g=0518) 244 sections 904 -907: face -to-face, mondays, wednesdays, and fridays 10:20 am - 11:10 am, zachr y engineeri ng education complex (https://a ggiemap.tamu.edu/?bl
+,-registration ,- schedulin g/finalexamination -schedules#0 -sprin g2022) : final project demonstrations will happen during the scheduled time for your class lecture and lab
+instr uctor details instructor: robert lightfoot office: 422 peterson syllabus: 22 spring csce 315 900 -907: programming studio phone: 979 -845-2611 e-mail: use canvas email for all class questions
+for help, copy instructor and ta
+
+ thomas rost and his email is thomas.rost.99@tamu.ed
+ hayden roper and his email is haydenroper@tamu.ed
+ robert hinck and his email is rob.hinck@tamu.ed
+
+course learning outcomes this course is intended to be an intensive programming e xperience that integrates core concepts in computer science and familiarizes you with a variety of programming/development tools and techniques
+you will primarily work in small teams on projects emphasizing different specializations syllabus: 22 spring csce 315 900 -907: programming studio within computer scienc e
+the course focuses on honing good programming techniques to ease code integration, reuse, and clarity
+the primary goal for this class is for you to emerge with strong programming skills, able to address both individual and team programming challenges c ompetently
+in this course, you will improve your programming skills through significant practice
+after this course you will be able to: explain the need for software engineering through industry examples and personal experience exercise the fundamental concepts of software construction (including managing requirements, design, implementation, testing, and deployment) design and develop software that is clearer, more maintainable, and integrates current software technologies collaborate and communicate effectively in small teams recognize and apply characteristics of effective technical writing we will cover many topics including: software system design for portability, performance, and testability coding layout and style considerations programming spe cifications and documentation use of basic software tools and apis subject -specific topics related to the team projects (db, hci) though many topics will overlap, this course is not intended to be as in -depth or comprehensive as a standard software enginee ring course
+required textbooks code complete , 2nd edition (https:// go.oreil
+y/view/ -/0735619670/?ar) by steve mcconnell (microsoft press, 2004)
+-content/uploads/2016/11/code -complete -2nd- editionv413hav.pdf
+gn01/open/download?t ype=pdf) other supplementary material as needed will be supplied electronically
+syllabus: 22 spring csce 315 900 -907: programming studio grading policy grading components: your grade for this course reflects your mastery of course material and is determined by multiple components
+team projects – 40%: two major projects, each worth 20% of the course grade, for 40% total
+specific grading practices for each project will be announced when that project is given out
+your individual contribution determined from logged code commits, peer evaluation, and instructor/ta observations will be a significant contributing factor to these project grades
+individual project – 5%: the individual project will be compl eted prior to the team projects
+specific grading practices will be announced when the assignment is given out
+written elements – 35%: this is a writing intensive course
+you will have several written assignments within the projects (roughly 10% from the individual project, 12% from the first team project, and 13% from the second team project)
+specific grading practices will be announced when each assignment is given out
+other course activities – 20%: the course has several different types of activities to help you better understand concepts and connect with the material
+this includes (but is not limited to) athome activities, in -class activities, and lab activities 
+these activities bring deeper, longer -term learning as you work, either individually or with other students
+for submitted assignments, grading will be based on the quality of the submitted work
+-grades/grades#0 -gradin gsystem) ): a = excellent, b = good, c = satisfactory, d = passing, f = failing stacked honors section: the stacked honors section will explore course concepts more deeply through readings, discussions, reflections, and projects
+they will have honors -only lecture sessions on the first friday of each month
+syllabus: 22 spring csce 315 900 -907: programming studio submission of assignments: all assignments will be turned in electronically though canvas (https://canvas.tamu.edu/
+email submissions will not be accepted
+for team assignments, the late penalty affects the grade for the entire team
+we will meet approximately 2/3 of the lecture periods over the course of the semester
+the honors section will also meet the first friday of each month for deep dive discussions
+below is the planned but tentative schedule of topics and major projects f or the course
+
+midnight) 7 testing/debugging/refactoring project 2 demos project 2 phase 3 8 commenting and project 2 demos, user project 2 phase 4, project 2 automatically generated documentation, agile stories retrospective reports* (due wed
+midnight) spring break 9 design thinking and ideation apis, sprint artifacts project 3 proposal* (due sun
+midnight at end of week) 10 user studies, prototyping full stack development, advanced git 11 accessibility, integration and configuration ma nagement user studies project 3 sprint 1 materials* (due wed
+midnight) 13 team meetings team meetings project 3 sprint 2 materials* (due wed
+midnight) 14 workday s workdays project 3 user study 2 15 course wrap -up, final presentation instructions no labs project 3 sprint materials, project 3 retrospective reports* (due wed

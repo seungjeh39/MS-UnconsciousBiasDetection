@@ -1,0 +1,128 @@
+id,keyword,location,text
+1,,,"texas a&m university – department of computer science and engineering spring 2022 csce 312 all sections spring 202 2 in this syllabus: course description the course objective is to integrate key notions from algorithms, computer architecture, compilers, and software engineering in one unified framework"
+2,,,"this will be done constructively, by building a general - purpo se computer system from the ground up"
+3,,,"in the process, we will explore many ideas and techniques used in the design of modern hardware and software systems, and discuss major trade -offs and future trends"
+4,,,"throughout this journey, you will gain many cross -section views of the computing field, from the bare - bone details of switching circuits to the high -level abstraction of software design"
+5,,,"the course consists of materials on the following topics: introduction to computer systems, data representation, machine language, processor architecture, memory hierarchy, and assembler"
+6,,,several laboratory assignments will provide hands -on experience to many of the above topics
+7,,,"catalog description introduction to computer systems from programmer’s perspective: simple logic design, data representation and processor architecture, programming of processors, memory, control flow, input/output, and performance measurements; hands -on lab assignments"
+8,,,americans with disabilities act (ada) policy statement the americans with disabilities act (ada) is a federal anti -discrimination statute that provides comprehensive civil rights p rotection for persons with disabilities
+9,,,"among other things, this legislation requires that all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities"
+10,,,"if you believe you have a disa bility requiring an accommodation, please contact disability services, located at the department of disability resources at 471 houston street or call 979 -845 -1637"
+11,,,"for additional information, visit http://disabil ity.tamu.ed"
+12,,,
+13,,,"syllabus: computer organization course description page 1 catalog description page 1 ada page 1 prerequisites page 2 getting started page 2 important dates page 2 resources page 2/3 course copyright page 3 course plagiarism page 3 office hours page 4 people page 4 methodology page 5 tentative schedule page 5 resources page 5 programming page 5 communication page 5 grading page 6 make up & late work page 7 course support page 7 student rules page 8 academic integrity page 8 course acknowledgments page 9 csce 312 | spring 2022 2 prerequisites all the computer science knowledge necessary for completing this course is given in the course lectures, projects, and textbook"
+14,,,lab assignments will require basic computer programming skills
+15,,,some co-requisite basic background in data structures and algorithms will be helpful 
+16,,,getting started 1
+17,,,review the entire syllabus 
+18,,,2
+19,,,log into canvas using your tamu netid and password
+20,,,3
+21,,,sign on to microsoft teams (instructions provided on pp
+22,,,"3 of this document) important announcement course runs from jan 18, 202 2 – apr 27, 202 2"
+23,,,• exams: there will be 2 exams (midterm and final) to test knowledge of key topics
+24,,,o midterm exam: wednesday march 9 during respective lab sessions
+25,,,o final exam: wednesday april 27 during respective lab sessions 
+26,,,• projects: there will be 7 projects spread evenly through the course content 
+27,,,"resources textbook csce 312: the elements of computing systems, second edition building a modern computer from first principles , by noam nisan, shimon schocken"
+28,,,"publisher: mit press, 20 21"
+29,,,online link (1st half of the book is free): https://www.nand2tetris.org
+30,,,the first half of the textbook is available free online 
+31,,,this is what we cover in the course in addition to advanced concepts that are covered from other sources
+32,,,"printed copy of the book may be available in campus bookstore as well as other book suppliers like amazon, barnes & noble, mit press, etc"
+33,,,purchase of course textbook is not required 
+34,,,"reference textbook s – purchase not required computer systems: a programmer's perspective, randal e"
+35,,,bryant and david r
+36,,,"o'hallaron, prentice hall, 2015 "
+37,,,"digital design, 2nd ed, frank vahid, wiley publication, 2010 the reference from bryant and o’hallaron is useful for advanced cs course like cs - 313"
+38,,,i do not recommend purchasing the vahid book because it will be referenced in a very limited capacity
+39,,,computer you are required to have a computing device on which you have permission to install software 
+40,,,please contact the instructor if you do not have a computing device
+41,,,bring your own device (byod) is an initiative in the college of engineering where students are required to bring their own computing device to class
+42,,,the following link explains the program and provides inf ormation about approved devices: https://engineering.tamu.edu/easa/areas/academics/byo
+43,,,
+44,,,"approved byod devices csce 312 | spring 2022 3 fulfill the requirements for this class , although many other devices are sufficient (i.e"
+45,,,you probably don’t have to buy a new computer for this class .
+46,,,web canvas : https://canvas.tamu.edu/courses/13808
+47,,,primarily used for course material and publishing of grades 
+48,,,"in the past, we have also hosted online exams on canvas "
+49,,,"the recommended browsers for canvas access are safari (mac), mozilla firefox or google chrome "
+50,,,microsoft teams : all course communication will occur on microsoft teams 
+51,,,this is provided free to all students
+52,,,the primary benefit is that for many questions everyone can see the answer and other students can answer as well
+53,,,"teams has excellent mobile and desktop support, and has direct messaging and video conferencing capabilities"
+54,,,"w e believe the platform is fairl y well suited to promote a healthy interaction between the students, as well as with the teaching staff "
+55,,,instructions on signing up to teams are posted on canvas in student resources module → how do i setup microsoft teams document
+56,,,csce 312 | spring 2022 4 course logistics: lectures the course lectures will be offered in “asynchronous” pre-recorded format 
+57,,,"barring exceptions, t he lecture materials will be released on canvas by 11:59pm on saturday for the week ahead (typically two sets) in accordance with the master schedule (see pp"
+58,,,6 of this document) 
+59,,,labs the labs will be held f2f 
+60,,,see howdy for lab timings of your section 
+61,,,"people instructor aakash tyagi , phd professor of practice • email : tyagi@cse.tamu.ed"
+62,,,• web : http://faculty.cse.tamu.edu/tyagi
+63,,,office hours to be announced on course teams site teaching assistants : mayukh roy chowdhury: mayukhrc95@tamu.ed
+64,,,sagar adhikari : sagar0073@tamu.ed
+65,,,peer teachers kaleb dickerson kaleb.dickerson2001@tamu.ed
+66,,,cale b terry calebterry@tamu.ed
+67,,,senhe hao senhehao@tamu.ed
+68,,,"office hours to be announced on course teams site csce 312 | spring 2022 5 methodology this is mostly a hands -on course, evolving around building a series of hardware and software modules"
+69,,,"each module development task is accompanied by a design document, an api, an executable solution, a test script (illustrating what the module is supposed to do), and a detailed implementation plan (proposing how to build it)"
+70,,,the projects are spread out evenly and tightly coupled with the lecture material 
+71,,,"each lecture will start by reviewing the work that was done thus far, and giving guidelines on what to do nex t"
+72,,,"resources all the baseline course materials – lecture notes, book chapters, simulators, software tools, tutorials and test programs – can be downloaded freely from the course web site http://www.nand2tetris.or"
+73,,,
+74,,,your teaching staff will guide you through the early p hase of software installation and do’s and don’ts the supplied software can run as is on linux or windows or mac os
+75,,,the lecture notes presented in class are modified with instructor’s own thoughts and inputs as deemed necessary
+76,,,programming the hardware p rojects will be done in a simple hardware description language (hdl) that can be learned in a few hours
+77,,,it is covered i n the appendix in our textbook and will also be covered by the ta’s in the lab
+78,,,"the resulting chips (as well as the topmost computer -on-a-chip system) will be tested and simulated on a supplied hardware simulator, running on the student's computer"
+79,,,the software projects can be done in java or python or c++
+80,,,any exceptions to this will be noted in the project documents
+81,,,"communication the te aching staff will do its best to communicate relevant administrative information (deadlines, information about posted material, details about projects, locations of tutorials, and so on) in an effective and timely manner on teams "
+82,,,e-mails lis ted on exchang e are used for communication 
+83,,,"if you are not receiving updates, please contact the instructor"
+84,,,please use teams for all corre spondence related to the course 
+85,,,this is a very convenient and potentially effective way to communicate with the teaching staff 
+86,,,"order of topics (subject to change) block topic (project release) 1 introduction and setup , boolean algebra, combinational logic design (project 1) 2 combinational logic design, boolean arithmetic (project 2), sequential logic design (project 3) 3 machine language (project 4) 4 cpu architecture (project 5), assembler (project 6) 5 advanced topics: memory hierarchy, virtual memory, cache memory (project 7) csce 312 | spring 2022 6 grading* exams 36% there will be a total of 2 exams "
+87,,,exams will not be comprehensiv e
+88,,,date and time of the exams are shown on page 2 of this document
+89,,,the mode of exams and other logistical advice will be provided ahead of the exams
+90,,,"• 20% midterm, 16% final exams will be a combination of problem solving and multiple -choice questions "
+91,,,quizzes 8% there will be a bunch of take -home online quizzes aligned with lecture content
+92,,,these are key opportunities to build and apply fundamental concepts to problem solving
+93,,,projects 56% projects are aligned lock -step with the course lecture content and help us reinforce the in - class learnings and vice -versa
+94,,,some portion of the project may be a ssigned as “online lab - quiz”
+95,,,there will be a total of 7 projects all projects carry equal weight unless specified otherwise 
+96,,,master plan – subject to change % total >=90 80-89 70-79 60-69 <60 letter grade a b c d f csce 312 | spring 2022 7 make up & late work please review texas a&m student rule 7: http://student -rules.tamu.edu/rule0
+97,,,participation is expected 
+98,,,"it is your responsibility to keep up with the class , even when unexpected events interfere "
+99,,,exam make up missed exams will only be rescheduled for university excused absences
+100,,,"note that if advanced notice is not feasible, you have 2 business days to provide notification"
+101,,,see student rules 
+102,,,a zero will be as signed for exams due to an unexcused absence
+103,,,documentation must be submitted prior to making up a missed exam
+104,,,late quiz/project submission • quiz : late submissions not accepted without prior approval
+105,,,• projects : note details as described belo w: • submission time is determined by the timestamp recorded for your submission on canvas 
+106,,,"if submitted late, project s will receive a grading penalty"
+107,,,the number of minutes late the work is turned in ( m) will be used to compute the penalty
+108,,,your overall grade for the project will be multiplied by 0.9998m
+109,,,everyone will be given 5 credit days for the semester which translates to 5*24*60 = 7200 minutes
+110,,,penalty will be charged only for late minutes that exceed 7200
+111,,,• adjusted project total = (raw total project score * 0.9998(m-7200))fo
+112,,,m>7200 • how turning in late work can affect your grade: minutes late max grade 5 99.9
+113,,,60 98.8
+114,,,1440 (1 day) 75% 2880 (2 days) 56.2
+115,,,4320 (3 days) 42.1
+116,,,"course support in addition to contacting the instructor or graduate assistant for course con tent related questions, there are a variety of campus resources for course support"
+117,,,"technology support: for technological issues related to canvas and cse s/w , contact the tamu help desk: • student canvas help website, https://lms.tamu.edu/trainin"
+118,,,-support • tamu it help desk : o website: http://hdc.tamu.edu/index.ph
+119,,,(online chat is available) o phone: (979) 845 -8300 o email: helpdesk@tamu.ed
+120,,,• cse help desk o website: https://wiki.cse.tamu.edu/index.php/main_pag
+121,,,o phone: (979) 845 -5550 o email: helpdesk@cse.tamu.ed
+122,,,the tamu help desk is open 24 hours a day 7 days a week
+123,,,"if your technical problems are una ble to be resolved within 48 hours, please contact instructor s or tas for additional assistance"
+124,,,technology issues are not an excuse for missing a course requirement – make sure your computer is configured correctly and address issues well in advance of de adlines
+125,,,csce 312 | spring 2022 8 student rules each student has the responsibility to be fully acquainted with and to comply with the texas a&m university student rules
+126,,,"more specific rules, information and procedures may be fou nd in various publications pertaining to each particular service or department"
+127,,,"for more information, please visit http://student -rules.tamu.edu"

@@ -1,0 +1,103 @@
+id,keyword,location,text
+1,,,syllabus csce 312-201h/500-503 computer organization spring 2022 (all course materials are on canvas) instructor eun jung (ej) kim email: ejkim at cse.tamu.ed
+2,,,tel: 979-845-3660 office: h
+3,,,r
+4,,,bright building (hrbb) 338b office hours: zoom link on canvas teaching assistant sunyoung kim email: spark8433@tamu.ed
+5,,,grader kathy pai email: jp53456@tamu.ed
+6,,,lectures csce312: tr 11:10-12:25 124 h.r
+7,,,bright bd
+8,,,1 course information 1.
+9,,,course description csce 312 is an introductory course on computer organization
+10,,,it provides insights into the fundamentals of organization and structure of computer systems
+11,,,"one of the objectives of this course is to teach critical thinking, how to learn, and how to communicate technical concepts in the area of computer systems"
+12,,,"these objectives will be met through lectures, challenging assignments, regular quizzes, and a final examination"
+13,,,"the course consists of materials on the following topics: introduction to computer systems, data representation, machine language, processor architecture, memory hierarchy, linking, exception control flow, virtual memory, system level i/o, and network programming"
+14,,,several laboratory assignments will provide hands-on experience on some of the above topics
+15,,,projects allow students to implement material taught in the lectures and laboratory
+16,,,1.
+17,,,"catalog description introduction to computer systems from programmer’s perspective: simple logic design, data representation and processor architecture, programming of processors, memory, control flow, input/output, and performance measurements; hands-on lab assignments"
+18,,,1.
+19,,,co-requisites csce 221 data structures and algorithms
+20,,,"you should have a clear understanding of data structures, including list, stacks, and queues"
+21,,,your familiarity with recursion and exposure to complexity analysis are desirable
+22,,,lab assignments will require basic computer skills in implementing the above topics
+23,,,1.
+24,,,"textbook • primary textbook: computer systems: a programmer’s perspective, randal e"
+25,,,"bryant and david o’hallaron, 3rd ed, prentice hall, 2015, isbn 10:0-13-409266-x companion site: http://csapp.cs.cmu.edu"
+26,,,"• text for logic design: digital design, 2nd ed, by frank vahid, wiley publication, 2010 second edition companion site: http://bcs.wiley.com/he-bcs/books?action=index&itemid=0470531088&bcsid=556"
+27,,,"• optional reference: the c programming language, 2nd ed"
+28,,,"(ansi c version) or later, kernighan & ritchie, prentice hall, will be helpful in learning the operating system and programming environment"
+29,,,"2 course topics, quizzes and assignments students are required to read the main textbook and other assigned materials as announced time to time"
+30,,,it is highly recommended to be familiar with the material ahead of the corresponding lecture
+31,,,"this course will focus on the topics shown below, which may not be covered in this order, or at all, if time does not permit it"
+32,,,the length of time to cover a topic and the corresponding assignment dates may vary
+33,,,course topics and corresponding textbook chapters week topics reading materials chapter numbers milestones 1-2 computer systems bryant ch
+34,,,"1 2-5 data representation, arithmetic, logic design vahid ch.1-"
+35,,,"q1, hw1, hw2 5-7 machine language bryant ch"
+36,,,"3 q2, hw3 7-10 processor architecture bryant ch"
+37,,,"4 q3, hw4, project1 10-12 memory hierarchy bryant ch"
+38,,,"6 q4, hw5 12-13 virtual memory bryant ch 10 q5 14 system level i/o bryant ch 10 project2 15 review final exam 3 grading scheme and course requirements 3."
+39,,,attendance policy class attendance is strongly recommended
+40,,,students are responsible for any material missed
+41,,,some material covered in the lectures may not be found in the textbook or the slides
+42,,,"missed exams, quizzes and class presentations may be made up only for a university-excused absence"
+43,,,other special situations must be discussed with the instructor in advance of the exam
+44,,,3.
+45,,,"grading the course consists of lectures, quizzes, homeworks, lab assignments, projects and final examination"
+46,,,the grade will be computed as follows: course grading projects 15% pop quiz/homework 15% laboratory assignments 20% quizzes 25% final exam 25% extra credit assignments and extra credit for significant class participation may be offered
+47,,,"letter grades will be assigned as follows: 90-100% a, 80-89% b, 70-79% c, 60-69% d, < 60% f"
+48,,,3.
+49,,,examinations the quizzes will be held in class with exact dates determined during the semester
+50,,,note that there is no mid-term exam
+51,,,the quizzes are scheduled after each topic is completed
+52,,,"the quizzes and final exam will generally test your knowledge of assignment material, so you are responsible for mastering all lab, homework, and project material submitted with other partners, as if you did all the work by yourself"
+53,,,the quizzes and final exam will be closed book and closed notes (unless otherwise stated)
+54,,,the nature of the course material is such that the final exam must be cumulative
+55,,,3.
+56,,,"assignments homework, lab exercises and project are substantial assignments"
+57,,,"homework assignments: homework will be assigned sporadically, typically consisting of end-of-chapter exercises"
+58,,,"homework assignments can be carried out by one person, unless stated otherwise"
+59,,,"assignments are expected to be completed in one to two weeks, as specified by the due date"
+60,,,"laboratory exercises: labs are intended to prepare you to tackle the projects, and you will typically be able to complete labs during the assigned lab period"
+61,,,written lab work will be accepted up to the beginning of the following lab period
+62,,,"to obtain credit for a lab you typically must obtain a “check-off” from your teaching assistant, signifying that you completed the work during the scheduled lab time"
+63,,,you are responsible for attending lab and demonstrating to your lab instructor that you have completed the work
+64,,,"course projects: one or more course projects will integrate most concepts covered during the semester, but are more open-ended than regular assignments"
+65,,,a written proposal and a final report will be required
+66,,,the final report and program source code will be due by the announced deadline
+67,,,the projects will be carried out by a group of two to four people
+68,,,you are encouraged to form groups as early as possible
+69,,,course labs and projects will involve programming and solving problems in computer organization in c or c++ and the systemc language
+70,,,all tools are run on departmental unix/linux and windows pc systems
+71,,,assignments will be placed on the course web page
+72,,,the correct approach is to start working on assignments as early as possible and contact us when you encounter difficulties
+73,,,"in general, the closer to the deadline you request our assistance the harder it might be to obtain our help"
+74,,,3.
+75,,,deadline policy turn in all work by the established deadline
+76,,,in case you have difficulties finishing an assignment contact the ta or the instructor before the deadline
+77,,,"late work can be accepted only under circumstances beyond student's control and after arrangement with the ta or instructor, prior to the deadline"
+78,,,note: work turned-in on time is eligible for partial credit
+79,,,"it will always be better to turn work in by the deadline, as trying to ""perfect"" it and turning it in late will give you no points at all"
+80,,,3.
+81,,,"submission of work and late submission policy all assignments/deliverables must be submitted electronically, by the due date and time, using the turn-in procedure on csnet"
+82,,,"late submission beyond the cutoff will not be accepted in general, unless a university sanctioned excuse is provided ahead of time"
+83,,,"a student will earn points when he/she submits the assignment on time, by the partial credit policy"
+84,,,note that emailsubmissions will not be accepted (they will be ignored without notice)
+85,,,you have to follow the submission and media policies and guidelines published on the course web site
+86,,,"in general, late submission will be penalized with a loss of 25% of the total points earned per day late"
+87,,,partial credit will be given based on the work submitted
+88,,,3.
+89,,,"re-grading policy a student can request re-grading of assignments and exams, if he/she believes that the points assigned are inconsistent with the quality and merits of the submitted work"
+90,,,to request re-grading you have to follow the guidelines below
+91,,,1
+92,,,re-grading requests must be submitted at most one week after the item has been graded and returned to the student and solutions have been made public
+93,,,"after this time, no re-grading requests will be honored"
+94,,,2
+95,,,re-grading requests must be as specific as possible and must be accompanied by a reasonable amount of justification and documentation
+96,,,requests must be in written form for major assignments and exams
+97,,,3
+98,,,e-mails must be sent to tas and the instructor within the one week time limit
+99,,,3.
+100,,,excused absences and make-up policy make-ups for assignments and exams will be given only for university-excused absences
+101,,,"prior arrangements with the instructor must be made when feasible and official verification of circumstances necessitating the absence will be required, as permitted by the texas a&m university student rules (http://student-rules.tamu.edu)"
+102,,,3.

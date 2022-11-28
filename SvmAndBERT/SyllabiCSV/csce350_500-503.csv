@@ -1,0 +1,62 @@
+id,keyword,location,text
+1,,,"course syllabus  edit course information course information course number: csce 350 course t itle: computer organization and design section: 500, 501, 502, 503 time: mwf 10:20am to 1 1:10am location: zach 310 lab: tuesday and thursday 08:25am - 09:15am, 09:35am - 10:25am, 1 1:35am - 12:25pm and 12:45pm -01:35pm location: zach 592 credit hours: 4 instructor details instructor: abdullah muzahid office: peterson 206 phone: 979-458-1059 e-mail: abdullah.muzahid@tamu.ed"
+2,,,office hours: mw 9.0
+3,,,am to 10 am online via zoom https://tamu.zoom.us/j/96231447885?pwd=k2hky251swgzu2crtgtoc2gyn0jiut0
+4,,,"meeting id: 962 3144 7885 passcode: 362173 one tap mobile +13462487799,,96231447885# us (houston) ta details name: vahid janfaza email: vahidjanfaza@tamu.ed"
+5,,,(mailto:vahidjanfaza@tamu.edu
+6,,,"office hours: tba course description computer architecture and design; use of register transfer languages and simulation tools to describe and simulate computer operation; central processing unit organization, microprogramming, input/output and memory system architectures"
+7,,,cross-listed with csce 350
+8,,,"course prerequisites ecen 248 - introduction to digital systems required book david patterson and john hennessy , “computer organization and design: the hardware/software interface”, arm edition , 2016 or newer "
+9,,,electronic versions are ok
+10,,,"(note: it must be the ""arm"" edition, no other edition is usable for this class ) course learning outcomes the goal of this course is to provide the student with a working knowledge of different methods for logic representation, manipulation, and optimization, for both combinational and sequential logic"
+11,,,at the end of the course the student should be able to view the design of digital systems from a new perspective and have an understanding of several fundamental concepts that can be applied to a wide variety of digital design problems
+12,,,list one or more learning outcomes for the course
+13,,,"individual course objectives: at the end of this course, students should: understand the organization of a computer system including the cpu datapath, cpu control, and memory systems understand the impact of semiconductor technology on computer design and architecture"
+14,,,understand the basics and principles of instruction set design
+15,,,be familiar with programming using an assembly level language
+16,,,understand the impact of instruction sets on hardware design
+17,,,be familiar with designing datapaths for a processor 
+18,,,understand the implications of branch instructions on program flow and hardware design
+19,,,"understand the performance implications of various factors such as clock speed, average clock cycles per instruction and number of instructions"
+20,,,understand the role of compilers and high-level languages in programming
+21,,,be familiar with designing control circuitry for a basic processor 
+22,,,understand the dif ferences in single-cycle/multicycle design of processors
+23,,,be familiar with processor pipelining
+24,,,"understand the implications of pipelining on memory design, instruction set design, compiling, performance etc"
+25,,,understand the implications of branch instructions on pipelining
+26,,,"understand basics of memory technology , registers, sram, dram"
+27,,,understand the performance issue of various memory technologies
+28,,,be familiar with the notion of locality 
+29,,,understand the memory architectures including cache architectures
+30,,,"be familiar with various cache architectures: direct-mapped, set-associative, wide/narrow block size etc"
+31,,,understand the concepts of virtual memory 
+32,,,be familiar with the need for address translation
+33,,,understand the impact of address translation on cache/memory accesses
+34,,,be familiar with hardware designs of various cache architectures
+35,,,understand the basics of input/output
+36,,,understand the principles of instruction-level parallelism (ilp) and processor microarchitectures which exploit it
+37,,,understand the principles of thread-level parallelisms and processor microarchitecture which exploit it
+38,,,"understand register-transfer level (r tl) system concepts and description methods, including a hardware description language (verilog) grading policy breakdown: exams (2 exams) 40% labs 35% quizzes 20% attendance 5% grading scale: a: 90-100% b: 80-89% c: 70-79% d: 60-69% f: 0-59% note: in the event that the average overall grade of all students lies below a 79% there will be a curve on the overall grade"
+39,,,i will not curve the individual exams and assignments
+40,,,"attendance: students are expected to attend and be active discussion participants during the lectures (answering questions posed, asking questions, commenting etc.)"
+41,,,students who attends less than 50% lectures will receive a 0 for this part of their grade
+42,,,exams: there will be two exams
+43,,,"the second exam will be comprehensive, but with an emphasis on the material covered since the first exam"
+44,,,"tentative t est schedule: exam 1 – march 04, 2022 exam 2 – may-09-2022 assignments/quizzes: rather than traditional homework, this course will rely upon a series of on-line quiz assessments"
+45,,,the goal of these quizzes will be to test your knowledge of the lecture material and pinpoint which lectures you should go back and review on-line
+46,,,"there will be one quiz for each lecture, this quiz must be completed prior to the next lecture"
+47,,,students may retake the quiz as many times as desired between its release and the next lecture
+48,,,"if the quiz is submitted in the same day as the due time, it will be graded with full credit"
+49,,,"if it is delayed by few days (up to a week), you will get 50% grade"
+50,,,"otherwise, you will get 0"
+51,,,the t amu canvas system will be used for all quiz submissions
+52,,,labs: the course will have nine prelabs and nine labs (tentative)
+53,,,prelabs are expected to be completed before attending the associated lab session
+54,,,"late prelabs will have 50% of the points deducted for being one working day late, more than 2 days late will not be accepted"
+55,,,"generally , post-labs and demos must be completed the week following the lab's introduction (the exception being a couple labs that take two weeks)"
+56,,,late post-labs will have 20% of the points deducted for being late up to 1-week
+57,,,"if a post-lab and/or demo is late for more than a week then, a grade of 0 will be assigned"
+58,,,lectures: lectures will be in person in the classroom
+59,,,all students are expected to be active participants during lecture
+60,,,"course topics/schedule: hours: t opic 3 hours: overview of computer architecture 3 hours: instruction set architectures (isa), representing instructions on the computer , arithmetical and logical instructions, memory access instructions 3 hours: instruction set architectures (isa), control flow instructions, function calls instructions, input- output instructions spim- instruction set simulator 3 hours: computer arithmetic, signed and unsigned numbers, addition and subtraction, multiplication, division, floating point operations 3 hours: t ranslating and starting a program, compilers, compiler optimization, object code generation, assemblers, linking, run-time execution environment 3 hours: performance evaluation, cpu performance and its factors, performance metrics, performance factors, comparing performance, spec benchmarks 2 hours: hardware description languages, v erilog hardware description language, design-simulation process, structural designs in v erilog behavioral hdl description of systems 3 hours: datapath and control, and alu design 3 hours: single-cycle implementation 3 hours: microprogramming, catchup 3 hours: pipelining, pipelined datapath 4 hours: pipelined control, pipeline hazards: structural, control, data hazard detection and resolution, exception handling 4 hours: memory hierarchy , overview of sram and dram design, basic of caches, framework for memory hierarchy , measuring memory performance late w ork policy see above for late policy on quizzes, prelabs and labs"
+61,,,work submitted by a student as makeup work for an excused absence is not considered late work and is exempted from the late work policy 

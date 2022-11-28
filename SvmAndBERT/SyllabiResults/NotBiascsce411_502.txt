@@ -1,0 +1,26 @@
+ garay office: petr 429 phone: 979-845-4359 e-mail: garay@tamu.ed
+office hours (virtual): m-w 4:00-5:00pm, https://tamu.zoom.us/j/9593907915
+course description study of computer algorithms for numeric and non-numeric problems; design paradigms; analysis of time and space requirements of algorithms; correctness of algorithms; np-completeness and undecidability of problems
+isbn 9978-0-262-03384-8/978-0-262-53305-8 grading policy problem sets will have a variety of algorithmic design and analysis questions, and will be proof-focused
+we will have two midterms and one final
+these will be in the style of the problem sets, but shorter, so that they can be completed in one sitting
+tentatively, we will also have a programming project
+if we discuss the assignment in class, or i provide solutions, no further late submissions will be accepted
+it is assumed that you will attend every class and participate in discussion
+questions are encouraged, especially if you do not understand something
+see http://student-rules.tamu.edu/rule0
+for a list of reasons absences will be excused
+the tentative weights will be as follows: • assignments: 35% • midterm i, midterm ii, final: 20% each • participation: 5% letter grades will be assigned per 10% interval: [90%,100%] = a, [80%,90%) = b, etc
+i reserve the right to curve grades up for any assignment or for the course
+you must write up the solutions in your own words
+copying is strictly forbidden
+every assignment must be turned in with a cover page, which lists all sources you used
+course topics topics are listed below
+this is subject to change
+1
+introduction and algorithmic analysis • chapter 1: role of algorithms • chapter 2: getting started course syllabus page 3 of 6 • chapter 3: growth of functions 2
+3
+sorting • chapters 4-8 4
+advanced design and analysis techniques • chapter 15: dynamic programming • chapter 16: greedy algorithms • chapter 17: amortized analysis 5
+randomized algorithms • chapter 5 6
+graph algorithms • chapter 22: elementary graph algorithms • chapter 23: minimum spanning trees • chapter 24: single-source shortest paths • chapter 25: all-pairs shortest paths • chapter 26: max flow 8

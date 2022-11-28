@@ -1,0 +1,91 @@
+ csce 111: introduction to computer science , spring 2022 department of computer science and engineering, texas a&m university © 2016 –2022 robert lightfoot page 1 of 12 csce 111 introduction to programming concepts course syllabus wait a minute what are all of these non -computer science majors doing taking this class? i am about to reach over 1 500 students this semester in this class
+why are students taking this and why are other majors requiring it? the use of computers in every industry makes this a very good reason
+required for all students? throughout many college careers, there are classes that are required for every major
+computer science classes can help with that
+why do i teach this there are a lot of reasons this is a class i chose to teach:  i think it is fun to see a machine do exactly what i command
+ i think it is more fun to see students realize this is very doable
+ i enjoy the challenge and the reward of your success 
+ i have had a fantastic career developing software
+ i think there is so much more to come, i want to help others get ready
+ java is a fun language to teach
+csce 111: introduction to computer science , spring 2022 department of computer science and engineering, texas a&m university © 2016 –2022 robert lightfoot page 2 of 12  use java to produce software
+ understand programming in other settings, like excel or javascript 
+ feel comfortable changing their major to computer science
+course overview the computer’s role in culture has expanded from a calculating machine used by governments to the ipod as a fashion accessory, the smart phone as a compani on, and the internet as a medium of self -expression
+we inhabit a century where every job will be technical
+from “if” conditionals t o “for” loops, knowing the basics of programming allows you to understand the way the modern world works
+programming instruction teaches procedural and functional thinking, project management and time management, skills that are essential components of an empowered individual
+programming is the power to create, the power to change, and the power to influence
+programming teaches logic, algorithmic t hinking, and an iterative approach to solving problems and testing your ideas
+these skills make you smarter and are useful no matter what you do
+learning to program can be incredibly rewarding, give you a new appreciation for technology, and introduce co untless career opportunities
+catalog description using computation to enhance problem -solving abilities; understanding how people communicate with computers, and how computing affects society; computational thinking; software design principles, including algorithm design, data representation, abstraction, modularity, structured and object -oriented programming, documentation, testing, portability, and maintenance; understanding programs’ abilities and limitations; development and execution of programs
+week ly topics some of the topics to be covered in lecture periods are:  formal and natural languages
+csce 111: introduction to computer science , spring 2022 department of computer science and engineering, texas a&m university © 2016 –2022 robert lightfoot page 3 of 12  variables, assignment, printing, mental models for computers
+ conditionals, if statements
+ looping, while do loops, do while loops, flow charts
+ use a java compiler to produce executable software
+ understand the concepts of java classes and objects
+ understand the concepts of lifet ime, scope, and the initialization mechanism of variables
+ implement java code branching using if or switch statements
+ program loops with while, for, and do statements
+ make use of arrays to store and process lists of data
+ assemble data and methods into classes following the software engineering principles of encapsulation and data hiding
+ organize java code following the software engineering principles of modularity and abstraction
+ test and evaluate introductory java programs
+class meetings: this course re quires you to have a computer
+this complies with the college of engineering’s bring your own device (byod) policy 
+you will find their office hours in canvas
+grading grading will come from the accumulation of points throughout the semester
+there are a total of 1500 point s available to earn
+unlike the traditional 90% or 1350 points , you can choose from different assignments with different values to get your points
+csce 111: introduction to computer science , spring 2022 department of computer science and engineering, texas a&m university © 2016 –2022 robert lightfoot page 5 of 12 the main requirements will provide enough points to get a c in the course
+this is the minimum needed to pass
+by choosing other assignments or additional pathways , you can build your grade to the grade you want
+zybooks : (core) weekly zybooks assignmen ts account for 100 points 
+each week will have a reading to do before class and examples and challenge activities to do by the end of the week
+lab: (core) lab works, activities, and/or demos count for 100 points of your grade
+assignments: (core) weekly coding assignments account for 500 points of your grade
+more complicated assignments towards the end of the semester are weighted heavier than earlier ones
+projects: (core) projects account for 200 points of your grade
+there will be two projects with each project having multiple deliverables
+projects are team -based
+additional pathways to build your personal learning experience: 7 of the 11 categories are additional pathways that you can pick
+many of these are a great way to build a solid base of points that will get you the grade you want
+engagement and participation: engagement counts for 100 points 
+historically in my classes, those students who get full credit for engagement make the highest grades
+each week you will have several opportunities to show your engagement 
+this is one of the best ways to earn points
+most engagement points will be earned while in class
+there will be more than 100 points of opportunity to account for csce 111: introduction to computer science , spring 2022 department of computer science and engineering, texas a&m university © 2016 –2022 robert lightfoot page 6 of 12 some missed chances
+this path follows along each week of the semester
+there is no way to make up engagement
+topics will be given every week
+you will provide your thoughts on the discussion and reflect on 2 other students work
+these are online discussions in canvas that happen once p er week for the whole semester
+there will be coding challenges available for you to be able to do
+information will be posted when the challenge is available
+coding challenges is a 5 week “scenic tour” of things we have learned
+social media scavenger hunt a scavenger hunt will be worth 50 points
+information will be posted when the challenge is available
+the scavenger hunt is a small rest stop on your path that will be available early in the semester
+details will be provided
+if you would like to try this, it can add to your points
+this is another small rest stop on your path that will be available once you have lear ned enough in the class to be successful
+youtube channel a youtube channel option worth 100 points will be available as one of your assignments
+details will be provided
+if you would like to try this, it can add to your points
+the youtube option is another scenic side road that will help you show your mastery in this class
+final test (optional) a final test will be worth 100 points
+if you usually do well at test s, this will be a chance to take one
+information will be posted when the test is available, how csce 111: introduction to computer science , spring 2022 department of computer science and engineering, texas a&m university © 2016 –2022 robert lightfoot page 7 of 12 you will take it, and what it will cover
+this is a great way to make up for some things that might not have gone as planned
+it only adds to your grade and cannot reduce it
+extensions on due dates are required for any excused absences
+you may ask for these in class
+required textbook zybooks java textbook is required for this class
+to subscribe: 1
+click any zybooks assignment link in your learning management system (do not go to the zybooks website and create a new account) 2
+subscribe a subscription is $77
+students may begin subscribing on dec 27, 202 1 and the cutoff to subscribe is may 10, 202 2
+subscriptions will last until jun 13, 202 2

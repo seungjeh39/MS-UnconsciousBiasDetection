@@ -1,0 +1,50 @@
+ syllabus csce 206 structured programming in c sections 500 - 503 spring 2022 instructor ki hwan yum office: 216 peterson phone: email: yum at cse dot tamu dot edu office hours: m 11:00 am – 12:00 pm, r 1:00 pm – 2:00 pm, or by appointment zoom link: https://tamu.zoom.us/j/49210279
+lectures: mwf 12:40 pm – 1:30 pm zach 350 zoom link: https://tamu.zoom.us/j/81900424
+labs: section 500 mw 8:00 am – 8:50 am zach 598 section 501 mw 9:10 am – 10:00 am zach 598 section 502 mw 10:20 am – 11:10 am zach 598 section 503 mw 11:30 am – 12:20 pm zach 598 teaching assistants trevor bolton office hours: tr 11:00 am – 12:30 pm eabc (enter through lobby, find the whiteboard with ta names to find which cubicle he is in) email: tbolton2000 at tamu dot edu peer teachers section 500 sofia ortega (s dot ortega at tamu dot edu) section 501 sofia ortega section 502 noel john section 503 hunter baker visit https://engineering.tamu.edu/cse/academics/peer-teachers/current-peer-teachers.htm
+students will be introduced (in detail) to the “c” programming language
+kelly and c
+https://www.facultybookshelf.org/course/2449
+attendance policy : attendance at all lectures is required to ensure that each student is abreast of the informational content of the class and becomes aware of any changes to the tentative class exam, quiz, and assignment schedules as noted later in this document
+absence from a lecture is not a valid excuse to be misinformed about any class activity and the student maintains the responsibility for all course content
+working together on programming assignments can be a meaningful and real-world learning experience, but the final product submitted for a grade must be the work of the individual student submitting the material
+examinations are meant to measure the knowledge of individual students and offering to, or receiving any assistance from, a student that subverts this process will not be tolerated
+any identified incident of scholastic dishonesty will be dealt with severely and consequences may include a zero grade for the activity, course failure or dismissal from the university among others
+grading policy: course grading 1 midterm 15% 5 programming assignments 30% attendance 5% final exam 20% 5 homeworks 20% 5 quizzes 10% exams: midterm: wednesday, march 2, 2022 
+final: tba
+only with an officially approved university authorized absence will any exam makeup be considered
+prior arrangements with the instructor must be made when feasible and official verification of circumstances necessitating the absence will be required
+if you miss an exam (e.g
+midterm), your final grade will be an ‘f’
+programming assignments should be submitted on or before the due date
+final grades: final grades will be assigned as follows: 90-100 a 80-89 b 70-79 c 60-69 d below 60 f this scale may be adjusted by the instructor to reflect score variations
+pointers, arrays, and strings k&p ch 8, 9, 10 6
+structures, and linked lists k&p ch 12 chapter objectives and outcomes after having read and studied the following chapters you should be able to: chap 1: create, edit, compile and execute an introductory c program
+distinguish the use of printf and scanf for program i/o
+demonstrate appropriate use of chapter topics via student written code
+describe the need and the syntax necessary for program comments
+identify c language tokens including; reserved words, identifiers, constants, operators and punctuators
+describe the use of increment, decrement, and assignment operators
+name and describe the use of and need for conditional statements including: if, if-else, switch, and nested-if
+name and describe the use of and need for looping statements including: while, for, dowhile
+name and describe the use of and need for the break and continue statements
+chap 4: describe the benefit and need for the structured approach to programming using c functions
+describe the format of a c function
+demonstrate the appropriate use of chapter topics via student written code
+describe the use of char i/o commands getchar() and putchar()
+demonstrate the appropriate use of chapter topics via student written code
+name the integral data types and data valid for such types
+describe the syntax and use of the sizeof operator
+demonstrate the appropriate use of chapter topics via student written code
+describe the syntax and use for the dereference operator
+describe the concept of variable scope and its impact on variable accessibility
+demonstrate the appropriate use of chapter topics via student written code
+describe the need for and the declaration of single-dimension arrays
+demonstrate appropriate use of chapter topics via student written code
+chap
+chap
+demonstrate the appropriate use of recursion with student written code
+chap
+12 describe the need for and the declaration of c structures
+describe the characteristic of a self-referential structure
+describe the need for and the creation of a liner linked-list
+demonstrate the appropriate use of chapter topics with student written code

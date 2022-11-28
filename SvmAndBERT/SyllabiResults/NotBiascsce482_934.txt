@@ -1,0 +1,116 @@
+ 1/15s y l l ab u s senior capstone design effective design requires identifying the “right” problem to solve, building components that meet that problem’ s needs, and integrating components into a single solution system
+as problems become more challenging, solid design, follow through, and teamwork skills become necessary to developing a solution
+after this course, you will be able to: analyze a complex computing problem and identify solutions using computing principles, design, implement, and evaluate a computing-based solution to meet a given set of requirements, apply computer science theory and software development fundamentals to produce computing- based solutions, collaborate effectively as a member of a team, recognize professional responsibilities, both legal and ethical, and make informed judgements in computing practice, and communicate you will work in groups of 4-5 people to complete a significant engineering design project
+every project requires complete implementation, documentation, evaluation, and demonstration of a computing system design
+the focus is not only on the final product but also on design methodology , management process, and teamwork
+at the end of the semester , each group will make a public presentation describing and demonstrating their work
+why i teach this course this course of fers you a unique learning experience
+the t a and i are always especially excited to teach this course, and here is why: you finally get to combine everything that you have learned throughout your entire undergraduate curriculum
+this not only includes the computer science skills you have gained, but also the professional, cultural, and communication skills that you have developed
+this is an opportunity for you to try to solve a problem that matters to you
+this course gives you a lot of freedom and choice in your semester-long project
+this course can be the first step towards moving to the career of your choice
+2/15building a system from start to finish is fun and rewarding
+students often tell me that this was the greatest experience of their entire college career 
+working on teams can be messy , but it’ s worth it
+it is amazing what you can accomplish together , so much more than on your own
+w orking on real problems with real people has its challenges, but it is also very rewarding when you successfully complete your goals
+every semester is different, every team is different, every solution is different
+there is always something new to learn and innovate
+smaller class sizes and weekly meetings allow you to connect with your classmates and your instructor 
+about working in teams because your teammates' grades are so tightly coupled with your own dedication to the class, many of the assignments and rules are put in place to protect you and your teammates
+these include requirements to participate actively in class, complete assignments in a timely manner , and treat your classmates with respect
+weekly status update meetings: hold a weekly meeting with the course instructor and the t as during the of ficial class hours
+since the projects will be student managed, the exact nature and style of these meetings is at the group’ s discretion, e.g.
+division of tasks among group members
+3/15phone: 979-862-8877 e-mail: sthomas@tamu.ed
+help/of fice hours: email for appointment ta: yuno min e-mail: minsibo0420@tamu.ed
+help/of fice hours: directly after class or email for appointment course description project-based course to develop system integration skills for solving real-world problems in computer science; significant team software project that integrates advanced concepts across computer science specializations; projects require design, implementation, documentation and demonstration, as well as design methodology , management process and teamwork
+course learning outcomes this course will prepare you for engineering practice with a major design experience based on the knowledge and skills you acquired in earlier course work
+after this course you will be able to: analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions
+design, implement and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline
+4/15communicate effectively in a variety of professional contexts
+collaborate effectively as a member or leader of a team engaged in activities appropriate to the program's discipline
+apply computer science theory and software development fundamentals to produce computing- based solutions
+we will cover man topics including: identifying engineering problems project management tools ethics in the discipline communicating problem motivation and needs exploring existing solutions designing a computing system and user interface evaluating a computing system through user studies and benchmark testing analyzing and interpreting data communicating and summarizing results, both written and orally textbook and/or resource materials required: design of everyday things
+docid=1167019) (basic books 2013)
+patrick m
+(jossey-bass, 2002)
+abet accreditation information this course is evaluated every year through the abet (accreditation board for engineering and technology) accreditation process
+y our degree is a significant achievement and perhaps the largest investment you will make toward your future
+establishes your eligibility for many federal student loans, grants, and/or scholarships
+each of those skills will be evaluated by external industrial af filiate members during your final presentation
+although the bulk of your grade is based on the performance of your team, individual performance will also be gauged
+if you are taking this class, participate appropriately , resubmit and fix your work 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+grading components: your grade for this course reflects your mastery of course material and is determined by multiple components
+note that you will not receive a passing grade in the class if you do not have a tested and working system by the end of the semester 
+component percentage written communication elements 20% oral communication elements 15% final deliverables and individual contribution30% project management 5% testing 15% status updates 5% daily quizzes 2% peer feedback and peer evaluation3% ethics 5% total 100% written communication elements - 20%: you will have several technical writing assignments including (but not limited to) problem formation, related literature review , project proposals, documentation, and your final report
+y our writing will be critiqued on its thoroughness and effectiveness in communicating key aspects of your system such as its motivation, approach, evaluation, and engineering standard
+y our d ocumentation will be critiqued on its completeness to properly execute and understand the details of your system
+some assignments will require you to incorporate peer feedback to refine your work
+oral communication elements - 15%: you will have several presentation assignments including (but not limited to) a critical design review , a final presentation, and demonstrations
+y ou will have opportunity to practice presenting both posters and more formal slide presentations
+some assignments will require you to incorporate peer feedback to refine your communication
+7/15you with extra practice in communicating your work and responding to external feedback
+y our final presentation will be to the instructors and industry panelists on the reading day before finals 
+you will also give live system demonstrations to the instructors in class at multiple points in the course
+final deliverables and individual contribution - 30%: you will complete several deliverables including fully documented code, evaluation materials, final report with user manual, final updated oral presentation slides, final updated poster , and video advertisement
+y ou will also conduct a live demonstration of your project
+final deliverables 1
+team drive files including the following (please organize into folders, e.g.
+designs: code, schematics, data, data sheets, freeware software tools, etc
+reports: proposal, weekly reports, final report, and all presentations 3
+audiovisual media: close-up pictures of your system and a high-quality video presenting your project (including a system demo and a project description) for posterity (see gallery in the course webpage for movie samples)
+presentation posters: in pdf and ppt format 5
+individual assignments: in pdf format 2
+keys, books, equipment) have been returned to their proper location or their owner , and the workstations in the lab have been thoroughly cleaned up
+all final deliverables are due on the last day of class at 1 1:59 pm
+project management - 5% : you will create project management artifacts specific to your chosen software development methodology 
+for example, teams using agile development will provide a product backlog, sprint backlogs, and burn-down charts while teams using w aterfall will provide a requirements specification, a software architecture design, and a gantt chart
+all teams will specify team member roles and produce user stories
+you will 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+8/15also have user acceptance testing through a user study to evaluate your system's ability to solve your problem
+status updates - 5%: you will submit weekly status update reports, both individually and as a team, and hold a weekly status update meeting with your entire team and your instructors
+daily quizzes - 2%: every class (including the first class) will start with a 10-minute quiz
+the quizzes will include material about your assignments, questions about your design choices, and knowledge that you should have gained from your past computer science courses
+research has repeatedly shown that the act of quizzing imparts more knowledge than lecturing or studying
+this course is your final course in your computer science degree and should provide you with the capability to put all of your skills together and communicate those capabilities ef fectively 
+peer feedback and peer evaluation - 3%: peer feedback of others' work is crucial
+it is important that your feedback is of high quality 
+you will give feedback to your peers regularly throughout the semester on their project ideas, written work, and presentations
+in addition, each member of your project team will score the performance of your other team members at multiple points throughout the semester 
+you will use these peer evaluations to adjust how you interact and collaborate in your team
+ethics - 5%: you will complete various activities and assignments to explore the ethics in the discipline
+class participation: the instructors will evaluate your attendance to meetings, participation in the discussions, and contributions to the team
+note that team days in which teams may need to work in a remote location to accomplish certain assignments (e.g.
+presenting your work at a conference or sr w, interviewing experts, meeting with mentors, accessing technologies outside of the classroom, etc.
+submission of assignments: all assignments will be turned in electronically though canvas (https://canvas.tamu.edu/
+email submissions will not be accepted
+1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+assignments will be considered late after their posted deadline but will be accepted
+late assignments will receive a grade reduction of 10% per day late with a maximum reduction of 30%
+course schedule below is the planned but tentative schedule of topics and major projects for the course
+all assignment and project details will be communicated on canvas (https://canvas.tamu.edu/
+weeks course phases major deliverables 1-3introduction, t eam formation, and project ideation you will learn how to identify and formulate an engineering problem, how to survey existing related work, how to use design thinking to create innovative solutions to your problem, and how to define project success
+y ou will also explore elements of good and bad design
+y ou will practice communicating your problem's motivation and user needs, create a project management plan based on software development methodologies, and complete ethics training.finalize
+project proposal and plan (due by end of week 3) 4-5project design and skill development you will learn how to create user stories and usage scenarios and how to ef fectively prototype and test dif ferent interface designs
+y ou will participate in rapid user studies with peers on initial lo-fi prototypes, identify design moves in response, and create a final system design
+y ou will also complete a literature review tailored for your project that places your work in the context of existing work and practice communicating your solution and design
+submission of final report elements (various, see canvas assignments) 6-11project development you will implement your system design following standard software development methodologies and using t amu github for version control
+y ou will submit a new code release and demo your project to the class every 2 weeks.full
+10/15you will also submit weekly status updates, hold weekly update meetings, and continue to participate in peer evaluations
+at the end of this phase, you will have a full working system implemented and be ready for system evaluation
+12-13project evaluation you will thoroughly test your system's functionality according to your evaluation plan
+y ou will also conduct a user study and analyze collected data to evaluate the success of your system
+y ou will communicate results from these two types of evaluations in your final report
+y ou will continue to submit weekly status updates, hold weekly update meetings, demo your project to the class, and participate in peer evaluations.full
+evaluated system (due by end of w eek 13) 14project finalization you will complete your final report and finish preparing all final deliverables (see grading components above)
+y ou will practice communicating your problem, solution, and results to the class
+y ou will submit your last weekly status update and participate in your last peer review .complet
+final deliverables (due on last day of class by 11:59pm ) final presentations to iap members ( on final reading day) university and course policies inclusion statement in this class we are committed to a culture of inclusivity 
+as martin luther king jr 
+said, “injustice anywhere is a threat to justice everywhere.
+course copyright the materials used within this course are copyrighted
+these materials include, but are not limited to, the syllabus, quizzes, assignments, activity descriptions, online content, course videos, audio and visual recordings of classes, etc
+because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted

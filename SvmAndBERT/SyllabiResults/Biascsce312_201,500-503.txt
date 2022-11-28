@@ -1,0 +1,50 @@
+ syllabus csce 312-201h/500-503 computer organization spring 2022 (all course materials are on canvas) instructor eun jung (ej) kim email: ejkim at cse.tamu.ed
+tel: 979-845-3660 office: h
+bright building (hrbb) 338b office hours: zoom link on canvas teaching assistant sunyoung kim email: spark8433@tamu.ed
+lectures csce312: tr 11:10-12:25 124 h.r
+bright bd
+these objectives will be met through lectures, challenging assignments, regular quizzes, and a final examination
+you should have a clear understanding of data structures, including list, stacks, and queues
+your familiarity with recursion and exposure to complexity analysis are desirable
+textbook • primary textbook: computer systems: a programmer’s perspective, randal e
+bryant and david o’hallaron, 3rd ed, prentice hall, 2015, isbn 10:0-13-409266-x companion site: http://csapp.cs.cmu.edu
+• text for logic design: digital design, 2nd ed, by frank vahid, wiley publication, 2010 second edition companion site: http://bcs.wiley.com/he-bcs/books?action=index&itemid=0470531088&bcsid=556
+it is highly recommended to be familiar with the material ahead of the corresponding lecture
+this course will focus on the topics shown below, which may not be covered in this order, or at all, if time does not permit it
+course topics and corresponding textbook chapters week topics reading materials chapter numbers milestones 1-2 computer systems bryant ch
+q1, hw1, hw2 5-7 machine language bryant ch
+3 q2, hw3 7-10 processor architecture bryant ch
+4 q3, hw4, project1 10-12 memory hierarchy bryant ch
+6 q4, hw5 12-13 virtual memory bryant ch 10 q5 14 system level i/o bryant ch 10 project2 15 review final exam 3 grading scheme and course requirements 3.
+some material covered in the lectures may not be found in the textbook or the slides
+missed exams, quizzes and class presentations may be made up only for a university-excused absence
+3.
+the grade will be computed as follows: course grading projects 15% pop quiz/homework 15% laboratory assignments 20% quizzes 25% final exam 25% extra credit assignments and extra credit for significant class participation may be offered
+letter grades will be assigned as follows: 90-100% a, 80-89% b, 70-79% c, 60-69% d, < 60% f
+note that there is no mid-term exam
+the quizzes and final exam will be closed book and closed notes (unless otherwise stated)
+the nature of the course material is such that the final exam must be cumulative
+laboratory exercises: labs are intended to prepare you to tackle the projects, and you will typically be able to complete labs during the assigned lab period
+to obtain credit for a lab you typically must obtain a “check-off” from your teaching assistant, signifying that you completed the work during the scheduled lab time
+a written proposal and a final report will be required
+the correct approach is to start working on assignments as early as possible and contact us when you encounter difficulties
+3.
+deadline policy turn in all work by the established deadline
+late work can be accepted only under circumstances beyond student's control and after arrangement with the ta or instructor, prior to the deadline
+it will always be better to turn work in by the deadline, as trying to "perfect" it and turning it in late will give you no points at all
+3.
+submission of work and late submission policy all assignments/deliverables must be submitted electronically, by the due date and time, using the turn-in procedure on csnet
+a student will earn points when he/she submits the assignment on time, by the partial credit policy
+note that emailsubmissions will not be accepted (they will be ignored without notice)
+you have to follow the submission and media policies and guidelines published on the course web site
+in general, late submission will be penalized with a loss of 25% of the total points earned per day late
+3.
+to request re-grading you have to follow the guidelines below
+re-grading requests must be submitted at most one week after the item has been graded and returned to the student and solutions have been made public
+re-grading requests must be as specific as possible and must be accompanied by a reasonable amount of justification and documentation
+3
+e-mails must be sent to tas and the instructor within the one week time limit
+3.
+excused absences and make-up policy make-ups for assignments and exams will be given only for university-excused absences
+prior arrangements with the instructor must be made when feasible and official verification of circumstances necessitating the absence will be required, as permitted by the texas a&m university student rules (http://student-rules.tamu.edu)
+3.

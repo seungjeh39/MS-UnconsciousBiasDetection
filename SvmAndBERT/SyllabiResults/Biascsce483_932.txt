@@ -1,0 +1,53 @@
+ csce 483 syllab us 1/9 syllabus course information course number: csce 483, spring 202 2 course title: computer systems design section: 932 time: mon day and wednes day 3:00 pm to 3:25 pm lecture 3:30 pm to 6:00 pm lab location: eaba 121 credit hours: 3 instructor details instructor: rabi mahapatra office: 217 petr phone: 979-845-5787 e-mail: rabi at tamu.ed
+website: https://codes.engr.tamu.edu/rabi
+every project requ ires complete implementation, documentation and demonstration of a hardware/software system, which has to involve a hardware component
+group members are required to keep individual lab notebooks recording their efforts and their personal impressions of the project
+every team is required to schedule a weekly meeting with the course instructor and the tas, preferably csce 483 syllab us 2/9 during the official class or lab hours
+these meetings must be attended by every group member 
+since the projects will be student managed, the exact nature and style of these meetings is at the group’s discretion
+however, every member of the group is expected to participate
+course prerequisites senior classification; csce 315, csce 462, ecen 325, and senior classification
+special course designation fulfills a writing/communication requirement for graduation
+as a result, the aggregate score of the written reports must be a passing grade in order to get a grade in the course
+course learning outcomes it is expected that successful participation in the course w ill allow the student to demonstrate: • an ability to apply knowledge of mathematics, science, and engineering (3.a
+• an ability to design and conduct experiments, as well as to analyze and interpret data (3.b
+• an ability to function on multi -disciplinary teams (3.d
+• an ability to identify, formulate, and solve engineering problems (3.e
+• an understanding of professional and ethical responsibility (3.f
+• an ability to communicate ef fectively (3.g
+• an ability to use the techniques, skills, and modern engineering tools necessary for engineering practice (3.k
+moreover, course -specific outcomes are 1
+understand the basic of project management including: statements of work, work break -down structures, critical path identification, distribution of tasks, project tracking and status reporting; be able to generate status reports; 3
+understand professional communication methods and techniques including formal reports and presentations; 4
+to rigorous ly define design requirements for potential solutions
+understand and incorporate engineering standards and multiple realistic constraints that include most of the following considerations: economic, environmental, sustainability, manufacturability, ethica l, health and safety, social and political
+supplemental: technical material from the literature, manufacturer’s data sheets and user manuals
+thus, both continued progress (th e process) and the quality of your product (and other deliverables) will determine your grade
+a template for the proposal report and a presentation rubric are available on the course webpage
+each team submits a weekly report, which should be incremental and should specifically address the following: 1
+accomplishments need to be measurable, e.g
+the cdr grade will be based on the qu ality of your design (75%) –as reflected on your oral/poster presentation and written report, and on the degree to which you have a complete design (25%)
+4
+final reports should have a discussion of constraints that the team had to satisfy (e.g.
+cost, time, te chnology csce 483 syllab us 4/9 limitations) and of relevant industry standards used (e.g.
+this earlier deadline ensures that teams have time to (i) thoroughly test and validate their systems after the demo, and (ii) prepare the final presentation
+team work (10%) : it is ver y important to understand that accomplishing the technical objectives of the project is not sufficient
+these accomplishments should not come at the expense of destroying relationships among team members
+thus, a grade will be assigned based on the ability of the group to function as a team
+is there evidence that the group engaged in team building activities? were contributions to the project evenly distributed? were members equally engaged in discussions during meetings? was there an effective divisio n of responsibilities? note: the work should be done primarily in the lab and as a group, regardless of whether you can perform your task assignments individually elsewhere
+a regular work schedule should be included in the proposal, showing the times when the team will meet in the lab to work on the project (in addition to meeting times)
+7
+individual performance (30%) : points in this category are awa rded based on assessments of your personal contribution to the team efforts: 1
+notebook (10%): you are required to maintain an individual design notebook to collect any information relevant for the project, including ideas, references, designs, and discussio ns
+your notebook will be graded based on: 1
+the evidence of engineering design (e.g.
+the regularity of your entries during the semester, and 3
+each student is also required to pass a teamwork quiz with a score of 75 or higher (see tentative schedule); failure to do so will result in a 5% penalty on the final grade
+3
+peer reviews should be submitted to the ta no later than 8am of the due date
+all team members are required to be present at the time of the final delivery
+o it should include a plain text readme file that documents the list of contents
+cost, time, technology limitations) and of relevant industry standards used (e.g.
+document preparation all major documents (proposal, cdr, and final documentation) should contain a title page, an outline, as well as clear section and subsection headings, etc
+course schedule week date classroom meeting materials due 1 1/19 kickoff lecture introduction 1/24 kickoff lecture resumes 2 1/26 kickoff lecture teams are formed 2/02 kickoff lecture 3 2/07 kickoff lecture teamwork quiz 2/09 kickoff lecture 4 2/14 2/16 proposal presentations 5 2/21 proposal presentations proposal report, peer review 1 2/23 6 2/28 3/02 7 3/07 3/09 csce 483 syllab us 6/9 8 3/14 spring break 3/16 cdr presentations 9 3/21 cdr presentations 3/23 cdr presentation cdr report
+more information can be found at https://writingcenter.tamu.edu

@@ -1,0 +1,15 @@
+ jianer chen office: petr 428 phone: 979-845-4259 e-mail: chen@cse.tamu.ed
+(best way to contact) office hours: mwf 10:30 – 11:30 pm; other times by appointment teaching assistant: xxx yyyy e-mail: xxyy@tamu.ed
+course prerequisites csce 433: csce 315 or approval of instructor
+csce 627: catalog states csce 433, but this is not necessary
+for both courses, the actual prerequisite is a basic class in data structures and algorithms, such a s csce 221 or equivalent, and a basic class in discrete mathematics, such as csce 222, math 302 or equivalent
+exams and homeworks will be customized with some parts only for csce 433 students and som e parts only for csce 627 students
+errata list is here: https://math.mit.edu/~sipser/ito
+-errs3.1.htm
+learning management system: we will use canvas (canvas.tamu.edu
+• homework assignment: 3 6%, midterms: 15% each, final exam: 3 4%
+academic integrity discussion of concepts with others is encouraged, but all assignments must be done on your own, unless othe rwise instructed
+if you use any source, you must reference it, whether it be a person, a paper, a book, a solution set, a webpage or whatever
+make -up assignments will only be available for university -excused absences; s ee student rule 7, attendance ( http://student - rules.tamu.edu/rule0
+chap 5 14: apr 18 -22 complexity theory, np -completeness chap 7 15: apr 25 -29 np-completeness (cont.
+, space complexity chap 7, 8 16: may 2, 3 space complexity (cont.

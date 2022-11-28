@@ -1,0 +1,49 @@
+ csce 313 – introduction to computer systems spring 2022 course logistics 1
+time and place a
+course content: canvas ( https://canvas.tamu.edu/courses/13777
+instructor : aakash tyagi, tyagi@cse.tamu.ed
+a
+teaching staff: role : graduate ta’s and undergraduate peer teachers will conduct the labs and qna 
+a
+graduate ta’s i
+ii
+undergraduate ta’s i
+ii
+sravan sriram ssravan360@tamu.ed
+c
+peer teachers (listed on peer teachers central site ) 6
+although some amount of buffer planning has been buil t-in to the schedule, we will respond to situation ‘on the ground’ and respond as dictated by the over -arching goal of maximizing learning and assimilation
+more specifically, by the end of this course we should be fairly good at making full use of the services provided by the underlying operating system by programming directly at the operating system interface level
+• parallel and distributed computing books (not required for purchase) there is no required textbook for this class : the course material is assembled from multiple sources (books, existing courses, conversation with experts, and published research)
+however, the following list of books are most referenced in the assembled material for those who’d like an additiona l source of material to supplement lectures
+• primary o [ospp ] operating systems: principles and practice, 2nd edition, thomas anderson and michael dahlin, recursive books, 2014 (here ) o [ostep ] operating systems: three easy pieces
+richard stevens and stephen a
+bryant and david r
+given the university requirements for the prescribed format of this course, the labs will not be conducted over zoom so if you are unable to be in college station physically, you may need to defer this course to a later semester
+there will be 6 programming assignments (pa 0-5) assigned roughly on a bi -weekly basis
+exams (midte rm and final ) = 40% (midterm=22%, final = 18%) 2
+online -take -home quizzes ( 20+) = 6% the grading scale is as follows: • 90-100: a • 80-89: b • 70 – 79: c • 60 – 69: d • 59 and below: f late submission policy – subject to change exam and quiz late policies are stringent and fairly straightforward • exams : no exception without prior e-mail approval from the instructor 
+below , a general philosophy is presented
+we are also affected by our environment - last minute surprises can come, health, etc
+exams there will be one midt erm and one final examination
+both exams will be offered online on canva s with required in -person attendance during designated lab session
+those with accommodations from the department of disability resources (link ) must arrange to take the exam at the center
+any exceptions to the above must be obtained from the instructor well in advance with proper justification via e -mail
+the course master calendar will contain the exam dates and they will also be communicated in teams and canvas well in advance
+please refer to the document “ csce313 how do i setup microsoft teams ” available on canvas in student r esources module 
+teaching staff support it is important to lay out broad expectations for support as follows based on the roles: your instructor will be on hand to answer queries on lectures and practice questions, offer mentoring, and conduct quiz/exam review sessions/support
+their time is best spent on providing clarifications on assignments and offer detailed feedback on coding quality and organization
+riccardo bettati, dr
+guofei gu, dr
+dmitri loguinov of texas a&m university, dr
+avi silberschatz (yale), dr
+michael dahlin (google), drs 
+randall bryant and david o’hallaron of cmu, drs
+anthony joseph and david culler of uc berkeley, dr
+snoeren (ucsd)
+bettati and ahmed for making their entire course content available for use in this semester offering, especially because the instructor is returning to teach this course after a nearly 4+year hiatus
+during spring 2016, a small number of enterprising undergraduate students took the daunting task of working with the instructor and (then ta) prof
+ahmed in his fall 2016 csce -313 course and resulting student feedback was rolled in to the spring 2017 offering, and improved ever since
+the lion’s share of contributions was made by andrew kirfman an d joshua higginbotham, both former csce undergraduate students
+and finally, a note for the sake of ou r health and well -being: to help protect aggieland and stop the spread of covid -19, texas a&m university urges students to be vaccinated and to wear masks in classrooms and all other academic facilities on campus, including labs
+covid -19 vaccines and masking — regardless of vaccination status — have been shown to be safe and effective at reducing spread to others, infection, hospitalization, and death

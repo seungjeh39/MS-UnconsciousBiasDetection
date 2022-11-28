@@ -1,0 +1,30 @@
+ course s yllabus course information course number:vist 477, viza 677, csce 446, csce650course title:virtual realitytime:tuesday/thursday 8am to 9:15amlocation:langford c room 207credit hours:3 instructor details professor:jinsil hwaryoung seoe-mail:hwaryoung@tamu.eduoffic
+hours:by appointment course description this course covers the theory and practice of virtual reality (vr)
+page1of9 course s yllabus course prerequisites students are expected to have some experience with computer programming and 3d graphics tools priorto taking this course
+while the course has no official prerequisites, recommended experience includestopics covered in courses such as vist 271, csce 221, or csce 441
+students who are uncertain of theexpected level of technical proficiency are encouraged to contact the instructor to discuss specifics.experienc
+unity, unreal,processing, opengl) is recommended
+familiarity with concepts of human-computer interaction,aesthetic design, and mathematical functions is also recommended, but experience with all is notrequired
+course learning outcomes •produce interactive 3d virtual environments and 3d interaction techniques•develop immersive virtual reality applications with a team•characterize and describe virtual reality systems in terms of display properties and interactiontechniques•evaluate virtual reality applications in terms of design, purpose, benefits, and limitations•review and organize past and current virtual reality techniques and knowledge•analyze the response users have to your developed project•identify sources of information outside the classroom that can be helpful for the design problems andtechnical problems presented in class.•analyze
+there is no required textbook for the course, but the recommended textbook willcomplement the topics covered in the course
+joseph j
+laviola jr.
+ernst kruijff, ryan p.mcmahan
+doug bowman, ivan p
+individual activities 20% exams 20% team project 45% final paper 10% peer evaluation 5% total: 100 individual activities students will participate in individual activities that contribute to their ﬁnal grades
+to prepare for this, students will be assigned a research paper on their assigned topic
+this includes the following: concept/design ●background research and writing assignments ○design document page3of9 course s yllabus ■concept art ■interaction flow charts ■core mechanics ○literature review ■existing projects ■related studies ■subject matter research production ●build out prototype of team’s project ●add art and features ●develop finished “vertical slice” of the project evaluation ●develop user study plan ●create a video presentation and a research paper teams will be responsible for the timely submission of milestones and final deliverables
+the actual grading criteria will be related to these categories but will be more specificin nature
+f: 59 and below:the student work is unresolved; theintentions are unclear and major criteria or goalslack resolution
+presentation is incomplete and/or of poor quality
+there is a complete lack of problemsolving, creative content and/or technical merit
+page4of9 course s yllabus d: 60 -69:the solution has problems in two or moremajor areas; skill and design development ismarginal or incomplete
+presentation and design content is good;program requirements are fulfilled but in need of more refinement or development
+the assignment’s potential has been achieved
+contributes ideas to the group3
+gives input for work in progress5
+individual contribution late work policy ●late work will have 10 points deducted for every day that it is late
+work submitted by a student as makeup work for an excused absence is not considered late work and isexempted from the late work policy (student rule 7)
+students should report any known future absences at least one week prior to the absence
+any graded class activities missed (e.g.
+exams, presentations, homework submissions) during unapproved absences cannot be made up without the instructor’s prior approval and a valid excuse

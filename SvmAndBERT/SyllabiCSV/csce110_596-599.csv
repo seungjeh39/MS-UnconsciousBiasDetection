@@ -1,0 +1,24 @@
+id,keyword,location,text
+1,,,"syllabus csce 110 programming i sections 596 - 599 spring 2022 instructor ki hwan yum office: 216 peterson phone: email: yum at cse dot tamu dot edu office hours: m 11:00 am – 12:00 pm, r 1:00 pm – 2:00 pm, or by appointment zoom link: https://tamu.zoom.us/j/49210279"
+2,,,lectures: mwf 3:00 pm – 3:50 pm online zoom link: https://tamu.zoom.us/j/70908334
+3,,,labs: section 596 mw 8:00 am – 8:50 am zach 592 section 597 mw 9:10 am – 10:00 pm zach 592 section 598 mw 10:20 am – 11:10 am zach 592 section 599 mw 11:30 am –12:20 pm zach 595 teaching assistant prajwal das office hours (online): tr 12:40 pm – 1:40 pm link: https://tamu.zoom.us/j/94806341298?pwd=qu9tnuvlsjnxbhc0nkjyynbhtzm2zz0
+4,,,email: prajwaldas95 at tamu dot edu peer teachers section 596 irene masabarakiza section 597 mohona ghosh section 598 hunter baker section 599 isabel fernandez visit https://engineering.tamu.edu/cse/academics/peer-teachers/current-peer-teachers.htm
+5,,,for detailed information course description : this is an introductory course designed for any student interested in using computation to enhance their problem-solving abilities
+6,,,no prior experience in programming is necessary
+7,,,students will use their problem-solving abilities to implement programs in python
+8,,,learning objectives - develop a basic understanding of programming and the python programming language
+9,,,- see the value of programming in a variety of different disciplines—especially as it relates to your other college courses
+10,,,- appreciate the value of experimentation
+11,,,- be comfortable with the fact that there is more than one right solution to a problem
+12,,,course material and announcements - class lectures: the material that you will need for this class will be presented in the online class lecture
+13,,,"thus, it is extremely important that you attend every class"
+14,,,"- canvas: course announcements, lecture materials, and class handouts can be found on canvas"
+15,,,you are responsible for consulting canvas regularly for course updates
+16,,,- course topics : the major topics that will be covered during the 15 week semester are as follows
+17,,,each topic will be explored with numerous in-class examples followed by practice with lab assignments
+18,,,"• what is programming? why is it important? • simple input/output (input, print) • variables and expressions • collective data structures (strings, lists, tuples, sets, dictionaries) • decision-making statements (if, if/else, if/elif/else) • repetition / loops (while, for) • randomness • functions • simulation • file-processing • binary numbers • visualization (turtle) required text : there is no textbook for this course"
+19,,,"however, there are many good references that are available online that you may find helpful while studying the material"
+20,,,• think python 2nd edition by allen b
+21,,,downey http://greenteapress.com/wp/think-python-2e
+22,,,• fundamentals of python first programs 2nd edition by kenneth a
+23,,,lambert also check https://www.facultybookshelf.org/course/2449

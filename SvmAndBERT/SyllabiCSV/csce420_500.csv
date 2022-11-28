@@ -1,0 +1,56 @@
+id,keyword,location,text
+1,,,page 1 of 7 syllabus course information course number: csce 420 course title: artificial intelligence section: 500 time: tr 3:55-5:10 location: 124 hrbb credit hours: 3 cr
+2,,,course web page: https://people.engr.tamu.edu/ioerger/cs42
+3,,,-spr22/index.htm
+4,,,instructor details instructor: thomas r
+5,,,ioerger office: 438 peterson building e-mail: ioerger@cs.tamu.ed
+6,,,"course description fundamental concepts and techniques of intelligent systems; representation and interpretation of knowledge on a computer; search strategies and control; active research areas and applications such as notational system s, natural language understanding, vision systems, planning algorithms, intelligent agents and expert systems"
+7,,,course prerequisites csce 411 or approval of instructor special course designation none course learning outcomes list one or more learning outcomes for the course
+8,,,a learning outcome is a statement regarding what the student will know or be able to do upon successfully completing the course
+9,,,it must be both observable and measureable
+10,,,the outcomes may include competencies developed in the course
+11,,,additional assistanc e with learning outcomes is available through the center for teaching excellence and the office of institutional assessment 
+12,,,"after completing this class, students should be able to do the following : 1"
+13,,,design and implement intelligent search methods for building complex problem -solving programs
+14,,,page 2 of 7 1
+15,,,formulate computational problems as search tasks 2
+16,,,describe how various search algorithms work and explain differences in their space- and time -complexity 3
+17,,,design heuristics to improve efficiency of search 2
+18,,,use knowledge representation methods for adding knowledge -based reasoning in programs
+19,,,1
+20,,,be able to encode rules and information in propositional and first -order logic 2
+21,,,implement inferenc e algorithms to extract deductions from a knowledge base 3
+22,,,represent and reason about uncertainty using bayesian probability 3
+23,,,implement intelligent decision -making methods in a program 1
+24,,,generate symbolic plans to achieve goals autonomously using planning algorithms 2
+25,,,"use utility theory to make decisions for intelligent agents textbook and/or resource materials russell, s"
+26,,,"and norvig, p"
+27,,,(20 21)
+28,,,artificial intelligence: a modern approach
+29,,,4th edition
+30,,,pearson 
+31,,,grading policy the overall score for the course will be a weighted combination of the following components: • 50% for 6 assignments (worth 5- 12% each) • 25% for exam i • 25% for exam ii (non -comprehensive) the final grade will be determined from the weighted -average total as follows: • a: 90- 100% • b: ≥ 80% and < 90% • c: ≥ 70% and <8 0% • d: ≥ 60% and <70% • f: < 6 0% grades will be posted on canvas
+32,,,late work policy the penalty for late assignments is -5% per day ( pro-rated over 24 hours)
+33,,,late work is defined as submitting a deliverable after the established deadline
+34,,,work submitted by a student as makeup work for an excused absence is not considered late work and is exempted from the late work policy (see student rule 7 )
+35,,,"page 3 of 7 programming assignments in addition to 3 written homeworks, t here will be 3 programming assignments throughout the semester"
+36,,,the programming assignments will be done in c++ (individually)
+37,,,students are expected to be proficient in c++
+38,,,the code for course projects will be submitted via github.tamu.edu
+39,,,"students will have to create a (private) repository for this class, and then share that with the instructor and ta by making them collaborators "
+40,,,the date and time studen ts turn in each project will be determined by the timestamp of their commits on their files
+41,,,it is the student's responsibility to learn how to use git well enough to commit their code ( along with reports and other materials to required turn in) and push i t to the github.tamu.ed
+42,,,server by each deadline
+43,,,course schedule week 1 overview of ai ; core concepts week 2 search algorithms (ch
+44,,,3) week 3 heuristic search (ch
+45,,,3) week 4 iterative improvement (ch
+46,,,4 ) week 5 adversarial (game) search (ch
+47,,,5) week 6 constraint satisfaction (ch
+48,,,6) week 7 propositional logic (ch
+49,,,7) week 8 inference algorithms (ch
+50,,,"7) week 9 (spring break , mar 14 -18) week 10 first -order logic (ch"
+51,,,8) week 11 inference in fol (ch
+52,,,9 ) week 12 prolog week 13 default reasoning and uncertainty (ch
+53,,,"12 ,13.1"
+54,,,week 14 planning (ch
+55,,,11) week 15 intelligent agents (ch

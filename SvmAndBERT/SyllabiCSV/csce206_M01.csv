@@ -1,0 +1,50 @@
+id,keyword,location,text
+1,,,syllabus course information course number: csce 206 course title: structured programming in c term: spring 2022 section: m01 time: lecture:mwf12:40 pm – 01:30 pm lab:mf01:50 pm – 02:40 pm location: hecm 115 credit hours: 4 instructor details instructor: dr
+2,,,aldo jonathan munoz-vazquez office: 218.
+3,,,phone: 956-271-1358 e-mail: aldo.munoz-vazquez@tamu.ed
+4,,,"office hours: tr: 10:00 am – 12:00 pm, or by appointment"
+5,,,"course description this course addresses principles of computer science, including algorithm development, programming techniques, language features, and methods of documentation"
+6,,,students will be introduced (in detail) to the “c” programming language
+7,,,course learning outcomes read and comprehend c language programming
+8,,,"design, write, and debug programs in c"
+9,,,reading and writing of text and binary files in c
+10,,,"recommended text book [1]c by dissection: the essentials of c programming, 4th ed."
+11,,,kelly a
+12,,,& pohl c.
+13,,,2001
+14,,,"isbn-10: 0201713748, isbn-13: 978-0201713749 additional references [1]c primer plus, sixth edition, stephen p."
+15,,,2014
+16,,,"isbn-10: 0-321-92842-3, isbn-13: 978-0-321-92842-9 [2] c programming language, 2nd edition, kernighan, b"
+17,,,"& ritchie, d."
+18,,,1988
+19,,,"isbn-10: 0131103628, isbn-13: 978-0131103627 spring 2022 syllabus [3] c programming: a modern approach, 2nd edition, king."
+20,,,k.n.
+21,,,2008
+22,,,isbn-13: 978-0393979503 isbn-10: 0393979504 grading policy attendance andquizzes 5% homework 15% laboratories 20% exams 60% ------------------------------------------------- a: 90 – 100%; b: 80 – 89%; c: 70 – 79%; d: 60 – 69%; f: < 60%
+23,,,attendance – attendance is recommended due to the constant coverage of information in the course
+24,,,the student is responsible for obtaining information from missed classes
+25,,,"quizzes will be given to students during some classes to allow a better understanding of discussed topics, and some of the quizzes can be annotated and graded"
+26,,,homework – homework assignments will be placed on canvas
+27,,,"homework consist on programming assignments, as well as their description"
+28,,,homework due dates are given with assignment
+29,,,a homework is turned in class the day it is due
+30,,,late is considered after class ends
+31,,,"all late assignments will lose 30% of their value from the first day to one week after the due date, and no submission will be accepted after that"
+32,,,please give proper notice if expected to miss a homework
+33,,,make up homework is only possible with approval given a university excused absence
+34,,,labs – students will work in teams for each lab exercise
+35,,,a lab grade is comprised of demonstrating working lab exercises and a lab report
+36,,,one lab report per group will be submitted
+37,,,all demonstrations of working lab exercises and lab reports are due by the beginning of the next lab
+38,,,no late demonstrations or reports will be accepted
+39,,,a failing lab grade will result in a failing course grade
+40,,,"if lab cannot be attended, student is required to give notice so that a makeup lab can be given accordingly"
+41,,,"if makeup lab is not completed in a timely manner, a late grade to the lab will be assigned, and re-submission will be refused"
+42,,,exams – two mid-term exams and a final are given
+43,,,all exams will be weighted equally
+44,,,"a reference sheet (if needed) will be given, calculators are allowed during the exam"
+45,,,mid-terms exams dates may change depending at the discretion of the instructor
+46,,,the final exam is based on tamu finals schedule
+47,,,"please give proper notice if expected to miss an exam, or if an exam is missed"
+48,,,make up exam is only possible with approval given a university excused absence
+49,,,"spring 2022 syllabus course topics, calendar of activities, major assignment dates weeklecture mwf 12:40 pm – 01:30 pmlab tr 01:50 pm – 2:40 pm 1c language and programming methodology lab 0: safety and overview 2structure of a c program, data types, variables and syntax lab 1: hello aggies! 3input/output functions, operators and expressions lab 2: data types 4conditionals: if-else and switch-case lab 3: conditionals 5loops: for, while, and do-while lab 4: loops 6mid-term i no lab this week 7functions: arguments and declaration lab 5: functions 8structures, unions and enumerations lab 6: structures 9storage classes lab 7: storage classes 10dynamic memory allocation lab 8: malloc() and free() 11mid-term ii no lab this week 12arrays lab 9: arrays 13pointers lab 10: pointers 14binary files no lab this week final exam relationship of course to abet criterion 3 student outcomes: outcome 2: an ability to design systems, components, or processes meeting specified needs for broadly-defined engineering problems appropriate to the discipline"

@@ -1,0 +1,31 @@
+ 12/16/21, 3:19 pm syllabus: 22 spring csce 222 501: discrete struc computing https://texasam.instructure.com/courses/136448/pages/syllabu
+course prerequisites math 151 special course designation 12/16/21, 3:19 pm syllabus: 22 spring csce 222 501: discrete struc computing https://texasam.instructure.com/courses/136448/pages/syllabu
+they will have a basic understanding of models of computation
+textbook and/or resource materials discrete mathematics and its applications , 8 edition, kenneth h
+isbn-13: 978-1259676512 isbn-10: 125967651x canvas: https://canvas.tamu.ed
+(https://canvas.tamu.edu
+usp=sharing) (must use t amu google account to access) latex references (the not so short) introduction to lat ex (http://faculty.cse.tamu.edu/hlee/csce222/lshort.pdf
+(skim chapter 1 and study chapter 3) short math guide for lat ex (http://faculty.cse.tamu.edu/hlee/csce222/downes-short-math
+comprehensive lat ex symbol list (http://faculty.cse.tamu.edu/hlee/csce222/latexsymbols
+grading policy quizzes: 25 points each (x10, but only top 8 counted) homeworks: 20 points each (x13, but lowest three dropped)
+your assignments must be submitted in lat ex (see references above)
+submit assignment to gradescope (https://www .gradescope.com
+midterm exams: 200 points each (x 2)th 12/16/21, 3:19 pm syllabus: 22 spring csce 222 501: discrete struc computing https://texasam.instructure.com/courses/136448/pages/syllabu
+if you believe your work was graded incorrectly or incompletely , you must submit a regrade request in gradescope within one week
+late w ork/attendance policy late homeworks are not accepted and are worth 0 points
+work submitted by a student as makeup work for an excused absence is not considered late work and is exempted from the late work policy 
+(see student rule 7 (https://student- rules.tamu.edu/rule07/
+)
+course schedule week topic required reading 1 (jan 19,21)introduction propositional logicsyllabus 1.1-1.
+2 (jan 24,26,28)propositional logic (hw 1 due mon) rules of inference, quiz 1 (w eds) proofs1.
+1.
+3 (jan 31, feb 2,4) proofs (hw 2 due mon) quiz 2 (w eds)1.
+12/16/21, 3:19 pm syllabus: 22 spring csce 222 501: discrete struc computing https://texasam.instructure.com/courses/136448/pages/syllabu
+4/9sets 2.1-2.
+4 (feb 7,9,1 1)functions (hw 3 due mon) sequences and sums quiz 3 (w eds) cardinality of sets2.
+march 14-18 spring break 9 (mar 21,23,25)counting (hw 8 due mon) quiz 7 (w eds)6.1-6.
+10 (mar 28, 30, apr1)advanced counting (hw 9 due mon) quiz 8 (w ed)8.1-8.
+5/911 (apr 4,6,8) crypto math (hw 10 due mon) 2nd midterm exam (w ed apr 6)4.1-4.
+15 (may 2)languages and grammars (hw 13 due mon) last day of class is mon may 213.4
+final exam date: (from registrar's website (https://registrar.tamu.edu/courses,-registration,
+– 12:30 p.m

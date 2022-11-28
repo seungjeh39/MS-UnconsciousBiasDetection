@@ -1,0 +1,29 @@
+ human-computer interaction - csce 436 (spring 2022) seminar + studio combined class
+in this class, you will learn various details of cutting-edge technologies and prototyping techniques to make tangible computers for human-computer interaction
+this class intends to provide a general understanding of hci theories, design principles, design & implementation techniques, then to offer fundamental skills for prototyping to investigate users’ needs in product/system development
+instructor jeeeun kim ( http://jeeeunkim.com
+) email: jeeeun.kim@tamu.ed
+office hours: friday 10 am-12 pm petr 336 or via zoom (tamu.zoom.us/my/jeeeunkim)
+teaching staff nahyun kwon (ta, co-instructor) email: nahyunkwon@tamu.ed
+(979-422-1648) office hours: tuesday 5 pm - 7 pm, via zoom or by appointment
+han zhang (grader) email: zh89118877@tamu.ed
+himani deshpande (co-instructor) email: hdeshpande11@tamu.ed
+abul al arabi (co-instructor) email: abulalarabi@tamu.ed
+logistics f2f, synchronous if you have tested positive for covid or need quarantine, please email the instructor, the class zoom link will be provided to attend immediately
+zoom recording of the lecture will be available through canvas momentarily
+always due by tuesday 11:59 pm (ct) of the following week, unless specified
+midterm 1: youtube video on the deployment of your flipped affordance final project: prototype of your own interactive system/machine invention 1
+project website showcasing your work; ■ introduction and motivation: what important real-world issue does this solve? ■ descriptions of system design/development processes ■ photos of your prototype ■ video of your usage scenario (walkthrough) 2
+presentation of your final project requirements ● no prerequisite, i welcome all students with various backgrounds (cs/ce, ee, me, architecture, design, material science, etc.
+● there will be a random selection of class activity presenters, if you miss the class so miss the presentation without notice, your final grade will be downgraded by one letter grade ● always bring something to sketch with ● no texting/facebooking/instagramming during the class -- no exception ● be ready for heavy hands-on studio activities and projects; you will be likely to spend 3+ hours/week ● this class will introduce a wide variety of topics in rapid prototyping and late-breaking interaction technologies with very quick turnarounds
+● bring your own passion and motivation-- this course will help you build your portfolio & research experiences with quality, not your course credits with quantity reading week 1: ■ reflective physical prototyping through integrated design, test, and analysis (uist’06) by björn hartmann, scott r
+klemmer, björn hartmann, and leila takayama ■ organic user interfaces & tangible interfaces (communications of acm) by roel vertegaal, ivan poupyrev, hiroshi ishii week 3: ■ user centered design process by mit csail hci ■ needfidning tools by stanford d
+school week 4: ■ integrating craft materials and computation by glenn blauvelt, thomas wrensch, michael eisenberg ■ middle tech: blurring the division between high and low tech in education by michael and ann eisenberg week 5: ■ creativity support tools by ben shneiderman week 6: ■ what do prototypes prototype? (in handbook of human-computer interaction, 2nd ed.
+by stephanie houde, charles hill ■ getting the right design and the design right: testing many is better than one by maryam tohidi, william buxton, ronald baecker, abigail sellen week 7: ■ the dark side (patterns) of ux desig n by colin gray, yubo kou, bryan battles, joseph hoggatt, and austin l
+toombs week8: (spring break) week 9: ● reflective physical prototyping through integrated design, test, and analysis by björn hartmann, scott r
+what has been ﬂipped (#5) complete this form to provide peer critiques during the class 6 (2/23) lecture special seminar: extended reality dr
+kangsoo kim, university of calgary () reﬂection note 7 (3/2) studio prototyping methods and iteration input & output (#6) complete p5.j
+challenges 8 (3/9) low-ﬁdelity prototyping of an interactive system high-ﬁdelity prototyping interactive ui using p5.j
+(#7) replicated wireframe using low-ﬁ prototyping tools (e.g.
+balsamiq) (#8) 1 min
+video of complete interactive ui 3/16 no class; spring break no assignment 9 (3/23) lecture + studio mid-term project presentation flip the norm and observe how people react (#9) complete this form for peer-review 10 (3/30) lecture + studio special topics in hci i: human-ai collaboration: crowdsourcing and human-in-the-loop (#10) project website template with motivation statement, detailed 5-week milestone 11 (4/6) individual team meeting & feedback (10min./team

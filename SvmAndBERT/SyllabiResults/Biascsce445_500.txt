@@ -1,0 +1,18 @@
+ 9/15/22, 3:51 pm cpsc 445: computers and new media https://people.eng
+.tamu.edu/shipman/courses/cnm/home-ug.htm
+frank shipman office hours: pete 335, tba, or by appointment students there may be students from technical and non-technical disciplines in this course
+programming and software development is part of the group projects so it is recommended that students from outside of computer science join project teams with students from computer science
+prerequisites students should have a basic knowledge of computing and the humanities, and either the ability to program complex systems or able to learn new software tools on their own
+access to acm digital library is available from on-campus computers
+9/15/22, 3:51 pm cpsc 445: computers and new media https://people.eng
+.tamu.edu/shipman/courses/cnm/home-ug.htm
+2/3grading short assignments 10% class participation 10% team project 40% write-ups/quizzes 40% grades will be on a 10 point scale: 90-100 = a, 80-89 = b, 70-79 = c, 60-69 = d, and <60 = f
+all material turned in should be printed using a computer printer or typed except when noted otherwise
+all students are expected to have done the readings and be able to participate in discussions
+there will be three preliminary progress reports for the projects emphasizing particular phases of the interface design process: (1) identifying a topic, determining cognitive and social issues, and determining an approach, (template for slides ) (2) creating an initial system design and mock-up, ( template for slides ) and (3) instantiating the design in a prototype implementation (template for slides )
+general note on assignments 9/15/22, 3:51 pm cpsc 445: computers and new media https://people.eng
+.tamu.edu/shipman/courses/cnm/home-ug.htm
+3/3important: all reports are to be printed on a word processor or typed (no handwritten assignments will be accepted)
+all writing should be the work of the student -- any text taken from other sources needs to be quoted and referenced
+it is expected that students will correct grammar and spelling -- these are grounds to deduct from your grade
+(i.e

@@ -1,0 +1,67 @@
+id,keyword,location,text
+1,,,"CSCE 331: Foundations of Software Engineering It is estimated that Windows XP has 50,000,000 lines of code"
+2,,,The average mobile phone has over 10 million lines of code
+3,,,"The average developer writes 10 – 20 useful lines of code per day, so a couple of engineers and 2 friends could break away, start a new company, and create a new “Windows” operating system in only about 1700 years"
+4,,,That’s not reasonable
+5,,,"Up until now, most of the programs that you have been asked to write could probably fit in your mind"
+6,,,"When you complete the letter, you fold it, seal it up, and mail it off (or hit send)"
+7,,,"But now it is plain to see that products that you use daily simply could not be recreated by you and 10 of your best friends in an afternoon, weekend, or semester"
+8,,,A 1700-year project is wildly unreasonable
+9,,,There must be a better way
+10,,,"In this course, you will learn a better way"
+11,,,"You will dive into the world of software engineering and hone your teamwork (and, yes, coding) skills"
+12,,,"Effective teamwork is essential, and software design methodologies make development more efficient"
+13,,,"This course gives you very practical skills for being an effective member of a development team and producing high-quality, sustainable software"
+14,,,"Learning these methods of working together, managing requirements, producing quality software products, and testing, delivering, and maintaining these products is every bit as valuable as coding"
+15,,,"Why This Course is Teach this Course This course offers you a unique learning experience, and is also exciting for the instructors to teach"
+16,,,"Here's why! • Building software is fun and rewarding You get many opportunities to “learn by doing” • There’s more to software than just coding You get a taste of software engineering • Working on teams can be messy, but it’s worth it It is amazing what you can accomplish together, so much more than on your own Course Information Course Number: 331 Course Title: Foundations of Software Engineering Credit Hours: 4 (3 Lecture Hours, 2 Lab Hours) Lecture: Face-to-Face, MWF, 9:10 am – 10:00 am, Zachry Engineering Education Complex 350 Lab: • Section 904: Face-to-Face, MW, 3:00 pm – 3:50 pm, Zachry Engineering Education Complex 598 • Section 905: Face-to-Face, MW, 4:10 pm – 5:00 pm, Zachry Engineering Education Complex 598 • Section 906: Face-to-Face, MW, 5:45 pm – 6:35 pm, Zachry Engineering Education Complex 598 Final Exam Schedule: • Sections 904 – 906: Face-to-Face, Monday December 12, 8:00 am – 10:00 am, Zachry Engineering Education Complex 350 • Section 904: Face-to-Face, Tuesday December 13, 10:30 am – 12:00 pm, Zachry Engineering Education Complex 598 • Section 905: Face-to-Face, Monday December 12, 3:30 pm – 5:30 pm, Zachry Engineering Education Complex 598 • Section 906: Face-to-Face, Friday December 9, 7:30 am – 9:30 am, Zachry Engineering Education Complex 598 Instructor Details Instructor: Paul Taele Office: 320 Peterson Phone: 979-845-7977 E-Mail: ptaele@tamu.ed"
+17,,,"Help/Office Hours: Friday lecture sessions, email for appointment at different time Teaching Assistants Christopher Anand chrisanand@tamu.ed"
+18,,,"Help/Office Hours: Friday lecture sessions, email for appointment at different time Senhe Hao senhehao@tamu.ed"
+19,,,"Help/Office Hours: Friday lecture sessions, email for appointment at different time Akash Jothi akashjothi@tamu.ed"
+20,,,"Help/Office Hours: Friday lecture sessions, email for appointment at different time Leah Tomotaki leah.tomotaki@tamu.ed"
+21,,,"Help/Office Hours: Friday lecture sessions, email for appointment at different time Course Description Intensive programming experience that integrates core concepts in Computer Science and familiarizes with a variety of programming/development tools and techniques; students work on 2 week-long intensive projects each emphasizing a different specialization within Computer Science; focuses on programming techniques to ease code integration, reusability, and clarity"
+22,,,"Course Prerequisites CSCE 312 and CSCE 314; or CSCE 350/ECEN 350 Corequisite: CSCE 313 Special Course Designation W (writing intensive course) As a writing intensive course, you will receive instruction on writing and complete writing assignments so you can master writing related to the major"
+23,,,You must pass the writing components with a C or better to earn a grade in the course
+24,,,Course Learning Outcomes This course is intended to be an intensive programming experience that integrates core concepts in Computer Science and familiarizes you with a variety of programming/development tools and techniques
+25,,,You will primarily work in small teams on projects emphasizing different specializations within computer science
+26,,,"The course focuses on honing good programming techniques to ease code integration, reuse, and clarity"
+27,,,"The primary goal for this class is for you to emerge with strong programming skills, able to address both individual and team programming challenges competently"
+28,,,"In this course, you will improve your programming skills through significant practice"
+29,,,"After this course you will be able to: • Explain the need for software engineering through industry examples and personal experience • Exercise the fundamental concepts of software construction (including managing requirements, design, implementation, testing, and deployment) • Design and develop software that is clearer, more maintainable, and integrates current software technologies – some that are new to you • Collaborate and communicate effectively in small teams • Recognize and apply characteristics of effective technical writing We will cover many topics including: • Software system design for portability, performance, and testability • Coding layout and style considerations • Programming specifications and documentation • Use of basic software tools and APIs • Subject-specific topics related to the team projects (DB, HCI) Though many topics will overlap, this course is not intended to be as in-depth or comprehensive as a standard software engineering course"
+30,,,"For a deeper understanding of software development and project management, take software engineering after completing this class"
+31,,,"Textbook and/or Resource Materials Required textbooks and reading materials will be provided electronically through Perusall, which is linked in Canvas"
+32,,,Grading Policy Grading Components: Your grade for this course reflects your mastery of course material and is determined by multiple components
+33,,,"As a writing course, you must pass the writing components with a C or better to earn a grade in the course"
+34,,,Failure to pass the writing components with a C or better results in an F for the course
+35,,,Specific grading practices will be announced when assignments are given through assignment descriptions and assignment rubrics
+36,,,"When a rubric is given, the assignment must meet Minimum Viable Solution requirements before being assessed by the rubric"
+37,,,Individual Project – 5%: The individual project will be completed prior to the team projects
+38,,,"Team Projects – 35%: Two major projects, each worth 17.5"
+39,,,"of the course grade, for 35% total"
+40,,,Individual Contribution – 15%: Your individual contribution to the team projects and group assignments will be graded
+41,,,"In any team environment, striving to be a valuable member of your team is critical"
+42,,,"Logged code commits, peer evaluation, attendance, participation, and instructor/TA observations will be evaluated for this grade"
+43,,,Failure to participate in the peer evaluation process (giving evaluations and/or reflecting on evaluations) can negatively impact your individual contribution score
+44,,,Written Elements – 35%: This is a writing intensive course
+45,,,You are required to pass this component with a C or better to earn a grade in the course
+46,,,You will have several written assignments within the projects
+47,,,Other Course Activities – 10%: The course has several different types of activities to help you better understand concepts and connect with the material
+48,,,"This includes (but is not limited to) reading, in-class activities, and lab activities"
+49,,,"These activities bring deeper, longer-term learning as you work, either individually or with other students"
+50,,,You must be present for in-class and lab activities to receive credit
+51,,,"For submitted assignments, grading will be based on the quality of the submitted work"
+52,,,"For group assignments, your full participation is required to receive a grade for that assignment"
+53,,,"This component will be divided as follows: 50% in-class activities (lowest grade dropped), 25% lab activities (lowest grade dropped), 15% reading, and 10% in- class recall practice (lowest two grades dropped)"
+54,,,"Grading Scale: Grades will be assigned according to the following scale: A >= 90 > B >= 80 > C >= 70 > D >= 60 > F These grades represent varying degrees of achievement (see the university's grading system): A = excellent, B = good, C = satisfactory, D = passing, F = failing Stacked Honors Section: The stacked honors section will explore course concepts more deeply through readings, discussions, reflections, and projects"
+55,,,They will have honors-only lecture sessions on some Fridays during the course
+56,,,Submission of Assignments: All assignments will be turned in electronically through Canvas (unless otherwise specified) by the due date and time given on the assignment
+57,,,Email submissions will not be accepted
+58,,,Late Work Policy Assignments turned in after the posted deadline will have a penalty applied of 5% per day late
+59,,,"For team assignments, the late penalty affects the grade for the entire team"
+60,,,"If the assignment is individual, the late penalty only affects the grade for that team member"
+61,,,"Course Schedule The course is listed as a 2-hour per week lecture, and 2-hour per week lab, however it has been intentionally scheduled for 3 hours per week of lecture (along with the lab)"
+62,,,We will meet approximately 2/3 of the lecture periods over the course of the semester
+63,,,"After the first week of class and except for a field trip in week 4, the regular sections will only meet on Mondays and Wednesdays with Fridays reserved as workdays, team meetings, and TA office hours"
+64,,,The honors section will meet some Fridays during the course
+65,,,Below is the planned but tentative schedule of topics and major projects for the course
+66,,,All assignment and project details will be communicated on Canvas

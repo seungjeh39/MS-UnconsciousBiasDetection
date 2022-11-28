@@ -1,0 +1,14 @@
+ online platform: canvas instructor details instructor: dmitri loguinov office: 209 petr phone: 979-845-0512 e-mail: dmitri@cse.tamu.ed
+office hours: tr 5:30-6:30pm ta: carson hanel office: 212 petr e-mail: carson@cse.tamu.ed
+office hours: mw 2-3pm course description this class is an overview of com puter networks with a focus on internet protocols and high- performance coding in windows
+course learning outcomes at the end of the semester, the s tudents will obtain experience with protocol design, internet operation, c/c++ network apis, a nd multi-threading in windows
+textbook and/or resource materials j.f
+ross, “computer networking: a top-down app roach,” addison-wesley, 6 th edition, 2013
+late homework is accepta ble with a penalty of 20% of the full grade per day (no points after 5 days)
+delays are rou nded up to the nearest full day
+example #1 : your homework scores 76 points out of 100, but is 28 hours la te
+homework all submissions must compile in visual studio 2019 in both debu g and release mode
+solutions with missing files, incorrect pro ject options, or dependency on non-standard libraries (e.g.
+this course assumes independent work on each assignment
+all submissions must be original and developed from scratch
+in o ther words, you cannot copy and /or modify any fragment of code, no matter how short , that originates elsewhere (e.g.

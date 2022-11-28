@@ -1,0 +1,52 @@
+ r
+grader kathy pai email: jp53456@tamu.ed
+1 course information 1.
+course description csce 312 is an introductory course on computer organization
+it provides insights into the fundamentals of organization and structure of computer systems
+one of the objectives of this course is to teach critical thinking, how to learn, and how to communicate technical concepts in the area of computer systems
+the course consists of materials on the following topics: introduction to computer systems, data representation, machine language, processor architecture, memory hierarchy, linking, exception control flow, virtual memory, system level i/o, and network programming
+several laboratory assignments will provide hands-on experience on some of the above topics
+projects allow students to implement material taught in the lectures and laboratory
+1.
+catalog description introduction to computer systems from programmer’s perspective: simple logic design, data representation and processor architecture, programming of processors, memory, control flow, input/output, and performance measurements; hands-on lab assignments
+1.
+co-requisites csce 221 data structures and algorithms
+lab assignments will require basic computer skills in implementing the above topics
+1.
+• optional reference: the c programming language, 2nd ed
+(ansi c version) or later, kernighan & ritchie, prentice hall, will be helpful in learning the operating system and programming environment
+2 course topics, quizzes and assignments students are required to read the main textbook and other assigned materials as announced time to time
+the length of time to cover a topic and the corresponding assignment dates may vary
+1 2-5 data representation, arithmetic, logic design vahid ch.1-
+attendance policy class attendance is strongly recommended
+students are responsible for any material missed
+other special situations must be discussed with the instructor in advance of the exam
+grading the course consists of lectures, quizzes, homeworks, lab assignments, projects and final examination
+3.
+examinations the quizzes will be held in class with exact dates determined during the semester
+the quizzes are scheduled after each topic is completed
+the quizzes and final exam will generally test your knowledge of assignment material, so you are responsible for mastering all lab, homework, and project material submitted with other partners, as if you did all the work by yourself
+3.
+assignments homework, lab exercises and project are substantial assignments
+homework assignments: homework will be assigned sporadically, typically consisting of end-of-chapter exercises
+homework assignments can be carried out by one person, unless stated otherwise
+assignments are expected to be completed in one to two weeks, as specified by the due date
+written lab work will be accepted up to the beginning of the following lab period
+you are responsible for attending lab and demonstrating to your lab instructor that you have completed the work
+course projects: one or more course projects will integrate most concepts covered during the semester, but are more open-ended than regular assignments
+the final report and program source code will be due by the announced deadline
+the projects will be carried out by a group of two to four people
+you are encouraged to form groups as early as possible
+course labs and projects will involve programming and solving problems in computer organization in c or c++ and the systemc language
+all tools are run on departmental unix/linux and windows pc systems
+assignments will be placed on the course web page
+in general, the closer to the deadline you request our assistance the harder it might be to obtain our help
+in case you have difficulties finishing an assignment contact the ta or the instructor before the deadline
+note: work turned-in on time is eligible for partial credit
+late submission beyond the cutoff will not be accepted in general, unless a university sanctioned excuse is provided ahead of time
+partial credit will be given based on the work submitted
+re-grading policy a student can request re-grading of assignments and exams, if he/she believes that the points assigned are inconsistent with the quality and merits of the submitted work
+1
+after this time, no re-grading requests will be honored
+2
+requests must be in written form for major assignments and exams

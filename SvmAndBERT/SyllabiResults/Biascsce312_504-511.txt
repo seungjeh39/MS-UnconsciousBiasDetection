@@ -1,0 +1,26 @@
+ .tamu.edu/djimenez/classes/312/syllabus.htm
+1/3csce 312, spring 2022 computer organization instructor: daniel a
+zoom link: https://tamu.zoom.us/my/djimene
+sagar adhikari email: sagar0073@tamu.ed
+ofﬁce hours: 4:00pm to 5:00pm on t uesdays at https://tamu.zoom.us/j/9425049943
+class t imes: lecture: sections 504, 505, 506, and 507: t uesdays and thursdays, 12:45pm to 2:00pm, hrbb 124 sections 508, 509, 510, and 51 1: tuesdays and thursdays, 2:20pm to 3:35pm, hrbb 124 lab: section 504: mondays and w ednesdays, 5:45pm to 6:35pm, zach 596
+t a: sagar adhikari section 507: mondays and w ednesdays, 1:50pm to 2:40pm, zach 598
+t a: brady t esta section 510: mondays and w ednesdays, 5:45pm to 6:35pm, zach 598
+t a: sagar adhikari textbook: computer systems: a pr ogrammer's perspective by randal e
+bryant and david o'hallaron (3rd editon), isbn 978-0134092669 ( note: you have to get the 3rd edition
+from the under graduate catalog: csce 312 computer organization credits 4
+prerequisites: csce 221 or concurrent enrollment
+you will learn a very low-level 9/15/22, 3:26 pm csce 312, spring 2022 course information https://people.eng
+.tamu.edu/djimenez/classes/312/syllabus.htm
+when you leave this class, you will have developed an accurate mental model of the way computers work so that when you write programs in a high-level language you will have a good idea of what is really going on when your program runs
+course requir ements: homework assignments: (25% of grade)
+midterm exams: (25% of grade)
+grading letter grades will be assigned as follows: a is ≥ 90%; b is ≥ 80%; c is ≥ 70%; d is ≥ 60%; f is < 60%
+if you have not completed an assignment by the time it is due, turn in what you have for partial credit
+you must inform the professor before missing the test
+quizzes may not be made up
+academic dishonesty unless a programming project or problem set is speciﬁcally assigned as a group project, students are not allowed to work together on assignments
+you may discuss general ideas related to the assignment, but you may not e.g
+instances of such collaboration will be dealt with harshly , but the real cost comes when a student doesn't know how to answer questions on a test about issues involved in doing an assignment
+in writing assignments, you may not copy or paraphrase work in whole or in part from other sources without giving proper attribution and making it clear which passages of text are from other sources
+failure to do so is considered plagiarism

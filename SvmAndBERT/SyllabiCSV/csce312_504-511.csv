@@ -1,0 +1,65 @@
+id,keyword,location,text
+1,,,"9/15/22, 3:26 pm csce 312, spring 2022 course information https://people.eng"
+2,,,.tamu.edu/djimenez/classes/312/syllabus.htm
+3,,,"1/3csce 312, spring 2022 computer organization instructor: daniel a"
+4,,,"jiménez , djimenez@tamu.ed"
+5,,,ofﬁce hours (exclusively over zoom): tuesdays at 9:30am to 1 1:00am
+6,,,zoom link: https://tamu.zoom.us/my/djimene
+7,,,teaching assistants : brady t esta email: brady .testa@gmail.co
+8,,,ofﬁce hours: 2:00pm to 3:00pm on fridays at https://tamu.zoom.us/j/9172645002
+9,,,sagar adhikari email: sagar0073@tamu.ed
+10,,,ofﬁce hours: 4:00pm to 5:00pm on t uesdays at https://tamu.zoom.us/j/9425049943
+11,,,"class t imes: lecture: sections 504, 505, 506, and 507: t uesdays and thursdays, 12:45pm to 2:00pm, hrbb 124 sections 508, 509, 510, and 51 1: tuesdays and thursdays, 2:20pm to 3:35pm, hrbb 124 lab: section 504: mondays and w ednesdays, 5:45pm to 6:35pm, zach 596"
+12,,,"t a: brady t esta section 505: mondays and w ednesdays, 7:00pm to 7:50pm, zach 596"
+13,,,"t a: brady t esta section 506: mondays and w ednesdays, 12:40pm to 1:30pm, zach 598"
+14,,,"t a: sagar adhikari section 507: mondays and w ednesdays, 1:50pm to 2:40pm, zach 598"
+15,,,"t a: sagar adhikari section 508: mondays and w ednesdays, 3:00pm to 3:50pm, zach 598"
+16,,,"t a: brady t esta section 509: mondays and w ednesdays, 4:10pm to 5:00pm, zach 598"
+17,,,"t a: brady t esta section 510: mondays and w ednesdays, 5:45pm to 6:35pm, zach 598"
+18,,,"t a: sagar adhikari section 51 1: mondays and w ednesdays, 7:00pm to 7:50pm, zach 598"
+19,,,t a: sagar adhikari textbook: computer systems: a pr ogrammer's perspective by randal e
+20,,,"bryant and david o'hallaron (3rd editon), isbn 978-0134092669 ( note: you have to get the 3rd edition"
+21,,,the 2nd edition won't work.
+22,,,from the under graduate catalog: csce 312 computer organization credits 4
+23,,,3 lectur e hours
+24,,,"2 lab hours introduction to computer systems from programmer's perspective: simple logic design, data representation and processor architecture, programming of processors, memory , control ﬂow , input/output, and performance measurements; hands-on lab assignments"
+25,,,prerequisites: csce 221 or concurrent enrollment
+26,,,junior or senior classiﬁcation or approval of instructor 
+27,,,from the professor: think of the computer as an automobile
+28,,,"so far , you have begun to learn how to drive, that is, to program the computer in a high-level programming language"
+29,,,"but what goes on under the hood? that is, what are the mechanisms underneath the programming language that cause your program to execute? this class will provide an answer to that question"
+30,,,you will learn a little about digital logic design
+31,,,you will learn how simple electronic devices are linked together to form the complex computer systems we use
+32,,,you will see how information is represented and how representations can have an impact on the programs you write
+33,,,many of the mysteries behind the sometimes strange behavior of high-level programming languages will be revealed
+34,,,"you will learn a very low-level 9/15/22, 3:26 pm csce 312, spring 2022 course information https://people.eng"
+35,,,.tamu.edu/djimenez/classes/312/syllabus.htm
+36,,,2/3programming language called assembly language that is part of the interface between software and hardware
+37,,,"you will learn how details of the implementation of the computer , such as the memory system, can af fect the performance of your programs"
+38,,,"when you leave this class, you will have developed an accurate mental model of the way computers work so that when you write programs in a high-level language you will have a good idea of what is really going on when your program runs"
+39,,,"thus, you will become a better programmer "
+40,,,this class has two big parts: digital logic design and assembly language
+41,,,assembly language is the bigger part so we'll do digital logic design ﬁrst
+42,,,"there are little parts, too, that we'll pick up along the way"
+43,,,about the lab section your teaching assistant will lead a lab covering the topics presented the lecture
+44,,,"the t a will administer quizzes, discuss assignments, answer you questions, and in general serve as a resource to give you a better idea of what is going on in the class than your crazy absent-minded professor can"
+45,,,course requir ements: homework assignments: (25% of grade)
+46,,,"we'll have several homework assignments, many requiring programming"
+47,,,quizzes: (20% of grade)
+48,,,there will be quizzes in the lab section
+49,,,midterm exams: (25% of grade)
+50,,,there will be one or two exams during the semester 
+51,,,last exam: (30% of grade)
+52,,,"there will be a ""last"" exam near the end of the semester "
+53,,,grading letter grades will be assigned as follows: a is ≥ 90%; b is ≥ 80%; c is ≥ 70%; d is ≥ 60%; f is < 60%
+54,,,policy on assignments and t ests late assignments are not accepted
+55,,,"if you have not completed an assignment by the time it is due, turn in what you have for partial credit"
+56,,,"make-up tests are generally not given except for university sanctioned reasons, such as religious holidays, documented illnesses, catastrophic events, or other grave situations"
+57,,,you must inform the professor before missing the test
+58,,,quizzes may not be made up
+59,,,"academic dishonesty unless a programming project or problem set is speciﬁcally assigned as a group project, students are not allowed to work together on assignments"
+60,,,"you may discuss general ideas related to the assignment, but you may not e.g"
+61,,,share program code or read each others writeups
+62,,,"instances of such collaboration will be dealt with harshly , but the real cost comes when a student doesn't know how to answer questions on a test about issues involved in doing an assignment"
+63,,,"in writing assignments, you may not copy or paraphrase work in whole or in part from other sources without giving proper attribution and making it clear which passages of text are from other sources"
+64,,,failure to do so is considered plagiarism

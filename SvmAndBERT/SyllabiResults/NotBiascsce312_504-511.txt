@@ -1,0 +1,38 @@
+ 9/15/22, 3:26 pm csce 312, spring 2022 course information https://people.eng
+jiménez , djimenez@tamu.ed
+ofﬁce hours (exclusively over zoom): tuesdays at 9:30am to 1 1:00am
+teaching assistants : brady t esta email: brady .testa@gmail.co
+ofﬁce hours: 2:00pm to 3:00pm on fridays at https://tamu.zoom.us/j/9172645002
+t a: brady t esta section 505: mondays and w ednesdays, 7:00pm to 7:50pm, zach 596
+t a: brady t esta section 506: mondays and w ednesdays, 12:40pm to 1:30pm, zach 598
+t a: sagar adhikari section 508: mondays and w ednesdays, 3:00pm to 3:50pm, zach 598
+t a: brady t esta section 509: mondays and w ednesdays, 4:10pm to 5:00pm, zach 598
+t a: sagar adhikari section 51 1: mondays and w ednesdays, 7:00pm to 7:50pm, zach 598
+the 2nd edition won't work.
+3 lectur e hours
+2 lab hours introduction to computer systems from programmer's perspective: simple logic design, data representation and processor architecture, programming of processors, memory , control ﬂow , input/output, and performance measurements; hands-on lab assignments
+junior or senior classiﬁcation or approval of instructor 
+from the professor: think of the computer as an automobile
+so far , you have begun to learn how to drive, that is, to program the computer in a high-level programming language
+but what goes on under the hood? that is, what are the mechanisms underneath the programming language that cause your program to execute? this class will provide an answer to that question
+you will learn a little about digital logic design
+you will learn how simple electronic devices are linked together to form the complex computer systems we use
+you will see how information is represented and how representations can have an impact on the programs you write
+many of the mysteries behind the sometimes strange behavior of high-level programming languages will be revealed
+2/3programming language called assembly language that is part of the interface between software and hardware
+you will learn how details of the implementation of the computer , such as the memory system, can af fect the performance of your programs
+thus, you will become a better programmer 
+this class has two big parts: digital logic design and assembly language
+assembly language is the bigger part so we'll do digital logic design ﬁrst
+there are little parts, too, that we'll pick up along the way
+about the lab section your teaching assistant will lead a lab covering the topics presented the lecture
+the t a will administer quizzes, discuss assignments, answer you questions, and in general serve as a resource to give you a better idea of what is going on in the class than your crazy absent-minded professor can
+we'll have several homework assignments, many requiring programming
+quizzes: (20% of grade)
+there will be quizzes in the lab section
+there will be one or two exams during the semester 
+last exam: (30% of grade)
+there will be a "last" exam near the end of the semester 
+policy on assignments and t ests late assignments are not accepted
+make-up tests are generally not given except for university sanctioned reasons, such as religious holidays, documented illnesses, catastrophic events, or other grave situations
+share program code or read each others writeups

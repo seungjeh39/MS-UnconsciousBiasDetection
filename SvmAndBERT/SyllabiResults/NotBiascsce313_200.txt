@@ -1,0 +1,11 @@
+ instructor details instructor: dmitri loguinov office: 209 petr phone: 979-845-0512 e-mail: dmitri@cse.tamu.ed
+office hours: tr 5:30-6:30pm ta: arif arman office: 211 petr e-mail: arman@tamu.ed
+office hours: mw 12-1pm course description this class is covers common al gorithmic and implementation prob lems arising in operating systems, inter-process communi cation, multi-threading, synchron ization, memory management, process scheduling, and la rge-scale file i/o
+stallings, “operating systems: internals and design principl es,” pearson, 9th edition, 2017
+delays are rounded up to the nearest full day
+example: your homework scores 76 points, but is 28 hours late
+your sc ore is then reduced by 40 points and becomes 36
+homework each homework must be accompanied by a written report (if there are multiple parts in the homework, the report applies on ly to the last part) describing your implementation and showing the performance analysis requested in the handout
+this course assumes independent work on each assignment
+all submissions must be original and developed from scratch
+in particular, no team work is allowed

@@ -1,0 +1,29 @@
+ s
+always puta re: of “csce 314”office hours: w 1-3pm, f 9-10am teaching assistant: fatma elsheimyoffice: https://tamu.zoom.us/my
+felsheimypasscode:tr1pnbphone: tbae-mail:fae5461@tamu.edu@tamu.eduplease
+course prerequisites prerequisites (from the catalog): csce 221 or concurrent enrollment; junior or senior classification orapproval of instructor
+page1of7 textbook and/or resource materials suggested textbookken arnold, james gosling, and david holmes, the java programming language,4th ed.
+classattendance is essential for student and group success; therefore students are required to promptly andregularly attend all their lab sessions (since this is an online class)
+a record of attendance will bemaintained from the first day of classes and/or the first day the students’ name appears on the rosterthrough the final examinations and labs.absence
+may only be excused by the texas a&m university student rules available athttp://student-rules.tamu.edu/rule07
+prior arrangementswith the instructor must be made whenfeasible and official verification of circumstances necessitating the absence will be required.absence
+related to title ix of the education amendments of 1972 may necessitate a period of morethan 30 days for make-up work, and the timeframe for make-up work should be agreed upon by thestudent and instructor” (student rule 7, section 7.4.1)
+make-up policies:make-ups or early/delayed due requests for assignments, quizzes, and exams will be given only undercircumstances beyond student's control (a university sanctioned excuse).goin
+on a trip or flying outearly is not a university sanctioned excuse and a make-up will be denied.“th
+instructor is under noobligation to provide an opportunity for the student to make up work missed because of an unexcusedabsence” (student rule 7, section 7.4.2)
+since projects in this class are given weeks (evenmonths) in advance, you should have completed some work on the project
+a make-up for the projectwill be denied if there is a failure to produce significant work
+any make-up work must be completedbefore the solutions are posted or the graded results become available to the students, whicheveroccurs first
+and students who request an excused absence are expected to uphold the aggie honorcode and student conduct code
+(seestudent rule 24.
+accepting electronic submission of homework andproject reports documents establishes the date and time of submission thus avoiding future contests.e-mai
+submissions will not be accepted(they willbe ignored without notice).lat
+submission or wrong submissionbeyond thedeadline will receive a 0, unless a universitysanctioned excuse is provided ahead of time
+in general, late submission will not be accepted
+requests must be submitted to the instructor withinone weekafter the graded itemhas been returned (in hardcopy or electronically via ecampus) to the student
+requests must be in written form, accompanied by a reasonable amount of specificjustification and documentation
+but if issues in work, attendance, etc … do happen, please contact yourinstructorimmediatelyand here is how the grade willbe affected: 1stdocumented incident  no deduction2nddocumented incident  25% deduction (but stillup to instructor)3rddocumented incident  50% deduction, move toanother team (but still up to instructor)or more  100% deduction campuswire is another aspect of class participation.campuswir
+(some like to suddenly make-upfor the lack of participation) if no teamwork issues were reported, you get the first 80%
+if the total number of your asked andanswered questions (ask + answer) on campuswire is greater than or equal to 15, you get the 20%.otherwise
+if this is not followed, you will receive a 0
+page3of7 grading scale: standard letter grading scale: a >= 90% > b >= 80% > c >= 70% > d >= 60% > f points#total %project 115115class participation616quizzes11212labs3.331240midterm12112final15115total:10

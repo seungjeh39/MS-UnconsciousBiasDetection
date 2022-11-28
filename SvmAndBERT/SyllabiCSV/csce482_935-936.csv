@@ -1,0 +1,212 @@
+id,keyword,location,text
+1,,,senior capstone – csce 482 course syllabus page 2 of 13 course information course number csce 482 course title senior capstone design section 935 & 936 time: 11:35am –2:35 pm; 2:35 -5:35 pm location: eaba 118 credit hours: 3 instructor details instructor: pauline wade e-mail: paulinewade@tamu.ed
+2,,,office hours: tues 10 -11 a.m
+3,,,"or by appointment, al l online zoom: see canvas ta (sect"
+4,,,935) : sai harini voruganti e-mail: saiharini@tamu.ed
+5,,,office hours: tuesday 3:30 - 4:30 p.m
+6,,,"or by appointment, all online zoom: see canvas ta: lida zhang e-mail: lidazhang@tamu.ed"
+7,,,office hours: tuesday 1:30 - 2:30 p.m
+8,,,"or by appointment, all online zoom: see canvas course description senior capstone design is a project -based course to develop system integration skills for solving real- world problems in computer science "
+9,,,the course involves a significant team software project that integrates advanced concepts across computer science specializations 
+10,,,"projects require design, implementation, documentation and demonstration, as well as design methodology, management process and teamwork"
+11,,,"course prerequisites senior classification; csce 315, csce 411, and two additional csce tracked courses"
+12,,,"special course designation as per university requirements: 1) at least 35% of your grade will involve written or oral communications, 2) 70% of that 35% is based on individual (not group) writing or speaking, 3) at least 1250 words are individually written, 4) reviews are provided to you to allow for revision of some numbe r of documents or slides, 5) you have at least 5 minutes of individual public speaking"
+13,,,"to receive c credit for this course, you must pass the c component"
+14,,,senior capstone – csce 482 course syllabus page 3 of 13 course learning outcomes this class prepare s you for engineering practice with a major design expe rience based on the knowledge and skills acquired in earlier course work and incorporating engineering standards and realistic constraints that include most of the following considerations: economic; environmental; sustainability; manufacturability; ethical; health and safety; social; and political
+15,,,you are expected to do the following in this course: **: 1
+16,,,analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions
+17,,,2
+18,,,"design, implement and evaluate a computing- based solution to meet a given set of computing requirements in the context of the program's discipline"
+19,,,3
+20,,,communicate effectively in a variety of professional contexts
+21,,,4
+22,,,recognize professional responsibilities and make informed judgements in computing practice based on legal and ethical principles
+23,,,5
+24,,,collaborate effectively as a member or leader of a team engaged in activities appropriate to the program's discipline
+25,,,6
+26,,,apply computer science theory and software development fundamentals to produce computing- based solutions
+27,,,"** this course is evaluated every year through the abet (accreditation board for engineering and technology) accreditation process , which provides assurance that a college or university program meets the quality standards of the profession , by doing the following: ● verifies that your educational experience meets the global standard for technical education in your profession"
+28,,,● enhances your employment opportunities —multinational corporations require graduation from an accredited program
+29,,,"● supports your entry to a technical profession through licensure, registration and certification —all of which often require graduation from an abet -accredited program as a minimum qualification"
+30,,,"● establishes your eligibility for many federal student loans, grants, and/or scholarships"
+31,,,"● paves the way for you to work globally , because abet accreditation is recognized worldwide through international agreements, and many other countries’ national accrediting systems are based on the abet model"
+32,,,"to comply with abet , students must demonstrate their abilities in outcomes above, which will be evaluated by external industrial affiliate members during your fin al presentation"
+33,,,"textbook and/or resource materials required: design for electrical and computer engineers , by ralph ford and chris coulston (mcgraw -hill science, 2007)"
+34,,,isbn 978-0-07-338035- 3 a copy is also available in the library in course reserves under the spring 2022 csce 482 course (passcode: wadereserves) 
+35,,,"to access, log in at: https://reserves.library.tamu.ed"
+36,,,using your net id
+37,,,you have access to the materials for 2 hours at a time and one student at a time ( no limit to the number of times they can check it out during the semester) 
+38,,,senior capstone – csce 482 course syllabus page 4 of 13 recommended: ● design of everyday things
+39,,,don norman
+40,,,(basic books 2013)
+41,,,available free online at tamu libraries
+42,,,● the five dysfunctions of a team: a leadership fable
+43,,,patrick m
+44,,,lencioni
+45,,,"(jossey -bass, 2002)"
+46,,,available free online at tamu libraries
+47,,,"● technical material from the literature, manufacturers’ dat a sheets and user manuals (as needed) "
+48,,,you can acquire the course material from vendors that provide the best value and amenities
+49,,,grading policy the final grade you will receive in the class will be based on points accumulated during the semester
+50,,,"thus , both continued progress (the process) and the quality of your product (and other deliverables) will determine your grade"
+51,,,your grade is based on the performance of your team and your individual contribution 
+52,,,"the grading scale is as follows: f < 60% ≤ d < 70% ≤ c < 80% ≤ b < 90% ≤ a we do not curve in this class, however provide you with the opportunity to earn an a , hence an 89."
+53,,,is a b 
+54,,,we teach to mastery which means that we have clear expectations in terms of what you should complete and what kno wledge you should have obtained by the end of the course to succeed and to earn an a
+55,,,the grade distribution is as follows: 1
+56,,,weekly updates : 6% 2
+57,,,peer review 1% 3
+58,,,peer feedback 1% 4
+59,,,ethics 2% 5
+60,,,project management 3% 6
+61,,,version control 2% 7
+62,,,project testing: 20% 8
+63,,,report progress 18% 9
+64,,,final deliverables: 30% 10
+65,,,presentations: 15% 11
+66,,,quiz 2% ----------------------------------------------- total 100% important note s: • you will not receive a passing grade in the class if you do not have a tested working system by the due date
+67,,,the lower weighted items will significantly help you succeed in your higher- weighted items
+68,,,• your peer feedback responses will be calculated with the instruct ors’ assessment which can either increase / decrease each member’s overall semester score
+69,,,"instructors will base their assessment on one or more of the following: class attendance, punctuality, participation during class, timely submission of assignme nts/deliverables, peer feedback results, other informal senior capstone – csce 482 course syllabus page 5 of 13 feedback from teammates or tas , and other actions which positively/negatively contribute to the success of the team"
+70,,,"• any team member who does not participate adequately, after interventions have been attempted , will automatically get at least 1 letter grade below the lowest grade of any of the team members 1"
+71,,,"weekly updates (6%) group updates ( 4%), individual updates ( 2%) each team submits a weekly report as a group and individually , using the given template "
+72,,,it has been shown that weekly reports help a team maintain a project on schedule
+73,,,"the group reports typically communicate the team’s accomplishments the previous period, which need to be measurable "
+74,,,it also includes the t eam’s goals for t he following week 
+75,,,"team members should all be involved in taking meeting minutes, submitting team reports and reporting during the weekly meeting"
+76,,,2
+77,,,"peer reviews (1%) you will be asked to give a review of your peers’ proposal, documentation, presentatio ns, and other deliverables"
+78,,,3
+79,,,peer feedback (1%) you will give feedback on the performance and contribution of your other team members several times throughout the semester
+80,,,prompt submission of peer feedbacks will be the basis of this grade
+81,,,"depending on the circumstances, you may not be given credit for peer feedback more than 3 days late, since this feedback is the basis for assessing team member s’ contribution or participation "
+82,,,"regardless of whether you get credit or not, your final grade cannot be finalized until you complete all of your peer feedback "
+83,,,4
+84,,,ethics (2%) the grading criteria is related on completion of the e thics training and corresponding quizzes 
+85,,,5
+86,,,project management (3%) you are expected to choose a software engineering process model and create the corresponding artifacts 
+87,,,"for example, if the team chooses to use agile scrum, then expected artifacts are spri nt & product backlogs, user stories , etc "
+88,,,6
+89,,,"version control (2%) you are expected to commit to the github repository weekly, if not daily"
+90,,,7
+91,,,"project testing (20%) internal testing (10%), you are expected to test that the expected deliverables of th e project meet implicit and explicit (e.g."
+92,,,functionality) requirements
+93,,,"expectations include developing automat ed test suite, multi -phase testing ( unit / integration / system testing )"
+94,,,"definition of success is related to how well you prepared and impleme nted your evaluation plan, to meet your team’s quality goals (e.g."
+95,,,test coverage)
+96,,,you are expected to submit your test results
+97,,,"senior capstone – csce 482 course syllabus page 6 of 13 user acceptance testing (10%): at least 20 participants this evaluates how well you prepared and executed user acceptance test , including submission of the user acceptance test results "
+98,,,note that your grade cannot be finalized unless you complete user acceptance test
+99,,,"** if you intend to publish your results, you will need to complete an irb 8"
+100,,,"report progress (18%) individ ual proposal ( 1%) scenario 1: for students who participate in an externally sponsored project, you will describe your approach to the given problem statement in the individual proposal, get your proposal reviewed, and give a review on your classmates’ individual proposals"
+101,,,"when the team is formed, all individual proposals are synthesized and become part of the final report"
+102,,,scenario 2: the second alternative is to iterate through potential project ideas which have a proven need / existing beneficiary 
+103,,,reviews from your classmates on your proposals will help define the final project idea
+104,,,"likewise, you will review your classmates’ work to help refine their ideas and potentially find teammates with similar interests"
+105,,,"abstract (1%) this is a summary of your final report that describes: your problem (with attention grabber), how you plan on solving it, and expected outcome"
+106,,,references (1%) & related work (1%) to ensure that you have a strong understanding of existing relevant work you will per form a literature review of related works to y our team project
+107,,,each team member is expected to identify 5 relevant papers for their project to be referenced in their final report
+108,,,these papers will be different for each team member ( e.g.
+109,,,a team of 4 will have 20 papers to reference in their final report)
+110,,,related work refers to each person read ing two papers and writ ing a reading summary on those two papers
+111,,,introduction (1%) the introduction provide s a brief overview of the project and helps the reader put into context the design and implementation
+112,,,engineering standard (1%) engineering standards are factors that are related to your project and may bound or constrain your project
+113,,,"requirements (2%) the design part of your methodology should clearly describe what your solution seeks to achieve, what the user experience will be, what tools you will use, and what challenges you will face"
+114,,,you should describe your minimum viable project and any additional goals you may have
+115,,,"design (2%) the design part of your methodology should clearly describe what your solution seeks to achieve, what the user experience will be, what tools you will use, and what challenges you will face"
+116,,,you should describe your minimum viable project and any additional goals you ma y have
+117,,,"senior capstone – csce 482 course syllabus page 7 of 13 prototype (1%) prototyping allows you to test the quality of your design before you start coding, makes sure that that all team members know and agree on the final product"
+118,,,evaluation (3%) the evaluation section describes procedures that you wi ll use to test that your system does what it was designed to do
+119,,,"implementation, results, discussion ( 3%) the implementation part of your methodology describes your system in detail including individual components, tools used, your system hierarchy, and any other details for the audience to understand how your system works"
+120,,,the results section will summarize the outcome of your project with respect to what metrics you collected and your evaluation to show whether or not you achieved your d efinition of success
+121,,,the discussion section includes a reflection on the results
+122,,,final report increment -including p reviously submitted sections of final report ( 1%) this allows you to submit updates to final report sections previously submitted
+123,,,9
+124,,,"fi nal deliverables (30%) final report ( 3%), github documentation & code/result (20%), demo video & video release (5%) , other deliverables (2%) this indicates how well you completed your final deliverables"
+125,,,your final report will be critiqued on its thorough ness and effectiveness in communicating key aspects of your system 
+126,,,github documentation and code will be critiqued on its completeness to properly execute and understand the details of your system
+127,,,the demo video is a 2 -minute video which future generation of students can view as they also embark on their capstone journey
+128,,,all final deliverables must be submitted in order to receive a grade for the class 
+129,,,"code (with corresponding documentation) will be submitted in the class github repository , while no n-code will be submitted in a ms team drive repository organize d into folder "
+130,,,"depending on the project, other deliverables include (but not limited to): a"
+131,,,"data: test data, initial seed data, etc"
+132,,,b
+133,,,"designs: schematics, data sheets , etc"
+134,,,c
+135,,,"tools: freeware software tools, compilers, etc"
+136,,,d
+137,,,"reports: proposal, weekly reports, final report with all of the required sections e"
+138,,,user manual f
+139,,,evaluation (e.g.
+140,,,internal and user acceptance test) materials g
+141,,,"audiovisual media: close -up pictures of your system , high -quality video of your project (including a system demo and a project description) for posterity"
+142,,,h
+143,,,presentation materials : final updated powerpoint slide deck s with pdf versions i
+144,,,evidence of l ive presentation s given (e.g.
+145,,,"program, acceptance letters, etc."
+146,,,j
+147,,,spare parts and supplies k
+148,,,installed final application on 1 or more devices senior capstone – csce 482 course syllabus page 8 of 13 l
+149,,,borrowed / purchased items (e.g.
+150,,,"keys, books, equipment) have been returned to their proper location or to their owner "
+151,,,see next section on purchases & reimbursements m
+152,,,facilit ies used by the project team have been thoroughly cleaned up note : grades will not be assigned until all project deliverables have been turned in 
+153,,,all team members are required to participate in making sure deliverables are completed and delivered
+154,,,purchases and reimbursements ● accurate forms: please ensure that purchase order (po) forms submitted to the department are accurate
+155,,,submitting a po with incomplete specifications or bac kordered items increases the workload for our accounting staff and causes unnecessary delays to your team
+156,,,submitting an incomplete po will result in the team being prevented from submitting additional pos; and all additional purchases will have to be made by team members themselves and will be reimbursed at the end of the semester
+157,,,"● in-stock items: please verify that items are in stock before submitting a po, and provide alternative vendors if an item is likely to go out of stock (e.g."
+158,,,if the vendor only h as a few units left)
+159,,,"if you suspect that a critical item may become backordered, it may be better if you purchase it directly since pos may take several days to go through"
+160,,,● reimbursements deadline: reimbursement requests are due at the time of final deliv erables
+161,,,"to minimize overhead on our accounting staff, we will only reimburse up to five purchase orders (of your choice); this policy also encourages teams to plan their purchases in advance"
+162,,,overnight or express delivery will not be reimbursed unless app roved in advance by the instructor
+163,,,reimbursement of sales taxes is not allowed by the university; please make sure to bring tax- exempt forms with you whenever you make local purchases (or purchases within the state)
+164,,,"● equipment return: the equipment and ma terials that you purchase do not belong to you, they belong to texas a&m university"
+165,,,"before you will be given a final grade in the course, all equipment and materials must be returned"
+166,,,10 
+167,,,"presentations (15%) midterm project presentation ( 1%), checkpoin ts & demo of system progress( 6%), external presentation (s) (e.g."
+168,,,coe project showcase) ( 2%) your midterm project presentation will serve as a critical design review for your project
+169,,,your team will demonstrate this progress through a presentation and cor responding in -class discussion
+170,,,you will receive a review from your instructors and peers that you must address in order to receive credit
+171,,,"additionally, your team will present to at least 1 other external venue, preferably the coe project showcase "
+172,,,there may be other opportunities presented in class which will provide you with extra practice in communicating your work and responding to external reviews
+173,,,checkpoints and demo of system progress refer to informal presentations on specific deliverables with the purpose of assessing progress
+174,,,"final presentation slides ( 1%), final in -class presentation ( 1%); project review -industrial affiliates ( 4%) this evaluates the communication and demonstration of your team project’s system , through a presentation to your instructors , peers, and to industry panelists (e.g."
+175,,,iap meeting) 
+176,,,senior capstone – csce 482 course syllabus page 9 of 13 11
+177,,,"daily quizzes (2%) the quizzes will include knowledge that you should have gained from your past computer science courses, and lets you know the topics that external reviewers may ask about or bring up during external presentations "
+178,,,external reviewers expect that you have the ability communicate the skills or knowledge you acquired in your undergraduate studies
+179,,,class attendance importance of attendance: not attending weekly class meetings harms the other members of your group and makes it much more difficult for the instructor to assess your contributions to the group effort
+180,,,"due to the undue burden your frequent absences have on the rest of the team, more than 5 unexcused absences are an automatic failure "
+181,,,"the instructors will evaluate your attendance through frequent quizzes, meetings, participation in the discussions, participation in assignments, and contributions to the team"
+182,,,"upon instructors’ discretion, arriving to class late (> 10 minutes late) , leaving early (> 10 minu tes before class end) , and/ or not participating (e.g."
+183,,,"not taking a quiz, not being present for a status meeting, not submitting in class work, and/or doing work not related to the class) can be considered an unexcused absence, depending on the circumstanc es"
+184,,,"oversleeping, a term paper due, an exam to cram for, etc."
+185,,,are not valid reasons
+186,,,"ultimately, the instructor reserves the right to determine what constitutes a “valid reason” on a case - by-case basis"
+187,,,note that days in which teams may need to work in a remote location to accomplish certain assignments (e.g.
+188,,,"presenting your work outside of class, interviewing experts, meeting with mentors, accessing technologies outside of the classroom, etc."
+189,,,"do not count toward absences providing they are approve d by the instructor in advance, abide by the instructor’s requirements for check in during course time, abide by any activity reporting requirements by the instructor, and complete all assignments on -time relevant to that class time"
+190,,,you will be informed in a timely manner should you incur an unexcused absence
+191,,,"students experiencing personal injury or illness that is too severe for the student to attend class qualify for an excused absence (see student rule 7, section 7.2."
+192,,,) assuming that documentation and notification guidelines are followed
+193,,,students required to quarantine or self -isolate are expected to participate in course -related activities remotely and must not attend face -to-face
+194,,,graded wo rk is expected to be completed unless symptoms are too severe
+195,,,late work policy late work policy is defined as submitting a deliverable after the established deadline
+196,,,"work submitted by a student as makeup work for an excused absence , according to student rule 7 is not considered late work and is exempted from the late work policy"
+197,,,"if you feel that you have a valid reason for submitting late work, even if it is not related to student rule 7, submit a request to excuse the late submission in advance of the deadline (3 business days is strongly recommended)"
+198,,,"we will carefully review your request and will either approve or disapprove the request (with fairness and equity in mind) , if the request has been submitted in a timely manner"
+199,,,"without a request, l ate assignments cannot be accepted for credit"
+200,,,"senior capstone – csce 482 course syllabus page 10 of 13 course sch edule below is an overview of the overall schedule, subject to change"
+201,,,refer to canvas for the most up -to-date schedule
+202,,,"throughout the semester the following will be due on a recurring basis: weekly updates, peer feedback"
+203,,,"week (s) topics / activities due 1-3 introduction to senior capstone design: • identify and formulate an engineering problem, how to function effectively in teams, how your project fits in the context of other work, how to communicate the motivation, need, and ethical consi derations for the system, and how to define success in the project , project management "
+204,,,• teams finalized • project proposal • abstract • project plan • user stories / usage scenarios • ethics quizzes • group reference search & related work 4-6 project design and skill development • how to create an evaluation plan according to the team’s definition of success
+205,,,"• use of project management software such as github, trello, jira, and more"
+206,,,"• literature review • iterative progress on final reports • groups present weekly updates on their progress • github set -up • introduction & engineering standard • related work part 2 • requirements • prototype • design • evaluation • lo-fi prototype 7-11 project development & testing • communicate the user interface design and design choices • continue development & testing, including unit, integration, and validation testing"
+207,,,• run and implement a user acceptance test to evaluate the success of their system
+208,,,• iterative progress on final r eports • fully working and tested system • evaluation results (internal and user acceptance testing) 12-13 project finalization • results and their implications 
+209,,,"• in-class and external demonstrations • teams finish final deliverables • user acceptance results • implementation results & discussion 14-15 project present ation s and deliverable submission • in-class and external demonstrations • teams finish final deliverables • final deliverables • final presentation slides & demo video • final presentation to iap members course expectations course expectations , in the form of a c ourse appreciat ive agreement, will be reviewed and agreed to in the first 2 weeks of class "
+210,,,"senior capstone – csce 482 course syllabus page 11 of 13 course copyright the materials used within this course are copyrighted and include, but are not limited to, the syllabi, quizzes, exams, homework, online hand outs, course videos, audio and visual recordings of classes, etc"
+211,,,"because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted"

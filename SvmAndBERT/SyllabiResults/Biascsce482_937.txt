@@ -1,0 +1,64 @@
+ texas a&m university department of computer science and engineering spring 2022 csc e 482 – 931: senior capstone design mw 08:00am - 08:25am eaba 118 (lecture) mw 08:30am - 11:00am eaba 118 (lab) _____ ______________________________________________________________________ instructor : aaron angert , adangert @tamu.ed
+website : google classroom class code: okzgrju zoom link (for presentations only) : https://tamu.z
+course prerequisites csce 482: (csce 315 or csce 331) and csce 411 and, senior classification textbook and references required • the five dysfunctions of a team: a leadership fable by patrick m
+• the wisdom of teams: creating the high -performance organization , by jon r
+katzenbach and douglas k
+available on -line at tamu libraries
+group members will be required to keep individual lab notebooks recording their efforts and their personal impressions of the project
+students will be graded based on both the quality of the group product and their individual contri butions
+every team will be required to schedule a weekly meeting with the course instructor and the tas, preferably during the off icial class or lab hours
+these meetings must be attended by every group member
+however, every member of the group is expected to partic ipate 
+• design, implement, and evaluate a com puting -based solution to meet a given set of computing requirements in the context of the program’s discipline
+• recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles
+• function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline
+grading policy the final grade you will receive in the class will be based on points accumulated during the semester
+thus, both continued progress (the process) and the quality of your product (and other deliverables) will determine your grade
+although the bulk of your grade is based on the performance of your team, individual performance will also be gauged
+1 project proposal ( 5%): these points will be based on (1) the originality, creativity and feasibility of the proposed work, the analysis of alternative solutions, the consideration of economic and societal aspects, the project management approach ( 3%), and (2) the quality of the oral presenta tion (2%)
+the grade will be based on your progress to date, and the qu ality of the oral presentation and accompanying written report
+the weekly report should be incremental , and should specifically address the following: a
+any major accomplishments during this time period , including figu res and results c
+due date: project demonstrations will take place 48 ho urs prior to the final presentation (or the friday prior if on a weekend)
+all ii.require
+group materials such as project proposal, weekly report, cdr, final report and presentation files, iii.shoul
+be shared on the github
+contributed to the team as well
+tea ms should make use of github features such as the v.readm
+6 teamwork (10 %); it is very important to understand that accomplishing the technical objectives of the project is not sufficient
+these accomplishments should not come at the expense of destroying relationships among team members
+thus, a grade will be assigned based on t he ability of the group to function as a team
+is there evidence that the group engaged in team building activities? were contributions to the project evenly distributed? were members equally engaged in discussions during meetings? was there an effective division of responsibilities? the project grade is direct outcome of teamwork
+teamwork score is no more than the project grade in 5
+among the 10%, i
+8% is determined by final evaluation of teamwork effectiveness
+teamwork grade level cannot be higher than project grade
+7 individua l performance (30%): points in this category are awarded based on assessments of your personal contribution to the team efforts: a
+entries in the notebook should be made during or shortly after every work session
+each entry should include (1) the date, (2) the objectives for that session, and (3) record of what was done
+iii
+you can choose either paper -based notebook or electronic -based notebook: paper -based notebooks must have permanent binding (i.e.
+composi tion pads); spiral -bound notebooks will not be accepted , failing to do so will result in a 5% penalty on the final grade
+the file should clearly co ntain aforementioned materials in an organized mann er
+the file should be cumulative which contain s all the information from the beginning of the class
+b
+team leaders will instead be evaluated by their ability to make the group operate as a team, i.e.
+c
+peer review ( 9%): your performance will be evaluated by each of your team members throughout the semester
+d
+amu.edu)
+all project code should be managed, from the project beginning, in this system
+for example, if you only submit codes at the last week of semester, you will lose the three po ints
+note: code quality including metrics such as structure, readability, and efficiency will be weighted more heavily than the number of lines o f code committed
+(4%) adherence to good version control prac tices such as using branches to develop new features without affecting the master branch, avoiding bundling unrelated changes into single commits, and writing good commit messages
+e
+f
+throughout the semester, there may be opportunities to contribute to the team beyond what is required as part of the course requirements e.g
+students may be offered extra credit for v olunteering for such tasks in proportion t o the effort required
+all team members are required to be present at the time of the final delivery unless due to excused absence allowed by student rule 7
+it should include a plain text readme file that documents the list of contents
+3) final hardware prototype, as well as any spare parts and supplies 4) software install, to be demonstrated on several machines 5) peer reviews 6) notebooks final reports should have a discussion of constraints that the team had to satisf y (e.g.
+cost, time, technology limitations) and of relevant industry standards used (e.g.
+coding, interfaces, safety)
+spiral -binding), and should contain a title page, an outline, as well as clear section and subsection headings, etc
+blue rows means that we meet in eaba 118 as a whole

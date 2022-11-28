@@ -1,0 +1,16 @@
+ syllabus course title and number csce 310 – database systems term spring 2022 meeting times and location monday & wednesday, 4:10 – 5:25 pm, zach 350 instructor informatio n name christopher i
+g
+office hours monday & wednesday , https://doodle.com/mm/christopherlanclos/offic
+-hours office location petr 111 course description and prerequisites file structures and access methods; database modeling, design and user interface; components of database management systems; information storage and retrieval, query languages, high -level language interface with database systems
+• be able to write sql commands to create tables and indexes, insert/update/delete data, and query data in a relational dbms
+all homework , and project artifacts will be submitted by uploading them into canvas unless otherwise specified
+late homework and project artifacts are accepted with 10% penalty for each day late up to a maximum of 3 days
+30 minutes per quizzes and 1 hour per exam
+exam points must be earned back prior to next exam, except for the third exam
+ex
+student a takes quiz 3 and scores 50 /100 on the quiz
+the student can come to office hours and make up 50% of the 50 points that he did not obtain in the initi al quiz
+
+major assignment and important dates assignment date last day to drop course 01/24 exam 1 02/16 spring break
+03/14 – 03/18 exam 2 03/22 reading day, no classes 04/15 last day for all students to drop courses with no penalty (q -drop)
+reading day, no classes

@@ -1,0 +1,165 @@
+id,keyword,location,text
+1,,,"syllabus – csce 120/121 – spring 2022 course information course number: csce 12 0/121 course title: [introduction to] program design and concepts sections instructor cla ss time location 588-590 & 594- 599 moore asynchronous online 591-593 ritchey mondays, wednesdays, fridays 10:20 am – 11:10 am online 510-517 taele mondays, wednesdays, fridays 8:00 am – 8:50 am (510- 513) 9:10 am – 10:00 am (514- 517) zach 310 503-509 taylor mondays, wednesdays, fridays 9:10 am – 10:00 am (503- 505) 10:20 am – 11:10 am (506- 509) zach 350 credit hours: • csce 120: 3 • csce 121: 4 instructor details • michael moore (he/him) o sections: 588- 590 & 594- 599 o office: petr 322 o phone: 979- 845 -5472 o e-mail: jmichael@cse.tamu.ed"
+2,,,o office hours:  indicate when you can attend office hours (for dr
+3,,,moore’s sections only)  make an appointment with michael moore • automated system that will make an appointment and automatically add it to my calendar
+4,,,o limit yourself to one debugging appointment per week
+5,,,o other meetings types are not for debugging
+6,,,o • philip ritchey o sections: 591- 593 o office: tbd o phone: tbd o e-mail: pcr@tamu.ed
+7,,,o office hours: tbd 2 of 13 • paul taele o sections: 510- 517 o office: petr 320 o phone: 979- 845 -7977 o e-mail: ptaele@tamu.ed
+8,,,o office hours:  days: tuesdays and thursdays  times: 5:30 pm – 7:30 pm  room: tbd • brennen taylor o sections: 503- 509 o office: petr 40 2 o phone: n/a o e-mail: brtaylor1001 @t am u
+9,,,"e du o office hours: tbd course description • csce 120: extend prior programming knowledge to create computer programs that solve problems; use the c++ language; apply computational thinking to enhance problem solving; analyze, design and implement computer programs; use basic and aggregate data types to develop functional and object -oriented solutions; develop classes that use dynamic memory and avoid memory leaks; learn error handling strategies to develop more secure and robust prog rams"
+10,,,"• csce 121: computation to enhance problem solving abilities; computational thinking; understanding how people communicate with computers, how computing affects society; design and implementation of algorithms; data types, program control, iteration, functions, classes, and exceptions; understanding abstraction, modularity, code reuse, debugging, maintenance, and other aspects of software development; development and execution of programs"
+11,,,"course prerequisites • csce 120: grade of c or better in e ngr 102 , csce 110 , csce 111 , or csce 206 , or equivalent"
+12,,,• csce 121: programming course (high school or college)
+13,,,course learning outcomes upon completion of the course students should be able to: • use c++ to develop programs 
+14,,,"• analyze a problem, identify its important features to design and develop small computer programs or functions that solve the problem"
+15,,,articulate the rationale for various design and implementation decisions
+16,,,• represent algorithm designs as pseudocode or other appropriate representations
+17,,,"• given an algorithm, write code that implements the algorithm"
+18,,,• write code that follows common code readability practices
+19,,,• document code so that others can easily understand and follow it
+20,,,• explain the following concepts and utilize them when developing computer programs
+21,,,o abstraction o information hiding o object -oriented decomposition • list common data types used in computer programs
+22,,,"3 of 13 • define and use aggregate data types correctly, including arrays, vectors, and linked lists"
+23,,,• descr ibe when each aggregate data type is appropriate
+24,,,"• define and use heterogeneous data types, including structs and classes"
+25,,,• use strategies that address errors in programs
+26,,,• use debugging tools and techniques to find and fix errors in c++ source code
+27,,,"• use basi c control structures including sequence, selection, and iteration as well as function invocation"
+28,,,• distinguish between adding and removing memory in relation to the stack and heap memory locations
+29,,,• describe the process of allocating and deallocating dynamic memory
+30,,,• write programs that use dynamic memory and avoid memory leaks
+31,,,• use functions to implement abstraction and information hiding that avoid unintended memory side effects
+32,,,• explain the concept of recursion and deploy it in problem solving
+33,,,• describe the parts of a recursive function
+34,,,• explain how to ensure a recursive function terminates
+35,,,• write programs that use recursive functions
+36,,,"diversity equity and inclusion accessibility statements michael moore's accessibility statement while the new disability accommodation portal (aim portal) will ease sharing accommodation information, you must still make an appointment with me to discuss your accommodations"
+37,,,"in addition to accommodations, i can help you develop strategies to become successful in this course"
+38,,,"prior to being a professor, i worked as a certified sign language interpreter in the state of texas while getting my ms and phd degrees in computer science"
+39,,,i have a great interest in providing an environment where students with disabilities can thrive
+40,,,i wish i could accommodate anyone for any need
+41,,,"however, the university requires that i only provide accommodations for students registered with disability resources "
+42,,,i’m always fascinated with the rich tapestry of diversity which make up my classes
+43,,,"in fact, i teach a course on accessible computing which focuses on principles for creating accessible applications and programs"
+44,,,"“i’d prefer that you get your accommodations and not need them, rather than trying without your accommodations and finding out that you neede d them."
+45,,,earlier in my career i noticed a disturbing pattern
+46,,,student s would try to get through the first exam without using their accommodations
+47,,,i suspect this was due to negative experiences with prior instructors
+48,,,"frequently, they said they just wanted to try it without the accommodation"
+49,,,"after the first exam, there would be a rush of students submitting their accommodation letters"
+50,,,these instances have greatly decreased since i’ve been explicit about my preferences
+51,,,"philip ritchey's accessibility statement i recognize disability as an aspect of diversity, equity, and inclusion"
+52,,,"for that reason, i try to design all of my course material to be inclusive and accessible"
+53,,,"however, i realize that some aspects of the course may not yet be as inclusive as they could be"
+54,,,i rely in part on my students to let me know when and where they need some accommodation
+55,,,i want you to know that my top priority is for my students to learn as much as they can in my class
+56,,,that includes working with students to find solutions that help them perform at their best
+57,,,i hope tools like the disability accommodation portal will make it easier for students to start the conversation about how we can work together to help them make the most out of their learning opportunities
+58,,,paul taele's accessibility statement your experience in this class is important to me
+59,,,it is the policy and practice of texas a&m university to create inclusive and accessible learning environments consistent with federal and state law
+60,,,"if you have already established accommodations with disability resources, please activate your accommodations via aim portal ( click here to access the aim portallinks to an external site"
+61,,,) so we can discuss how they will be implemented in this course
+62,,,"if you have not yet established services through disability resources, but have a temporary health condition or permanent disability that requires accommodations (conditions include but not limited to; mental health, attention- related, learning, vision, hearing, physical or health impacts), contact disability resources directly to set up an accessibility plan"
+63,,,disability 4 of 13 resources facilitates the interactive process that establishes reasonable accommodations
+64,,,click here for disability resources's website.link
+65,,,to an external site
+66,,,"brennen taylor's accessibility statement inclusivity is important to me, and i commit to making all course materials as accessible as i can"
+67,,,part of this includes support for students with disabilities
+68,,,"in addition to being required by campus policy, i have personally worked with students whose utilization of the resources available to them has helped them achieve greater success in their completion of the course"
+69,,,please activate your accommodations in the new disability accommodation portal (aim portal) 
+70,,,"in addition, at the very least, shoot me an email and make we aware of your accommodations so i can be aware and work with you"
+71,,,i would also be happy to meet with any student and discuss their accommodations if you prefer that as well
+72,,,"preferred name and preferred gender pronouns professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities"
+73,,,class rosters are provided to the instructor with the student’s legal name
+74,,,i will gladly honor your request to address you by an alternate name or gender pronoun
+75,,,please advise me of this preference early in the semester so that i may make appropriate changes to my records
+76,,,"non- discrimination policy texas a&m is committed to the fundamental principles of academic freedom, equality of opportunity and human dignity"
+77,,,"to fulfill its multiple missions as an institution of higher learning, texas a&m encourages a climate that values and nurtures collegiality, diversity, pluralism and the uniqueness of the individual within our state, nation and world"
+78,,,all decisions and actions involving students and employees should be based on applicable law and individual merit
+79,,,"texas a&m university prohibits students, employees, and third parties from engaging in discrimination and/or harassment on the basis of race, color, sex, gender identity, age, religion, disability, national origin, sexual orientation, genetic infor mation, veteran status, or any other characteristic protected by federal, state, or local law"
+80,,,"in addition, act ing in complicity with another who engages in any of these forms of prohibited conduct, or retaliating against a person who participates in protected activity, is also prohibited"
+81,,,"harassment of a student in class, i.e."
+82,,,a pattern of behavior directed agai nst a particular student with the intent of humiliating or intimidating that student will not be tolerated
+83,,,"the mere expression of one’s ideas is not harassment and is fully protected by academic freedom, but personal harassment of individual students is not permitted"
+84,,,professionalism and respect you are expected to treat your instructor and all other participants in the course with courtesy and respect
+85,,,"your comments to others should be factual, constructive, and free from harassing statements"
+86,,,"you are encouraged to disagree with other students, but such disagreements need to be based upon facts and documentation (rather than prejudices and personalities)"
+87,,,unprofessional or disrespectful conduct will result in a lower grade on an assignment
+88,,,warnings wi ll not be given; part of the learning process in this course is respectful engagement of ideas with others
+89,,,"students will need to contribute in intelligent, positive, and constructive manners within the course"
+90,,,"behaviors that are abusive, disruptive, or harassing may result in disciplinary actions as specified within the student rules"
+91,,,sensitive or controversial topics might be discussed in this course
+92,,,comments posted within this course are to remain confidential to the audience of this course; do not copy or share messages or writings from this course with others not in this course section
+93,,,students in this course are also responsible for being familiar with the universit y’s student rules and policies 
+94,,,5 of 13 textbook and resource materials required textbook csce 12 0/121: program design & concepts c++ (online textbook) • zybook (http://learn.zybooks.com
+95,,,• class code: tamucsce121spring2022 • you are required to have access to your own copy linked to this class with the code above
+96,,,part of your grade depends on completion of activities in the zybook 
+97,,,• zybooks has a refund policy
+98,,,the instructors have heard of refunds given as late as after q -drops
+99,,,so purchase asap
+100,,,"even if you have to wait to purchase until after add/drop, you can sign up and get access to the first chapter for free! • note: you are required to know the information in “optional” sections in the first 2 chapters; however, any participati on activities and challenge activities in these sections are optional"
+101,,,"example sections have been made optional throughout the text, but they can be a source of additional help if needed"
+102,,,"recommended textbooks • programming principles and practice using c++, second edition, bjarne stroustrup, pearson, 2014"
+103,,,"• a computer science tapestry, second edition , owen l"
+104,,,"astrachan, mcgraw -hill, 2000"
+105,,,(free pdf) required computer • you must have your own computer for consuming online content that fulfills the texas a&m computer requirements 
+106,,,• you will have t o install software on it
+107,,,we will provide links to software you can install for the course and procedures for setting things up
+108,,,bandwidth you should have sufficient bandwidth to watch videos and use the online tools used in this course
+109,,,technology to capture an image at times you may be asked to create a sketch or diagram to submit electronically 
+110,,,you need the ability to get the diagram into a format that can be uploaded
+111,,,"you could sketch on paper and take a picture with your camera, sketch on a tablet device, or use a scanner"
+112,,,"you should be able to do this quickly, especially if needed for an exam question"
+113,,,required online tools canvas (https:// canvas .tamu.edu/
+114,,,dashboard for the entire course
+115,,,this will link out to appropriate resources
+116,,,piazza (https:// piazza.com/tamu/spring2022/csce120121/hom
+117,,,) sign up for piazza 
+118,,,all questions will be fielded through piazza
+119,,,• everyone can see answers and other students can answer as well
+120,,,o we will endorse good student responses
+121,,,• private messages can be posed to all instructors or an individual instructor
+122,,,6 of 13 o email messages are more li kely to be overlooked and should be used only in rare circumstances
+123,,,note: posts directed to instructors that would benefit the entire class and should be visible to all students will be updated so that the post is visible by the entire class
+124,,,discord (tbd) used for class meetings and meetings with instructors and tas
+125,,,tamu google shared drive (https://google.tamu.edu/
+126,,,used to share some course materials such as homework and labwork prompts
+127,,,you must be logged into your tamu google account to access these materials or submit google forms (e.g
+128,,,for a quiz)
+129,,,"your tamu google account will have to be the default account in y our browser, or you can open an incognito window and log in from there"
+130,,,it might take up to 24 hours after registering for the class to be able to access materials in the google shared drive
+131,,,tamu zoom (https://zoom.t
+132,,,mu.edu
+133,,,used for class meetings and meetings with instructors and tas
+134,,,"grading policy if you want to challenge any grading, you must do so within one week of when the grade is published"
+135,,,we reserve the right to audit the grades for any assignments submitted to this course
+136,,,"during the audit process, we can decrease or increase your score"
+137,,,this could result in lowering the score of already released grades
+138,,,homework (40%) homework assignments are completed individually outside of class and submitted weekly
+139,,,• you must write your individual homework independently
+140,,,"• all detected plagiarism , cheating, and complicity will be reported to the honor system office"
+141,,,o students have previously used code from chegg; using such resources is not allowed
+142,,,o submitting code based on a solution or on starting code from such a resource is considered plagiarism 
+143,,,see academic dishonesty section below
+144,,,see make up & late work policy 
+145,,,rounded % total letter grade 100 - 90 a <90 and ≥ 80 b <80 and ≥ 70 c <70 and ≥ 60 d <60 f 7 of 13 labwork (10%) labwork are activities to help you get a better understanding of concepts that students traditionally struggle with or t hat are integral to know prior to doing homework 
+146,,,• you must work collaboratively with other students during your lab session
+147,,,"• even though you will work collaboratively, you will submit individually"
+148,,,• you must be present in the lab session to receive credi t
+149,,,see make up & late work policy 
+150,,,zybook (5%) weekly zybooks reading assignments will be averaged
+151,,,"at the end of the semester, 15% will be added to your final zybooks average to a maximum of 100%"
+152,,,class engagement (5%) your instructor will give you quizzes and other activities to assess your participation in class concepts
+153,,,"at the end of the semester, 15% will be added to your final class engagement average to a maximum of 100%"
+154,,,see make up & late work policy 
+155,,,"exams (40%) the course exam average is the maximum of • final exam grade • average of exam 1, exam 2, and final exam"
+156,,,"exams are open book, open note"
+157,,,• you are not allowed o to interact with anyone face to face or electronically during an exam
+158,,,"o to use sites like chegg, coursehero, and stackoverflow, any tutoring service, or any site that explains how to solve a problem or provides content already provided by allowed resources "
+159,,,• you are allowed o to use your textbook 
+160,,,o any instructor’s slides and examples 
+161,,,o any code you’ve written for homework or labwork
+162,,,o c++ standards sites  https://cppreference.co
+163,,, https://cplusplus.co
+164,,,see make up & late work policy 

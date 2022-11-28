@@ -1,0 +1,40 @@
+ syllabus course information course number:csce 314course title:programming languagessection:598-599time:onlinelocation:onlinecredit hours:3 instructor details instructor: prof
+lupolioffice: https://tamu.zoom.us/my
+professorlupoliphone: 979-845-2479(worst way to contact me)e-mail: slupoli@cse.tamu.eduplease
+alwaysput a re: of “csce 314”office hours: mw 9am-11am course description this course explores the design space of programming languages via an in-depth study of twoprogramming languages, one functional and one object-oriented; it focuses on idiomatic uses of eachlanguage, and on features characteristic for each language
+course learning outcomes at the end of the course, students will be able to use modern programming languages more effectivelyand be able to learn new programming languages more easily
+they will get a broader understanding oflanguage constructs, common abstraction mechanisms, and efficiency considerations
+addison-wesley professional.isbn-13
+978-0-321-34980-4
+isbn-10: 0-321-34980-6
+grading policy attendance:the student’s semester grades will be based on lab assignments, exams, and projects
+also, if the assignmentis a project, and a delayis requestedfor any reason, the work currently donemust also be submitted at the time of the request
+submission of work, deadline policy, and late submission policy:all assignments must be submittedelectronically(not hard copies) using the canvas system by thedue date and time specified in the assignment
+“iforgot” or “my file was corrupted”is notan excuse.fo
+this particular class, no late work is acceptedunless with a valid absence described above
+page2of7 regrading policy:a student can request regrading of any graded material, if the student believes that the pointsassigned are inconsistent with the quality and merits of the submitted work
+to request regrading thestudent needs to follow the guidelines below:1.regradin
+after this time limitno re-grading requests will be honored.2.regradin
+class participation and labs:you will be working in teams of three
+you will work with your teammate to complete weekly labs thatcan be completed from friday 9am cst to sunday 11:59pm cst
+if no issues appear and attend fully, you will receive full credit
+will be used for the course
+it will be broken down into each topic/assignment/etc … that we have in this course
+while posting is highlysuggested for all questions since we all see it, answering with tangible solutions will earn extra creditthroughout the course
+please make sure responses are thoughtful and respectful.answerin
+questionsfrom fellow classmatesthroughout the semesterwillbe used as a part of your participation grade
+the class will use an 80/20 split for lab work participation and campuswire participation
+i stoppedrecording your activity on campuswire in the last week of the course
+you will get a proportional grade
+say, the number of questions you asked and answered is3, you get 3/15*20% = 4%
+quizzes:quizzes will be timed and be of varying types of questions
+the quiz is designed to be taken afterwatching and reviewing all of the course material, but before your group lab
+the quiz will be offeredonly on thursdays from9am to midnight
+exams:there are several exams in this course
+if you choose to take the exam online, there are setuprequirements explainedhereto stop cheating
+in general,please make sure you have the camera anglefacing the monitor, your keyboard and you in one frame
+course schedule note: course assignments may be modified by the instructor to meet the needs of the class
+a livecalendar will be contained on our class learning management system
+(blackboard/canvas) topic introduction, function language choice introduction and basics types, currying, and polymorphism; defining functions, recursive functionslist comprehensionshigher-order functions; declaring types and classes, modulesdeclaring types and classes, modules; a tour of language implementationgrammars and parse treessyntactic analysis; name scope and type systemsfunctors, applicatives, andmidtermmonads and monadic parsing (parsing library)intro to javajava classes, subclasses, packaging and subtypingjava polymorphismjava generics i & iijava virtual machine (jvm)final review (cont.
+important dates: midterm 1 - (1.
+hours) - 3/24 at 6pm (cst)final exam - (2 hours) - 5/5 at 6pm (cst)a face to faceand(or)online option may be made availableto you

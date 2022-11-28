@@ -1,0 +1,14 @@
+ page 1 of 5 syllabus course title and number csce 438-500: distributed systems and 438-200: hnr-distributed systems term spring 2022 meeting times and location tu, th 11:10am - 12:25pm, zach 350 course description and prerequisites the goals of this course are for students to gain an understanding of the principles and techniques (e.g.
+locking, concurrency, scheduling, communication across networks, fault tolerance) behind the design of distributed processing systems, such as google, facebook, amazon, yahoo and microsoft, and to gain practical experience designing, implementing, and debugging real distributed systems
+hnr students will work on a class project
+be able to clearly elucidate their benefits, drawbacks, and limitations
+● debug highly concurrent code that spans multiple programs running on multiple machines ● reason about distributed algorithms for locking, synchronization and concurrency, scheduling, and replication students in 438h will investigate distributed ledger, smart contracts and blockchain, will be stimulated to propose new ideas for addressing existing problems and write a report
+office hours mw: 12pm-1, f 12pm-2pm or by appointment office location petr 350 or zoom: https://tamu.zoom.us/j/805658660
+tanenbaum, “distributed systems,” 3rd edition, version 3.0.2
+the textbook in pdf format is distributed by the instructor
+a hard copy can also be purchased from amazon
+page 2 of 5 research papers that serve the basis for some lectures will also be distributed by the instructor
+assignments: there will be 5 machine problems (mps) involving c/c++ and java programming
+there will be weekly take-home quizzes
+late work policy 1 mp can be up to 4 days late, 1 quiz can be up to 1 day late
+everything else is 20% per day

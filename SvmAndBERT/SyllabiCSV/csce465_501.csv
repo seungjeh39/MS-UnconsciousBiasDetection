@@ -1,0 +1,63 @@
+id,keyword,location,text
+1,,,"1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu"
+2,,,1/8syllabus course information course information course number: csce 465 course t itle: computer and network security section: 501 time: mwf 8:00-8:50am location: hrbb 124 credit hours: 3 instructor details instructor: martin carlisle office: petr 221 phone: 979-862-7928 e-mail: the_doctor@tamu.ed
+3,,,"office hours: will be posted on canvas course description fundamental concepts and principles of computer security , operating system and network security , secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, ipsec and vpn, wireless and web security "
+4,,,course prerequisites csce 313 and csce 315; junior or senior classification; or approval of instructor 
+5,,,"special course designation 1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu"
+6,,,2/8none course learning outcomes this course primarily aims at providing a level of literacy in information security adequate enough to understand the security implications on a number of diverse domains including software engineering; networking; privacy; and policy 
+7,,,"a secondary objective is to provide a working knowledge of topics such as cryptography , privacy , network security , and infrastructure management, so that students can acquire the necessary background for more advanced security courses"
+8,,,"by the end of this course, students will be able to reason about systems from the perspective of a security engineer "
+9,,,"that is, they should be able to deﬁne the system to protect; determine the security properties that are desired for this system; identify the possible threats to these security properties, and their likelihood of occurrence; and consider possible mitigations against these threats"
+10,,,"textbook and/or resource materials required t extbook introduction to computer security , by michael goodrich and roberto t amassia, addison-w esley pearson, isbn-10: 0-321-51294-4 optional t extbook handbook of applied cryptography – available online at: http://cacr .uwaterloo.ca/hac"
+11,,,(http://%20http://cacr.uwaterloo.ca/hac/
+12,,,grading policy homeworks: 550 points (distributed across 6 homeworks)
+13,,,y our assignments must be typed and in pdf format
+14,,,submit assignment to gradescope (https://www .gradescope.com
+15,,,"you are encouraged to discuss concepts with others, but you must do all assignments by yourself unless specifically instructed otherwise"
+16,,,"if you refer to any source while doing your homework, you must give credit in your solution, (this holds true whether it be a person, paper , book, solution set, web page or whatever)"
+17,,,y ou must write up the assignments in your own words
+18,,,never copy someone else’ s words and turn them in
+19,,,"for example, “the academic integrity policy on this syllabus was based on one obtained from prof"
+20,,,"jennifer w elch”, or “sally smith walked me through the solution to #38 and then i did #39 on my own” (assuming #38 was not on the homework)"
+21,,,"midterm exam: 200 points final exam: 250 points 1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu"
+22,,,3/8a >= 900 points b = 800-899 points c = 700-799 points d = 600-699 points f = <600 points we will make an ef fort to complete the grading of work within one week of the turnin date
+23,,,"if you believe your work was graded incorrectly or incompletely , you must either 1) meet with a t a within one week of the date the work is returned, or 2) submit a regrade request in gradescope within one week (when applicable)"
+24,,,only if you can prove to the t a that your solution is correct and complete will your work be regraded
+25,,,late w ork policy late homeworks are not accepted and are worth 0 points
+26,,,"if you have an extended excused absence (per rule 7) that prevents you from completing a homework, please coordinate with the professor as soon as possible for a make-up"
+27,,,version control you are strongly encouraged to use a version control system to track changes and back up your work
+28,,,t exas a&m has an institutional github account (https://github.tamu.edu
+29,,,that you can use
+30,,,do not create public repositories containing your assignment solutions as this may lead to unauthorized copying of your work and a violation of the aggie code of honor 
+31,,,"course schedule week topic required reading 1 (jan 19,21)introduction security properties and principles security vocabularysyllabus gt ch"
+32,,,"1 thompson paper 1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu"
+33,,,"4/82 (jan 24,26,28) os security program vulnerabilitiesgt ch"
+34,,,3 https://www .scmagazine.com/home/security
+35,,,news/feds-charge-14-with-making-atm- cashouts-appear-like-one/ (https://www.scmagazine.com/home/security
+36,,,"news/feds-charge-14-with-making-atm-cashouts- appear-like-one/) alephone paper 3 (jan 31, feb 2,4)program vulnerabilities hw 1 due mon jan 311."
+37,,,2.1-2.
+38,,,"4 (feb 7,9,1 1)program vulnerabilities crypto-symmetricgt ch"
+39,,,8.
+40,,,"5 (feb 14,16,18) crypto-symmetric vs"
+41,,,public gt ch
+42,,,8.5
+43,,,8.
+44,,,"6 (feb 21,23,25)crypto-hash functions and signatures, pki hw 2 due mon feb 21gt ch"
+45,,,8.3-8.
+46,,,"7 (feb 28, mar 2,4)malware midterm exam - w eds march 2gt ch"
+47,,,"4 8 (mar 7,9,1 1)network security – tcp/ip , udp, nat hw 3 due mon mar 7gt ch"
+48,,,"5 march 14-18 spring break 9 (mar 21,23,25)network security – dns, firewalls, vpngt ch"
+49,,,6.1-6.
+50,,,"10 (mar 28, 30, wireless security gt ch"
+51,,,6.
+52,,,"1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu"
+53,,,"5/8apr1) web security hw 4 due w ed mar 30gt ch 7 11 (apr 4,6,8) web security gt ch"
+54,,,"7 12 (apr 1 1,13) april 15 - no classsecurity models hw 5 due w ed apr 13 gt ch"
+55,,,"9 13 (apr 18,20,22) distributed security gt ch"
+56,,,"10 14 (apr 25,27,29)physical security hw 6 due w ed apr 27gt ch"
+57,,,2 15 (may 2)review last day of class is mon may 213.4
+58,,,13.
+59,,,"final exam date: (from registrar's website (https://registrar.tamu.edu/courses,-registration,"
+60,,,scheduling/final-examination-schedules#6-may5(thursday)) )
+61,,,"section 501: may 5, 10:00 a.m"
+62,,,– 12:00 p.m

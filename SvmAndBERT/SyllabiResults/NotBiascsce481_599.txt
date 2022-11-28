@@ -1,0 +1,18 @@
+ credits 1
+(1 -0)
+the goal of this course is to expose students to a variety of topics of current interest in computer science, with a particular focus on leader development
+invited speakers will make presentations in a seminar format, encouraging discussion and exploration
+this course is no longer being taught to meet a formal writing requirement (i.e.
+learning outcomes or course obj ectives the course will cover a variety of topics in class, in addition to research topics that students will be exposed to through attending research seminars outside of class
+the in -class topics will include: - career opportunities and pathways for those with undergraduate and/or graduate degrees in computer science and engineering - job topics, including job searching, interviewing, and negotiating - company work environments - computer science/engineering research, including undergraduate research - graduate sch ool - leadership and leader development instructor information name ricardo gutierrez -osuna email address rgutier@tamu.ed
+office hours by appointment office location peterson 309 grader yingying wang email address wyytamu@tamu.ed
+attendance will be taken via zoom 
+the seminar report will be submitted at the conclusion of the talk
+o for a regular talk, you may write a crit ique or discuss your thought s
+this module must be completed by may 3 , 202 2 11:59pm
+a record of attendance will be maintained from the first week of classes through the last day of class , and will constitute part of the participation grade for the course
+these absences may be made up by watching youtube videos (specific video links will be sent on the course ’s canvas webpages )
+only two makeup opportunities will be provided
+deadline to submit your reports is december 8, 2021 11:59pm
+grading scale the gra ding scale will be based off the number of meetings a student attends divided by the total number of classes held
+these points cannot be made up, and extra credit will not be offered

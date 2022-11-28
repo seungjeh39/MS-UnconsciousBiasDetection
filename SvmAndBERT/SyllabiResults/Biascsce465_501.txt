@@ -1,0 +1,30 @@
+ 1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu
+1/8syllabus course information course information course number: csce 465 course t itle: computer and network security section: 501 time: mwf 8:00-8:50am location: hrbb 124 credit hours: 3 instructor details instructor: martin carlisle office: petr 221 phone: 979-862-7928 e-mail: the_doctor@tamu.ed
+course prerequisites csce 313 and csce 315; junior or senior classification; or approval of instructor 
+special course designation 1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu
+that is, they should be able to deﬁne the system to protect; determine the security properties that are desired for this system; identify the possible threats to these security properties, and their likelihood of occurrence; and consider possible mitigations against these threats
+textbook and/or resource materials required t extbook introduction to computer security , by michael goodrich and roberto t amassia, addison-w esley pearson, isbn-10: 0-321-51294-4 optional t extbook handbook of applied cryptography – available online at: http://cacr .uwaterloo.ca/hac
+(http://%20http://cacr.uwaterloo.ca/hac/
+submit assignment to gradescope (https://www .gradescope.com
+you are encouraged to discuss concepts with others, but you must do all assignments by yourself unless specifically instructed otherwise
+if you refer to any source while doing your homework, you must give credit in your solution, (this holds true whether it be a person, paper , book, solution set, web page or whatever)
+y ou must write up the assignments in your own words
+midterm exam: 200 points final exam: 250 points 1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu
+if you believe your work was graded incorrectly or incompletely , you must either 1) meet with a t a within one week of the date the work is returned, or 2) submit a regrade request in gradescope within one week (when applicable)
+only if you can prove to the t a that your solution is correct and complete will your work be regraded
+late w ork policy late homeworks are not accepted and are worth 0 points
+if you have an extended excused absence (per rule 7) that prevents you from completing a homework, please coordinate with the professor as soon as possible for a make-up
+t exas a&m has an institutional github account (https://github.tamu.edu
+1 thompson paper 1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu
+3 https://www .scmagazine.com/home/security
+news/feds-charge-14-with-making-atm- cashouts-appear-like-one/ (https://www.scmagazine.com/home/security
+2.1-2.
+public gt ch
+8.
+10 (mar 28, 30, wireless security gt ch
+6.
+1/13/22, 10:29 am syllabus: 22 spring csce 465 501: comp & net security https://canvas.tamu.edu/courses/129614/pages/syllabu
+7 12 (apr 1 1,13) april 15 - no classsecurity models hw 5 due w ed apr 13 gt ch
+final exam date: (from registrar's website (https://registrar.tamu.edu/courses,-registration,
+section 501: may 5, 10:00 a.m
+– 12:00 p.m

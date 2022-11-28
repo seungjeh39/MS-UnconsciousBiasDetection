@@ -1,0 +1,36 @@
+id,keyword,location,text,target
+1,should,,You should be able to learn new software libraries on your own and design and develop functions on top.,1
+2,should,,"In addition, students should have had some exposure to basic probability, statistics, data
+structures and algorithms.",1
+3,,,We do not curve in this class.,1
+4,should,,"You should know how to multiply a matrix with a vector, but the most important prerequisite is simply an open mind.",1
+5,,,Absence from a lecture is not a valid excuse to be misinformed about any class activity and the student maintains the responsibility for all course content.,1
+6,,,"Rather, we teach to mastery which means that we have clear expectations in terms of what you should complete and what knowledge you should have obtained by the end of the course to succeed and to earn an A.",1
+7,,,"If you are participating appropriately, trying to adjust based on our feedback, and working equitably with your team, you should expect an A.",1
+8,,,"Students should have a basic knowledge of computing and the humanities, and either the ability to program complex systems or able to learn new software tools on their own.",1
+9,expected,,Students are expected to have some experience with computer programming and 3D graphics tools prior to taking this course.,1
+10,,,"While the course has no official prerequisites, recommended experience includes topics covered in courses such as VIST 271, CSCE 221, or CSCE 441. ",1
+11,uncertain,,Students who are uncertain of the expected level of technical proficiency are encouraged to contact the instructor to discuss specifics.,1
+12,experience,,"Experience with graphical and visualization tools, frameworks, and libraries (e.g., Unity, Unreal, Processing, OpenGL) is recommended. ",1
+13,,,"Familiarity with concepts of human-computer interaction, aesthetic design, and mathematical functions is also recommended, but experience with all is not required.",1
+14,,,"These objectives will be met through lectures, challenging assignments, regular quizzes, and a final examination.",1
+15,,,"We do not curve in this class, however provide you with the opportunity to earn an A, hence an 89.9 is a B.",1
+16,,,We teach to mastery which means that we have clear expectations in terms of what you should complete and what knowledge you should have obtained by the end of the course to succeed and to earn an A.,1
+17,welcome,,The class style is highly interactive and students are expected to eventually advance to a self-learning process to solve term project problems.,1
+18,self-learning,,"No prerequisite, I welcome all students with various backgrounds.",0
+19,,,You will dive into the world of software engineering and hone your teamwork.,0
+20,,,Projects and assignments are designed such that each student can show off their own skills.,0
+21,,,"The goal of this course is to provide the student with a working knowledge of different methods for logic representation, manipulation, and optimization, for both combinational and sequential logic.",0
+22,guarantee,,"Students can guarantee full points for participation if they satisfy one of the following: (1) Uploading an intro video, plus participation in in-class polls on 10 different days, or (2) participating in in-class polls on 20 different days.",0
+23,encouraged,,"Questions are encouraged, especially if you do not understand something.",0
+24,,,"The course will allow students to understand the relationships between logic, proofs and sets, and apply results from discrete mathematics to analysis of algorithms.",0
+25,,,Many of the mysteries behind the sometimes strange behavior of high-level programming languages will be revealed.,0
+26,,,"Throughout this journey, you will gain many cross-section views of the computing field, from the bare-bone details of switching circuits to the high-level abstraction of software design.",0
+27,,,"Barring exception, effort will be made to release weekly content on the weekend in case you have discretionary time to read ahead",0
+28,effort,,We will make an effort to complete the grading of work within one week of the turnin date.,0
+29,successful,,"At the end of this class, the successful student will:",0
+30,,,This course offers you a unique learning experience.,0
+31,excited,,The TA and I are always especially excited to teach this course.,0
+32,fun,,Building a system from start to finish is fun and rewarding.,0
+33,greatest,,Students often tell me that this was the greatest experience of their entire college career.,0
+34,amazing,,"It is amazing what you can accomplish together, so much more than on your own.",0

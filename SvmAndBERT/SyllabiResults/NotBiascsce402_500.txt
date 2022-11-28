@@ -1,0 +1,112 @@
+ ph.d.
+office: peterson 225 phone: preferred mode of communication is email
+e-mail: paula.dewitte@tamu.ed
+if in reference to homework or exams, please copy the senior graders: stuart nelson at s.s.nelson@tamu.ed
+lakhan saiteja kamireddy at lakhan@tamu.ed
+(in office) or by appointment (in office or by zoom) course description this course examines law and policy issues related to cybersecurity for the spectrum of cybersecurity jobs including those defined in the nist nice framework (procurement, operations/maintenance, governance and oversight, protection/defense, analysis, intelligence collection/operation; and investigation) cybersecurity jobs
+tomorrow’s cyber workers are exposed to more data and privacy issues that requ ires them to analyze law, policies, and regulations both under united states jurisdiction and internation al jurisdiction (spoiler alert: the internet has changed our traditional notion of jurisdiction!) 
+law is traceable and based on precedent while techn ology is disruptive
+course syllabus page 2 of 15 the course first examines the fundamentals and basics of law – jurisdiction, due diligence, case/controversy, standing, statute of limitations, remedies/damages, and evidence standards – to establish a foundation to apply and analyze legal issues that are especially problematic regarding cybersecurity
+the course then explores the national and international legal frameworks that govern cybersecurity and their implications for attacks, motives, responses, and counte r-attacks through the lens of what is permissible against attacking individuals or entities versus attacking nation -states including legal issues such as “hacking back” and problems such as accurate attack attribution
+the course then examines the legal i ssues raised by the cloud related to privacy and third partie s including emerging standards
+the overarching goal of this course is to provide a cyber -worker in technical, business or policy domains with the knowledge and skills to better interpret threats and responses in a national and international law framework while understanding (and being sympathetic to) the limits of the current law and how law/policy can evolve for cybersecurity
+this course is not intended to make you lawyers, but rather legal -savvy cyber workers
+the course includes current events discussion on relevant information and relies on extensive analysis of laws and policies whereby students will demonstrate their knowledge and skills by preparing short written assignments throughout the semester
+special course designation this is a stacked course
+course learning outcomes upon successful completion of this co urse, a student will be able to: • acquire the common body of knowledge for cybersecurity law including concepts and legal terminology
+• acquire the common body of knowledge related to both national and international laws related to cybersecurity and the d ifferences between united states law and laws of other jurisdictions
+• identify and explain common legal issues related to cybersecurity
+• provide a high -level explanation of the legal issues governing the authorized conduct of cyber operations and the use of related tools, techniques, technology, and data
+• apply legal concepts in issues related to cybersecurity including cases/controversies unique to cybersecurity
+• assess and explain legal procedural requirements relevant to cybersecurity
+page 3 of 15 • demonstrate the ability to work through a case study identifying legal issues, analyzing the cybersecurity action required, and formulating a plan that complies with applicable laws
+• identify the authorities applicable to a cyber -security operations scenario
+textbook and/or resource materials required text • cybersecurity law, 2nd edition by jeff kosseff, isbn -13: 978-1119517207 we will read all chapters (1 – 11) and selected appendices as references
+i recommend that you buy this book! referenced text s: • tallinn manual 2.
+i do not recommend that you buy this book! • you’ll see this message when it is too late by josephine wolff, isbn 978 -0-262—3885 -0
+• twenty -six words that created the internet by jeff kosseff, isbn -10: 1501714414
+• this is how they tell me the world ends by nicole perlroth, isbn -10 : 1635576059 
+grading policy the student’s semester grade will be based on assignments, exams, and a semester paper
+weekly/bi -weekly assignments (5) : there will be a total of 5 writing assignment
+the topics for these assignments can be found in the course sched ule
+semester paper: students should select a topic to write for this paper before the fifth week of class 
+both exams will be essay tests 
+a final exam will be short answer and cover material from the last lectures
+page 4 of 15 course grades will be assigned using the following scale: assignments rubric the rubric for the assignment is based on irac : issue + rule + analysis + conclusion 20% issue : did you come up with a relevant legal issue related to the course, and did you tie that issue to the course? did you explain the problem/issue clearly ? (if you fail to describe an issue, it will be difficult to analyze.
+tie your analysis to course knowledge to demonstrate what you learned from this course
+this is also a good time to bring up any vo ids or gaps in current laws or to differentiate legal and ethical issues
+20% conclusions: clearly state the conclusions based on the issue, rule, and analysis and ensure that there is a logical pathway to follow
+you apply analysis and tie it to course knowledge to demonstrate what you learned from this course
+these are proper nouns.)
+not 6 and a half pages); o margins : 1" on all sides o line spacing : 1.
+the instructor may accept late work if the student notifies the instructor before the assigned due date except in truly emergency situations
+(see student rule 7.
+individual arrangements will be made for exams and quizzes missed due to an excused absence
+page 6 of 15 course schedule date topics assignment milestones week 1 jan 18 - 20 introduction to course & expectations
+walk -through course syllabus
+discussion of semester paper
+using on -line resources and finding relevant current events
+basic cybersecurity terminology and concepts
+(1st lecture) overview of the american legal system legal concepts: due diligence, jurisdiction, standing; venue; case/controversy, statute of limitations; evidence standards (civil vs criminal); remedies/damage s; “reasonableness standards,” etc
+legal infrastructure: state and federal laws
+whew! and that’s just week 1! how fun was that! reading kosseff chapter 1 this week is essential 
+the remaining reading can be in the next few weeks
+don’t be overwhelmed! this is background material (but – it’s so interesting! )
+read kosseff chapter 1: data security laws and enforcement actions (skip section 3.
+appendix a: section 5 of the ftc act focus specifically on legal terminology and concepts as discussed in class
+read sans paper: opm vs
+periodically through the semester, we’ll refer to this sans paper
+as your legal analysis knowledge grows, you will realize how much you have learned using this paper as your guide
+your first read will probably be overwhelming
+your last read of the semester will be – i know that! read us constitution (articles i, ii, iii, iv, and vi)
+http://constitutionus.com
+and https://www.law.cornell.edu/constitutio
+privileges: attorney -client, work product doctrine, and non - testifying expert … in anticipation of litigation the concept of “standing” – article iii of the constitution and scotus inte rpretation fun facts: google the cases in the footnotes regarding standing on pages 52 – 53, especially whitmore v
+arkansas for the type of case/controversy
+whoa! did not see that coming!!!! putting it all together to bring a cybersecurity case to court — walk -thru the legal process —both civil and criminal
+ever
+read kosseff chapter 2: cyb ersecurity litigation and we will emphasize the legal concept of standing and how lack of standing affects cybersecurity cases
+we will not discuss specific state consumer protection or data breach laws
+assignment 1: write a one -to-two page paper on a fundamental legal issue as being confusing/critical to cybersecurity 
+due in one wee k
+submit through google scholar 
+5% of course grade for undergraduate students and 4% of course grade for graduate students 
+texas), expectation of privacy (katz v
+united states), recent decisions strengthening 4th amendment protections (carpenter v united states)
+4th amendment : review of scotus decisions on the requirements for fourth amendment warrants
+wade was about more than abortion” [note this statement from the article: “the a nswer is that roe’s definition of privacy seemed different
+… and then ho w this definition of privacy has been used in subsequent legal actions.
+page 9 of 15 and the solarium report either the executive summary (22 pages) or the report (182 pages) assignment 2: research the legal issues of privacy related to cybersecuri ty and write a one -to-two page paper discussing some l egal issue
+due in one wee k
+week 5 feb 15 – 17 us federal cybersecurity laws: legislative: fisma (federal information security management act) and how it relates to common law recognition of nist standards and fips 199 and fips 200 nist standards in a legal sense: documentation and how applying good cybersecu rity practices may cause legal risk ! [note: nist is not a federal regulatory agency.
+executive: (1) presidential directives and introduction to executive orders
+(2) executive agencies (e.g.
+(3) federal agencies —later lecture
+judicial: commo n law
+take -home exam 1! read kosseff chapter 8: cybersecurity and federal government contractors readings as assigned
+week 6 feb 22 - 24 cybersecurity and the cloud: fedramp catch up week – this is our first semester “breather” week to either catch up (if we’re behind) and/or to take time to fully readings as assigned
+obviously one excellent source is www.fedramp.go
+assignment 3: write a one -to-two page paper on a specific nist family of controls (pick out one or two controls) and think through any legal issues that should be considered
+this is where the opm pap er might provide some ideas
+more fun if your assigned position is counter to your personal beliefs
+due in one week
+due in one wee k
+week 7 mar 1 - 3 scope and effect of federal regulations and how enforced
+kosseff chapter 3 (skip section 3.
+pp 147 – 154) cybersecurity requireme nts for specific industries ; kosseff chapter 4 cybersecurity and corporate governance week 8 mar 8 – 10 international law: tallinn manual 2.
+on international law on cyber operations: sovereignty due diligence jurisdiction united nations charter (jus ad bellum) hague conventions & geneva conventions (jus in bello) read kosseff chapter 10: international cybersecurity laws and chapter 11: cyber and the law of war read chapters 1, 2, & 3 of the tallinn manual: sovereignty, due diligence, and jurisdiction skim through table of contents and organization of tallinn manual please do not confuse the tallinn manual 2.
+as actual binding international law!!!!! mar 14 – 18 spring break! week 9 mar 22 -24 posse comitatus other federal laws of interest
+read kosseff 6.
+executive: presidential directives and executive orders related to securing critical infrastructure and the united states patriot act
+legislative: the cybersecurity information sharing act -- cisa (2015), cybersecurity enhancement act (2014); nist cybersecurity framework read kosseff chapter 6: u.s
+government cyber structure and public -private partnerships assignment 4: research a legal issue related to protecting critical infrastructure fr om one of the critical infrastructure sectors and write a one -to-two page paper due in one week
+due in one wee k
+week 12 apr 12 - 14 intellectual property theft as a cyber threat legislative: economic espionage act (1996) uniform trade secrets act -- utsa (1985) assigned readings
+week 13 apr 19 - 21 cyber ethics: what’s right, what’s wrong, what’s legal, and what’s ethical
+new and emerging issues in cybersecurity law & policy since class started
+semester papers du e! – 25% of course grade for csce 402 & mara 403, 35% for csce 702 
+assignment 5: summarize and write a one -to-two page paper on your assessment of the current state of ethics in cybersecurity – think through the tallinn manual, hacking back, cfaa, etc
+and class discussions
+submit through google scholar 
+week 14 apr 26 - 28 in class exam #3
+course evaluations; wrap -up

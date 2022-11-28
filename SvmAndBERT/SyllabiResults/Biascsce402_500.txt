@@ -1,0 +1,72 @@
+ page 1 of 15 course information course number: csce 402/702 ; cybr 602 course title: cybersecurity law & policy section: csce 402/500; csce 702/600 /cybr 602/600 time: t, tr 3:55 – 5:10 p.m
+location: zach 310 credit hours: 3 instructor details instructor: paula dewitte, j.d.
+p.e
+office hour s: thursday 1 – 2 p.m
+law necessarily lags technology resulting in an uncertain legal and ethical framework which requires cyber workers to be able to analyze and distinguish appropriate courses of action as part of their daily tasks without the luxury of relying on legal counsel
+this is especially crucial given the dynamics of the threat and response landscape, the course will focus on international and federal law and not specific state data breach laws other than a cursory review and explanation of w hen states or federal has jurisdiction
+course prerequisites junior , senior , or graduate classification
+preferred to have some programming experience although not required
+a ll assignments and exams for undergraduate and graduate students are weighted differently as explained in the grading policy section below with all sections having the same assignments and exams 
+• demonstrate th e ability to use legal knowledge by analyzing cybersecurity issues from a cyber worker perspective such as whether a security incident violates a privacy principle or legal standard requiring specific legal action
+• evaluate the relationship between ethics and law, describe civil disobedience and its relation to ethical hacking, describe criminal penalties related to unethical hacking, and apply the notion of “grey areas” to describing situations where law has not yet caught up to technological innovation
+• describe steps for carrying out ethical penetration testing, describe 'ethical hacking' principles and conditions, distinguish between ethical and unethical hacking, and distinguish between nuisance hacking, activist hacking, cri minal hacking, and acts of war
+on the international law applicable to cyber operations by michael n
+schmitt, isbn 978 - 1-316-82252 -4
+• other readings as assigned and either placed on google scholar or communicated with web references
+each assignment should be answered in 1-2 pages according to the template posted on the google scholar learning management system for this class 
+the requirements for the paper and the rubric for grading will be posted on the google scholar learning management system for this class 
+exams: two major exams wil l be given in this course at five and ten weeks during the course
+20% rule : what makes this a relevant legal issue? what rules of law are you applying? did you do a thorough research, that is clearly communicated ? 20% analysis : you do not merely re -state the rule and research , but analyze what is leading to your subsequent conclusion
+20% presentation : formatting, proper grammar, correct spelling, proper use of words, proper capitalization (e.g.
+congress referring to the united states congress is always capitalized as is the first amendment
+these are proper nouns.)
+points grading scale : out of 1000 assignable points a 900 - 1000 points b 800 - 899 points c 700 - 799 points d 600 - 699 points f < 600 points requirement: undergraduate points graduate points weekly/bi -weekly assignments (5 assignments each worth 50pts for undergraduate students and 40 points for graduate students ) 250 (25%) 200 (20%) semester paper 250 (25%) 300 (30%) first exam 200 (20%) 200 (20%) second exam 200 (20%) 200 (20%) third exam 100 (10%) 100 (10%) total 1000 (100%) 1000 (100%) page 5 of 15 semester paper rubric the ru bric for the semester paper is: 20% idea selection and explanation : did you come up with a good idea for the course, and did you tie that idea to the course? did you explain the problem/issue? 20% research process : did you do good research, and is it clearly shown? 20% analysis : you do not merely re -state the research
+20% presentation : formatting, proper grammar, correct spelling, proper use of words, proper capitalization (e.g.
+congress referring to the united states congress is always capitalized as is the first amendment
+20% style : how well does this paper read? how well do you organize your ideas? how well do y ou reach logical conclusions based on your own arguments? is the paper substantial? • semester paper requirements: o page requirement : ▪ undergraduate 5 - 7 pages ( note : 5 complete pages are required
+not 4 and a half pages) ; five pages of content excludin g sources ▪ graduate 7 – 8 pages (note: 7 complete pages are required
+o font : calibri 11 preferred; no bigger than 12 point font o references required : minimum of 10 valid references late work policy late work is work that is not turned in according to the class process by the assigned due date
+typically, late and/or make -up work will not be accepted without a university excused absence
+if an absence is excused, then the student will be provided an opportunity to make up any homework assignments, quizzes, exams, or other work that contributes to the final grade with a due date that extends the original due date by the number of days of the excused absence
+in all cases, tamu student rule 7 will govern the process
+differences between engineering and legal mindsets (“ it depends.”)
+other american legal concepts: right to face accuser, double jeopardy, the role of “public policy” in court decisions, etc
+federal executive, legislative, and judicial branches
+appellate review process —federal and state (or how a federal law can be interpreted differently within different areas of the us)
+pp 48 - 56); don’t worry about s pecific case names and descriptions; focus on “key lessons” and look for the commonality in those key lessons for class discussion
+apt: how proper implementation of key controls could have prevented a disaste r (on google scholar )
+read federal courts and what they do: https://www.fjc.gov/content/federa
+-courts -and-what - they -do-2 at the end of week 1, you may not be able to recall all concepts and terminology from memory, however you should be able to analyze how and where to find the answer! we will refer to this as our framework of legal analysis that we will use through the rest of the course
+and rememb er – first step -- always check to see if a term has a legal definition! page 7 of 15 week 2 jan 25 - 27 continuation of legal terminology and concepts from week 1 common law (state) civil causes of action: contract breach; breach of implied warranty; negligence; unjust enrichment; fraud; slander; invasion of privacy
+(free legal advice: never ever ignore when served by a court of competent jurisdiction
+never
+)
+week 3 feb 1 - 3 privacy (“ the right to be let alone ”): is there a “right” to privacy? if so, how do we define privacy so that we can effectively legislate protecting that right? legislative: read kosseff chapter 7: surveillance and cyber and appendix e: electronic communicat ions privacy act read kosseff chapter 9: privacy laws read kosseff chapter 10 (section 10.1
+pages 386 – 396) page 8 of 15 the privacy act (1974); the stored communications act (1986) the wiretap act ( title iii of the omnibus crime control and safe streets act of 1968) the electronic communications privacy act (1986) —amendment to the wiretap act judicial: scotus opinions on privacy (griswold v
+connecticut, roe v wade, lawrence v
+what’s next after carpenter v united states? 14th amendment: review of scotus decisions on due process
+us constitution amendments 1, 3, 4, and 5 assigned readings on google scholar shocker: nyt article on google scholar : “roe v
+more than other supreme court decisions, it connected privacy to ideas about individual identity and choice.
+week 4 feb 8 - 10 federal laws on hacking back: computer fraud abuse act -- cfaa (1986) and proposed revisions; effect on hacking back digital millennium copyright act (1998)
+read kosseff chapter 5: anti -hacking laws and appendix c: section 1201 of the digital millennium copyright act (dmca) and appendix d: computer fraud and abuse act assigned paper(s) on “hacking back;” read: 2018 national cyber strategy https://www.whitehouse.gov/w
+- content/uploads/2018/09/national -cyber -strategy.pd
+and the companion document: https://media.defense.gov/2018/sep/18/2002041658
+- 1/-1/1/cyber_strategy_summary_final.pd
+submit through google scholar 
+5% of course grade for undergraduate students and 4% of course grade for graduate students
+ftc)
+obviously one excellent source is https://csrc.nist.gov/publications/sp80
+(as discussed and navigated in class)
+review sans paper on opm regarding nist controls should have selected a topic for a semester paper by this week
+
+page 10 of 15 digest information so far
+at least one lecture will be devoted to “point/counterpoint” classroom discussion where students will b e given positions and argue whether to defend or reject
+submit through google scholar 
+5% of course grade for undergraduate students and 4% of course grade for graduate students 
+regulatory agencies (ftc, fcc, sec, cfpb, dhs, department of education; other financial/banking regulations) relative to cybersecurity and/or privacy
+military involvement in cybersecurity and posse comitatus week 10 mar 29 - 31 take -home exam #2! page 11 of 15 week 11 apr 5 - 7 critical infrastructure as a cybersecurity threat
+submit through google scholar 
+5% of course grade for undergraduate students and 4% of course grade for graduate students 
+potential topics could include some aspect that causes controversy or conflict w ith us law
+due in one wee k
+5% of course grade for undergraduate students and 4% of course grade for graduate students 

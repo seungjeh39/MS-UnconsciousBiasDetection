@@ -1,0 +1,37 @@
+ 1/9syllabus course information course information course number: csce 222 course t itle: discrete structures for computing section: 501, 502 time: 501: mwf 01:50 pm-02:40 pm, 502: mwf 03:00 pm-03:50 pm location: zach 350 credit hours: 3 instructor details instructor: martin carlisle office: petr 221 phone: 979-862-7928 e-mail: the_doctor@tamu.ed
+office hours: will be posted on canvas course description this course provides the mathematical foundations from discrete mathematics for analyzing computer algorithms, for both correctness and performance; introduction to models of computation, including finite state machines and t uring machines
+2/9none course learning outcomes at the end of the course, students will understand the basic principles of logic, proofs and sets
+they will be able to apply results from discrete mathematics to the analysis of algorithms
+they will be able to produce proofs by induction and apply counting techniques
+rosen, mcgraw hill education
+assignment t urnin: https://gradescope.co
+(https://gradescope.com
+course videos: https://drive.google.com/drive/folders/1i8
+yxuor69_vsxv-r y8zxpil_i9npbm-? usp=sharing (https://drive.google.com/drive/folders/1i8ryxuor69_vsxv-ry8zxpil_i9npbm-
+guide.pdf
+letter.pdf
+a subset of each homework will be graded for correctness
+the other problems will be graded for completeness only 
+3/9final exam: 200 points a >= 900 points b = 800-899 points c = 700-799 points d = 600-699 points f = <600 points regrading policy we will make an ef fort to complete the grading of work within one week of the turnin date
+only if you can prove to the grader that your solution is correct and complete will your work be regraded
+1.
+2.
+2.
+5 (feb 14,16,18)cardinality of sets (hw 4 due mon) first midterm exam (w ed feb 16) algorithms2.
+(through 2.4
+3.
+6 (feb 21,23,25)growth of functions (hw 5 due mon) quiz 4 (w eds) complexity of algorithms3.
+3.
+7 (feb 28, mar 2,4)mathematical induction (hw 6 due mon) quiz 5 (w eds)5.1-5.
+8 (mar 8,10,12)recursive functions (hw 7 due mon) quiz 6 (w eds) recursive algorithms5.
+5.
+12/16/21, 3:19 pm syllabus: 22 spring csce 222 501: discrete struc computing https://texasam.instructure.com/courses/136448/pages/syllabu
+(through 8.4
+12 (apr 1 1,13) april 15 - no classcrypto math no quiz weds4.1-4.
+13 (apr 18,20,22)relations (hw 1 1 due mon) quiz 9 (w ed)9.1,9.5-9.
+14 (apr 25,27,29)finite state machines (hw 12 mon) quiz 10 (w ed) languages and grammars13.
+13.1-13.
+13.
+scheduling/final-examination-schedules#6-may9(monday)) )
+section 501: may 9, 3:30 – 5:30 p.m
+section 502: may 9, 10:30 a.m

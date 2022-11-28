@@ -1,0 +1,76 @@
+id,keyword,location,text
+1,,,csce 221 s yllabus polsle y - spring 2022 course information course number:csce 221course title:data structures and algorithmssection:513-516credit hours:4space and time:lectureall sections:310 zachmwf12:40 pm - 1:30 pmlabs513:584 zachmw8:00 am - 8:50 am514:584 zachmw9:10 am - 10:00 am515:584 zachmw10:20 am - 11:10 am516:584 zachmw11:30 am - 12:20 pm instructor details instructor:seth polsleyoffice:eabc 112ce-mail:spolsley@tamu.eduoffic
+2,,,hours:in person:112 eabcmf2:00 pm - 3:30 pmonline:calendly.com/spolsleyb
+3,,,appointment teaching assistant:pedro figueiredoemail:pedrofigueiredo@tamu.eduoffic
+4,,,hours:online:calendly.com/pedrofigueiredob
+5,,,"appointment course description from the csce course catalog:specification and implementation of basic abstract data types and their associated algorithmsincluding stacks, queues, lists, sorting and selection, searching, graphs, and hashing; performancetradeoffs of different implementations and asymptotic analysis of running time and memory usage;includes the execution of student programs written in c++"
+6,,,data structures and algorithms is one of the core cs classes because it covers fundamentals of storingand processing data while introducing design and analysis of algorithms
+7,,,"many coding interviews,programming tests, and future classes will depend on material from this class"
+8,,,"course prerequisites pre-requisit es: csce 121 (introduction to program design and concepts) orcsce 113 (intermediate programming & design) co-requisit es:csce 222 / ecen 222 (discrete structures for computing) ormath 302 (discrete mathematics) course learning outcomes this course details key concepts in computer science, aligning closely with the two tightly-integratedfields in the title: “data structures” and “algorithms."
+9,,,"accordingly, the content and expected outcomesare structured along these paths"
+10,,,"by the end of this course, you should be able to: -describe basic abstract data types andassociated algorithms for lists, stacks,queues, trees, graphs, hash tables, andother similar structures"
+11,,,-apply big-o asymptotic notation toevaluate and select efficient algorithmsfor a given problem with respect totimeand memory usage
+12,,,-define and analyze algorithmiccomplexity especially in regards to timeand memory efficiency -design and implement different datastructures according to resourcerequirements in the c++ programming language
+13,,,"textbook and resources textbookrecommended textbook:data structures and algorithm analysis in c++by markweiss, 4th ed"
+14,,,"while this book is widely used in the field, there are many other c++ guidesand websites that you may find helpful to consult as well"
+15,,,"canvascanvas will contain class materials, assignment descriptions, and grades"
+16,,,youcan access the course on canvas through your howdy portal
+17,,,"piazz a piazza will be used for q&a, announcements, and as a forum for other questions in the class"
+18,,,piazza ispreferred over email so that others can benefit from seeing the answers to your questions
+19,,,you can alsoask private questions to the instructor and ta
+20,,,"you can self-enroll by visiting the link below and using thespecified access code if you wish; alternatively, you will be auto-enrolled by the end of the add/dropperiod"
+21,,,http://piazza.com/tamu/spring2022/csce221polsley(accesscode
+22,,,88266112) csce 221 syllabuspage2of7 mimirlab and programming assignments will be submitted through mimir
+23,,,mimir is an auto-grading systemwhich can give you more direct feedback while allowing the instructor and ta flexibility to review manualportions of the assignments
+24,,,"you can self-enroll by visiting the link below and using the specified accesscode, or you may visit the direct enrollment link"
+25,,,"alternatively, you will be auto-enrolled by the end ofthe add/drop period"
+26,,,https://class.mimir.io/courses/72895125-fa9c-4b89-9bb7-a906c41c2e6a/(acces
+27,,,"code: 4c322d38c7) mimir direct enrollment gradesc opesome assignments, such as quizzes and exams, will be graded on gradescope where there are betteroptions for submitting online and handling print exams than canvas"
+28,,,"your account will be automaticallycreated, which you can activate through the sidebar in canvas under “gradescope”"
+29,,,https://www.gradescope.com/courses/35308
+30,,,"grading scale this class will use a standard a, b, c, etc"
+31,,,"scale for final grades; depending on the distribution, a curvemay be applied"
+32,,,"the instructor reserves the right to raise grades near a borderline to the next highestletter, based largely on the student’s perceived effort and participation"
+33,,,"abcdf 90 - 100%80 - 89%70 - 79%60 - 69%< 60% componen ts descriptionpercentagecategory class participation5% 25% activitieslabs10% quizzes10% homeworks (4)10% 40% assignmentsprogramming assignments (5)30% exams (2)20% 35% examsfinal exam15% the class is primarily structured according to a formative approach, using a collection of activities worthcomparatively few points that accumulate over the course of the semester"
+34,,,"in general, assume eachcomponent is individual, although certain activities, such as labs, will be designed for groups"
+35,,,"csce 221 syllabuspage3of7 •activities:class participationconsists of in-class exercisesthat will be given as a means of quick assessment,feedback, and practice, while serving as a measure of attendance"
+36,,,"lecture attendance is highlyrecommended, although not strictly required, but to provide flexibility, class participation is gradedout of 80%"
+37,,,"you can miss up to 20% of these exercises before the overall 5% will be affected,enabling you to miss some lectures and to feel less concerned about individual activities"
+38,,,labswill be held on mondays and wednesdays beforelecture
+39,,,they will test concepts throughapplied problems and be guided by the ta with the help of our grading platforms
+40,,,"unless specified,lab attendance will be required to earn lab credit"
+41,,,quizzeswill typically be short and held in-classabout once a week
+42,,,"following the goal of formativeassessment, individual quizzes are a low stakes way to evaluate concept understanding"
+43,,,"the lowestquiz grade will be dropped, and it is possible to overwrite most quizzes scores with exam scores"
+44,,,"forinstance, if the second exam score is higher than the average score for quizzes between exam 1 and2, those quiz scores will be replaced by the second exam score"
+45,,,•assignments:homeworksare take-home assignments that will notusually involve programming but will practiceconcepts related to the programming assignments and the overall course
+46,,,programming assignmentscomprise the single largestportion of the course grade
+47,,,"these willrequire programming a solution to the given prompt and submitting your code and, if applicable,discussion of the results"
+48,,,"assignments will be graded on a number of factors: algorithm design, useof data structures and user-defined types, quality of implementation, organization, correctness, andother artifacts of submission such as a written report including results"
+49,,,"readability is also critical, soit is your responsibility to clearly comment your code"
+50,,,•exams:two regularexamsand onefinal examrepresent thesummative portion of the course
+51,,,"because thisis a foundational class for the field, exams will include conceptual and applied problems"
+52,,,policies •attendance:the university views class attendance as the responsibility of an individual student
+53,,,"attendance isimportant in this class as a means to keep current with the material, especially in labs, so studentsare encouraged to attend"
+54,,,lab attendance will be evaluated based on your being present in the laband submitting the lab work
+55,,,class attendance will be based on in-class activities and quizzes
+56,,,•absences and make-up work:university rules related to excused/unexcused absences and make-up work are located in studentrule 7:http://student-rules.tamu.edu/rule07
+57,,,"ingeneral, you must notify the instructor at least aday prior to missing class, or within 2 days after if not possible, and provide documentation ofexcused absences within 3 days"
+58,,,make-up work for excused absences cannot be accepted more than30 days after the deadline
+59,,,an unexcused absence on an exam will result in a zero
+60,,,you may notify the instructor using the form located attx.ag/221absence
+61,,,"csce 221 syllabuspage4of7 •late submissions:typically, assignments are due at 11:59 pm on the day of the deadline"
+62,,,"if an assignment accepts latework, submissions received after the deadline will be subject to a late penalty, which will becomputed based on the number of days late"
+63,,,"the penalty will be 15% every day, up to 4 days"
+64,,,"after4 days, late work will receive no credit"
+65,,,"additionally, you have a pool of 4 late days that you can use to extend an assignment an additional24 hours without penalty"
+66,,,"while the assignments are organized so that you have plenty of time tocomplete them, late days give you extra flexibility to handle unforeseen circumstances according toyour own judgement"
+67,,,"to use a late day from your pool, you must fill out the following form:tx.ag/221lateday"
+68,,,be sure tospecify the affected assignment
+69,,,you are responsible for tracking your own late days! we willmaintain this information and will only allow up to 4 to be used
+70,,,"•accommodations:the division of student affairs has made a new portal available,disability accommodation portal(aim), which you can use to request and send accommodationletters"
+71,,,please also visitcalendly.com/spolsleyt
+72,,,book an appointment withme
+73,,,"i want to make the class as accessible aspossible, and i would like to talk with you to discuss the best plan for meeting your needs"
+74,,,"course schedule weektopic(s) 1introduction and review 2arrays, vectors, linked lists, stacks and queues 3searching and sorting 4algorithmic analysis 5trees 6exam 1 - friday, feb"
+75,,,"25 7heaps 8special trees 9hashing 10dictionaries and maps 11exam 2 - friday, apr"

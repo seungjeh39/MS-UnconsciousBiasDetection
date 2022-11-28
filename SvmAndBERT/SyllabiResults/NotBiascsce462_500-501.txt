@@ -1,0 +1,33 @@
+ office hours: by appointments teaching assistants yu, yuncheng email: yyc@tamu.ed
+starting from th e hands -on learning of development resources, constraints, and tools ; the class will guide students to the next level of system design and implementation process in a few lab sessions
+the lecture sessions will focus on selective design principles such as system modeling and abstraction , bus architectures, and basic integration of components
+at completion of the lab exercises, students are organized into project teams for the term project
+course outline sensing and timing digital power control address decoding interrupts and exceptions i/o fundamentals parallel and serial i/o microcontroller kits instruments (scope, logic analyzer) course schedule to be discussed during the first day of the class based on a separate document
+course requirements / grading scheme: tasks frequency weight test 1 1 20 points test 2 1 20 points labs 4 20 points open p roject (detail breakdown at end of syllabus) 1 40 points grade scheme : final grades are ranked into different grade letters
+there is no hard numerical cutoff between letters
+• lab manual – will be distributed with lab assignments, and available in lab and on the class web site
+lab : see the “lab overview” document communications: canvas , which contain s the majority of the material with
+emails will be used for classroom communications
+assignments & grading : no homew ork assignment midterm and final: closely follow the lectures, with pre -exam reviews
+labs: for 4 labs, each lab is worth of 25% of the lab grade 
+standard lab turn- in requirements: 1
+source codes, designs, annotation, following the report template 2
+live demo to ta’s 3
+if you fail to complete 3 labs, your lab grad ( 20 points) will b ecome zero
+5
+tardiness: latest late submission friday of due week, with up to 20% of penalty
+open project: 40 points the open proje ct includes the following major stages: 1
+one pager : a potential project idea to be described in a single page
+2
+work plan: translate a chosen idea into an actionable plan , which will include a technical specification, part list and budget
+typically 5+ pages
+3
+procurement: it sometimes takes 2 weeks to receive your parts
+you will be responsible for rush order shipping charge
+4
+actions: activities will be tracked using canvas or an alternative medium like slack 
+5
+demonstration and final report submission
+report submission • lab reports: canvas • final project reports ( it is a progressive build up process ) google shared folder s one pager work plan final report extended from the work plan powerpoint presentation short demo video clips • canvas project channels the c anvas channels are used to track your activities
+• project cost reimbursement requests (optional) – separate forms, receipts, in emails covid 19 and us to help protect aggieland and stop the spread of covid-19, texas a&m university urges students to be vaccinated and to wear masks in classrooms and all other academic facilities on campus, including labs
+doing so exemplifies the aggie core values of respect, leadership, integrity, and selfless service by putting community concerns above individual preferences

@@ -1,0 +1,28 @@
+ csce 221 s yllabus polsle y - spring 2022 course information course number:csce 221course title:data structures and algorithmssection:513-516credit hours:4space and time:lectureall sections:310 zachmwf12:40 pm - 1:30 pmlabs513:584 zachmw8:00 am - 8:50 am514:584 zachmw9:10 am - 10:00 am515:584 zachmw10:20 am - 11:10 am516:584 zachmw11:30 am - 12:20 pm instructor details instructor:seth polsleyoffice:eabc 112ce-mail:spolsley@tamu.eduoffic
+by the end of this course, you should be able to: -describe basic abstract data types andassociated algorithms for lists, stacks,queues, trees, graphs, hash tables, andother similar structures
+-define and analyze algorithmiccomplexity especially in regards to timeand memory efficiency -design and implement different datastructures according to resourcerequirements in the c++ programming language
+you can self-enroll by visiting the link below and using thespecified access code if you wish; alternatively, you will be auto-enrolled by the end of the add/dropperiod
+http://piazza.com/tamu/spring2022/csce221polsley(accesscode
+https://class.mimir.io/courses/72895125-fa9c-4b89-9bb7-a906c41c2e6a/(acces
+your account will be automaticallycreated, which you can activate through the sidebar in canvas under “gradescope”
+https://www.gradescope.com/courses/35308
+scale for final grades; depending on the distribution, a curvemay be applied
+the instructor reserves the right to raise grades near a borderline to the next highestletter, based largely on the student’s perceived effort and participation
+abcdf 90 - 100%80 - 89%70 - 79%60 - 69%< 60% componen ts descriptionpercentagecategory class participation5% 25% activitieslabs10% quizzes10% homeworks (4)10% 40% assignmentsprogramming assignments (5)30% exams (2)20% 35% examsfinal exam15% the class is primarily structured according to a formative approach, using a collection of activities worthcomparatively few points that accumulate over the course of the semester
+in general, assume eachcomponent is individual, although certain activities, such as labs, will be designed for groups
+csce 221 syllabuspage3of7 •activities:class participationconsists of in-class exercisesthat will be given as a means of quick assessment,feedback, and practice, while serving as a measure of attendance
+lecture attendance is highlyrecommended, although not strictly required, but to provide flexibility, class participation is gradedout of 80%
+you can miss up to 20% of these exercises before the overall 5% will be affected,enabling you to miss some lectures and to feel less concerned about individual activities
+unless specified,lab attendance will be required to earn lab credit
+the lowestquiz grade will be dropped, and it is possible to overwrite most quizzes scores with exam scores
+forinstance, if the second exam score is higher than the average score for quizzes between exam 1 and2, those quiz scores will be replaced by the second exam score
+assignments will be graded on a number of factors: algorithm design, useof data structures and user-defined types, quality of implementation, organization, correctness, andother artifacts of submission such as a written report including results
+readability is also critical, soit is your responsibility to clearly comment your code
+•exams:two regularexamsand onefinal examrepresent thesummative portion of the course
+attendance isimportant in this class as a means to keep current with the material, especially in labs, so studentsare encouraged to attend
+ingeneral, you must notify the instructor at least aday prior to missing class, or within 2 days after if not possible, and provide documentation ofexcused absences within 3 days
+make-up work for excused absences cannot be accepted more than30 days after the deadline
+you may notify the instructor using the form located attx.ag/221absence
+if an assignment accepts latework, submissions received after the deadline will be subject to a late penalty, which will becomputed based on the number of days late
+to use a late day from your pool, you must fill out the following form:tx.ag/221lateday
+course schedule weektopic(s) 1introduction and review 2arrays, vectors, linked lists, stacks and queues 3searching and sorting 4algorithmic analysis 5trees 6exam 1 - friday, feb

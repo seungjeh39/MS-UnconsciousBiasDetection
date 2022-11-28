@@ -1,0 +1,15 @@
+ office hours: wr 10:30 am – 11:30 am or by appointment, office hours will be held on zoom teaching assistant: andrew nemec office: zoom e-mail: nemeca at cse.tamu.ed
+furthermore, the course studies np -completeness and undecidability
+course prerequisites csce 221 and csce 222 course learning outcomes at the end of the semester, you should: - be familiar with fundamental algorithms and algorithmic techniques; - given a particular application, be able to decide which algorithm is most suitable among a set of choices ; - be able to prove correctness and analyze running time and space complexity of a given algorithm; - be able to design efficient algorithms for new situations using the techniques learned ; - be able to prove that a problem is np -complete using reduction and understand the implic ations; - understand the notion of undecidability, know that some problems are undecidable, and comprehend the implications
+resou rces: https://canvas.tamu.edu
+(check daily for updates) grading policy your grade will be based on the following components: - exams 60%: there will be one midterm exam and one comprehensive final exam each worth 30%
+final grades will be assigned according to th is scale: a: 90 and above, b: [80,90), c: [70,80), d: [60,70), f: below 60 a slight curve might be applied if the course average is low
+late work policy • all assignments must be submitted on canvas 
+• work submitted by a student as makeup work for an excused absence is not considered la te work and is exempted from the late work policy
+(see student rule 7 .
+regr ading policy a student can request regrading of any graded material if the student believes that the points assigned are inconsistent with the quality and merits of the submitted work
+to request re -grading the student needs to follow the guidelines below: 1
+regrading requests must be submitted to the instructor within one week after the graded item has been retu rned to the student
+regrading requests must be in written form, accompanied by a reasonable amount of specific justification and documentation
+you should check your course announcements , course material and due dates daily 
+it is strongly recommended that you keep up with the course material and do not fall behind

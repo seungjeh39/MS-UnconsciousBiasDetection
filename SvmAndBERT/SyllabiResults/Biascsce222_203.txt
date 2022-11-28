@@ -1,0 +1,7 @@
+ course syllabus page 1 of 4 course information course number: csce 222 course title: discrete structures for computing section: 203 time: mwf 11:30-12:20 location: zach 350 credit hours: 3 instructor details instructor: sing-hoi sze office: petr 427 phone: 845-5009 e-mail: shsze@cs.tamu.ed
+students will be able to produce proofs and apply counting techniques
+textbook rosen k.h
+two midterms (20% each)
+final exam (30%)
+short report on a topic of choice (s/u)
+letter grades will be assigned as follows: course syllabus page 2 of 4 90-100 80-89 70-79 60-69 <60 a b or better c or better d or better f or better late work policy submission of late assignments and scheduling of make-up exams should be arranged before the due date

@@ -1,0 +1,90 @@
+id,keyword,location,text
+1,,,"course syllabus! editcourse syllabuscourse informationcourse number: csce 221course title: data structures and algorithmssection: 500-509lecture time:sections 500–502: mwf 8:00-8:50am, zach 244sections 503–505: tr 8:00-9:15am, zach 244sections 506–509: tr 9:35-10:50am, zach 244 lab time: see canvas for detailslocation: lectures and labs are scheduled f2fcredit hours: 4instructor detailsinstructor: dr"
+2,,,teresa leykofﬁce: 106 petr bldg.phone
+3,,,(979) 845-4456 (ofﬁce #)e-mail: teresa19@tamu.ed
+4,,,(mailto:teresa19@tamu.edu)ofﬁc
+5,,,"hours: see course on canvascourse descriptionspeciﬁcation, analysis and implementation of abstract data types for lists, stacks, queues, trees, hash tables,graphs, and their associated algorithms"
+6,,,performance trade-offs of different implementations; asymptotic analysis ofrunning time and memory usage
+7,,,includes the execution of students programs written in c++; emphasis onadherence to good software engineering principles.cours
+8,,,"prerequisites• csce 121 or csce 120 ""introduction to program design and concepts""• csce 222 ""discrete structures"" or math 302 ""discrete mathematics""course learning outcomesat the end of this course students should be able to:1"
+9,,,design and implement diverse data structures that allow easy access and manipulation of data using c++programming language.2
+10,,,apply the big-o asymptotic notation to analyze and select an efﬁcient algorithm for solving a given problem withsyllabus for 22 spring csce 221 leyk: data struc & algor...https://canvas.tamu.edu/courses/136654/assignments/syllabu
+11,,,"1 of 812/29/21, 6:37 pm grading criteriahomework assignments9%programming assignments28%culture assignment3%quizzes15%exam 115%exam 215%exam 315%respect to runtime and memory usage.3"
+12,,,identify the latest developments in the computer science area or be familiar with turing award winners.textboo
+13,,,"and/or resource materials• required textbook: “data structures and algorithm analysis in c++,” 4th edition, mark a"
+14,,,"weiss, 2014,pearson, isbn-13: 978-0132847377 or isbn-10: 013284737x"
+15,,,"also, you may need a textbook on c++language from the previous semester, or any good c++ reference book(s)."
+16,,,required: a computer with a web camera
+17,,,a computer that you need to use during the labs and lectures totake in-class quizzes and tests.
+18,,,"required: web, zoom, and canvas access"
+19,,,"the course material, assignments turn-in, and posting gradesare handled through canvas"
+20,,,the recommended browsers to access canvas are mozilla firefox and googlechrome.gradin
+21,,,policygrading scale90–100a80–89.9b70–79.9c60–69.9d0–59.9f
+22,,,"your ﬁnal grade will be determined based on written homework, programming assignments, cultural assignment,quizzes, and exams."
+23,,,the assignment handout will provide points distribution
+24,,,"each programming assignment will be graded focusedon: algorithm design, usage of data structures and/or new user-deﬁned types and their implementation, itscorrectness, tests, a typed report describing implemented algorithms and data structures, and results ofcomputational experiments."
+25,,,all grade appeals must be made no later than one week after the grade is posted.grade
+26,,,attendance• the students lab attendance is required and will be taken on regular basis.
+27,,,the lecture attendance will be taken by pop quizzes
+28,,,"the students are responsible to learn all material coveredin class, read the assigned text from the textbook and do homework assignments."
+29,,,"the 2 bonus points will be added to your ﬁnal score if you have a perfect lab attendance, or 1 point if you haveonly one lab absence."
+30,,,"make-up exams and quizzes will only be given with documented university-approved excuses, see universityregulations (http://student-rules.tamu.edu/"
+31,,,
+32,,,the student rule 7 (http://student-rules.tamu.edu/rule07
+33,,,explainspolicies and excused absences
+34,,,please discuss unusual circumstances in advance with the instructor.note
+35,,,about graded materialssyllabus for 22 spring csce 221 leyk: data struc & algor...https://canvas.tamu.edu/courses/136654/assignments/syllabu
+36,,,"2 of 812/29/21, 6:37 pm • all homework assignments will be announced in class and posted on canvas"
+37,,,see the link to the coursecalendar on canvas for deadlines.
+38,,,"the written part of homework assignments or programming reports, and the cover page should be typedpreferably using latex, overleaf.co"
+39,,,"(an online latex text editor), or lyx (document processor based onlatex), see the class webpage for a tutorial"
+40,,,the homework (in pdf format) should be submitted to canvas orgradescope.
+41,,,all programming assignments should be implemented in c++ and transferred to canvas or/and gradeskope forgrading.
+42,,,culture assignments allow you to explore the latest developments in computer science and engineering orlearn about the famous computer scientists like turing award winners
+43,,,the homework should be submitted tocanvas or/and gradescope.
+44,,,quizzes are over material covered during the lectures and assigned reading from the textbook.
+45,,,the instructor and tas can request oral exam to check student’s knowledge over material covered by test orassignment.lat
+46,,,work policya late homework assignment will be accepted up to 1 day with a 5% penalty
+47,,,once solutions have been discussedor handed out the assignments will not be accepted
+48,,,please discuss unusual circumstances in advance with theinstructor
+49,,,work submitted by a student as makeup work for an excused absence is not considered late work and isexempted from the late work policy
+50,,,(see rule 7 (http://student-rules.tamu.edu/rule07
+51,,,)course tentative scheduleno.weekdaytopicmodul
+52,,,1jan
+53,,,"17mintroduction to data structurespointers, arrays, vectorsmodule 2jan"
+54,,,"24mintroduction to analysis of algorithmscomplexity of search and sort algorithmsalgorithms – best, worst, average casesthe lower bound theoremmodule 3jan"
+55,,,31mlinear sort algorithmsstack adt – array based implementationamortized analysismodule 4feb
+56,,,07mqueue adt – array based implementationstack and queue applications
+57,,,parsersyllabus for 22 spring csce 221 leyk: data struc & algor...https://canvas.tamu.edu/courses/136654/assignments/syllabu
+58,,,"3 of 812/29/21, 6:37 pm module 5feb"
+59,,,14m linked lists in c++linked list based stack and queueexam 1module 5feb
+60,,,21mlinked list based stack and queuedequeuesmodule 6feb
+61,,,28mrecursive algorithmsanalysis of divide-and-conquer algorithmsmodule 7mar
+62,,,07miterating and master methodstrees | binary search treesmodule 8mar
+63,,,21mavl treesred-black trees2–4 treesmodule 9mar
+64,,,28mskip lists | hashingexam 2module 10apr
+65,,,04mheap | huffman treespriority queuesmodule 11apr
+66,,,11mgraphs | bfs | dfsdigraph algorithmsmodule 12apr
+67,,,18mshortest path algorithmsdijkstra's algorithmmodule 13apr
+68,,,25mminimum spanning treesprim's & kruskal's algorithmssyllabus for 22 spring csce 221 leyk: data struc & algor...https://canvas.tamu.edu/courses/136654/assignments/syllabu
+69,,,"4 of 812/29/21, 6:37 pm module 13may 02mkruskal's algorithm implementationusing disjoint sets adtmay 05 &06final exams:500-502, 05/05/22 10:00 am-12:00 pm506-509, 05/05/22 12:30-2:30 pm503-505, 05/06/22 1:00-3:00 pmthe topics and related chapters from the textbook:introductionc++ overview: arrays, vectors, strings, matriceschap"
+70,,,1introduction to analysis of algorithmschap
+71,,,"2lists, stacks, and queueschap"
+72,,,3trees and search treeschap
+73,,,4balanced search treeschap
+74,,,12.2hashingchap
+75,,,5priority queues
+76,,,heaps.chap
+77,,,6sortingchap
+78,,,7disjoint setschap
+79,,,8graphschap
+80,,,9algorithms designchap
+81,,,10all changes in the schedule will be announced in class and at the class calendar
+82,,,"please see also universityacademic calendar (http://registrar.tamu.edu/catalogs,-policies-procedures/academic-calendar"
+83,,,.us
+84,,,"canvas to get access to the lecture notes, quizzes and tests, to submit your assignments, and check yourgrades during the semester"
+85,,,additional course informationlearning resources• you may have noticed from the syllabus that this course focuses on obtaining a computer science backgroundand developing programming skills
+86,,,programming is not something you can learn overnight by reading atextbook or lecture notes; it requires a lot of practice
+87,,,the tas assigned and i are willing to help you to learn andsyllabus for 22 spring csce 221 leyk: data struc & algor...https://canvas.tamu.edu/courses/136654/assignments/syllabu
+88,,,"5 of 812/29/21, 6:37 pm understand the course material, and help you to master your programming skills so please see us during ourofﬁce hours"
+89,,,"a few hints about how to succeed in this course:◦ attend class and lab meetings regularly◦ read lecture notes and related material in the textbook, and feel free to ask questions◦ study for quizzes and tests◦ retype and implement in c++ examples from the lecture notes and textbook◦ complete all labs and projects◦ if you have any course related questions please visit us during our ofﬁce hours◦ use the online campuswire to ask questions and participate in discussionsin general, computer science is not an easy subject but it will pay off after graduation"

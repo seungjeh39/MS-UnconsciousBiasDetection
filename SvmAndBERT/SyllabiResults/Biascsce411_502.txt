@@ -1,0 +1,13 @@
+ course syllabus page 1 of 6 course information course number: csce 411 course title: design and analysis of algorithms section: 502 time: t-tr 3:55-5:10pm location: zach 244 credit hours: 3 instructor details instructor: juan a
+course prerequisites grade of c or better in csce 221 and csce 222/ecen 222; junior or senior classification or approval of instructor
+course learning outcomes at the end of the semester, you should be able to: • describe and use standard algorithms and techniques • design algorithms to solve specific problems • analyze algorithms’ running times and space complexity • prove impossibility results for lower bounds on running time and space complexity • clearly and articulately state proofs and intuitions for algorithms • analyze existing data structures • choose an appropriate data structure for a problem and give a pseudocode implementation • prove a problem is np-complete using reduction and understand the implications • understand the notion of undecidability, know that some problems are undecidable and the implications thereof course syllabus page 2 of 6 textbook and/or resource materials introduction to algorithms, third edition, cormen, leiserson, rivest, and stein, mit press, 2009
+late assignments will lose 10%, plus 10% for every 24 hours that pass after the due date
+frequent and consistent unexcused absences will result in lost participation points
+for all other absences, contact the instructor to ask for permission
+cooperation: for the assignments in this class, discussion of concepts with others is allowed, but all assignments must be done on your own, unless otherwise instructed
+if you use any source other than the text, reference it, whether it be a person, a book, a solution set, a web page or whatever
+late work policy: late assignments will lose 10% of the maximum score, plus 10% for every 24 hours that pass after the due date
+if we discuss the assignment in class, or i provide solutions, no further late submissions will be accepted
+divide and conquer and recurrences • chapter 4; not 4.
+data structures • chapter 10: elementary data structures • chapter 11: hash tables • chapter 12: binary search tress • chapter 13: red-black trees • chapter 18: b-trees • chapter 19: fibonacci heaps • chapter 21: disjoint sets 7
+np-completeness • chapter 34: np-completeness 9

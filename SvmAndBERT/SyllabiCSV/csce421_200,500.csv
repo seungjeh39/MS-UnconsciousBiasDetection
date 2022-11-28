@@ -1,0 +1,109 @@
+id,keyword,location,text
+1,,,"9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu"
+2,,,"1/11course syllabus csce 421-200/500 machine learning course information course number: 421 course t itle: machine learning section: 200 (hnr), 500 time: tr 9:35am-10:50am location: zach 350 credit hours: 3 instructor details instructor: y oonsuck choe office: petr 327 phone: 979-845-5466 e-mail: choe@tamu.ed"
+3,,,office hours: tr 1:00pm-2:30pm t uesday/thursday (zoom only: https://tamu.zoom.us/my/yoonsuckcho
+4,,,(https://tamu.zoom.us/my/yoonsuckchoe
+5,,,) ta: xilong zhou zoom: https://tamu.zoom.us/j/351029628
+6,,,(https://tamu.zoom.us/j/3510296288
+7,,,e-mail: zhouxilong199213@tamu.ed
+8,,,office hours: : mf 2-3 pm (zoom) ta: ankit garg zoom: tba e-mail: ankitgarg@tamu.ed
+9,,,"office hours: tba course description 9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu"
+10,,,"2/11from the course catalog: theoretical foundations of machine learning, pattern recognition and generating predictive models and classifiers from data; includes methods for supervised and unsupervised learning (decision trees, linear discriminants, neural networks, gaussian models, non- parametric models, clustering, dimensionality reduction, deep learning), optimization procedures and statistical inference"
+11,,,specific to this course: 1
+12,,,"learn the theoretical foundations of machine learning, 2"
+13,,,"learn various problems and solution strategies in machine learning, and 3"
+14,,,learn practical methodology for applying ml algorithms to problem domain of your choice
+15,,,objectives: 1
+16,,,become confident in the basic mathematics and algorithms underlying machine learning
+17,,,2
+18,,,become confident in applying machine learning techniques to solve novel problems
+19,,,3
+20,,,become ef fective in rapidly prototyping machine learning algorithms
+21,,,4
+22,,,"become ef fective in designing and conducting experiments with machine learning algorithm, and analyzing the results"
+23,,,"course prerequisites prerequisites: grade of c or better in ma th 304, ma th 31 1, or ma th 323; grade of c or better in stat 211; grade of c or better in csce 221 or st at 404"
+24,,,"cross listing: stat 421/csce 421 special course designation students taking this course for hnr credit (registered in section 200) will be assigned additional work, on top of the regular homework, programming assignments, and exams"
+25,,,course learning outcomes 1
+26,,,knowledge of basic mathematics and algorithms underlying various machine learning techniques
+27,,,2
+28,,,"knowlege of various supervised, unsupervised, and reinforcement learning algorithms"
+29,,,3
+30,,,"ability to implement, from scratch, the above mentioned learning algorithms"
+31,,,4
+32,,,"ability to formulate problems in a machine learning framework, and select the most appropriate machine learning algorithm"
+33,,,5
+34,,,ability to design and conduct machine learning experiments
+35,,,6
+36,,,ability to analyze the results from machine learning experiments
+37,,,"9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu"
+38,,,3/117
+39,,,"appreciation of latest advances in machine learning (including but not limited to biologically motivated, neuroscience-inspired machine learning methods)"
+40,,,8
+41,,,"ability to seek more advanced knowledge in machine learning, as needed"
+42,,,9
+43,,,"ability to use colab for rapid prototyping, experimenting, and documenting"
+44,,,"textbook and/or resource materials main text (required): ethem alpaydin (2020) introduction to machine learning, 4th edition, mit press"
+45,,,[book home page (4th edition) (https://mitpress.mit.edu/books/introduction-machine-learning
+46,,,fourth-edition) ] [book home page (3rd edition) (http://www.cmpe.boun.edu.tr/~ethem/i2ml3e/
+47,,,"] secondary text (optional but strongly recommended): t om mitchell (1997) machine learning, mcgraw-hill"
+48,,,[ book home page (http://www.cs.cmu.edu/~tom/mlbook.html
+49,,,] other recommended books: kevin p 
+50,,,"murphy , ""probabilistic machine learning: an introduction"", mit press, 2021"
+51,,,"[book web site, with downloadable full text] (https://probml.github.io/pml-book/book1.html"
+52,,,"chris bishop, ""pattern recognition and machine learning"", springer , 2006"
+53,,,[book web site] (https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/
+54,,,
+55,,,"ian goodfellow , yoshua bengio, and aaron courville, ""deep learing"", mit press, 2016"
+56,,,[book web site] (https://www.deeplearningbook.org/
+57,,,"aston zhang, zachary c"
+58,,,"lipton, mu li, and alesander j"
+59,,,"smola, ""dive into deep learning"", [book web site, with downloadable jupyter notebook files] (http://d2l.ai/"
+60,,,grading policy 1
+61,,,"4 assignments (each includes written and programming components), 12% each = 48%"
+62,,,late policy: 1 point (out of 100 point total) deduction per hour (24/100 per day)
+63,,,all submissions should be done as colab notebooks
+64,,,download the ipynb file and submit it to canvas
+65,,,"after completing each problem in the homework, ""pin"" the revision"
+66,,,"as a separate file, submit the revision logs (turn of f ""output"", compare current pin with immediate previous pin)"
+67,,,hand-written notes may be included in the notebook (scan or photo)
+68,,,"if you are using a local jupyter notebook install, submit your history (run the following command) %history -g -f filename.lo"
+69,,,2
+70,,,"2 exams (midterm 23%, final 23%) = 46% exam will be conducted on canvas in class, in-person"
+71,,,3
+72,,,attendance: 6% 1% deduction per unexcused absence (see t amu student rules for excusable absences)
+73,,,"per university rule, only one interview is excusable"
+74,,,"y ou should schedule your interview to avoid 9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu"
+75,,,4/11the fixed midterm and final dates
+76,,,forged signatures will lead to 'f'
+77,,,use a consistent style
+78,,,do not use initials
+79,,,late work policy late penalty: 1 point (out of 100) per hour 
+80,,,late submissions will not be accepted 4 days after the deadline and/or after the solution has been posted
+81,,,local course policy all work should be done individually and on your own 
+82,,,"if you find solutions to homeworks or programming assignments on the web (or in a book, etc.)"
+83,,,check with the instructor first to determine if you can use it or not
+84,,,assignments turned in that are significantly similar will be reported to the aggie honor system of fice
+85,,,there will be no make up exams unless it is due to a genuine emergency defined by university rules
+86,,,examples of events that do not count as an emergency include the following: (1) merely visiting the doctor's of fice without an explicit note from the of fice requesting absence
+87,,,"(2) interview trips that got scheduled at the last moment, etc"
+88,,,note that this is not an exhaustive list
+89,,,"all make up exams, if given, will be dif ferent from the original exam"
+90,,,instructor may choose to give an oral exam instead of a written exam
+91,,,course schedule topics: 1
+92,,,"computational learning theory: sample complexity , version space, p ac learning, vc dimension, mistake bound, cross-validation 2"
+93,,,"neural networks: perceptrons, multilayer perceptrons, backpropagation, gradient descent, stochastic gradient descent, optimizers, deep neural networks (convolutional networks, recurrent networks, attention) 3"
+94,,,"decision tree learning, support vector machines, 4"
+95,,,"dimensionality reduction: pca, factor analysis, multidimensional scaling, isomap, locally linear embedding 5"
+96,,,"genetic algorithms, neuroevolution 6"
+97,,,"unsupervised learning and local models: competitive learning, k-means, adaptive resonance theory , self-organizing maps, radial basis functions, regression, learning vector quantization"
+98,,,7
+99,,,"bayesian learning: maximum likelihood, minimum description length, bayes optimal classifiers, naive bayes classifiers"
+100,,,"bayesian belief network, em algorithm"
+101,,,8
+102,,,biologically motivated models
+103,,,"9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu"
+104,,,5/11 schedule (rough): see canvas homepage for reading and more up-to-date info
+105,,,homework dues may change
+106,,,"weektuesday thursday topic announcementsdues (tentative)comments 1 1/18/2022 1/20/2022 introduction1/16: mlk day 2 1/25/2022 1/27/2022supervised learning concepts1/24: last day for add/drop 3 2/1/2022 2/3/2022neural networkshw1 announced 4 2/8/2022 2/10/2022neural networks 5 2/15/2022 2/17/2022reinforcement learninghw2 announced hw1 due 6 2/22/2022 2/24/2022reinforcement learning 7 3/1/2022 3/3/2022decision tree learning 8 3/8/2022 3/10/2022midterm exam (in class: thu)hw3 announced hw2 due3/7: midsemester grades due 9 3/15/2022 3/17/2022 spring break 10 3/22/2022 3/24/2022dimensionality reduction 11 3/29/2022 3/31/2022bayesian learninghw4 announced hw3 due 12 4/5/2022 4/7/2022bayesian learning 13 4/12/2022 4/14/2022 local models4/15: reading day 14 4/19/2022 4/21/2022 deep learning4/19: last day for q- drop 15 4/26/2022 4/28/2022 deep learning (thu is lasthw4 due 4/28: last class 9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu"
+107,,,6/11class) 16 5/5/20225/5(thu) : final exam 12:30pm- 2:30pm5/3: redefined day (meet friday classes) optional course information items all homeworks and programming assignments will be in the form of google colab notebooks (use tamu netid to login to colab)
+108,,,all submissions will be made through canvas

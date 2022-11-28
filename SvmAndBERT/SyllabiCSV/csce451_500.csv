@@ -1,0 +1,50 @@
+id,keyword,location,text
+1,,,course syllabus page 1 of 8 course information course number: csce 451 course title: software reverse engineering (reen) section: tbd time: tbd location: hrbb 113 credit hours: 3 instructor details instructor: jyh-charn liu office: petr 435 phone: 979-845-8739 e-mail: liu@cse.tamu.ed
+2,,,"office hours: by appointment, on -line teaching assistant office: eaba 108b email: hdwang@tamu.ed"
+3,,,"office hour by appointment, on -line course description this course aims to introduce the art of inferring, and/or reproducing of partial or complete high -level computing logics from a binary executable code with out the original source codes"
+4,,,the cou rse starts with introduction of the relationship among high level programming languages and x86 asm statements 
+5,,,"it will then expand to the x86 instruction set architecture (isa) and its computing models, and the compiler generated binary executables "
+6,,,"through extensive hands -on exercises, assignments and tests, students will be guided to learn to develop the reserving strategy, starting from scope of reversing goal, hypothesis formation , iterative validation , selection of tool chains for static and dynamic analysis , disassembling, up to validation of reversing outcomes"
+7,,,"the class also introduces basics of exploits , and defensive design against static and dynamic analysis"
+8,,,students are required to learn about the basics of legality and ethics of software reversing
+9,,,the term hacking refers to the process of exploiting vulnerability of software systems by manual or automated processes
+10,,,"learning about hacking practices is essential to build defensive software systems, but misuse of the skills in the real -world environment can have serious legal consequences"
+11,,,"re related laws differ greatly in different countr ies, region s, and types of activities"
+12,,,students are advised to take great cautions in their conducts
+13,,,"a “gut feeling, common sense” based mentality can lead to regrettable situations"
+14,,,in this class students will learn about selective legal cases related to real world re cases 
+15,,,"course prerequisites ● minimal requirement: csce 313, or instructor’s approval"
+16,,,"students must be proficient in common hll languages, programming, and common microprocessor architecture(s)"
+17,,,"● jr/sr classification, but exception can be made per instructor’s ap proval"
+18,,,course syllabus page 2 of 8 ● this class has extensive hands -on work
+19,,,students are advised to weigh their overall workload in taking this course
+20,,,"special course designation n/a course learning outcomes at end of the class, students should be proficient in the following aspects"
+21,,, identify common copyrights and other related laws governing software rights and their reverse engineering activities
+22,,, gain knowledge on the relationship between hll and assembly statements
+23,,, identify and utilize the knowledge on the compilation process to identify high level language programs and their machine code interpretations
+24,,, extract the needed binary code structure information from the portable executable file formats
+25,,," form ulation and optimization of reversing strategies (such as brute force based, or math logic based) to perform static & dynamic analysis of binary codes"
+26,,, survey of re resources  validation of disassembler outcomes
+27,,, gain knowledge on anti -analysis techniques to protect binaries
+28,,,"textbook and/or resource materials ● none required ● reference books (not exclusive) ● assembly language for intel based computers, by irvine ● the ida pro book, by chris eagle ● reverse engineering, secret of reverse engineering, by eldad eilam ● practical malware analysis, by m"
+29,,,sikorski and a
+30,,,"honig ● open literature, vendors technical information (intel, microsoft) ● a laptop computer with sufficient performance to run a designated linux virtual machine, compilers and re tools"
+31,,,the laptop should also have large hdd space and main memory
+32,,,"past experience suggests that common laptops would be usable for class activities, but lack of computing resources can significantly affect the productivity or even classwork outcomes"
+33,,,"● major tools ida pro, ghidra, godbolt.org"
+34,,,"linux and compilers , various utility tools grading policy • labs, exercises, assignments 40% • tests 40% course syllabus page 3 of 8 • final project 20% • the grading scale : by numerical ranking of total scores"
+35,,,special rules for graded team projects ● every student is required to contribute technical and documentation work
+36,,,"● if there is a project partner dispute, it is critical to report the issue quickly to the instructor or ta"
+37,,,"otherwise, you share grade consequences if the issues contribute to a poor grade"
+38,,,"in most cases, you are encouraged to discuss assignments, but the final product submitted for grade must be the individual work of the person turning it in "
+39,,,"using third party codes and tools to solve challenging computing problems is critical to most software reverse engineering, and therefore is allowed"
+40,,,"when doing so, it is a must to have full disclosure prior reporting results"
+41,,,claiming credit without s uch disclosure will be considered cheating
+42,,,"graded attendance – ● all absences from graded activities – tests, quizzes and some timed lab exercises require prior approval of the instructor"
+43,,,students without prior absence approval may be allow ed to make up the missing activity with 2 5% or more grade penalty
+44,,,● students are responsible for any missed materials
+45,,,● university excused absence are defined by student rule 7; see http://student - rules.tamu.edu/rule07
+46,,,● 3-strike rule: a final grade of d/f for m issing 3 graded activities
+47,,,● if advance notification is not possible (e.g
+48,,,"unexpected illness , family emergency ) for the absence, contact the instructor at the earliest time with some supporting evidence/document"
+49,,,late work policy • late work will be accepted up to one day late with a 25% penalty 

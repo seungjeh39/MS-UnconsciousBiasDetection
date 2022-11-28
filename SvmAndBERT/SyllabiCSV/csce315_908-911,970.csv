@@ -1,0 +1,107 @@
+id,keyword,location,text
+1,,,"1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu"
+2,,,"1/11s y l l ab u s programming studio it is estimated that windows xp has 50,000,000 lines of code"
+3,,,the average mobile phone has over 10 million lines of code
+4,,,"the average developer writes 10 – 20 useful lines of code per day , so a couple of engineers and 2 friends could break away , start a new company , and create a new “windows” operating system in only about 1700 years "
+5,,,that’ s not reasonable
+6,,,"up until now , most of the programs that you have been asked to write could probably fit in your mind"
+7,,,"when you complete the letter , you fold it, seal it up, and mail it of f (or hit send)"
+8,,,"but now it is plain to see that products that you use daily simply could not be recreated by you and 10 of your best friends in an afternoon, weekend, or semester "
+9,,,a 1700-year project is wildly unreasonable
+10,,,there must be a better way 
+11,,,"in this course, you will learn a better way "
+12,,,"you will dive into the world of software engineering and hone your teamwork (and, yes, coding) skills"
+13,,,"ef fective teamwork is essential, and software design methodologies make development more ef ficient"
+14,,,"this course gives you very practical skills for being an ef fective member of a development team and producing high-quality , sustainable software"
+15,,,"learning these methods of working together , managing requirements, producing quality software products, and testing, delivering, and maintaining these products is every bit as valuable as coding"
+16,,,why i teach this course this course is of fers you a unique learning experience
+17,,,"i am always especially excited to teach this course, and here is why: building software is fun and rewarding you get many opportunities to “learn by doing” there’ s more to software than just coding you get a taste of software engineering working on teams can be messy , but it’ s worth it it is amazing what you can accomplish together , so much more than on your own course information course number: 315 course t itle: programming studio 1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu"
+18,,,"2/11credit hours: 3 (2 lecture hours, 2 lab hours) lecture: sections 908-91 1,970: face-to-face, mondays, w ednesdays, and fridays 1 1:30am- 12:20pm, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518"
+19,,,"244 lab: section 908 and 970: face-to-face, t uesdays and thursdays 8:25am-9:15am, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518"
+20,,,"598 section 909: face-to-face, t uesdays and thursdays 9:35am-10:25am, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518"
+21,,,"598 section 910: face-to-face, t uesdays and thursdays 1 1:35am-12:25pm, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518"
+22,,,"598 section 91 1: face-to-face, t uesdays and thursdays 12:40pm-1:30pm, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518"
+23,,,"598 final exam schedule (https://registrar.tamu.edu/courses,-registration,-scheduling/final"
+24,,,"examination-schedules#0-spring2022) : section 908 and 970: face-to-face, friday may 6, 1:00pm-3:00pm, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518"
+25,,,"598 section 909: face-to-face, thursday may 5, 12:30pm-2:30pm, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518"
+26,,,"598 section 910: face-to-face, thursday may 5, 3:00pm-5:00pm, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518"
+27,,,"598 section 91 1: face-to-face, t uesday may 10, 8:00am-10:00am, zachry engineering education complex (https://aggiemap.tamu.edu/?bldg=0518"
+28,,,598 instructor details instructor: shawna thomas office: 319 peterson phone: 979-862-8877 e-mail: sthomas@tamu.ed
+29,,,(mailto:sthomas@tamu.edu
+30,,,"help/of fice hours: email for appointment teaching assistants 1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu"
+31,,,3/11joseph nyangwechi jnyangwe@tamu.ed
+32,,,(mailto:jnyangwe@tamu.edu
+33,,,"help/of fice hours: tbd, all online pratyusha v udutala pratyusha@tamu.ed"
+34,,,(mailto:pratyusha@tamu.edu
+35,,,"help/of fice hours: tbd, all online course description intensive programming experience that integrates core concepts in computer science and familiarizes with a variety of programming/development tools and techniques; students work on 2 or 3 month-long projects each emphasizing a dif ferent specialization within computer science; focuses on programming techniques to ease code integration, reusability , and clarity "
+36,,,"course prerequisites csce 312 and csce 314; or csce 350/ecen 350 corequisite: csce 313 special course designation w (writing intensive course) as a writing intensive course, you will receive instruction on writing and complete writing assignments so you can master writing related to the major "
+37,,,you must pass the writing components with a c or better to earn a grade in the course
+38,,,course learning outcomes this course is intended to be an intensive programming experience that integrates core concepts in computer science and familiarizes you with a variety of programming/development tools and techniques
+39,,,y ou will primarily work in small teams on projects emphasizing dif ferent specializations within computer science
+40,,,"the course focuses on honing good programming techniques to ease code integration, reuse, and clarity "
+41,,,"the primary goal for this class is for you to emerge with strong programming skills, able to address both individual and team programming challenges competently "
+42,,,"in this course, you will improve your programming skills through significant practice"
+43,,,"after this course you will be able to: 1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu"
+44,,,"4/11explain the need for software engineering through industry examples and personal experience exercise the fundamental concepts of software construction (including managing requirements, design, implementation, testing, and deployment) design and develop software that is clearer , more maintainable, and integrates current software technologies collaborate and communicate effectively in small teams recognize and apply characteristics of ef fective technical writing we will cover many topics including: software system design for portability , performance, and testability coding layout and style considerations programming specifications and documentation use of basic software tools and apis subject-specific topics related to the team projects (db, hci) though many topics will overlap, this course is not intended to be as in-depth or comprehensive as a standard software engineering course"
+45,,,"for a deeper understanding of software development and project management, take software engineering after completing this class"
+46,,,"required textbooks code complete, 2nd edition (https://go.oreilly.com/tamu/library/view/-/0735619670/?ar"
+47,,,"by steve mcconnell (microsoft press, 2004)"
+48,,,(code complete pdf) (http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition
+49,,,v413hav.pdf
+50,,,"database design, 2nd edition (https://opentextbc.ca/dbdesign01/"
+51,,,"by adrienne w att (bccampus open education, 2014)"
+52,,,(database design pdf) (https://opentextbc.ca/dbdesign01/open/download?type=pdf
+53,,,other supplementary material as needed will be supplied electronically 
+54,,,grading policy grading components: your grade for this course reflects your mastery of course material and is determined by multiple components
+55,,,"as a writing course, you must pass the writing components with a c or better to earn a grade in the course"
+56,,,failure to pass the writing components with a c or better results in an f for the course
+57,,,"1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu"
+58,,,"5/11team projects – 40%: two major projects, each worth 20% of the course grade, for 40% total"
+59,,,specific grading practices for each project will be announced when that project is given out
+60,,,"y our individual contribution determined from logged code commits, peer evaluation, and instructor/t a observations will be a significant contributing factor to these project grades"
+61,,,individual project – 5%: the individual project will be completed prior to the team projects
+62,,,specific grading practices will be announced when the assignment is given out
+63,,,written elements – 35%: this is a writing intensive course
+64,,,y ou are required to pass this component with a c or better to earn a grade in the course
+65,,,"y ou will have several written assignments within the projects (roughly 10% from the individual project, 12% from the first team project, and 13% from the second team project)"
+66,,,specific grading practices will be announced when each assignment is given out
+67,,,other course activities – 20%: the course has several dif ferent types of activities to help you better understand concepts and connect with the material
+68,,,"this includes (but is not limited to) at- home activities, in-class activities, and lab activities"
+69,,,"these activities bring deeper , longer-term learning as you work, either individually or with other students"
+70,,,"for submitted assignments, grading will be based on the quality of the submitted work"
+71,,,"for group assignments, your full participation is required to receive a grade for that assignment "
+72,,,"this component will be divided as follows: 10% in-class activities (lowest grade dropped), 5% lab activities (lowest grade dropped), 3% at-home activities, and 2% in-class knowledge checks (lowest two grades dropped)"
+73,,,grading scale: grades will be assigned according to the following scale: a >= 90 > b >= 80 > c >= 70 > d >= 60 > f these grades represent varying degrees of achievement (see the university's grading system (https://registrar.tamu.edu/transcripts-grades/grades#0-gradingsystem
+74,,,"): a = excellent, b = good, c = satisfactory , d = passing, f = failing stacked honors section: the stacked honors section will explore course concepts more deeply through readings, discussions, reflections, and projects"
+75,,,they will have honors-only lecture sessions on the first friday of each month
+76,,,submission of assignments: all assignments will be turned in electronically though canvas (https://canvas.tamu.edu/
+77,,,(unless otherwise specified) by the due date and time given on the assignment
+78,,,email submissions will not be accepted
+79,,,"late work policy 1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu"
+80,,,6/11assignments turned in after the posted deadline will have a penalty applied of 5% per day late
+81,,,"for team assignments, the late penalty af fects the grade for the entire team"
+82,,,"if the assignment is individual, the late penalty only af fects the grade for that team member "
+83,,,"course schedule the course is listed as a 2-hour per week lecture, and 2-hour per week lab, however it has been intentionally scheduled for 3 hours per week of lecture (along with the lab)"
+84,,,w e will meet approximately 2/3 of the lecture periods over the course of the semester 
+85,,,"after the first week of class, the regular sections will only meet on mondays and w ednesdays with fridays reserved as optional workdays"
+86,,,the honors section will also meet the first friday of each month for deep dive discussions
+87,,,below is the planned but tentative schedule of topics and major projects for the course
+88,,,all assignment and project details will be communicated on canvas (https://canvas.tamu.edu/
+89,,,
+90,,,"weeklecture t opics lab t opicsproject deliverables (due monday midnight at beginning of week unless otherwise noted) 1introductions, professional presenceno labs 2software construction and designhtml, javascript, css, using git 3software development methodologies, w aterfallhtml, javascript, css project 1 v ersion 1 4databases, t eam successdatabase design diagrams, a ws database interactionproject 1 v ersion 2 5code as communication, style guides, t echnical writingdatabase population project 2 phase 1 6collaborative development, formal inspectionsproject 2 demos, connecting database and guiproject 2 phase 2, project 2 status update* (due w ed"
+91,,,"midnight) 7testing/debugging/refactoring project 2 demos project 2 phase 3 8commenting and project 2 demos, user project 2 phase 4, project 2 1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu"
+92,,,"7/11automatically generated documentation, agilestories retrospective reports* (due wed"
+93,,,"midnight) spring break 9design thinking and ideation apis, sprint artifactsproject 3 proposal* (due sun"
+94,,,"midnight at end of week) 10 user studies, prototypingfull stack development, advanced git 11accessibility , integration and configuration managementuser studiesproject 3 sprint 1 materials* (due w ed"
+95,,,"midnight) 12 workdays workdaysproject 3 user study 1, project 3 status update* (due w ed"
+96,,,midnight) 13 team meetings team meetingsproject 3 sprint 2 materials* (due w ed
+97,,,"midnight) 14 workdays workdays project 3 user study 2 15course w rap-up, final presentation instructionsno labsproject 3 sprint materials, project 3 retrospective reports* (due w ed"
+98,,,midnight) finals project 3 final presentations university and course policies inclusion statement in this class we are committed to a culture of inclusivity 
+99,,,we reject and condemn all forms of injustice and actively promote diversity and inclusion within our field
+100,,,as martin luther king jr 
+101,,,"said, “injustice anywhere is a threat to justice everywhere."
+102,,,"if any student wishes to discuss anything regarding inclusivity within the classroom, especially anything contrary to this statement that you have experienced, you are encouraged to contact the instructor or t a"
+103,,,course copyright the materials used within this course are copyrighted
+104,,,"these materials include, but are not limited to, the syllabus, quizzes, assignments, activity descriptions, online content, course videos, audio and 1/17/22, 4:30 pm syllabus: 22 spring csce 315 908-91 1,970: programming studio https://canvas.tamu.edu/courses/136192/pages/syllabu"
+105,,,"8/11visual recordings of classes, etc"
+106,,,"because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted"

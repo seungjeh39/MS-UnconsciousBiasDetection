@@ -1,0 +1,140 @@
+id,keyword,location,text
+1,,,"texas a&m university department of computer science and engineering spring 2022 csc e 482 – 931: senior capstone design mw 08:00am - 08:25am eaba 118 (lecture) mw 08:30am - 11:00am eaba 118 (lab) _____ ______________________________________________________________________ instructor : aaron angert , adangert @tamu.ed"
+2,,,", tas: yingtao jiang : entao@tamu.ed"
+3,,,website : google classroom class code: okzgrju zoom link (for presentations only) : https://tamu.z
+4,,,om.us/j/237184966
+5,,,"___________________________________________________________________________ catalog d escription csce 482 : engineering design; working as a design -team member, conceptual design methodology, design evaluations, total project planning an d management techniques, design optimization, systems manufacturing costs considerations; emphasis placed upon student's activities as design professionals"
+6,,,"course prerequisites csce 482: (csce 315 or csce 331) and csce 411 and, senior classification textbook and references required • the five dysfunctions of a team: a leadership fable by patrick m"
+7,,,"lencioni (jossey -bass, 2002) recommended • design for electrical and computer engineers , by ralph ford and chris coulston (mcgraw -hill science, 2007)"
+8,,,"• fundamentals of engineering design , 2nd ed."
+9,,,"by barry hyman (prentice hall, 2003)"
+10,,,"• the wisdom of teams: creating the high -performance organization , by jon r"
+11,,,katzenbach and douglas k
+12,,,"smith, collins (2003)"
+13,,,available on -line at tamu libraries
+14,,,"supplementa l • technical material from the literature, manufacturer’s datasheets and user manuals"
+15,,,detailed course description cpsc 48 2 is a project -oriented course aimed at developing system integration skills
+16,,,students work in groups of 3-5 people to complete a significant engineering design project
+17,,,"every project requires complete implementation, documentation and demonstration of a computing system design with both hardware and software components"
+18,,,"the focus is not only on the final product but also on desig n methodology, management process and teamwork"
+19,,,each team will be required to manage its own efforts to complete its proje ct in a timely manner
+20,,,group members will be required to keep individual lab notebooks recording their efforts and their personal impressions of the project
+21,,,students will be graded based on both the quality of the group product and their individual contri butions
+22,,,"every team will be required to schedule a weekly meeting with the course instructor and the tas, preferably during the off icial class or lab hours"
+23,,,these meetings must be attended by every group member
+24,,,"since the projects will be student managed , the exact nature and style of these meetings is at the group’s discretion"
+25,,,"however, every member of the group is expected to partic ipate "
+26,,,"at the end of the semester, each group will make a public presentation describing and demonstrating their work"
+27,,,the se presentations will be open to the university community
+28,,,course objectives to prepare students for engineering practice with a major design experience based on the knowledge and skills acquired in earlier course work and incorporating en gineering standards and realistic constraints that include most of the following considerations: economic; environmental; sustainability; manufac turability; ethical; health and safety; social; and political
+29,,,expected outcomes it is expected that successful participation in the course will allow the student to demonstrate: • analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions
+30,,,"• design, implement, and evaluate a com puting -based solution to meet a given set of computing requirements in the context of the program’s discipline"
+31,,,• communicate effectively in a variety of professional contexts
+32,,,• recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles
+33,,,• function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline
+34,,,1
+35,,,apply computer science theory and software development fundamentals to produce computing -based solutions
+36,,,grading policy the final grade you will receive in the class will be based on points accumulated during the semester
+37,,,"thus, both continued progress (the process) and the quality of your product (and other deliverables) will determine your grade"
+38,,,"although the bulk of your grade is based on the performance of your team, individual performance will also be gauged"
+39,,,"1 project proposal ( 5%): these points will be based on (1) the originality, creativity and feasibility of the proposed work, the analysis of alternative solutions, the consideration of economic and societal aspects, the project management approach ( 3%), and (2) the quality of the oral presenta tion (2%)"
+40,,,a template for the proposal report and a presentation rubric are available on the course webpage
+41,,,3 critical design review (10%) : the cdr is a mid -semester evaluation of your project
+42,,,"the grade will be based on your progress to date, and the qu ality of the oral presentation and accompanying written report"
+43,,,a template for the cdr report and a presentation rubric are available on the course webpage 
+44,,,"4 final communication (15%): this grade will be based on the quality of the final presentation (5%), as well as the contents and professional finish of the documentation (10%)"
+45,,,a template for the final report and a presentation rubric are available on the course webpage
+46,,,2 weekly p rogress (10%): this grade will be based on your team’s ability to mai ntain the project on schedule
+47,,,"the weekly report should be incremental , and should specifically address the following: a"
+48,,,agenda for the weekly meeting with the instructor and the ta b
+49,,,"any major accomplishments during this time period , including figu res and results c"
+50,,,an overview of the plan of work for the following two weeks d
+51,,,"an update on project management, including teamwork, purchases, schedule and milestone status e"
+52,,,minutes of the previous meeting weekly progress reports are due two h ours prior to the time of the weekly meeting
+53,,,the responsibility of preparing these reports will be rotated among team members
+54,,,"the team member preparing the report will also be in char ge of facilitating the discussions during that weekly meeting, and pre paring an action list for the following week"
+55,,,the action list contains the set of specific goals that each team member gas agreed to complete and a deadline for completing them
+56,,,"5 project grade (20%): a final grade will be assigned to your project based on the completion of all the objectives stated in the proposal, as well as on a live demonstration in front of the class"
+57,,,the complexity of your project and the size of your team w ill be factored in
+58,,,due date: project demonstrations will take place 48 ho urs prior to the final presentation (or the friday prior if on a weekend)
+59,,,this earlier deadline for the demo ensures that teams have time to prepare the final communication and fina l presentation
+60,,,for items 1 -5: using github sites for your group and gra ding purposes: i.team
+61,,,will use the tamu enterprise github to organize and trace course progress and materials
+62,,,all ii.require
+63,,,"group materials such as project proposal, weekly report, cdr, final report and presentation files, iii.shoul"
+64,,,be shared on the github
+65,,,"a lso, the activity log of the github will be used to access how each iv.individua"
+66,,,contributed to the team as well
+67,,,tea ms should make use of github features such as the v.readm
+68,,,and wiki in order to provide documentation for their project
+69,,,6 teamwork (10 %); it is very important to understand that accomplishing the technical objectives of the project is not sufficient
+70,,,these accomplishments should not come at the expense of destroying relationships among team members
+71,,,"thus, a grade will be assigned based on t he ability of the group to function as a team"
+72,,,is there evidence that the group engaged in team building activities? were contributions to the project evenly distributed? were members equally engaged in discussions during meetings? was there an effective division of responsibilities? the project grade is direct outcome of teamwork
+73,,,teamwork score is no more than the project grade in 5
+74,,,"among the 10%, i"
+75,,,2% is given to the teamwork quiz and ii
+76,,,8% is determined by final evaluation of teamwork effectiveness
+77,,,teamwork grade level cannot be higher than project grade
+78,,,7 individua l performance (30%): points in this category are awarded based on assessments of your personal contribution to the team efforts: a
+79,,,notebook ( 5%): you are required to record what you do as a member of the project
+80,,,entries in the notebook should be made during or shortly after every work session
+81,,,"each entry should include (1) the date, (2) the objectives for that session, and (3) record of what was done"
+82,,,a grade will be assigned to your personal design notebook based on: i
+83,,,the regularity of your entries throughout the semester
+84,,,ii
+85,,,"the evidence of an engineering design process, including but not limited to schematics, block diagrams, circ uits, pseudo -code, tables of experiment al results, and mathematical derivations"
+86,,,iii
+87,,,"the clarity, legibility and organization of your annotations"
+88,,,you can choose either paper -based notebook or electronic -based notebook: paper -based notebooks must have permanent binding (i.e.
+89,,,"composi tion pads); spiral -bound notebooks will not be accepted , failing to do so will result in a 5% penalty on the final grade"
+90,,,electronic notebook can be either word file or pdf file
+91,,,the file should clearly co ntain aforementioned materials in an organized mann er
+92,,,the file should be cumulative which contain s all the information from the beginning of the class
+93,,,b
+94,,,"participation ( 4%): the instructor and ta will evaluate your attendance to meetings, participation in the discussions, and contributions to the team"
+95,,,"team leaders will instead be evaluated by their ability to make the group operate as a team, i.e."
+96,,,item (6) above
+97,,,c
+98,,,peer review ( 9%): your performance will be evaluated by each of your team members throughout the semester
+99,,,there are three pe er reviews throughout the semester
+100,,,d
+101,,,github insights (10%): all projects will be hosted on tamu’s enterprise github (github.
+102,,,amu.edu)
+103,,,"all project code should be managed, from the project beginning, in this system"
+104,,,"through proper version control techn iques, your individual work history on the project will be documented"
+105,,,you will be required to maintain a stable master project b ranch by implementing features on separate working branches and creating pull requests for the entire team to review and merge into the master branch
+106,,,you will be assigned a grade for your github contributions based on: i
+107,,,(3%) the regularity of your commit history throughout the semester
+108,,,"for example, if you only submit codes at the last week of semester, you will lose the three po ints"
+109,,,ii
+110,,,(4%) the quality and quantity of code and documentation you committed to the project throughout the semester
+111,,,"note: code quality including metrics such as structure, readability, and efficiency will be weighted more heavily than the number of lines o f code committed"
+112,,,iii
+113,,,"(4%) adherence to good version control prac tices such as using branches to develop new features without affecting the master branch, avoiding bundling unrelated changes into single commits, and writing good commit messages"
+114,,,e
+115,,,online cou rse about ethics (2%) : we will provide an online ethics cours e in canvass
+116,,,f
+117,,,autodrive challenge participation extra credit (max 5%): all projects this semester are facilitated through the texas a&m unmanned team as part of the gm/sae autodrive challen ge
+118,,,"throughout the semester, there may be opportunities to contribute to the team beyond what is required as part of the course requirements e.g"
+119,,,preparing or presenting team reports for the autodrive competition
+120,,,students may be offered extra credit for v olunteering for such tasks in proportion t o the effort required
+121,,,"note : grades will not be assigned until all project deliverables have been turned in (see below), all borrowed items (e.g."
+122,,,"keys, books, equipment) have been returned to their proper locati on or their owner, and the workstations in the lab have been thoroughly cleaned up"
+123,,,all team members are required to be present at the time of the final delivery unless due to excused absence allowed by student rule 7
+124,,,final deliverables 1) final doc umentation and project materials in electronic zip file with name as team_name_ project_report.zi
+125,,,under the google site of the project
+126,,,it should include a plain text readme file that documents the list of contents
+127,,,"the detailed materials should includ e the following (please organize into folders, e.g."
+128,,,"docs, sour ce, hardware, media, references, freeware , videos ) a) designs: code, schematics, data, data sheets, freeware software tools, etc"
+129,,,"b) reports: proposal, cdr, weekly reports, final report, and all presentations c) audiovisual media: close -up pictures of your system *and* a high-quality movie demo of the system working, for posterity "
+130,,,"3) final hardware prototype, as well as any spare parts and supplies 4) software install, to be demonstrated on several machines 5) peer reviews 6) notebooks final reports should have a discussion of constraints that the team had to satisf y (e.g."
+131,,,"cost, time, technology limitations) and of relevant industry standards used (e.g."
+132,,,"coding, interfaces, safety)"
+133,,,"document preparation all major documents (proposal, cdr, and final documentation) should be submitted in a professional format (e.g."
+134,,,"spiral -binding), and should contain a title page, an outline, as well as clear section and subsection headings, etc"
+135,,,pl ease run a spell check before submitting
+136,,,"tentative course schedule and milestones week date classroom meeting material due dates 1 01/19 course introduction 2 01/24 kick-off lectures: chaps:1&2 resumes 01/26 kick-off lectures, chaps: 3&7 teams are formed 3 01/31 kick-off lecture: intro to ros 02/02 4 02/07 02/09 5 02/14 02/16 proposal presentations prestation slides, project proposal 6 02/21 02/23 7 02/28 03/02 8 03/07 03/09 9 03/14 spring break 03/16 spring break 10 03/21 03/23 11 03/28 cdr presentations cdr report, slides, peer review 1 03/30 12 04/04 04/06 13 04/11 04/13 14 04/18 peer review 2 04/20 15 04/25 04/27 project demos - 1 16 05/02 project demos - 2 05/04 final project presentation – all teams 05/06 check out (before 5pm) peer review 3 final report, all deliverables note: 1"
+137,,,blue rows means that we meet in eaba 118 as a whole
+138,,,2
+139,,,"this is our intended schedule, but we may modify it during the semester to accommodate necessary changes"

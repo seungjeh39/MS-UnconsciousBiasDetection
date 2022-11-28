@@ -1,0 +1,50 @@
+ csce 48 2 syllabus 1/9 syllabus course information course number: csce 482 , spring 202 2 course title: senior capstone design section: 931 time: monday and wednesday 11:35 am to 11:55 am lecture 12:00 to 2:30 pm lab location: eaba 118 credit hours: 3 instructor details instructor: rabi mahapatra office: 217 petr phone: 979-845-5787 e-mail: rabi at tamu.ed
+website: https://codes.engr.tamu.edu/rabi
+office hours: monday and wednes day by appointment only ta: krishna c kushal e-mail: krishnakushal at tamu.ed
+the focus is not only on the final product but also on design methodology, management process and teamwork
+students are graded based on both the qual ity of the group product and their individual contributions
+every team is required to schedule a weekly meeting with the course instructor and the tas, preferably csce 48 2 syllabus 2/9 during the official class or lab hours
+these meetings must be attended by every group member
+however, every member of the group is expe cted to participate
+course prerequisites senior classification; csce 315, csce 41 1, and two additional csce tracked courses
+as a result , the aggregate score of the written reports must be a passing grade in order to get a grade in the course
+course learning outcomes it is expected that successful participation in the course will allow the student to demonstrate: • an ability to apply knowledge of mathematics, science, and engineering (3.a
+• an ability to design and conduct experiments, as well as to analyze and interpret data (3.b
+• an ability to function on multi -disciplinary teams (3.d
+• an ability to identify, formulate, and solve engineerin g problems (3.e
+• an understanding of professional and ethical responsibility (3.f
+moreover, co urse -specific outcomes are 1
+understand the basic of project management including: statements of work, work break -down structures, critical p ath identification, distribution of tasks, project tracking and status reporting; be able to generate status reports; 3
+understand and incorporate engineering standards and multiple realistic constraints that include mo st of the following considerations: economic, environmental, sustainability, manufacturability, ethical, health and safety, social and political
+supplemental: technical material from the literature, manufacturer’s data sheets and user manuals
+grading policy the final grade you will receive in the class will be based on points accumulated during the semester
+thus, both continued progress (the process) and the quality of your product (and other deliverables) will determine your grade
+although the bulk of your grade is based on the performance of your team, individual performance will als o be gauged
+a template for the proposal report and a presentation rubric are available on the course webpage
+each team submits a weekly report, which should be incremental and should specifically address the following: 1
+accomplishments need to be measurable, e.g
+reports are limited to one page and should be submitted according to the template provided in the course website
+the cdr grade will be based on the quality of your design (75%) –as reflected on your oral/poster presentation and written report, and on the degree to which you have a complete design (25%)
+final communication (10%) : this grade will be based on the quality of the final presentation (25%), as well as the contents and professional finish of the documentation (75%)
+final reports should have a discussion of constraints that the team had to satisfy (e.g.
+cost, time, technology limitations) and csce 48 2 syllabus 4/9 of relevant industry standards used (e.g.
+coding, interfaces, safety)
+a template for the final report and a presentation rubric are available on t he course webpage
+5
+these accomplishments should not come at the expense of destroying relationships among team members
+thus, a grade will be assigned based on the ability of the group to function as a team
+is there evidence that the group engaged in team building activities? were contributions to the project evenly distributed? were membe rs equally engaged in discussions during meetings? was there an effective division of responsibilities? note: the work should be done primarily in the lab and as a group, regardless of whether you can perform your task assignments individually elsewhere 
+a regular work schedule should be included in the proposal, showing the times when the team will meet in the lab to work on the project (in addition to meeting times)
+7
+the evidence of engineering design (e.g.
+the regularity of your entries during the semester, and 3
+each student is also required to pass a teamwork quiz with a score of 75 or higher (see tentative schedule); failure to do so will result in a 5% penalty on the final grade
+peer reviews should be submitted to the ta no later than 8am of the due date
+all team members are required to be present at the time of the final delivery
+o it should include a plain text readme file that documents the list of contents
+csce 48 2 syllabus 5/9 o reports: proposal, cdr, weekly reports, final report, and all presentations o audiovisual media: close -up pictures of your system and a high -quality movie demo of the system working, for posterity (see gallery in the course webpage for movie samples) o individual notebooks (in digital form) • final prototype, as well as any spare parts and supplies • software install, to be demonstrated on several machines • peer reviews • evidence of individual design contributions final reports should have a discussion of constraints that the team had to satisfy (e.g.
+cost, time, technology limitations) and of relevant industry standards used (e.g.
+coding, interfaces, safety)
+document preparation all major documents (proposal, cdr, and final documentation) should contain a title page, an outline, as well as clear section and subsection headings, etc
+cour se schedule week date classroom meeting materials due 1 1/19 kickoff lecture introduction 1/24 kickoff lecture resumes 2 1/26 kickoff lecture teams are formed 2/02 kickoff lecture 3 2/07 kickoff lecture teamwork quiz 2/09 kickoff lectur e 4 2/14 2/16 proposal presentations 5 2/21 proposal presentations proposal report, peer review 1 2/23 6 2/28 3/02 7 3/07 3/09 csce 48 2 syllabus 6/9 8 3/14 spring break 3/16 9 3/21 cdr presentations 3/23 cdr presentation cdr report, peer review 2 10 3/28 3/30 11 4/04 4/06 12 4/11 4/13 13 4/18 4/20 peer review 3 14 4/25 project demos 4/27 project demos 15 5/02 5/04 final presentations final report, and all deliverables optional course information items learning resources – the writing center is open and available to assist students this semester 
+more information can be found at https://writingcenter.tamu.edu

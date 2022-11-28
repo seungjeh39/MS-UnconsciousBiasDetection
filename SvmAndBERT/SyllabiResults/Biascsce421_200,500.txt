@@ -1,0 +1,53 @@
+ 9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu
+1/11course syllabus csce 421-200/500 machine learning course information course number: 421 course t itle: machine learning section: 200 (hnr), 500 time: tr 9:35am-10:50am location: zach 350 credit hours: 3 instructor details instructor: y oonsuck choe office: petr 327 phone: 979-845-5466 e-mail: choe@tamu.ed
+(https://tamu.zoom.us/my/yoonsuckchoe
+) ta: xilong zhou zoom: https://tamu.zoom.us/j/351029628
+(https://tamu.zoom.us/j/3510296288
+office hours: : mf 2-3 pm (zoom) ta: ankit garg zoom: tba e-mail: ankitgarg@tamu.ed
+office hours: tba course description 9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu
+learn various problems and solution strategies in machine learning, and 3
+learn practical methodology for applying ml algorithms to problem domain of your choice
+become confident in the basic mathematics and algorithms underlying machine learning
+2
+become ef fective in rapidly prototyping machine learning algorithms
+become ef fective in designing and conducting experiments with machine learning algorithm, and analyzing the results
+course prerequisites prerequisites: grade of c or better in ma th 304, ma th 31 1, or ma th 323; grade of c or better in stat 211; grade of c or better in csce 221 or st at 404
+cross listing: stat 421/csce 421 special course designation students taking this course for hnr credit (registered in section 200) will be assigned additional work, on top of the regular homework, programming assignments, and exams
+3
+6
+9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu
+3/117
+appreciation of latest advances in machine learning (including but not limited to biologically motivated, neuroscience-inspired machine learning methods)
+8
+ability to seek more advanced knowledge in machine learning, as needed
+textbook and/or resource materials main text (required): ethem alpaydin (2020) introduction to machine learning, 4th edition, mit press
+[ book home page (http://www.cs.cmu.edu/~tom/mlbook.html
+murphy , "probabilistic machine learning: an introduction", mit press, 2021
+[book web site, with downloadable full text] (https://probml.github.io/pml-book/book1.html
+chris bishop, "pattern recognition and machine learning", springer , 2006
+[book web site] (https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/
+aston zhang, zachary c
+late policy: 1 point (out of 100 point total) deduction per hour (24/100 per day)
+all submissions should be done as colab notebooks
+as a separate file, submit the revision logs (turn of f "output", compare current pin with immediate previous pin)
+attendance: 6% 1% deduction per unexcused absence (see t amu student rules for excusable absences)
+per university rule, only one interview is excusable
+y ou should schedule your interview to avoid 9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu
+use a consistent style
+do not use initials
+late work policy late penalty: 1 point (out of 100) per hour 
+late submissions will not be accepted 4 days after the deadline and/or after the solution has been posted
+local course policy all work should be done individually and on your own 
+examples of events that do not count as an emergency include the following: (1) merely visiting the doctor's of fice without an explicit note from the of fice requesting absence
+note that this is not an exhaustive list
+all make up exams, if given, will be dif ferent from the original exam
+computational learning theory: sample complexity , version space, p ac learning, vc dimension, mistake bound, cross-validation 2
+neural networks: perceptrons, multilayer perceptrons, backpropagation, gradient descent, stochastic gradient descent, optimizers, deep neural networks (convolutional networks, recurrent networks, attention) 3
+decision tree learning, support vector machines, 4
+unsupervised learning and local models: competitive learning, k-means, adaptive resonance theory , self-organizing maps, radial basis functions, regression, learning vector quantization
+7
+bayesian learning: maximum likelihood, minimum description length, bayes optimal classifiers, naive bayes classifiers
+bayesian belief network, em algorithm
+biologically motivated models
+9/15/22, 3:44 pm syllabus for 22 spring csce 421 machine learning (sections 200/500) https://canvas.tamu.edu/courses/137553/assignments/syllabu
+6/11class) 16 5/5/20225/5(thu) : final exam 12:30pm- 2:30pm5/3: redefined day (meet friday classes) optional course information items all homeworks and programming assignments will be in the form of google colab notebooks (use tamu netid to login to colab)

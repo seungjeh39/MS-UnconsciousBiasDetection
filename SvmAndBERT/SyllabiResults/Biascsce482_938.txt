@@ -1,0 +1,119 @@
+ every computer scientist and computer engineer who wants to work on big problems musthave these skills
+after this course, you will be able to: ●analyzea complex computing problem andidentifysolutionsusing computing principles, ●design, implement, and evaluatea computing-basedsolution to meet a given set of requirements, ●applycomputer science theory and software developmentfundamentals toproducecomputing-based solutions, ●collaborateeffectively as a member of a team, ●recognizeprofessional responsibilities, both legaland ethical, andmake informed judgementsincomputing practice, and ●communicateeffectively
+the ta and i are always especially excited to teachthis course, and here is why: ●you finally get to combine everything that you have learned throughout your entireundergraduate curriculum.thi
+not only includes thecomputer science skills you have gained,but also the professional, cultural, and communication skills that you have developed
+we actively promote diversity and inclusion within our field notlimited to race, ethnicity, religion, disability, age, sex, gender identity, or sexual orientation
+thus, we areunited in our condemnation of racism and any form of injustice
+as martin luther king jr
+if any student wishes to discuss anything regardinginclusivity within the classroom, especially anything contrary to this statement that you haveexperienced, you are encouraged to contact the ta or instructor
+these includerequirements to participate actively in class, complete assignments in a timely manner, keep the videoon with your face visible in virtual meetings, and treat your classmates and instructors with respect
+each team is required to accommodate the following: ●time management:manage its own efforts to completeits project in a timely manner
+you aregraded based on both the quality of the group product and their individual contributions
+these meetings must be attended by every group member
+every member of the group is expected to participate in these meetings .a
+while most materials andassignments will be handled online, the class itself will be held in-person and synchronously, whichmeans you are required to be present and active during all classes and all class times
+attendance policystudents required to quarantine or self-isolate should still participate in courses and course-relatedactivities remotely and must not attend face-to-face course activities
+students under quarantine orself-isolation are expected to participate in courses and complete graded work unless they havesymptoms that are too severe to participate in course activities
+instructors teaching courses deliveredonly face-to-face should work closely with students who are in quarantine or self-isolation to ensure thestudent keeps up with the work
+students experiencing personal injury or illness that is too severe for the student to attend class qualifyfor an excused absence (seestudent rule 7, section7.2.2)
+to receive an excused absence, studentsmust comply with the documentation and notification guidelines outlined in student rule 7
+indicates a medical confirmation note from the student’s medicalprovider is preferred, please be understanding as not all illnesses may require a visit to a physician,especially during this time
+therefore, attendance, punctuality and active participation in the weekly meetingsare required
+●video presence:if you are attending this class online,then you are required to have your videoshowing your face
+just as it is not appropriate to attend a face-to-face class with a blanket overyour head, it is not appropriate to attend class with your video off
+this class has a significant communication component, and facialexpressions are vital to communication
+we understand that you may have a “bad hair day” orsome other reason that you will need to keep your video off, and those are completely fine
+lateness or absencecan be excused if there is a valid reason
+are valid reasons
+●valid excuses:oversleeping, a term paper due, anexam to cram for, etc.
+are not valid reasons.ultimately
+the instructor reserves the right to determine what constitutes a “valid reason” on acase-by-case basis
+page3of15 course s yllabus student expectations:you are expected to: ●always use your @tamu.ed
+●use your canvas account (canvas.tamu.edu
+●be an active problem solver, contributor, and discussant in lecture and lab
+●be prepared and accountable for both lecture and lab by reading the assigned material ahead oftime and be able to answer simple questions over said material
+●be held accountable for all assigned material that is, or is not, explicitly discussed in class
+●attend class as a community expectation
+course logistics course time:11:30am–2:30 pm (lecture & lab) on tuesdays and thursdayslocation:eaba 121credit hours:3prerequisites:senior classification; csce 315, csce 411, and two additional csce trackedcourses
+instructor:dr
+tracy a
+hours:in person after class and online by appointment tas:adrita anika and samantha j
+rayoffice:eabc 112ce-mail:adrita:adrita.anika@tamu.edu
+special designation: c (oral communication)as per university requirements: 1) at least 35% of your grade will involve written or oral communications,2) 70% of that 35% is based on individual (not group) writing or speaking, 3) at least 1250 words areindividually written, 4) feedback is provided to you to allow for revision of some amount of documentsor slides, 5) you have at least 5 minutes of individual public speaking.t
+receive c credit for this course, you must pass the c component
+page4of15 course s yllabus course objectivesto prepare you for engineering practice with a major design experience based on the knowledge andskills acquired in earlier course work and incorporating engineering standards and realistic constraintsthat include most of the following considerations: economic; environmental; sustainability;manufacturability; ethical; health and safety; social; and political
+as a member or leader of ateam engaged in activities appropriate to theprogram's discipline.6.applycompute
+●undergoing ethics training: citi ●writing project motivation and identifying needs ●conducting a literature review ●designing and communicating a user interface ●designing and running a user study ●analyzing and interpreting data ●communicating and summarizing results ●developing professional writing skills and writing technical reports textbook and/or resource materialsrequired:design of everyday things
+2013)
+available free online at tamulibraries.recommended
+●the five dysfunctions of a team: a leadership fable.patric
+m
+ralphford and chris coulston
+the quality of education you receive makes a bigdifference in your career success
+abet accreditation: ●verifies that your educational experience meets the global standardfor technical education inyour profession
+●enhances your employment opportunities—multinationalcorporations require graduation froman accredited program
+●supports your entry to a technical professionthroughlicensure, registration andcertification—all of which often require graduation from an abet-accredited program as aminimum qualification
+●paves the way for you to work globally, because abetaccreditation is recognized worldwidethrough international agreements, and many other countries’ national accrediting systems arebased on the abet model
+in order for the department of computer science & engineering to keep their accreditation, the studentsmust demonstrate their abilities in each of the above expected outcomes of this class
+unless otherwise noted on the syllabus or class calendar, allassignments will be due before class on the due date
+grade sc ale f < 60% ≤ d < 70% ≤ c < 80% ≤ b < 90% ≤ awe make every effort to provide you with the opportunity to earn an a
+we do not curve in this class.rather
+we teach to mastery which means that we have clear expectations in terms of what you shouldcomplete and what knowledge you should have obtained by the end of the course to succeed and toearn an a
+if you are taking this class, participate appropriately, resubmit and fix your work based on ourfeedback, and work equitably with your team, you should get an a
+you will have every opportunity toearn an a, so at the end of the course an 89.
+is a b
+grade distribution1.dail
+feedback:2%3.projec
+responses:5%6.poste
+design and presentation: 10%7.auxiliar
+study:5%11.fina
+presentation:20%12.fina
+deliverables:30%-----------------------------------------------total100%note that you will not receive a passing grade in the class if you do not have a tested working systemby the end of the semester
+to repeat, while some of these sections might appear to have very low point values, they are crucial toyour later success in the higher point sections
+1
+thus, this not only lets us know where yourknowledge might be lacking so that we may be able to correct it within this class, but it also serves toteach you the knowledge that you need to have
+it is also important that your feedback is of high quality
+weekly reports (5%)team updates (2%), individual updates (2%), agile project management (1%)this grading criteria will be based on your team’s ability to maintain the project on schedule
+each team submits a weekly report as a group and individually, which should be incremental 
+the group reportsshould specifically address the following: ● minutes from the previous meeting agenda for the weekly meeting with the instructor and theta ●team’s accomplishments during this period
+accomplishments need to be measurable, e.g.
+reports are limited to one page and should be submitted according to the template provided in the course website
+5
+reading responses (5%)book readings (2%), literature review (3%): 10 breadth and 2 depth papers perteam memberthis grading criteria supplement your project team’s work by accumulating the knowledge necessary todesign and develop your system through book chapter readings from the design of everyday things bydon norman and from literature review readings related to your team project
+this requirement isto ensure that you have a strong understanding of what relevant work exists
+project testing (5%)your project must be evaluated in accordance with industry standards, so you need to test the technicalperformance of your developed materials as your project goes on
+you should also have appropriate unit testing throughout your code.thi
+9
+irb materials (5%)irb supplementary documents (1%), initial irb application (2%), revised irbapplication (2%),in order to conduct an evaluation with human participants, e.g.
+a user study or a survey, you must havean active irb application with texas a&m
+your team will prepare these evaluation materials throughout the semester, and must completethese contents properly and timely to ensure sufficient time in completing the evaluation of your system
+10
+user study (5%)user studies (5%): at least 20 participantsthis grading criteria evaluates the materials that you have taken, written, and conducted for preparingfor and executing the evaluation of your team project’s system
+your team will prepare these evaluationmaterials throughout the semester, and must complete these contents properly and timely to ensuresufficient time in completing the evaluation of your system
+note that completing this a user study is partof the required final deliverables and it not optional, even if you prefer to abandon the 5% 11
+12
+your final report will be critiqued on its thoroughnessand effectiveness in communicating key aspects of your system such as its motivation, approach,evaluation, and engineering standard, while your documentation and coding will be critiqued on its page9of15 course s yllabus completeness to properly execute and understand the details of your system
+all final deliverables must be submitted inorder to receive a grade for this section
+final deliverables1.tea
+proposal, weekly reports, final report (completed in overleaf), and allpresentationsc
+final video must be submitted to theinstructord.presentatio
+posters: in pdf and ppt formate.individua
+install, to be demonstrated on several machines note : grades will not be assigned until all projectdeliverables have been turned in (see below), allborrowed items (e.g.
+all final deliverables are dueon the last day ofclass at 11:59 pm (date in canvas)
+complete all of your peer reviews to get an a in the course
+14
+do not count toward absencesproviding they are approved by the instructor in advance, abide by the instructor’s requirements forcheck in during course time, abide by any activity reporting requirements by the instructor, andcomplete all assignments on-time relevant to that class time
+page10of15 course s yllabus late work policyall assignments must be submitted to complete the course
+late assignments will receive a grade reduction of 10% per daylate with a maximum reduction of 30%
+submitting anincomplete po will result in the team being prevented from submitting additional pos; and alladditional purchases will have to be made by team members themselves and will be reimbursedat the end of the semester
+if you suspect that a critical item may become backordered, it may be better if youpurchase it directly since pos may take several days to go through
+tominimize overhead on our accounting staff, we will only reimburse up to five purchase orders (ofyour choice); this policy also encourages teams to plan their purchases in advance
+overnight orexpress delivery will not be reimbursed unless approved in advance by the instructor.reimbursemen
+major deadlinesteams finalized bythe end of the second class meetingof week 2 (date in canvas).finalize
+project proposal dueat the beginning ofthe second class meeting of week 4 (date in canvas)
+major deadlinesfully working systemby the end of the second classmeeting of week 11 (date in canvas)
+major deadlinesfinal deliverables due onthe last day of classby11:59pm (date in canvas)final presentations to iap members onfinal readingday (date in canvas)
+–mid-semester grades duemarch 14-18 (mon.-fri.
+–last day to drop classes (tamu q-drop)may 03 (tue.
+–redefined day; attend friday classes (our class does not meet)may 04 (wed.
+–industry panel presentations; reading day (no class)may 05-10 (thurs.-tues.

@@ -1,0 +1,185 @@
+id,keyword,location,text
+1,,,"page 1 of 15 course information course number: csce 402/702 ; cybr 602 course title: cybersecurity law & policy section: csce 402/500; csce 702/600 /cybr 602/600 time: t, tr 3:55 – 5:10 p.m"
+2,,,"location: zach 310 credit hours: 3 instructor details instructor: paula dewitte, j.d."
+3,,,ph.d.
+4,,,p.e
+5,,,office: peterson 225 phone: preferred mode of communication is email
+6,,,e-mail: paula.dewitte@tamu.ed
+7,,,"if in reference to homework or exams, please copy the senior graders: stuart nelson at s.s.nelson@tamu.ed"
+8,,,lakhan saiteja kamireddy at lakhan@tamu.ed
+9,,,office hour s: thursday 1 – 2 p.m
+10,,,"(in office) or by appointment (in office or by zoom) course description this course examines law and policy issues related to cybersecurity for the spectrum of cybersecurity jobs including those defined in the nist nice framework (procurement, operations/maintenance, governance and oversight, protection/defense, analysis, intelligence collection/operation; and investigation) cybersecurity jobs"
+11,,,"tomorrow’s cyber workers are exposed to more data and privacy issues that requ ires them to analyze law, policies, and regulations both under united states jurisdiction and internation al jurisdiction (spoiler alert: the internet has changed our traditional notion of jurisdiction!) "
+12,,,law is traceable and based on precedent while techn ology is disruptive
+13,,,law necessarily lags technology resulting in an uncertain legal and ethical framework which requires cyber workers to be able to analyze and distinguish appropriate courses of action as part of their daily tasks without the luxury of relying on legal counsel
+14,,,"this is especially crucial given the dynamics of the threat and response landscape, the course will focus on international and federal law and not specific state data breach laws other than a cursory review and explanation of w hen states or federal has jurisdiction"
+15,,,"course syllabus page 2 of 15 the course first examines the fundamentals and basics of law – jurisdiction, due diligence, case/controversy, standing, statute of limitations, remedies/damages, and evidence standards – to establish a foundation to apply and analyze legal issues that are especially problematic regarding cybersecurity"
+16,,,"the course then explores the national and international legal frameworks that govern cybersecurity and their implications for attacks, motives, responses, and counte r-attacks through the lens of what is permissible against attacking individuals or entities versus attacking nation -states including legal issues such as “hacking back” and problems such as accurate attack attribution"
+17,,,the course then examines the legal i ssues raised by the cloud related to privacy and third partie s including emerging standards
+18,,,"the overarching goal of this course is to provide a cyber -worker in technical, business or policy domains with the knowledge and skills to better interpret threats and responses in a national and international law framework while understanding (and being sympathetic to) the limits of the current law and how law/policy can evolve for cybersecurity"
+19,,,"this course is not intended to make you lawyers, but rather legal -savvy cyber workers"
+20,,,the course includes current events discussion on relevant information and relies on extensive analysis of laws and policies whereby students will demonstrate their knowledge and skills by preparing short written assignments throughout the semester
+21,,,"course prerequisites junior , senior , or graduate classification"
+22,,,preferred to have some programming experience although not required
+23,,,special course designation this is a stacked course
+24,,,a ll assignments and exams for undergraduate and graduate students are weighted differently as explained in the grading policy section below with all sections having the same assignments and exams 
+25,,,"course learning outcomes upon successful completion of this co urse, a student will be able to: • acquire the common body of knowledge for cybersecurity law including concepts and legal terminology"
+26,,,• acquire the common body of knowledge related to both national and international laws related to cybersecurity and the d ifferences between united states law and laws of other jurisdictions
+27,,,• identify and explain common legal issues related to cybersecurity
+28,,,"• provide a high -level explanation of the legal issues governing the authorized conduct of cyber operations and the use of related tools, techniques, technology, and data"
+29,,,• apply legal concepts in issues related to cybersecurity including cases/controversies unique to cybersecurity
+30,,,• assess and explain legal procedural requirements relevant to cybersecurity
+31,,,• demonstrate th e ability to use legal knowledge by analyzing cybersecurity issues from a cyber worker perspective such as whether a security incident violates a privacy principle or legal standard requiring specific legal action
+32,,,"page 3 of 15 • demonstrate the ability to work through a case study identifying legal issues, analyzing the cybersecurity action required, and formulating a plan that complies with applicable laws"
+33,,,• identify the authorities applicable to a cyber -security operations scenario
+34,,,"• evaluate the relationship between ethics and law, describe civil disobedience and its relation to ethical hacking, describe criminal penalties related to unethical hacking, and apply the notion of “grey areas” to describing situations where law has not yet caught up to technological innovation"
+35,,,"• describe steps for carrying out ethical penetration testing, describe 'ethical hacking' principles and conditions, distinguish between ethical and unethical hacking, and distinguish between nuisance hacking, activist hacking, cri minal hacking, and acts of war"
+36,,,"textbook and/or resource materials required text • cybersecurity law, 2nd edition by jeff kosseff, isbn -13: 978-1119517207 we will read all chapters (1 – 11) and selected appendices as references"
+37,,,i recommend that you buy this book! referenced text s: • tallinn manual 2.
+38,,,on the international law applicable to cyber operations by michael n
+39,,,"schmitt, isbn 978 - 1-316-82252 -4"
+40,,,"i do not recommend that you buy this book! • you’ll see this message when it is too late by josephine wolff, isbn 978 -0-262—3885 -0"
+41,,,"• twenty -six words that created the internet by jeff kosseff, isbn -10: 1501714414"
+42,,,"• this is how they tell me the world ends by nicole perlroth, isbn -10 : 1635576059 "
+43,,,• other readings as assigned and either placed on google scholar or communicated with web references
+44,,,"grading policy the student’s semester grade will be based on assignments, exams, and a semester paper"
+45,,,weekly/bi -weekly assignments (5) : there will be a total of 5 writing assignment
+46,,,the topics for these assignments can be found in the course sched ule
+47,,,each assignment should be answered in 1-2 pages according to the template posted on the google scholar learning management system for this class 
+48,,,semester paper: students should select a topic to write for this paper before the fifth week of class 
+49,,,the requirements for the paper and the rubric for grading will be posted on the google scholar learning management system for this class 
+50,,,exams: two major exams wil l be given in this course at five and ten weeks during the course
+51,,,both exams will be essay tests 
+52,,,a final exam will be short answer and cover material from the last lectures
+53,,,"page 4 of 15 course grades will be assigned using the following scale: assignments rubric the rubric for the assignment is based on irac : issue + rule + analysis + conclusion 20% issue : did you come up with a relevant legal issue related to the course, and did you tie that issue to the course? did you explain the problem/issue clearly ? (if you fail to describe an issue, it will be difficult to analyze."
+54,,,"20% rule : what makes this a relevant legal issue? what rules of law are you applying? did you do a thorough research, that is clearly communicated ? 20% analysis : you do not merely re -state the rule and research , but analyze what is leading to your subsequent conclusion"
+55,,,tie your analysis to course knowledge to demonstrate what you learned from this course
+56,,,this is also a good time to bring up any vo ids or gaps in current laws or to differentiate legal and ethical issues
+57,,,"20% conclusions: clearly state the conclusions based on the issue, rule, and analysis and ensure that there is a logical pathway to follow"
+58,,,"20% presentation : formatting, proper grammar, correct spelling, proper use of words, proper capitalization (e.g."
+59,,,congress referring to the united states congress is always capitalized as is the first amendment
+60,,,these are proper nouns.)
+61,,,"points grading scale : out of 1000 assignable points a 900 - 1000 points b 800 - 899 points c 700 - 799 points d 600 - 699 points f < 600 points requirement: undergraduate points graduate points weekly/bi -weekly assignments (5 assignments each worth 50pts for undergraduate students and 40 points for graduate students ) 250 (25%) 200 (20%) semester paper 250 (25%) 300 (30%) first exam 200 (20%) 200 (20%) second exam 200 (20%) 200 (20%) third exam 100 (10%) 100 (10%) total 1000 (100%) 1000 (100%) page 5 of 15 semester paper rubric the ru bric for the semester paper is: 20% idea selection and explanation : did you come up with a good idea for the course, and did you tie that idea to the course? did you explain the problem/issue? 20% research process : did you do good research, and is it clearly shown? 20% analysis : you do not merely re -state the research"
+62,,,you apply analysis and tie it to course knowledge to demonstrate what you learned from this course
+63,,,"20% presentation : formatting, proper grammar, correct spelling, proper use of words, proper capitalization (e.g."
+64,,,congress referring to the united states congress is always capitalized as is the first amendment
+65,,,these are proper nouns.)
+66,,,20% style : how well does this paper read? how well do you organize your ideas? how well do y ou reach logical conclusions based on your own arguments? is the paper substantial? • semester paper requirements: o page requirement : ▪ undergraduate 5 - 7 pages ( note : 5 complete pages are required
+67,,,not 4 and a half pages) ; five pages of content excludin g sources ▪ graduate 7 – 8 pages (note: 7 complete pages are required
+68,,,"not 6 and a half pages); o margins : 1"" on all sides o line spacing : 1."
+69,,,o font : calibri 11 preferred; no bigger than 12 point font o references required : minimum of 10 valid references late work policy late work is work that is not turned in according to the class process by the assigned due date
+70,,,the instructor may accept late work if the student notifies the instructor before the assigned due date except in truly emergency situations
+71,,,"typically, late and/or make -up work will not be accepted without a university excused absence"
+72,,,(see student rule 7.
+73,,,"if an absence is excused, then the student will be provided an opportunity to make up any homework assignments, quizzes, exams, or other work that contributes to the final grade with a due date that extends the original due date by the number of days of the excused absence"
+74,,,individual arrangements will be made for exams and quizzes missed due to an excused absence
+75,,,"in all cases, tamu student rule 7 will govern the process"
+76,,,page 6 of 15 course schedule date topics assignment milestones week 1 jan 18 - 20 introduction to course & expectations
+77,,,walk -through course syllabus
+78,,,discussion of semester paper
+79,,,using on -line resources and finding relevant current events
+80,,,differences between engineering and legal mindsets (“ it depends.”)
+81,,,basic cybersecurity terminology and concepts
+82,,,"(1st lecture) overview of the american legal system legal concepts: due diligence, jurisdiction, standing; venue; case/controversy, statute of limitations; evidence standards (civil vs criminal); remedies/damage s; “reasonableness standards,” etc"
+83,,,"other american legal concepts: right to face accuser, double jeopardy, the role of “public policy” in court decisions, etc"
+84,,,legal infrastructure: state and federal laws
+85,,,"federal executive, legislative, and judicial branches"
+86,,,appellate review process —federal and state (or how a federal law can be interpreted differently within different areas of the us)
+87,,,whew! and that’s just week 1! how fun was that! reading kosseff chapter 1 this week is essential 
+88,,,the remaining reading can be in the next few weeks
+89,,,don’t be overwhelmed! this is background material (but – it’s so interesting! )
+90,,,read kosseff chapter 1: data security laws and enforcement actions (skip section 3.
+91,,,pp 48 - 56); don’t worry about s pecific case names and descriptions; focus on “key lessons” and look for the commonality in those key lessons for class discussion
+92,,,appendix a: section 5 of the ftc act focus specifically on legal terminology and concepts as discussed in class
+93,,,read sans paper: opm vs
+94,,,apt: how proper implementation of key controls could have prevented a disaste r (on google scholar )
+95,,,"periodically through the semester, we’ll refer to this sans paper"
+96,,,"as your legal analysis knowledge grows, you will realize how much you have learned using this paper as your guide"
+97,,,your first read will probably be overwhelming
+98,,,"your last read of the semester will be – i know that! read us constitution (articles i, ii, iii, iv, and vi)"
+99,,,http://constitutionus.com
+100,,,and https://www.law.cornell.edu/constitutio
+101,,,read federal courts and what they do: https://www.fjc.gov/content/federa
+102,,,"-courts -and-what - they -do-2 at the end of week 1, you may not be able to recall all concepts and terminology from memory, however you should be able to analyze how and where to find the answer! we will refer to this as our framework of legal analysis that we will use through the rest of the course"
+103,,,and rememb er – first step -- always check to see if a term has a legal definition! page 7 of 15 week 2 jan 25 - 27 continuation of legal terminology and concepts from week 1 common law (state) civil causes of action: contract breach; breach of implied warranty; negligence; unjust enrichment; fraud; slander; invasion of privacy
+104,,,"privileges: attorney -client, work product doctrine, and non - testifying expert … in anticipation of litigation the concept of “standing” – article iii of the constitution and scotus inte rpretation fun facts: google the cases in the footnotes regarding standing on pages 52 – 53, especially whitmore v"
+105,,,arkansas for the type of case/controversy
+106,,,whoa! did not see that coming!!!! putting it all together to bring a cybersecurity case to court — walk -thru the legal process —both civil and criminal
+107,,,(free legal advice: never ever ignore when served by a court of competent jurisdiction
+108,,,never
+109,,,ever
+110,,,)
+111,,,read kosseff chapter 2: cyb ersecurity litigation and we will emphasize the legal concept of standing and how lack of standing affects cybersecurity cases
+112,,,we will not discuss specific state consumer protection or data breach laws
+113,,,assignment 1: write a one -to-two page paper on a fundamental legal issue as being confusing/critical to cybersecurity 
+114,,,due in one wee k
+115,,,submit through google scholar 
+116,,,5% of course grade for undergraduate students and 4% of course grade for graduate students 
+117,,,"week 3 feb 1 - 3 privacy (“ the right to be let alone ”): is there a “right” to privacy? if so, how do we define privacy so that we can effectively legislate protecting that right? legislative: read kosseff chapter 7: surveillance and cyber and appendix e: electronic communicat ions privacy act read kosseff chapter 9: privacy laws read kosseff chapter 10 (section 10.1"
+118,,,pages 386 – 396) page 8 of 15 the privacy act (1974); the stored communications act (1986) the wiretap act ( title iii of the omnibus crime control and safe streets act of 1968) the electronic communications privacy act (1986) —amendment to the wiretap act judicial: scotus opinions on privacy (griswold v
+119,,,"connecticut, roe v wade, lawrence v"
+120,,,"texas), expectation of privacy (katz v"
+121,,,"united states), recent decisions strengthening 4th amendment protections (carpenter v united states)"
+122,,,4th amendment : review of scotus decisions on the requirements for fourth amendment warrants
+123,,,what’s next after carpenter v united states? 14th amendment: review of scotus decisions on due process
+124,,,"us constitution amendments 1, 3, 4, and 5 assigned readings on google scholar shocker: nyt article on google scholar : “roe v"
+125,,,wade was about more than abortion” [note this statement from the article: “the a nswer is that roe’s definition of privacy seemed different
+126,,,"more than other supreme court decisions, it connected privacy to ideas about individual identity and choice."
+127,,,… and then ho w this definition of privacy has been used in subsequent legal actions.
+128,,,week 4 feb 8 - 10 federal laws on hacking back: computer fraud abuse act -- cfaa (1986) and proposed revisions; effect on hacking back digital millennium copyright act (1998)
+129,,,read kosseff chapter 5: anti -hacking laws and appendix c: section 1201 of the digital millennium copyright act (dmca) and appendix d: computer fraud and abuse act assigned paper(s) on “hacking back;” read: 2018 national cyber strategy https://www.whitehouse.gov/w
+130,,,- content/uploads/2018/09/national -cyber -strategy.pd
+131,,,and the companion document: https://media.defense.gov/2018/sep/18/2002041658
+132,,,- 1/-1/1/cyber_strategy_summary_final.pd
+133,,,page 9 of 15 and the solarium report either the executive summary (22 pages) or the report (182 pages) assignment 2: research the legal issues of privacy related to cybersecuri ty and write a one -to-two page paper discussing some l egal issue
+134,,,due in one wee k
+135,,,submit through google scholar 
+136,,,5% of course grade for undergraduate students and 4% of course grade for graduate students
+137,,,week 5 feb 15 – 17 us federal cybersecurity laws: legislative: fisma (federal information security management act) and how it relates to common law recognition of nist standards and fips 199 and fips 200 nist standards in a legal sense: documentation and how applying good cybersecu rity practices may cause legal risk ! [note: nist is not a federal regulatory agency.
+138,,,executive: (1) presidential directives and introduction to executive orders
+139,,,(2) executive agencies (e.g.
+140,,,ftc)
+141,,,(3) federal agencies —later lecture
+142,,,judicial: commo n law
+143,,,take -home exam 1! read kosseff chapter 8: cybersecurity and federal government contractors readings as assigned
+144,,,obviously one excellent source is https://csrc.nist.gov/publications/sp80
+145,,,(as discussed and navigated in class)
+146,,,review sans paper on opm regarding nist controls should have selected a topic for a semester paper by this week
+147,,,week 6 feb 22 - 24 cybersecurity and the cloud: fedramp catch up week – this is our first semester “breather” week to either catch up (if we’re behind) and/or to take time to fully readings as assigned
+148,,,obviously one excellent source is www.fedramp.go
+149,,,
+150,,,assignment 3: write a one -to-two page paper on a specific nist family of controls (pick out one or two controls) and think through any legal issues that should be considered
+151,,,this is where the opm pap er might provide some ideas
+152,,,page 10 of 15 digest information so far
+153,,,at least one lecture will be devoted to “point/counterpoint” classroom discussion where students will b e given positions and argue whether to defend or reject
+154,,,more fun if your assigned position is counter to your personal beliefs
+155,,,due in one week
+156,,,due in one wee k
+157,,,submit through google scholar 
+158,,,5% of course grade for undergraduate students and 4% of course grade for graduate students 
+159,,,week 7 mar 1 - 3 scope and effect of federal regulations and how enforced
+160,,,"regulatory agencies (ftc, fcc, sec, cfpb, dhs, department of education; other financial/banking regulations) relative to cybersecurity and/or privacy"
+161,,,kosseff chapter 3 (skip section 3.
+162,,,pp 147 – 154) cybersecurity requireme nts for specific industries ; kosseff chapter 4 cybersecurity and corporate governance week 8 mar 8 – 10 international law: tallinn manual 2.
+163,,,"on international law on cyber operations: sovereignty due diligence jurisdiction united nations charter (jus ad bellum) hague conventions & geneva conventions (jus in bello) read kosseff chapter 10: international cybersecurity laws and chapter 11: cyber and the law of war read chapters 1, 2, & 3 of the tallinn manual: sovereignty, due diligence, and jurisdiction skim through table of contents and organization of tallinn manual please do not confuse the tallinn manual 2."
+164,,,as actual binding international law!!!!! mar 14 – 18 spring break! week 9 mar 22 -24 posse comitatus other federal laws of interest
+165,,,read kosseff 6.
+166,,,military involvement in cybersecurity and posse comitatus week 10 mar 29 - 31 take -home exam #2! page 11 of 15 week 11 apr 5 - 7 critical infrastructure as a cybersecurity threat
+167,,,executive: presidential directives and executive orders related to securing critical infrastructure and the united states patriot act
+168,,,"legislative: the cybersecurity information sharing act -- cisa (2015), cybersecurity enhancement act (2014); nist cybersecurity framework read kosseff chapter 6: u.s"
+169,,,government cyber structure and public -private partnerships assignment 4: research a legal issue related to protecting critical infrastructure fr om one of the critical infrastructure sectors and write a one -to-two page paper due in one week
+170,,,due in one wee k
+171,,,submit through google scholar 
+172,,,5% of course grade for undergraduate students and 4% of course grade for graduate students 
+173,,,week 12 apr 12 - 14 intellectual property theft as a cyber threat legislative: economic espionage act (1996) uniform trade secrets act -- utsa (1985) assigned readings
+174,,,"week 13 apr 19 - 21 cyber ethics: what’s right, what’s wrong, what’s legal, and what’s ethical"
+175,,,new and emerging issues in cybersecurity law & policy since class started
+176,,,"semester papers du e! – 25% of course grade for csce 402 & mara 403, 35% for csce 702 "
+177,,,"assignment 5: summarize and write a one -to-two page paper on your assessment of the current state of ethics in cybersecurity – think through the tallinn manual, hacking back, cfaa, etc"
+178,,,and class discussions
+179,,,potential topics could include some aspect that causes controversy or conflict w ith us law
+180,,,due in one wee k
+181,,,submit through google scholar 
+182,,,5% of course grade for undergraduate students and 4% of course grade for graduate students 
+183,,,week 14 apr 26 - 28 in class exam #3
+184,,,course evaluations; wrap -up

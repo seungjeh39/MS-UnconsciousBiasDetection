@@ -1,0 +1,77 @@
+ 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+every computer scientist and computer engineer who wants to work on big problems must have these skills
+1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+each team is required to: time management: manage its own ef forts to complete its project in a timely manner 
+you are graded based on both the quality of the group product and their individual contributions
+these meetings must be attended by every group member 
+however , every member of the group is expected to participate in these meetings 
+course information course number: 482 course t itle: senior capstone design section: 934 time: mondays and w ednesdays 8:00am-1 1:00pm (lecture and lab) location: engineering activities building a (https://aggiemap.tamu.edu/?bldg=0460
+118 credit hours: 3 instructor and ta details instructor: shawna thomas office: 319 peterson 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+(mailto:sthomas@tamu.edu
+(mailto:minsibo0420@tamu.edu
+course prerequisites senior classification; csce 315 , csce 41 1, and two additional csce tracked courses special course designation c (communication intensive course) as a communication intensive course, you will receive instruction on writing and public speaking and complete assignments so you can master communication related to the major 
+you must pass the written and oral components with a c or better to earn a grade in the course
+y our design will incorporate engineering standards and realistic constraints that include most of the following considerations: economic, environmental, sustainability manufacturability ethical health and safety , social, and political
+1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+recognize professional responsibilities and make informed judgements in computing practice based on legal and ethical principles
+(https://ebookcentral.proquest.com/lib/tamucs/detail.action
+a vailable free online at t amu libraries
+recommended: the five dysfunctions of a t eam: a leadership fable
+lencioni
+available free online at t amu libraries
+technical material from the literature, manufacturers’ data sheets and user manuals
+abet accreditation provides assurance that a college or university program meets the quality standards of the profession for which that program prepares graduates
+the quality of education you receive makes a big dif ference in your career success
+1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+5/15abet accreditation: verifies that your educational experience meets the global standard for technical education in your profession
+enhances your employment opportunities —multinational corporations require graduation from an accredited program
+supports your entry to a technical profession through licensure, registration and certification —all of which often require graduation from an abet -accredited program as a minimum qualification
+paves the way for you to work globally , because abet accreditation is recognized worldwide through international agreements, and many other countries’ national accrediting systems are based on the abet model
+in order for the department of computer science & engineering to keep their accreditation, the students must demonstrate their abilities in each of the above expected outcomes of this class
+grading policy the final grade you will receive in the class will be based on points accumulated during the semester 
+thus, both continued progress (the process) and the quality of your product (and other deliverables) will determine your grade
+unless otherwise noted on the syllabus or class calendar , all assignments will be due before class on the due date
+as a communication course, you must pass the communication components (both written and oral) with a c or better to earn a grade in the course
+failure to pass the communication components with a c or better results in an f for the course
+grading scale: grades will be assigned according to the following scale: a >= 90 > b >= 80 > c >= 70 > d >= 60 > f these grades represent varying degrees of achievement (see the university's grading system (https://registrar.tamu.edu/transcripts-grades/grades#0-gradingsystem
+): a = excellent, b = good, c = satisfactory , d = passing, f = failing
+we make every ef fort to provide you with the opportunity to earn an a
+w e do not curve in this class
+rather , we teach to mastery which means that we have clear expectations in terms of what you should complete and what knowledge you should have obtained by the end of the course to succeed and to earn an a
+6/15based on our feedback, and work equitably with your team, you should get an a
+y ou will have every opportunity to earn an a, so at the end of the course an 89.
+is a b
+the lower weighted items will significantly help you succeed in your higher-weighted items
+even if a component has a very low point value, it is crucial to your later success in the higher point components
+additionally , at least one member of your team will present your project at student research w eek (sr w), the engineering project showcase (eps), and the t amu csce iap spring meeting (if held) to provide 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+y our individual grade for this section may be adjusted based on your level of contribution determined from logged code commits, peer evaluation, and instructor/t a observations
+all final deliverables must be submitted in order to receive a grade for this section
+docs, source, hardware, media, references, freeware, etc.
+1
+2
+final video must be submitted to the instructor 4
+final prototype in the assigned github repository , as well as any spare parts and supplies 3
+software install, to be demonstrated on several machines note : grades will not be assigned until all project deliverables have been turned in (see above), all borrowed items (e.g.
+all team members are required to be present at the time of the final delivery 
+y ou are also expected to use t amu github for version control and commit to your team's repository weekly , if not daily 
+testing - 15%: your project must be evaluated in accordance with industry standards, so you need to test the technical performance of your developed materials as your project goes on
+y ou are expected to develop an automatic test bed for your project
+y ou should also have appropriate unit testing, integration testing, and system testing throughout your code to verify functionality 
+y ou will be assessed on how well you have prepared and conducted the evaluation of your system, both internally (through unit/integration/system testing) and externally (through user study)
+note that completing this user study is part of the required final deliverables and it not optional, even if you prefer to abandon the points
+t eam members should take turns taking meeting minutes, submitting team reports, and leading the weekly meeting discussion
+y ou will be also assessed on your team's ability to keep to the project schedule
+thus, this not only lets us know where your knowledge might be lacking so that we may be able to correct it within this class, but it also serves to teach you the knowledge that you need to have
+you must complete all of your peer reviews to get an a in the course
+more than five (5) unexcused absences will lead to an automatic failure for the course 
+do not count toward absences provided they are approved by the instructor in advance, abide by the instructor ’s requirements for check-in during course time, abide by any activity reporting requirements by the instructor , and complete all assignments on-time relevant to that class time
+(unless otherwise specified) by the due date and time given on the assignment
+9/15 late work policy all assignments must be submitted to complete the course
+
+y ou will begin participating in peer evaluations within your team.incrementa
+working system (due by end of w eek 1 1) 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+y ou will also continue to make iterative progress on your final written report
+draft of final deliverables (due by end of week 14) 15project presentations senior projects will be presented to industry panelists.al
+we reject and condemn all forms of injustice and actively promote diversity and inclusion within our field
+if any student wishes to discuss anything regarding 1/19/22, 4:50 am syllabus: 22 spring csce 482 934: sr capst one design https://canvas.tamu.edu/courses/129774/pages/syllabu
+11/15inclusivity within the classroom, especially anything contrary to this statement that you have experienced, you are encouraged to contact the instructor or t a

@@ -1,0 +1,37 @@
+ the average mobile phone has over 10 million lines of code
+g=0518) 244 lab: section 900: face -to-face, tuesdays and thursdays 8:25am -9:15am, zachr y engineerin g education complex (https://a ggiemap.tamu.edu/?bl
+g=0518) 584 section 901: face -to-face, tuesdays and thursdays 9:35am -10:25am, zachr y engineerin g educa tion complex (https://a ggiemap.tamu.edu/?bl
+g=0518) 584 section 902: face -to-face, tuesdays and thursdays 11:35am -12:25pm, zachr y engineerin g education complex (https://a ggiemap.tamu.edu/?bl
+g=0518) 584 section 903: face -to-face, tuesdays and thursdays 12:40pm -1:30pm, zachr y engineerin g education complex (https://a ggiemap.tamu.edu/?bl
+g=0518) 584 section 90 4: face -to-face, tuesdays and thursdays 8:25am -9:15am, zachr y engineerin g education complex (https://a ggiemap.tamu.edu/?bl
+g=0518) 596 section 905 : face -to-face, tuesdays and thursdays 9:35am -10:25am, zachr y engineerin g educa tion complex (https://a ggiemap.tamu.edu/?bl
+g=0518) 596 section 906 : face -to-face, tuesdays and thursdays 11:35am -12:25pm, zachr y engineerin g education complex (https://a ggiemap.tamu.edu/?bl
+g=0518) 596 section 907 : face -to-face, tuesdays and thursdays 12:40pm -1:30pm, zachr y engineerin g education complex (https://a ggiemap.tamu.edu/?bl
+g=0518) 596 final exam schedule (https://re gistrar.tamu.edu/course
+be prepared to attend both final sections
+help/office hours: email for appointment teaching assistants  shuaifang wang and her email is wangshuaifang@tamu.ed
+
+
+course description intensive programming experience that integrates core concepts in comp uter science and familiarizes with a variety of programming/development tools and techniques; students work on 2 or 3 month -long projects each emphasizing a different specialization within computer science; focuses on programming techniques to ease code in tegration, reusability, and clarity
+course prerequisites csce 312 and csce 314; or csce 350/ecen 350 corequisite: csce 313 special course designation w (writing intensive course) as a writing intensive course, you will receive instruction on writi ng and complete writing assignments so you can master writing related to the major
+you must pass the writing components with a c or better to earn a grade in the course
+for a deeper understanding of software development and project management, take software engineering after completing this class
+y.com/tamu/libra
+(code complete pdf) (http://aroma.vn/web/w
+database desi gn, 2nd edition (https://opentextbc.ca/dbdes
+gn01/) by adrienne watt (bccampus open education, 2014)
+(database desi gn pdf) (https://opentextbc.ca/dbdes
+as a writing course, you must pass the writing components with a c or better to earn a grade in the course
+failur e to pass the writing components with a c or better results in an f for the course
+you are required to pass this component with a c or better to earn a grade in the co urse
+for group assignments, your full participation is required to receive a grade for that assignment 
+this component will be divided as follows: 10% in -class activities (lowest grade dropped), 5% lab activities (lowest grade dropped), 3% at -home activities, and 2% in -class knowledge checks (lowest two grades dropped )
+grading scale: grades will be assigned according to the following scale: a >= 90 > b >= 80 > c >= 70 > d >= 60 > f these grades represent varying degrees of achi evement (see the universit y's gradin g system (https://re gistrar.tamu.edu/transcript
+(unless otherwise specified) by the due date and time given on the assignment
+late work policy assignments turned in after the posted deadline will have a penalty applied of 5% per day late
+if the assignment is individual, the late penalty only affects the grade for that team member
+course schedule the course is listed as a 2 -hour per week lecture, a nd 2-hour per week lab, however it has been intentionally scheduled for 3 hours per week of lecture (along with the lab)
+after the first week of class, the regular sect ions will only meet on mondays and wednesdays with fridays reserved as optional workdays
+all assignment and project details will be communicated on canvas (https://canvas.tamu.edu/
+week lecture topics lab topics project deliverables (due monday midnight at beginning of week unless otherwise noted) 1 introductions, professional presence no labs 2 software construction and design html, javascript, css, using git 3 software development methodologies, waterfall html, javascript, css project 1 version 1 4 databases, team success database design diagrams, aws databa se interaction project 1 version 2 syllabus: 22 spring csce 315 900 -907: programming studio 5 code as communication, style guides, technical writing database population project 2 phase 1 6 collaborative development, formal inspections project 2 demos, connecting database and gui project 2 phase 2, project 2 status update* (due wed
+midnight) 12 workdays workdays project 3 user study 1, project 3 status update* (due wed

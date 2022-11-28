@@ -1,0 +1,29 @@
+id,keyword,location,text
+1,,,page 1 of 5 course syllabus 1 course information course number: csce 463-500/612-600 course title: networks and distributed processing time: tr 12:45-2pm location: 113 hrbb credit hours: 3 website: http://irl.cse.tamu.edu/courses/463
+2,,,piazza: http://piazza.com/tamu/spring2022/csce46
+3,,,online platform: canvas instructor details instructor: dmitri loguinov office: 209 petr phone: 979-845-0512 e-mail: dmitri@cse.tamu.ed
+4,,,office hours: tr 5:30-6:30pm ta: carson hanel office: 212 petr e-mail: carson@cse.tamu.ed
+5,,,office hours: mw 2-3pm course description this class is an overview of com puter networks with a focus on internet protocols and high- performance coding in windows
+6,,,"course prerequisites csce 315 (programming studio), csce 313 (computer systems), cs ce 312 (computer organization), csce 221 (data str uctures and algorithms), and m ost importantly fluent knowledge of c/c++"
+7,,,"course learning outcomes at the end of the semester, the s tudents will obtain experience with protocol design, internet operation, c/c++ network apis, a nd multi-threading in windows"
+8,,,textbook and/or resource materials j.f
+9,,,kurose and k.w
+10,,,"ross, “computer networking: a top-down app roach,” addison-wesley, 6 th edition, 2013"
+11,,,"page 2 of 5 course syllabus grading policy a: 90-100%, b: 80-89%, c: 70- 79%, d: 60-69%, f: 0-59% assignment qty format percent of final grade homework 4 implementation and report 40% (10% each) midterms 3 closed-book 45% (15% each) quizzes 3 closed-book 15% (5% each) late work policy homework submissions are due at 10 am"
+12,,,late homework is accepta ble with a penalty of 20% of the full grade per day (no points after 5 days)
+13,,,delays are rou nded up to the nearest full day
+14,,,"example #1 : your homework scores 76 points out of 100, but is 28 hours la te"
+15,,,your score is then reduced by 40 points and becomes 36
+16,,,"example #2 : your submission scores 19 out of 25 pts, but is 1 day late"
+17,,,"the reduction is th en 5 pts, which brings the grade down to 14"
+18,,,homework all submissions must compile in visual studio 2019 in both debu g and release mode
+19,,,"solutions with missing files, incorrect pro ject options, or dependency on non-standard libraries (e.g."
+20,,,boost) will not be graded
+21,,,"each homework must be accompanied by a written report (if there are multiple parts in the homework, the report applies on ly to the last part) describing your implementation and showing the performance analysis requested in the handout"
+22,,,"write in as much detail as possible, explain the various observations, and comment on the sanity of obtained results"
+23,,,this course assumes independent work on each assignment
+24,,,all submissions must be original and developed from scratch
+25,,,"in o ther words, you cannot copy and /or modify any fragment of code, no matter how short , that originates elsewhere (e.g."
+26,,,"c urrent students, prior students, material found online)"
+27,,,the only e xception to this policy is sa mple code provided by the instructor and microsoft help pages
+28,,,"academic dishonesty, including cheating and plagiarism, will result in an f* for the course and may lead to expulsion from the university"

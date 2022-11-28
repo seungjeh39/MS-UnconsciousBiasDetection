@@ -1,0 +1,66 @@
+ office hours: mon day and wedne sday by appointment only ta: karl ott e-mail: kaott at tamu.ed
+office hours: by appointment course description engineering design; working as a design -team member, conceptual design methodology, design evaluations, total project planning and management techniques, design optimization, systems manufactur ing costs considerations; emphasis placed upon student's activities as design professionals
+csce 483 (the capstone design program) consists of the design and implementation of a system (capstone design project) based on the knowledge and skills acquired in earlier course work with significant computer software
+csce 483 is a project -oriented course aimed at developing system integration skills
+students work in groups of 4 -5 people to complete a significant engineering design project
+the focus is not only on the final product but also on design methodology, management process and teamwork
+each team i s required to manage its own efforts to complete its project in a timely manner
+students are graded based on both the qualit y of the group product and their individual contributions
+at the end of the semester, each group will make a public presentation describing and demonstrating their work
+these presentations are open to the university community
+• an ability to design a system, component, or pro cess to meet desired needs (3.c
+understand and utilize the engineering design method to generate potential solutions to a specific design challenge; 2
+clearly communicate ideas, status and test results through written reports; 5
+clearly communicate through oral presentations
+6
+7
+textbook and/or resource materials required: patric m
+lencioni, 2002, “the five dysfunctions of a team: a leadership fable” jossey -bass
+(electronic copy available to all via the library.
+csce 483 syllab us 3/9 recommended: ralph ford and chris coulston, 2007, "design for electrical and computer engineers,” mcgraw - hill education
+barry hyman, 2003, "fundamentals of engineering d esign," second edition, prentice hall
+roger pressman, 2009, “software engineering: a practitioner's approach,” seventh edition, mcgraw -hill
+james shore, 2007, “the art of agile development,” o'reilly (electronic copy available to all via the library.
+grading policy the final grade you will receive in the class will be based on points accumulated during the semester
+although the bulk of your grade is based on the performance of your team, individual performance will also be gauged
+1
+project proposal (10%) : these points will be based on the originality, quality and feasibility of the proposed work, the analysis of alternative solutions, the consideration of economic and societal aspects, and the project management approach, as reflected on your written proposal (75%) and oral presentation (25%)
+2
+weekly progress (10%) : this grade will be based on your team’s ability to maintain the project on schedule
+agenda for the weekly meeting with the instructor and the ta 2
+team’s accomplishments during this period
+“did more research on such and such” is not an accomplishment, it is an activity (and a loosely defined one)
+3
+team’s goals for the following week (individual tasks are entered on basecamp) 4
+minutes from the previous meeting weekly progress reports are due at 8am on t he day of the weekly meeting
+reports are limited to one page and should be submitted according to the template provided in the course website
+the team leader will be responsible for submitting these reports and leading the discussion during the weekly meeting
+one of the team members, acting as a scribe, will be responsible for generating the meeting minutes throughout the semester
+3
+critical design review (10%) : the cdr is a mid -semester evaluation of your project
+a template for the cdr report and a presentation rubric are available on the course webpage
+final communication (10%) : this grade will be based on the quality of the final presentation (25%), as well as the contents and professional finish of the documentation (75%)
+coding, interfaces, safety)
+a template for the final report and a presentation rubric are available on the course webpage
+5
+project grade (20%) : a final grade will be assigned to your p roject based on the completion of all the objectives stated in the proposal, as well as on a live demonstration in front of the class
+the complexity of your project and the size of your team will be factored in
+due date: project demonstrations will take place the last day of class of the week prior to final presentations
+6
+being physically present in the same room encourages collaboration and equal di stribution of workload
+sketches, block diagrams, schematics, pseudo -code, experimental results, formal derivations), 2
+the organization of your notebook 2
+participation (10%): the instructor and tas will evaluate your attendance to meetings, participation in the discussions, and contributions to the team
+peer review (10%): your performance will be evaluated by each of your team members throughout the semester
+late submissions will not be accepted
+note: grades will not be assigned until all project deliverables have been turned in (see below), all borrowed items (e.g.
+keys, books, equipment) have been returned to their proper location or their owner, and the workstations in the lab have been thoroughly cleaned up
+final deliverables • usb drive including the following (please organize into folders, e.g.
+docs, source, hardware, media, references, freeware, etc.
+o designs: code, schematics, data, data sheets, freeware software tools, etc
+csce 483 syllab us 5/9 o reports: proposal, cdr, weekly rep orts, final report, and all presentations o audiovisual media: close -up pictures of your system and a high -quality movie demo of the system working, for posterity (see gallery in the course webpage for movie samples) o individual notebooks (in digital form) • final prototype, as well as any spare parts and supplies • software install, to be demonstrated on several machines • peer reviews • evidence of individual design contributions final reports should have a discussion of constraints that the team had to satisfy (e.g.
+coding, interfaces, safety)
+please use the templates available in the course website
+please run a spell check before submitting
+peer review 2 10 3/28 3/30 11 4/04 4/06 12 4/11 4/13 13 4/18 4/20 peer review 3 14 4/25 project demos 4/27 project demos 15 5/02 5/04 final presentations final report, and all deliverables optional course information items learning resources – the writing center is open and available to assist students this semester
+they can provide assistance on the written reports that are due throughout the class (proposal, cdr, final report)

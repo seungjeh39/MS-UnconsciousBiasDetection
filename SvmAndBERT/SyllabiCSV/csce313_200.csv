@@ -1,0 +1,24 @@
+id,keyword,location,text
+1,,,page 1 of 5 course syllabus 1 course information course number: csce 313-200 (honors) course title: introductio n to computer systems time: tr 3:55-5:10pm location: 126 hrbb credit hours: 4 lab time: f 8-10am lab location: 590 zach website: http://irl.cse.tamu.edu/courses/313
+2,,,piazza: http://piazza.com/tamu/spring2022/csce31320
+3,,,instructor details instructor: dmitri loguinov office: 209 petr phone: 979-845-0512 e-mail: dmitri@cse.tamu.ed
+4,,,office hours: tr 5:30-6:30pm ta: arif arman office: 211 petr e-mail: arman@tamu.ed
+5,,,"office hours: mw 12-1pm course description this class is covers common al gorithmic and implementation prob lems arising in operating systems, inter-process communi cation, multi-threading, synchron ization, memory management, process scheduling, and la rge-scale file i/o"
+6,,,"course prerequisites csce 312 (computer organization), csce 222 (discrete structures for computing), csce 221 (data structures and algorithms ), csce 113 (intermediate progra mming and design), and knowledge of c/c++, debugging, and pointers"
+7,,,"course learning outcomes at the end of the semester, the s tudents will obtain experience with basic operating-system functionality, multi-threadi ng, synchronization, file i/o, virt ual memory, and c/c++ system apis"
+8,,,page 2 of 5 course syllabus textbook and/or resource materials w
+9,,,"stallings, “operating systems: internals and design principl es,” pearson, 9th edition, 2017"
+10,,,"grading policy a: 90-100%, b: 80-89%, c: 70- 79%, d: 60-69%, f: 0-59% assignment qty format percent of final grade homework 4 implementation and report 40% (10% each) midterms 3 closed-book 45% (15% each) quizzes 3 closed-book 15% (5% each) late work policy homework submissions are due at 10 am"
+11,,,late homework is accepta ble with a penalty of 20% of the original grade per day (no poi nts after 5 days)
+12,,,delays are rounded up to the nearest full day
+13,,,"example: your homework scores 76 points, but is 28 hours late"
+14,,,your sc ore is then reduced by 40 points and becomes 36
+15,,,"homework each homework must be accompanied by a written report (if there are multiple parts in the homework, the report applies on ly to the last part) describing your implementation and showing the performance analysis requested in the handout"
+16,,,"write in as much detail as possible, explain the various observations, and comment on the sanity of obtained results"
+17,,,this course assumes independent work on each assignment
+18,,,all submissions must be original and developed from scratch
+19,,,"you may not copy any part of other students’ work, no matter how short , or material found online unle ss explicitly allowed by the ins tructor"
+20,,,"in particular, no team work is allowed"
+21,,,"if external sources are used, even with modification or adaptation , they must be clearly acknowledged in the submission"
+22,,,"if unsure, check with t he instructor ahead of time"
+23,,,"any academic dishonesty, including cheating and plagiarism, will re sult in an f* for the course and may lead to expulsion from the university"

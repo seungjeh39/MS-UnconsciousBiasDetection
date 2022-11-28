@@ -1,0 +1,10 @@
+ syllabus csce 110 programming i sections 596 - 599 spring 2022 instructor ki hwan yum office: 216 peterson phone: email: yum at cse dot tamu dot edu office hours: m 11:00 am – 12:00 pm, r 1:00 pm – 2:00 pm, or by appointment zoom link: https://tamu.zoom.us/j/49210279
+labs: section 596 mw 8:00 am – 8:50 am zach 592 section 597 mw 9:10 am – 10:00 pm zach 592 section 598 mw 10:20 am – 11:10 am zach 592 section 599 mw 11:30 am –12:20 pm zach 595 teaching assistant prajwal das office hours (online): tr 12:40 pm – 1:40 pm link: https://tamu.zoom.us/j/94806341298?pwd=qu9tnuvlsjnxbhc0nkjyynbhtzm2zz0
+no prior experience in programming is necessary
+students will use their problem-solving abilities to implement programs in python
+- be comfortable with the fact that there is more than one right solution to a problem
+- course topics : the major topics that will be covered during the 15 week semester are as follows
+• think python 2nd edition by allen b
+downey http://greenteapress.com/wp/think-python-2e
+• fundamentals of python first programs 2nd edition by kenneth a
+lambert also check https://www.facultybookshelf.org/course/2449

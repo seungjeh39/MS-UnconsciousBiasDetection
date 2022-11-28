@@ -1,0 +1,80 @@
+ lecture s (online -asynchronous ): canvas modules b
+labs (in-person) : various (refer to howdy for your section) 2
+) 3
+course discussion forum : ms teams : team - csce -313 sp22
+4
+office hours : will be posted on canvas and teams 5
+undergraduate ta’s will work behind the scene on lab content creation and qna 
+graders will take the frontline role in grading the programming assignments and quiz/exams 
+gabriel stella gabrielrstella@tamu.ed
+feras khemakhem foufou1560@tamu.ed
+iii
+mary julian mjulian@tamu.ed
+b
+ezekiel blevins ezeb209@tamu.ed
+a baseline r0 version of the course master plan is made available on canvas
+prerequisites • csce 312 (computer organization) • familiarity with c/c++ programming (csce 121, csce 221) description the objective of this course is to provide us with a general understanding of what system software is involved for an application program to run, both on a single node and over a network, and how this system software is to be used
+in support of this objective , the course will prepare us to do system -level programming
+this course will demonstrate how to "use" (as opposed to "design") system components, such as memory, file systems, process control, inter -process communication, and networking
+by the end of this course, we will have an understanding o f the problems and pitfalls typically encountered in the design and implementation of multithreaded and networked applications and systems
+w e will review the following aspects of a computer system, in no particular order: • what is an operating system; what are its components ; why system calls? • execution of a program; function calls; interrupts
+• the os application interface; file system; process control; etc
+• inter -process communication • concurr ency, threads, process/thread synchronization • network socket programming • principles and practices for s ecure computing 
+security threats in centralized and distributed systems; authentication, authorization, confidentiality; security mechanisms
+[available online free here ] • secondary o [apue ] advanced programming in the unix environment, 3rd edition, w
+rago, addison -wesley pr ofessional computing series, 2013
+o [molay ] understanding unix/linux programming : a guide to theory and practice, bruce molay, pearson education inc.
+2003 other interesting reading s • computer systems o [csapp ] computer systems: a programmer's perspective , 3rd edition, randal e
+o'hallaron , prentice hall, 201 6
+• operating systems o [osc] operating system concepts , 10th edition, silberschatz, galvin, gagne, john wile y and sons, inc
+2021 lectures lectures will be remote -asynchronous meaning the lecture content will be released on canvas weekly according to the master schedule
+barring exception, effort will be made to release weekly content on the weekend in case you have discretionary time to read ahead
+during lectures we will be covering operating systems and systems programming concepts and case studies
+the material covered in the lectures will provide the background and foundation for you to appreciate the lab exercises designed to buttress lecture concepts an d to prepare to succeed in programming assignments 
+quizzes quizzes will be ‘take -home’ format offered on canvas , and aligned with key topic learnings
+in most cases, quizzes will be online short format, multiple choice type of questions to test basic understanding of concepts presented during the lectures
+labs labs will be held in-person, face -2-face
+labs are where we will pu t into practice the material learned in the lectures, and where we will acquire a working knowledge of the unix /linux operating system 
+labs will meet twice weekly (tr for sections 500 -507 and two back -2-back sessions on friday for sections 597-599) where we will be presenting a new problem to motivate learning and facilitat e skill-building 
+after an introductory session to familiarize you with the particular environment that we will be using, there will be a continuing series of lab exercise s and programming assignments of moderate difficulty level , which will exercise different parts of the operating system: process and thread management, inter -process communication, networked execution, and so on
+we will kick -off the course with pa0 which is a simple, warm -up exercise in c++
+the master -plan contains the details
+lab attendance is critical to ensure you understand the problem, actively hash the problem out with your classmates , and clarify with lab ta ’s and pt’s 
+assessment method (subject to minor changes!) : the course will have two exams and a series of quizzes and programming assignments 
+the grade allocation is as follows: 1
+programming assignments = 54% (each project is 9% of the grade) 3
+see university policy for details
+• quizzes : online on canvas
+late submissions will not be accepted without prior e - mail approval from the instructor
+for the programming assignments, we are attempting something new for the late submission policy
+philosophy : we all have varying working habits - some start early, some wait till the last minute
+in addition, this course is typically paired with csce -315 which is also project intensive
+so, we are planning to adopt a policy that accommodates the unknowns to some extent and also gives you the flexibility to respond to peaks and troughs in your enrolled course schedules : early turnin wins credit, late turnins earn penalty but can use earned c redits to offset the penalty 
+in the end, the overall accrued credit/ penalty is applied on the sum total which is then scaled
+a separate document describing the policy in detail with examples will be made available on canvas
+communication policy your teaching staff will do their best to communicate relevant administrative information (deadlines, information about posted material, details about projects, locations of tutorials, and so on) in an effective and timely manner
+we will be using microsoft teams platform for all course communication
+it contains simple steps to install teams and sign on to our course teams site
+at times, reinforcement messages may also be sent via canvas, but our discussion forum is ms teams
+e-mails listed on course roster are used for enrollment in canvas and teams 
+if you are not receiving teams or canvas updates, please contact the instructor
+your ta’s will conduct labs (graduate ta’s) , answer queries on pa’s, lab exercises, and lab quizzes, provide code qualit y feedback for pa submissions
+your graders will not directly interface with you in labs but will work behind the scene in grading programming assignments, and quizzes/exams per discretion of your instructor
+as a general policy, i am asking the ta’s to not assist with debugging student code
+it is both counter -productive to student learning and extremely stressful for the t eaching staff
+they will expend much of the feedback in providing a clear understanding of the programming assignment expectations and common best practices
+course acknowledgments lecture content : the course website and lecture notes have incorporated c ourse materials developed by dr
+sarker tanzir ahmed, and dr
+lawrence angrave (uiuc), dr
+thomas anderson (uw), dr
+kuenning (hmc), dr
+the copyright of these materials belongs to them
+the instructor is especially grateful to drs
+programming assignment content : pa’s have gone through evolution in the last several years
+original programming assignments were created under the auspices of professors riccardo bettati and guofei gu
+the instructor (tyagi) taught this course between 2014 -2016
+sarker tanzir ahmed to create a new set of programming assignments in addition to revising the existing ones
+the resulti ng set of programming assignments was piloted by prof
+both the instructor and prof
+ahmed are grateful for their contributions and honor their lasting legacy toward the benefit of the cse student community
+doing so exemplifies the aggie core values of respect, leadership, integrity, and selfless service by putting community concerns above individual preferences

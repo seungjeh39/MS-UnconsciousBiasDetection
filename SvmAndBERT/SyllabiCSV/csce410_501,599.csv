@@ -1,0 +1,65 @@
+id,keyword,location,text
+1,,,"course syllabus page 1 of 7 course information course number: csce410/611 course title: operating systems sections: 410-501, 410-599, 611-600 time: tuesday / thursday 11:10 am – 12:25 pm location: zachary 244 credit hours: 3 instructor details instructor: hamilton office: peterson 223 phone: 979-845-2758 e-mail: hamilton@tamu.ed"
+2,,,office hours: by appointment contact jennifer cutler at jenniferjoe@tamu.ed
+3,,,course description this course gives an overview of the general architecture and the most important components of modern operating systems
+4,,,"the student will leverage knowledge acquired in previous courses on computer architecture and computer systems to understand (and to some level implement) aspects of operating systems, such as memory management, persistent storage and file systems, threading, scheduling, and resource management in general"
+5,,,the student will understand fundamental approaches to virtualization and what it takes to build a distributed system
+6,,,"the course will cover general aspects, realization approaches, and case studies"
+7,,,"in addition, the student will implement a simple operating system that will be able to boot and run on a bare pc"
+8,,,"course prerequisites prerequisites for this course are a course in computer organization or computer architecture (csce 312 or ecen 350) and a course on computer systems (csce 313), or equivalent"
+9,,,"in particular, the course assumes (a) some understanding with interrupts from a hardware perspective, (b) some familiarity with low-level programming with some instruction set and (c) some understanding of the theory and practice of multithreaded programming and synchronization"
+10,,,special course designation this is a stacked course
+11,,,graduate student should expect to be assigned some amount of additional work
+12,,,"course learning outcomes • describe the role, the architecture, and the major components of an operating system"
+13,,,• describe the role and operation of exception and interrupt handling
+14,,,• implement a virtual memory manager for a paged system
+15,,,• describe and compare various forms of concurrency mechanisms
+16,,,"• describe and compare various synchronization mechanisms, both for single-processor and multiprocessor systems"
+17,,,• implement a kernel-level threading system for a single-processor system
+18,,,• implement a simple device driver
+19,,,• implement a simple file system
+20,,,• describe the motivation for virtualization
+21,,,course syllabus page 2 of 7 • describe and compare the various virtualization approaches and their effect on system performance
+22,,,"• practical exercise on operating system hardening using the texas cyber range • practical exercise on operating system administration using the texas cyber range textbook and/or resource materials • operating system concepts 9th or 10th edition, by silberschatz, galvin, gagne, john wiley & sons, inc."
+23,,,"new york, 2012, isbn-13: 978-1118063330"
+24,,,(any recent edition will be fine
+25,,,reading assignments in the course will use the chapter numberings from the 9th and 10th edition
+26,,,"if you use an earlier textbook, you will have to map the chapters to your edition."
+27,,,• operating systems: three easy pieces by remzi and andrea arpaci-dusseau
+28,,,this book is available for free in pdf form
+29,,,it can also be purchased as hardcopy
+30,,,"grading policy event undergraduate points graduate points examination 1 150 150 examination 2 200 200 examination 3 250 250 homework (5) 150 100 project 1 125 100 project 2 125 100 project 3 not required 100 total 1000 1000 a = 900 points or more b = 800 – 899 points c = 700 – 799 points d = 600 – 699 points f = 599 points or less assignment submissions homework assignments, projects and take-home exams will be posted and submitted on canvas"
+31,,,it is the student's responsibility to make sure that the correct assignment is submitted to the correct place
+32,,,"also, canvas submissions may look completed when they actually are not"
+33,,,it is the student's responsibility to make sure that the submission process is completed
+34,,,it is best to download the submission and to confirm that the submission stored on canvas is the intended one
+35,,,under no circumstances will the instructor team consider material that has not been part of the original submission
+36,,,"if a student wants to add to or correct submitted files because they noticed that the original submission was wrong or incomplete, they can do this, but this will be considered as a new submission, and any late penalty will apply"
+37,,,"the instructor and the ta's will not consider non-submitted material, and they will not consider the file timestamps (as opposed to submission timestamps) as indication of completion of the assignment"
+38,,,(time stamps of files can be easily tampered with and will therefore not be considered.
+39,,,course syllabus page 3 of 7 late work policy a full letter grade cut will be imposed for every 24 hours (excluding weekends but including holidays) that an assignment is late
+40,,,"after 96 hours, the assignment will receive no credit"
+41,,,up to 24 hours late 1 letter grade reduction 24 - 48 hours late 2 letter grade reduction 48 - 72 hours late 3 letter grade reduction 72 - 96 hours late 4 letter grade reduction 96 – 120 hours late f grade with some points more than 120 hours late f grade with 0 points work submitted by a student as makeup work for an excused absence is not considered late work and is exempted from the late work policy
+42,,,"(reference student rule 7) honor and documentation of submitted work documentation of project assistance: assistance for all help, with the exception of syntax error resolution, must be acknowledged and placed at each specific location in the source code or documentation where assistance was received"
+43,,,"note that “assistance” is restricted to “advice,” not “keying in the corrections for someone else."
+44,,,"no student may make changes of any kind (keyboard, mouse action, etc) to another student’s program"
+45,,,"if you need further clarification, ask your instructor before submitting the project"
+46,,,examination resources: all examinations in this course will be open book and open note
+47,,,you may bring and use any written references to the exams
+48,,,"the use of the textbook’s solution manual in any form, bound, copied or electronic is forbidden"
+49,,,"the use of any electronic devices such as laptops, pdas, calculators, etc"
+50,,,is also forbidden
+51,,,student honor and academic integrity issues the policies of the student honor code concerning electronic copying of individual work apply to the programming assignments in this class
+52,,,"in general, a student must personally enter (via the keyboard) all work submitted under his/her own name"
+53,,,submission of individual work that was created by another student and subsequently transferred (using any automated transfer facilities) to the submitting student's account is prohibited
+54,,,"software reuse, as described below, is permitted and will not be considered a violation of the ""electronic copying"" prohibition"
+55,,,electronic transfer of portions of formal (i.e.
+56,,,instructor-designated) group projects among members of that group is also permitted
+57,,,any output files submitted as part of a programming project must have been generated by that program
+58,,,"editing of output files or submission of ""output files"" created by an editor, rather than being generated by the program, is clearly contrary to expectations and may very likely constitute an attempt to deceive, i.e"
+59,,,cheating
+60,,,"course syllabus page 4 of 7 software reuse: accordingly, unless otherwise instructed, reusable software components may be acquired from a variety of free software repositories available on the internet"
+61,,,"this type of ""electronic copying"" is acceptable; you simply need to document the source for the reusable software component and the method in which it was obtained"
+62,,,you will not be penalized for reusing this type of “library” source code
+63,,,"note, however, that other student accounts are not ""free software repositories,"" and reusing code from another student is strictly prohibited"
+64,,,"also note that, while you may find useful small pieces of a program in a free software repository, you should expect to develop the majority of the code used in these projects yourself"

@@ -1,0 +1,29 @@
+ course syllabus page 1 of 8 course information course number: csce 451 course title: software reverse engineering (reen) section: tbd time: tbd location: hrbb 113 credit hours: 3 instructor details instructor: jyh-charn liu office: petr 435 phone: 979-845-8739 e-mail: liu@cse.tamu.ed
+students are required to learn about the basics of legality and ethics of software reversing
+learning about hacking practices is essential to build defensive software systems, but misuse of the skills in the real -world environment can have serious legal consequences
+re related laws differ greatly in different countr ies, region s, and types of activities
+students are advised to take great cautions in their conducts
+course prerequisites ● minimal requirement: csce 313, or instructor’s approval
+students must be proficient in common hll languages, programming, and common microprocessor architecture(s)
+● jr/sr classification, but exception can be made per instructor’s ap proval
+students are advised to weigh their overall workload in taking this course
+special course designation n/a course learning outcomes at end of the class, students should be proficient in the following aspects
+ survey of re resources  validation of disassembler outcomes
+ gain knowledge on anti -analysis techniques to protect binaries
+textbook and/or resource materials ● none required ● reference books (not exclusive) ● assembly language for intel based computers, by irvine ● the ida pro book, by chris eagle ● reverse engineering, secret of reverse engineering, by eldad eilam ● practical malware analysis, by m
+sikorski and a
+honig ● open literature, vendors technical information (intel, microsoft) ● a laptop computer with sufficient performance to run a designated linux virtual machine, compilers and re tools
+the laptop should also have large hdd space and main memory
+past experience suggests that common laptops would be usable for class activities, but lack of computing resources can significantly affect the productivity or even classwork outcomes
+linux and compilers , various utility tools grading policy • labs, exercises, assignments 40% • tests 40% course syllabus page 3 of 8 • final project 20% • the grading scale : by numerical ranking of total scores
+● if there is a project partner dispute, it is critical to report the issue quickly to the instructor or ta
+otherwise, you share grade consequences if the issues contribute to a poor grade
+in most cases, you are encouraged to discuss assignments, but the final product submitted for grade must be the individual work of the person turning it in 
+when doing so, it is a must to have full disclosure prior reporting results
+claiming credit without s uch disclosure will be considered cheating
+graded attendance – ● all absences from graded activities – tests, quizzes and some timed lab exercises require prior approval of the instructor
+students without prior absence approval may be allow ed to make up the missing activity with 2 5% or more grade penalty
+● students are responsible for any missed materials
+● university excused absence are defined by student rule 7; see http://student - rules.tamu.edu/rule07
+● if advance notification is not possible (e.g
+late work policy • late work will be accepted up to one day late with a 25% penalty 

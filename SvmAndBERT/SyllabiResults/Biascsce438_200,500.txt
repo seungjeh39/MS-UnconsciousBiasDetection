@@ -1,0 +1,8 @@
+ prerequisites: csce 313 and senior/junior classification, or approval of instructor
+learning outcomes or course objectives at the end of this course, you will understand the following aspects of a distributed system, in no particular order: ● implement and structure distributed systems programs ● write programs that can interoperate using well-defined protocols ● use standard network communication primitives such as udp and tcp ● employ and create common paradigms for easing the task of distributed systems programming
+instructors information name radu stoleru telephone number (979) 862-8349 email address stoleru@cse.tamu.ed
+office hours m: 12:00pm – 2:00pm or by appointment office location petr 324 or zoom: https://tamu.zoom.us/j/751348290
+teaching assistant sherine kozhikadan email address skozhika@tamu.ed
+textbook and/or resource material maarten van steen, andrew s
+2020
+grading policies quizzes: 25% machine problems: 30% (csce 438h students: 25%) midterm exam: 20% final exam: 25% 438h report (only students in csce 438h): 5% !"#$%&'()*%$+,'-#$.)--$/#0$1$2$345$6$7$2$845$6$9$2$:45$6$;$2$<45$6$=

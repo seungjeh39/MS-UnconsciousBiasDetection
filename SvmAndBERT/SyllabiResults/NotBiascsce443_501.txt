@@ -1,0 +1,22 @@
+ course description aesthetic and technical aspects of computer game development, including game mechanics, story development, content creation and game programming; includes game design, interface design, 3d modeling and animation, graphics algorithms, shader programming and artificial intelligence; group project includes the design and development of a game from start to finish
+during this course students will become familiar with the game development process as it applies in game development companies
+the course is structured around the development of a core game, while many prototypes are being developed to prove out theories, assumptions, playability and fun factor
+at the end of the course students will have created a playable demo
+understand the development process for game play, game mechanics and game ai 3
+implement a variety of prototypes 4
+create game content 5
+critique different project management strategies textbook and/or resource materials handouts as provided remote engagement expectations (in case it is required) • students are engaged during the designated class time
+this is not a self -paced course
+• students will actively engage in discussion, online chats, polls, and other activities throughout the entire class session during all remote sessions
+any activities conducted during class will count toward participation points
+• all visible aspects of the s tudent require full clothing (e.g
+• students’ faces will be visible
+cameras turned on • in-class activities that result in participation points cannot be made -up
+the instructor's qualitative judgment of the student's in- class participation will include such factors as attendance, preparation, engagement, professional demeanor, and informed contribution to discussions and critique sessions
+the scores noted below are relative to a 100 point assignment
+d: 60 - 69: the work has problems in two or more major areas; skill and problem development is marginal or incomplete; the project lacks imagination and/or design/artistic potential
+c: 70 – 79: the student has completed the basic assignment, but the work lacks depth of understanding; some aspects are not completely satisfied and the work contains little promise even though most issues have been addressed
+graded class participation as an aide to understanding the method by which your class participation is evaluated, read the following carefully
+c: 70 – 79: the student is occasionally absent or significantly late to class; is inconsistently prepared for class; is sometimes a willing participant and responsive to questions; infrequen tly exhibits unprofessional and/or disruptive behavior; inconsistently offers considered opinions, researched information, and constructive criticism
+course schedule all classes will take place live in langford c 109 at the scheduled class time
+week topic due dates 1 introduction to the course & game development framework 2 prototype development 3 game flow, look and feel m 1 4 game play 5 game play 6 game mechanics m 2 7 screen flow 8 screen development 9 game levels 10 interface & game systems m 3 11 game ai 12 game tech 13 game art 14 management – budget, schedule, risks 15 testing, localization m 4 course evaluations each student must complete on -line evaluations of the professor and the class

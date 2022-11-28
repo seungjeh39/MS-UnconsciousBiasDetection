@@ -1,0 +1,38 @@
+id,keyword,location,text
+1,,,"9/15/22, 3:51 pm cpsc 445: computers and new media https://people.eng"
+2,,,.tamu.edu/shipman/courses/cnm/home-ug.htm
+3,,,"1/3cpsc 445: computers and new media spring semester , 2022 time and place: t/th 9:35 - 10:50 am, hrbb 124 instructors: dr"
+4,,,"frank shipman office hours: pete 335, tba, or by appointment students there may be students from technical and non-technical disciplines in this course"
+5,,,projects and assignments are designed such that each student can show of f their own skills
+6,,,programming and software development is part of the group projects so it is recommended that students from outside of computer science join project teams with students from computer science
+7,,,list of students in class course description this class investigates three topics related to computational media: (1) how do interactive media change the authoring and consumption of stories/narratives? (2) what are the techniques and interfaces used to interact with content in a variety of media? (3) how does networked access and authoring of media content change our views of ownership and intellectual property? these topics will be discussed at both a conceptual and tool level
+8,,,"by the end of the course, you will be able to look at an existing system or design a new system with an understanding of the impact it may have on communication and storytelling"
+9,,,"prerequisites students should have a basic knowledge of computing and the humanities, and either the ability to program complex systems or able to learn new software tools on their own"
+10,,,ask instructor if you have any questions
+11,,,reading materials reading schedule this course will focus around discussions of the readings
+12,,,"we will read two books and assorted papers taken from a variety of conferences and journals concerning human-computer interaction, hypertext, media studies, and computers and the humanities"
+13,,,"books: hamlet on the holodeck: the future of narrative in cyberspace , by janet murray , book the public domain: enclosing the commons of the mind , by james boyle, book selected papers: the following links require access to the acm digital library "
+14,,,access to acm digital library is available from on-campus computers
+15,,,"9/15/22, 3:51 pm cpsc 445: computers and new media https://people.eng"
+16,,,.tamu.edu/shipman/courses/cnm/home-ug.htm
+17,,,"2/3grading short assignments 10% class participation 10% team project 40% write-ups/quizzes 40% grades will be on a 10 point scale: 90-100 = a, 80-89 = b, 70-79 = c, 60-69 = d, and <60 = f"
+18,,,short assignments list of assignments
+19,,,there will be a number of assignments due in class
+20,,,"these assignments may require use of specific software outside of class time and will take the form of short essays, written answers to questions, and design documents"
+21,,,all material turned in should be printed using a computer printer or typed except when noted otherwise
+22,,,homework late policy: 10% is deducted from your grade for every school day late up to a maximum of one week after the original due date
+23,,,class participation most class periods will include a discussion of reading materials
+24,,,all students are expected to have done the readings and be able to participate in discussions
+25,,,project students will form three- to five-person teams and define a semester project or select one from a list of existing ideas
+26,,,"there will be three preliminary progress reports for the projects emphasizing particular phases of the interface design process: (1) identifying a topic, determining cognitive and social issues, and determining an approach, (template for slides ) (2) creating an initial system design and mock-up, ( template for slides ) and (3) instantiating the design in a prototype implementation (template for slides )"
+27,,,the final project report (8-12 pages in the old acm conference format ) will also require the design of an evaluation procedure for refining the resulting interface
+28,,,the in-class presentations of project progress will be about 4 minutes long and the final presentation on the project will be approximately 15 minutes long and include all members of the team
+29,,,project grades will be determined by both the instructor's review of the project and student's description of their and other member's work
+30,,,programming for projects: done in language and operating system of your choice on machines to which you have access
+31,,,"general note on assignments 9/15/22, 3:51 pm cpsc 445: computers and new media https://people.eng"
+32,,,.tamu.edu/shipman/courses/cnm/home-ug.htm
+33,,,3/3important: all reports are to be printed on a word processor or typed (no handwritten assignments will be accepted)
+34,,,all writing should be the work of the student -- any text taken from other sources needs to be quoted and referenced
+35,,,it is expected that students will correct grammar and spelling -- these are grounds to deduct from your grade
+36,,,(i.e
+37,,,use a spelling checker and reread what you write before turning it in.

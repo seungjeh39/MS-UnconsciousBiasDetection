@@ -1,0 +1,13 @@
+ lectures: mwf 3:00 pm – 3:50 pm online zoom link: https://tamu.zoom.us/j/70908334
+email: prajwaldas95 at tamu dot edu peer teachers section 596 irene masabarakiza section 597 mohona ghosh section 598 hunter baker section 599 isabel fernandez visit https://engineering.tamu.edu/cse/academics/peer-teachers/current-peer-teachers.htm
+for detailed information course description : this is an introductory course designed for any student interested in using computation to enhance their problem-solving abilities
+learning objectives - develop a basic understanding of programming and the python programming language
+- see the value of programming in a variety of different disciplines—especially as it relates to your other college courses
+- appreciate the value of experimentation
+course material and announcements - class lectures: the material that you will need for this class will be presented in the online class lecture
+thus, it is extremely important that you attend every class
+- canvas: course announcements, lecture materials, and class handouts can be found on canvas
+you are responsible for consulting canvas regularly for course updates
+each topic will be explored with numerous in-class examples followed by practice with lab assignments
+• what is programming? why is it important? • simple input/output (input, print) • variables and expressions • collective data structures (strings, lists, tuples, sets, dictionaries) • decision-making statements (if, if/else, if/elif/else) • repetition / loops (while, for) • randomness • functions • simulation • file-processing • binary numbers • visualization (turtle) required text : there is no textbook for this course
+however, there are many good references that are available online that you may find helpful while studying the material

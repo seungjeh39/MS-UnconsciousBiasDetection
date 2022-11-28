@@ -1,0 +1,21 @@
+ we do not expect any background knowledge in quantum computing nor in quantum physics
+you should know how to multiply a matrix with a vector, but the most important prerequisite is simply an open mind
+course learning outcomes at the end of this course, students should understand the basics of the quantum circuit model, be able to understand fundamental quantum algorithm s, and ways to protect quantum information
+kaye, r
+laflamme, and m
+recommended (for a more in depth study): m
+nielsen and i
+resou rces: https://canvas.tamu.ed
+csce 640 students will be expected to solve some slightly more challenging homework problems
+final grades will be assigned according to this scale: a: 90 and above, b: [80,90), c: [70,80), d:[60,70), f: below 60 a slight curve might be applied if the course average is low
+• work submitted by a student as makeup work for an excused absence is not considered late work and is exempted from the late work policy
+(see student rule 7 .
+regarding policy a student can request r egrading of any graded material if the student believes that the points assigned are inconsistent with the quality and merits of the submitted work
+to request re -grading the student needs to follow the guidelines below: 1
+regrading requests must be submitt ed to the instructor within one week after the graded item has been returned to the student
+regrading requests must be in written form, accompanied by a reasonable amount of specific justificat ion and documentation
+page 3 of 5 course schedule tentative course schedule: week 1 ( 1/18-) introduction , quantum cryptography week 2 ( 1/24-) quantum gates week 3 ( 1/31 -) quantum circuits week 4 ( 2/7-) quantum search week 5 ( 2/14-) quantum counting week 6 ( 2/21-) simon’s algorithm week 7 ( 2/28) midterm (3/1), factoring week 8 ( 3/7-) factoring week 9 ( 3/15) spring break week 10 ( 3/21-) quantum complexity week 11 ( 3/28-) quantum communication week 12 (4/4-) quantum codes week 13 (4/11-) fault tolerance week 14 (4/18-) project presentations week 15 (4/26-) project presentations exam and final project midterm exam : thursday, march 1, in class final project: the final project consists of writing a term paper and a presentation
+lectures and more all course information can be found on canvas 
+in your csce 4 40/640 section on canvas , navigate to the “lectures and more” tab on the sidebar for the most important information concerning lectures, quizzes, exams, reading assignments, etc
+you should also check your course announcements daily 
+it is strongly recommended that you keep up wit h the course material and do not fall behind

@@ -1,0 +1,42 @@
+ hours:by appointment instructor:brian beamse-mail:brianmbeams@gmail.comoffic
+hours:by appointment instructor of record:emma mclauchlane-mail:emma.mclauchlan@tamu.eduoffic
+hours:by appointment teaching assistant:brett dishonghe-mail:brett.michael29@tamu.eduoffic
+virtual reality includes interactive 3dvirtual environments that take advantage of immersive technology to provide enhanced perceptualrealism and an embodied interaction experience
+the course aims to provide an overview of vr withtopics including input devices, output devices, 3d interaction techniques, augmented reality, the role ofrealism in vr, navigation techniques, design guidelines, and evaluation methods
+students will gainhands-on experience designing vr experiences emphasizing application, demonstration, or researchpurposes
+for the final project in this course, students will be introduced to concepts in sustainability, and how touse interactive technology to educate and inform people’s idea of sustainable practices in their own lifeand society
+students will work on a series of individual activities as well as work as a team to create alarge-scale group activity, which will focus on the creation and analysis of interactive art projects in theform of a fully realized vr project
+with graphical and visualization tools, frameworks, and libraries (e.g.
+special course designation this is cross-listed and stacked which means it is both in department of visualization and computerscience and has both undergraduate and graduate students
+critique, and present work in a productive and effective manner using appropriateterminology
+textbook and/or resource materials reading and viewing assignments will be given from articles and research papers that are availablethrough the university
+recommended: 3d user interfaces: theory and practice (2nd edition)
+poupyrev
+isbn-10: 0134034325 page2of9 course s yllabus course structure students enrolled in virtual reality (vist 477, viza 677, csce 446, csce 650) will have both individual and group activities
+the individual activities will be in the form of in-class presentations and writing assignments which will inform, and be informed by, the group activities, which will be the backbone of the course
+the group activities will account for much of the work in the course
+these are graded separately from group activities
+these will include: ● quizzes and exams ● in-class presentations ● written analysis of readings and other materials all individual activities will be weighted equally with each other
+quizzes and exams there will be exams and quizzes given via canvas throughout the semester
+these will be on topics covered in class during lectures, readings, and other assigned materials
+in-class presentations students will have assignments that will require them to present on a topic during class
+the presenting students will then be asked to help lead discussions on that topic
+written analysis students may be given written assignments to be submitted on canvas
+using the discussion sections on canvas, students will have homework assignments where they are asked to reﬂect on and analyze a paper, web article, or video
+group activities students will work in teams to create a vr project from start to finish
+there will be periods of the class where students are expected to work on their projects, even if nothing is explicitlyassigned for any given class day
+students are expected to show up to class with progress reports during thesecourse dates
+final deliverables for the group project ●1 design document ●1 vr project, compiled to an executable ●1 final documentation video ●1 research paper vr demo times (outside of lectures) students are encouraged to schedule time outside of class to explore vr projects in the virl lab
+if students have their own vr setup, they are allowed to use that at home
+grading policy to aid in understanding the method by which your project assignments are evaluated, read thefollowing carefully
+the project lacks imagination and/or design potential
+c: 70 -79:the student has solved the problem, butthe solution lacks depth of understanding; someprogram goals are not completely satisfied and the solution contains little promise even though mostissues have been addressed
+b: 80 -89:the student work shows imagination andpotential
+there are no majorissues that would require a total redesign of the project
+a: 90- 100:the student work has imagination and thesolutions to the problems show understanding andthought
+the problem solution is highly developed and well presented; the entire assignment showsdepth and breadth and is well coordinated
+peer evaluation the final group project will be turned in with peer evaluation forms
+students will give themselves andeach other scores on the following criteria: 1
+reliable for meetings2
+conducts research4
+course schedule class attendance is expected

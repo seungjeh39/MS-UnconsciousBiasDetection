@@ -1,0 +1,17 @@
+ course prerequisites prerequisite is csce 113 or csce 121 as well as honors eligibility
+corequisite is csce 222 / ecen 222 (that is, you must have already taken this course or be taking it this semester)
+course learning outcomes at the end of the semester, the student should be fluent in the use of the basic data structures and their associated algorithms; be familiar with the performance tradeoffs of different implementations of the data structures; understand and apply the principles of abstraction, modularity, and information hiding; appreciate and adhere to good software development practices; and be able to program competently in the subset of c++ covered in the course
+isbn: 978-0132847377
+(links to an external site.)
+two lowest grades will be dropped) • 30% lab programming assignments (5 approx.
+• 10% culture report (written report and oral presentation) • 5% participation (class discussion, etc.
+course grades will be assigned according to this scale: % total points 90–100 80–89 70–79 60–69 < 60 letter grade a b c d f late work policy 10% of the maximum possible points will be deducted for each 24 hours that an assignment is late
+for example, if the assignment is due at midnight on sep 1, and you turn it in any time on sep 2, 10% of the maximum points will be deducted; if you turn it in any time on sep 3, 20% of the maximum points will be deducted; etc
+once solutions have been discussed or handed out, the assignment will not be accepted (grade of 0)
+make-up assignments will only be available for university-excused absences; see student rule 7, attendance ( http://student-rules.tamu.edu/rule07link
+to an external site.)
+since your lowest two quiz grades will be dropped, a make-up quiz will only be available if you have three or more excused absences on quiz days
+course schedule approximate course schedule approx
+week of lecture topic lab topic textbook 1: jan 18 introduction c++ review chap
+2 3: jan 31 lists pointers chap
+3 5: feb 14 trees measuring code running time chap

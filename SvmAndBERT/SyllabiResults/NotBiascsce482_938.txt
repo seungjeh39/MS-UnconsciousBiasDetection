@@ -1,0 +1,176 @@
+ course s yllabus csce 482-932, senior capstone designinstructor tracy hammond, ta adrita anika course ov ervieweffective design requires identifying the “right” problem to solve, building components that meet thatproblem’s needs, and integrating components into a single solution system
+as problems become morechallenging, solid design, follow through, and teamwork skills become necessary to developing asolution
+you will work in groups of 4-5 people to complete a significant engineering design project
+every projectrequires complete implementation, documentation, evaluation, and demonstration of a computingsystem design
+the focus is not only on the final product but also on design methodology, managementprocess, and teamwork
+at the end of the semester, each group will make a public presentationdescribing and demonstrating their work
+this course offers you a unique learning experience
+●this is an opportunity for you to try to solve a problem that matters to you.thi
+course givesyou a lot of freedom and choice in your semester-long project
+this course can be the first steptowards moving to the career of your choice
+●building a system from start to finish is fun and rewarding.student
+often tell me that this wasthe greatest experience of their entire college career
+●working on teams can be messy, but it’s worth it.i
+is amazing what you can accomplishtogether, so much more than on your own
+working on real problems with real people has itschallenges, but it is also very rewarding when you successfully complete your goals
+●every semester is different, every team is different, every solution is different.ther
+is alwayssomething new to learn and innovate
+●smaller class sizes and weekly meetings allow you to connectwith your classmates and yourinstructor
+page1of15 course s yllabus course expectations inclusion statementin this class, we are committed to a culture of inclusivity
+we reject and condemn all forms of racism,discrimination, brutality, and violence
+said, “injusticeanywhere is a threat to justice everywhere.
+we also endeavor to make the coursematerials themselves inclusive and accessible, and we encourage you to contact the ta or instructor ifyou have any concerns or questions regarding class materials
+about working in teamsbecause your teammates' grades are so tightly coupled with your own dedication to the class, many ofthe assignments and rules are put in place to protect you and your teammates
+csce 482 is a project-oriented course aimed at developing system integration skills
+you will work ingroups of 4–5 people to complete a significant software design project
+every project requires you tocomplete implementation, documentation, evaluation, and demonstration of a software system
+thefocus is not only on the final product but also on design methodology, management process, andteamwork
+●scheduled meetings:schedule a weekly meeting withthe course instructor and the tas duringthe official class hours
+since theprojects will be student managed, the exact nature and style of these meetings is at the group’sdiscretion, e.g.
+division of tasks among group members.however
+the end of the semester, each group will make a public presentation describing and demonstratingtheir work
+these presentations are open to the university community
+page2of15 course s yllabus online elementswe will use canvas for course materials, assignments, and communication
+if remotelyattending for an approved reason, we will require attendees to have your video on with your face visible
+whilestudent rule 7, section 7.3.2.1
+●importance of attendance:not attending weekly meetingsharms the other members of yourgroup and makes it much more difficult for the instructor to assess your contributions to thegroup effort
+due to the unfortunate consequences and undue burden your frequent absenceswould have on the rest of the team,more than 5 unexcusedabsences is an automatic failure
+if you need to use a bio breakor step away briefly, you will need to communicate this with your team as long as an estimatewhen you will return
+justnote thathaving your video off will count as oneof your unexcused absences
+●absence and tardiness:failure to attend a meetingor late arrivals (more than 10 minutes late)will be reflected in your individual grade
+emergencies, however, do happen
+illness, job interviews out of town, death in the family,conference attendance, inclement weather or accidents for commuters, etc.
+●proper planning:if you know you are going to be lateor miss a class, please let the instructor and your teammates know,so that they may plan foryour absence and make the best use oftheir time
+e-mail account to send correspondence between yourself and theteaching team
+check your @tamu.ed
+email account daily
+to access course information, assignments, and yourgrades
+●have a public presence in the class
+hammondoffice:eabc 103e-mail:hammond@tamu.eduoffic
+sam:sjr45@tamu.eduoffic
+hours:in person after class and online by appointment course descriptionsenior capstone design is a project-based course to develop system integration skills for solvingreal-world problems in computer science; a significant team software project that integrates advancedconcepts across computer science specializations; projects require design, implementation,documentation and demonstration, as well as design methodology, management process and teamwork
+expected outcomesit is expected that successful participation in the course will allow you to demonstrate:1.analyze
+complex computing problem and toapplyprinciplesof computing and other relevantdisciplines to identify solutions.2.design
+implement and evaluatea computing-based solutionto meet a given set of computingrequirements in the context of the program's discipline.3.communicateeffectivel
+in a variety of professionalcontexts.4.recognizeprofessiona
+responsibilities andmake informedjudgementsin computing practicebased on legal and ethical principles.5.collaborateeffectivel
+science theory and software developmentfundamentals toproducecomputing-based solutions
+list of topics ●designing engineering problems ●using project management tools, e.g.
+gantt, trello, github, jira, etc
+don norman.(basicbook
+lencioni
+(jossey-bass, 2002).availabl
+free online at tamu libraries
+●design for electrical and computer engineers
+(mcgraw-hillscience, 2007)
+physical copy available at tamu libraries
+●technical material from the literature, manufacturers’ data sheets and user manuals
+page5of15 course s yllabus abet accreditationthe program is evaluated every year through the abet (accreditation board for engineering andtechnology) accreditation process
+this class is part of the holistic evaluation
+abet accreditationprovides assurance that a college or university program meets the quality standards of the profession forwhich that program prepares graduates
+your degree is a significant achievement and perhaps the largestinvestment you will make toward your future
+●establishes your eligibilityfor many federal studentloans, grants, and/or scholarships
+each of thoseskills will be evaluated by external industrial affiliate members during your final presentation
+grading p olicythe final grade you will receive in the class will bebased on points accumulatedduring the semester.thus
+both continued progress (the process) and the quality of your product (and other deliverables) willdetermine your grade
+although the bulk of your grade is based on the performance of your team,individual performance will also be gauged
+the following is the breakdown of the gradingpolicy
+quizzes:3% page6of15 course s yllabus 2.pee
+proposal:5%4.weekl
+reports:5%5.readin
+deliverables:5%8.projec
+testing:5%9.ir
+materials:5%10.use
+the lower weighted items will significantly help you succeed in yourhigher-weighted items
+daily quizzes (3%)every class (including the first class) will start with a 10-minute quiz
+the quizzes will include materialabout your assignments, questions about your design choices, and knowledge that you should havegained from your past computer science courses
+research has repeatedly shown that the act ofquizzing imparts more knowledge than lecturing or studying
+this course is your final course in your computerscience degree, and should provide you with the capability to put all of your skills together andcommunicate those capabilities effectively
+2
+peer feedback (2%)peer feedback is crucial
+you will be asked to givefeedback to your peers regularly throughout the semester
+this includes feedback on their presentations,their proposal ideas, and their written work
+3
+project proposal (5%)initial individual proposal (1%), final individual proposal (1%), group proposal(3%)this grading criteria focus on formulating iterations of potential project ideas that will eventually lead toyour team’s final project idea for the rest of the semester
+you individually and your team separately willuse the feedback from these proposals to help define that final project idea
+during each of theseproposal phases, you will give feedback to your classmates to help refine the ideas and potentially findteammates with similar interests
+page7of15 course s yllabus 4
+“didmore research on such and such” is not an accomplishment, it is an activity (and a looselydefined one)
+● team’s goals for the following week both team and individual weekly reports are due at 11:59 pm on the monday of each week starting onweek 4
+the team leader will be responsible for submitting team reports and leading the discussion during the weekly meeting
+one of the team members, acting as a scribe , will be responsiblefor generating the meeting minutes throughout the semester
+each team member isexpected to identify 10 relevant papers for their project and specify how they should be referenced intheir final report
+these papers will be different for each team member (so that a team of 4 will have 40papers to reference in their final report)
+of these papers, each person will read two of these papers thatare especially relevant in depth and write a reading summary on those two papers
+6
+poster design and presentation (10%) poster design & updates (5%), cdr midterm presentation (2%), external posterpresentations (3%)this grading criteria evaluate your team’s project progress in terms of its critical design in the mid-pointof the semester
+your midterm presentation will serve as a critical design review for your project
+yourteam will demonstrate this progress through a poster design and corresponding in-class discussion ofyour poster
+your poster will receive feedback from your instructors and peers that you must address inorder to receive credit
+additionally, at least one member of your team will present your poster at anexternal poster presentation, e.g.
+student research week, the aggie research expo, the tamu csce iapspring meeting, or similar, to provide you with extra practice in communicating your work andresponding to external feedback
+page8of15 course s yllabus 7
+auxiliary deliverables (5%)citi training (1%) gantt chart (1%), user stories (1%), references list: 50 papers(1%), github management (1%)this grading criteria focus on other assignment contents in the course that relate to your semesterprogress in preparing your team project
+each team member is expected to commit to your githubrepository weekly, if not daily
+8
+you are expected to develop anautomatic test bed for your project
+grading criteria evaluates the materials that you have taken, written, and conducted for preparingfor and executing the evaluation of your team project’s system
+this process involves writing recruitment materials, anevaluation protocol, and a survey as well as any other materials as needed for your project’s evaluationplan
+final presentation (20%)oral presentation (15%), in-class demo (5%)this grading criteria evaluates the communication and demonstration of your team project’s systemthrough a presentation, which you will present to the instructors and to industry panelists on the readingday before finals; and a live system demonstration, which you will present to the instructors in class
+final deliverables (30%)final report (20%), documentation & coding (5%), demo video (5%)this grading criteria evaluates the technical writing of your final outcomes through the final report andthrough the document and coding of your system
+the final deliverablesinclude: a) a video advertisement of your project, b) a live demo, c) a final updated poster, d) a finalupdated powerpoint slidedeck, e) fully documented code source, f) user manual, g) evaluation materials,and h) a final project report with all of the required sections
+drive files including the following (please organize into folders, e.g.
+docs, source,hardware, media, references, freeware, etc.)a.designs
+code, schematics, data, data sheets, freeware software tools, etc.b.reports
+audiovisual media: close-up pictures of your system and a high-quality video presentingyour project (including a system demo and a project description) for posterity (seegallery in the course webpage for movie samples)
+assignments: in pdf format2.fina
+prototype in the assigned github repository, as well as any spare parts and supplies3.softwar
+keys, books, equipment) have been returned to their proper location or theirowner, and the workstations in the lab have been thoroughly cleaned up
+all team members arerequired to be present at the time of the final delivery
+13
+peer reviewseach member of your project team will score and review the performance of your other team membersthrough periodic peer review forms throughout the semester
+your peer review responses will becalculated with the instructors’ internal scores for adjusting each member’s overall semester score.youmus
+class participationthe instructors will evaluate your attendance to meetings, participation in the discussions, andcontributions to the team.mor
+than five (5) unexcusedabsences will lead to an automatic failure forthe course
+note that team days in which teams mayneed to work in a remote location to accomplishcertain assignments (e.g.
+presenting your work at a conference or srw, interviewing experts, meetingwith mentors, accessing technologies outside of the classroom, etc.
+assignments will be considered late aftertheir given deadline but will be accepted
+purchases and reimbursements ●accurate forms:please ensure that purchase order(po) forms submitted to the department areaccurate
+submitting a po with incomplete specifications or backordered items increases theworkload for our accounting staff and causes unnecessary delays to your team
+●in-stock items:please verify that items are in stockbefore submitting a po, and providealternative vendors if an item is likely to go out of stock (e.g.
+if the vendor only has a few unitsleft)
+●reimbursements deadline:reimbursement requests aredue at the time of final deliverables
+of sales taxes is not allowed by the university; please make sure to bringtax-exempt forms with you whenever you make local purchases (or purchases within the state)
+●equipment return:the equipment and materials thatyou purchase do not belong to you, theybelong to texas a&m university
+before you will be given a final grade in the course, allequipment and materials must be returned
+course schedule as ac (communication)course, you will be continuouslytaught, and be given experience practicing, howto present their work professionally
+this will occur during all of the weeks of the course
+introduction to senior capstone design: weeks 1-3you will learn how to identify and formulate an engineering problem, how to function effectively onmulti-disciplinary teams, how to communicate and place their work in the context of other work, how tocommunicate the motivation, need, and ethical considerations for their system, and how to definesuccess in their projects
+page11of15 course s yllabus project design and skill development: weeks 4-6you will learn how to do project management, how to evaluate the success of their project, and how toeffectively evaluate their projects and create an evaluation plan according to their definition of success.yo
+will complete a literature review, user stories, gantt charts, and paper prototypes
+they will useproject management software such as github and trello
+the groups and individual students will presentweekly updates on their project development progress
+major deadlinessubmit irb applicationby the end of the second classmeeting of week 6 (date in canvas)
+project development: weeks 7-11the teams will learn how to communicate the user interface design and design choices and how to writetechnical documentation
+the teams will continue to make progress on their projects
+there willcontinue to be weekly reports, peer reviews, and in-class demonstrations
+additionally, teams willcontinue to make iterative progress on their final reports
+project evaluation: weeks 12-13the teams will run and implement a user study to evaluate the success of their system
+they will learnhow to analyze and interpret data from an experiment and how to communicate about the results of anexperiment
+the course will shift focus to the teams continuing to make progress on their projects
+therewill continue to be weekly reports, peer reviews, and in-class demonstrations
+additionally, teams willfinalize their final reports
+major deadlinesfully evaluated systemby the end of the second classmeeting of week 13 (date in canvas)
+project finalization: week 14the teams will learn how to think critically about the results and their implications and how to effectivelysummarize their contribution
+there will continue to be weekly reports, peer reviews, and in-classdemonstrations
+additionally, teams will finish preparing all of their final deliverables (see below)
+major deadlinescomplete draft of their final deliverablesby theend of the second class meeting of week 14 (date incanvas)
+page12of15 course s yllabus project presentations: week 15senior projects will be presented to industry panelists
+important dates:january 18 (tue.
+–first day of spring semester classesjanuary 24 (mon.
+–last day for adding/dropping coursesmarch 07 (mon.
+–spring breakapril 15 (fri.
+–reading day (no class)april 19 (tue.
+–final exams course cop yrig htthe materials used within this course are copyrighted
+these materials include, but are not limited to,the syllabi, quizzes, exams, homework and labwork problems, online handouts, course videos, audio andvisual recordings of classes, etc
+because these materials are copyrighted, you do not have the right tocopy or distribute these materials, unless permission is expressly granted

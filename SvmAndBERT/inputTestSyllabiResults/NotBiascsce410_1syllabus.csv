@@ -1,0 +1,52 @@
+ Office Hours : Monday 11:3 0 AM - 12:30 PM (PETR 214) Thursday 1:00 PM – 2:00 PM (Zoom ID: 97398779249 Passcod e: 627171) Course Description The objective of this course is to make you familiar with the general architectu re and the most critical components of operating systems
+You will leverage your knowledge acquired in your previous courses on Computer Architecture and Computer Systems to understand and implement aspects of operating systems, such as system cal ls, processes, memory management, scheduling, threading, synchronization, file systems, and I /O devices 
+We will cover general aspects, realization approaches, and case studies
+In addition, we wi ll implement extensions to the open -source Linux kernels and operating system libraries in the user space
+• Describe the role and operation s of kerne ls, system calls, exception s and interrupt handling
+Course Syllabus Page 2 of 9 • Implement a virtual memory manager for a paged system
+• Describe and compare various forms of concurrency mechanisms
+• Describe and compare various synchronization mechanisms, both for single -processor and multiprocesso r systems
+• Implement a threading system 
+• Implement a simple file system in the user space 
+Textbook and/or Resource Materials Text book: Operating Systems: Three Easy Pieces by Remzi and Andrea Arpaci -Dusseau
+This bo ok is available for free at: https://pages.cs.wisc.edu/~remzi/OSTEP
+The exams will be based on the opera ting system concepts discussed in class
+All the exams will be in-person , close d-book exams 
+Students are allowed to bring a doub le-sided A4 -size note to the exams
+Projects 60 Six project s will be finished through the duration of the course
+The three highest scores of the projects will each be accounted for 1 2% of the semester grade
+The scores of the other three projects will each be accounted for 8% of the semester grade
+Course Syllabus Page 3 of 9 Collaborative Note Taking 5 Students can share lecture not es to gain extra p oints for the semester
+of the semester gr ade
+The ma ximum points e ach student can gain from sharing notes is 5% 
+Each note sub mitted must be complete and well-organized
+Notes of poor quality will be returned by the instructor
+Late Work Policy Each student is allowed with at most 3 free late days throughout the whole semester , without any late submission penal ty
+Students can use the free late days on any project and m ust specify the free late days used when submitting a project
+Without any free late days, a student will receive 20% pe nalty for each extra late day used on a project
+Introductio n 8/26 Topic: Let’s Hack - Building Your Own Linux Kerne l Releasing “Project 1: Building Your Own Linux Kernel ” Week 2: System Call s 8/29 Topic: Kerne l Required Reading: OSTEP - 6
+Direction Executio n 8/31 Topic: System Call s Required Reading: OSTEP - 6
+Concurrency & Threa d 10/1 4 Topic: Let’s Hack - Thread Schedulin g Optional Reading: OSTEP - 27
+Thread AP I Releasing “Project 4: User -Level Thread Scheduling ” Week 9 & 10: Lock s 10/1 7 Topic: Locks & Atomicit y Required Reading: OSTEP - 28
+Lock s 10/1 9 Topic: Locks & Atomicit y Required Reading: OSTEP - 28
+Concurrency Bug s 10/2 6 Topic: Deadloc k Required Reading: OSTEP - 32
+Concurrency Bug s 10/2 8 Topic: Let’s Hack - User -Level Deadlock Detectio n Releasing “Project 5: User -Level Deadlock Detection ” “Project 4: User -Level Thread Scheduling” due before 11:59P M Week 11: Synchronizatio n Course Syllabus Page 6 of 9 10/3 1 Topic: Conditional Variab les Required Reading: OSTEP - 30
+Semaphore s 11/4 Midterm I I Week 12: Virtual File System (VFS ) 11/7 Topic: File I/ O Required Reading: OSTEP - 39
+Files and Directories 11/9 Topic: Directorie s Required Reading: OSTEP - 39
+Files and Directorie s 11/1 1 Topic: Let’s Hack - Linux Virtual File Syste m Week 13 & 14: Filesystem s 11/1 4 Topic: File Block s Required Reading: OSTEP - 40
+Filesystem Implementatio n 11/1 8 Topic: Let’ s Hack - User -Level File Syste m Releasing “Project 6: User -Level File System ” “Project 5: User -Level Deadlock Detection” due before 11:59P M 11/2 1 Topic: Journalin g Required Reading: OSTEP - 42
+Hard Disk Drive s “Project 6: User -Level Filesystem” due before 11:59P M 12/5 Instructor Traveling (No Class ) 12/7 Midterm II I Univers ity Policies This section outlines the university level policies that must be included in each course syllabus
+The TAMU Faculty Senate established the wording of these policies
+Students are expected to attend class and to complete all assignments
+)
+” “Texas A&M University students are responsible for authenticating all work submitted to an instructor
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at aggiehonor.tamu.ed
+Americans with Disabilities Act (ADA) Policy Texas A&M University is committed to providing equitable access to learning opportunities for all students
+Title IX and Statement on Limits to Confidentiality Texas A&M University is committed to fostering a learning environment that is safe and productive for all
+): • The incident is reasonably believed to be discrimination or harassment
+• The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the University
+The University’s goal is to make sure you are aware of the range of options available to you and to ensure access to the resources you need
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s Title IX webpage 
+Students are encouraged to engage in healthy self - care by utilizing available resources and services on your campus Students who need someone to talk to can contact Counseling & Psychological Services (CAPS) or call the TAMU Helpline (979 -845-2700) from 4:00 p.m
+weekdays and 24 hours on weekends
+24 - hour emergency hel p is also available through the National Suicide Prevention Hotline (800 -273-8255) or at suicidepreventionlifeline.or

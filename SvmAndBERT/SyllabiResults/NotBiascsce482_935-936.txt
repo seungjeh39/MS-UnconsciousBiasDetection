@@ -1,0 +1,105 @@
+ or by appointment, al l online zoom: see canvas ta (sect
+935) : sai harini voruganti e-mail: saiharini@tamu.ed
+office hours: tuesday 1:30 - 2:30 p.m
+or by appointment, all online zoom: see canvas course description senior capstone design is a project -based course to develop system integration skills for solving real- world problems in computer science 
+the course involves a significant team software project that integrates advanced concepts across computer science specializations 
+projects require design, implementation, documentation and demonstration, as well as design methodology, management process and teamwork
+senior capstone – csce 482 course syllabus page 3 of 13 course learning outcomes this class prepare s you for engineering practice with a major design expe rience based on the knowledge and skills acquired in earlier course work and incorporating engineering standards and realistic constraints that include most of the following considerations: economic; environmental; sustainability; manufacturability; ethical; health and safety; social; and political
+you are expected to do the following in this course: **: 1
+analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions
+2
+design, implement and evaluate a computing- based solution to meet a given set of computing requirements in the context of the program's discipline
+3
+communicate effectively in a variety of professional contexts
+4
+5
+6
+apply computer science theory and software development fundamentals to produce computing- based solutions
+● the five dysfunctions of a team: a leadership fable
+you can acquire the course material from vendors that provide the best value and amenities
+your grade is based on the performance of your team and your individual contribution 
+the grade distribution is as follows: 1
+weekly updates : 6% 2
+ethics 2% 5
+project management 3% 6
+version control 2% 7
+project testing: 20% 8
+presentations: 15% 11
+• your peer feedback responses will be calculated with the instruct ors’ assessment which can either increase / decrease each member’s overall semester score
+weekly updates (6%) group updates ( 4%), individual updates ( 2%) each team submits a weekly report as a group and individually , using the given template 
+it has been shown that weekly reports help a team maintain a project on schedule
+it also includes the t eam’s goals for t he following week 
+peer reviews (1%) you will be asked to give a review of your peers’ proposal, documentation, presentatio ns, and other deliverables
+3
+peer feedback (1%) you will give feedback on the performance and contribution of your other team members several times throughout the semester
+prompt submission of peer feedbacks will be the basis of this grade
+4
+5
+6
+version control (2%) you are expected to commit to the github repository weekly, if not daily
+7
+test coverage)
+you are expected to submit your test results
+** if you intend to publish your results, you will need to complete an irb 8
+report progress (18%) individ ual proposal ( 1%) scenario 1: for students who participate in an externally sponsored project, you will describe your approach to the given problem statement in the individual proposal, get your proposal reviewed, and give a review on your classmates’ individual proposals
+when the team is formed, all individual proposals are synthesized and become part of the final report
+scenario 2: the second alternative is to iterate through potential project ideas which have a proven need / existing beneficiary 
+reviews from your classmates on your proposals will help define the final project idea
+likewise, you will review your classmates’ work to help refine their ideas and potentially find teammates with similar interests
+abstract (1%) this is a summary of your final report that describes: your problem (with attention grabber), how you plan on solving it, and expected outcome
+these papers will be different for each team member ( e.g.
+a team of 4 will have 20 papers to reference in their final report)
+related work refers to each person read ing two papers and writ ing a reading summary on those two papers
+introduction (1%) the introduction provide s a brief overview of the project and helps the reader put into context the design and implementation
+engineering standard (1%) engineering standards are factors that are related to your project and may bound or constrain your project
+requirements (2%) the design part of your methodology should clearly describe what your solution seeks to achieve, what the user experience will be, what tools you will use, and what challenges you will face
+senior capstone – csce 482 course syllabus page 7 of 13 prototype (1%) prototyping allows you to test the quality of your design before you start coding, makes sure that that all team members know and agree on the final product
+evaluation (3%) the evaluation section describes procedures that you wi ll use to test that your system does what it was designed to do
+implementation, results, discussion ( 3%) the implementation part of your methodology describes your system in detail including individual components, tools used, your system hierarchy, and any other details for the audience to understand how your system works
+the results section will summarize the outcome of your project with respect to what metrics you collected and your evaluation to show whether or not you achieved your d efinition of success
+the discussion section includes a reflection on the results
+final report increment -including p reviously submitted sections of final report ( 1%) this allows you to submit updates to final report sections previously submitted
+9
+your final report will be critiqued on its thorough ness and effectiveness in communicating key aspects of your system 
+github documentation and code will be critiqued on its completeness to properly execute and understand the details of your system
+the demo video is a 2 -minute video which future generation of students can view as they also embark on their capstone journey
+all final deliverables must be submitted in order to receive a grade for the class 
+code (with corresponding documentation) will be submitted in the class github repository , while no n-code will be submitted in a ms team drive repository organize d into folder 
+depending on the project, other deliverables include (but not limited to): a
+data: test data, initial seed data, etc
+b
+designs: schematics, data sheets , etc
+c
+tools: freeware software tools, compilers, etc
+reports: proposal, weekly reports, final report with all of the required sections e
+user manual f
+presentation materials : final updated powerpoint slide deck s with pdf versions i
+program, acceptance letters, etc.
+installed final application on 1 or more devices senior capstone – csce 482 course syllabus page 8 of 13 l
+borrowed / purchased items (e.g.
+keys, books, equipment) have been returned to their proper location or to their owner 
+purchases and reimbursements ● accurate forms: please ensure that purchase order (po) forms submitted to the department are accurate
+submitting a po with incomplete specifications or bac kordered items increases the workload for our accounting staff and causes unnecessary delays to your team
+● in-stock items: please verify that items are in stock before submitting a po, and provide alternative vendors if an item is likely to go out of stock (e.g.
+to minimize overhead on our accounting staff, we will only reimburse up to five purchase orders (of your choice); this policy also encourages teams to plan their purchases in advance
+reimbursement of sales taxes is not allowed by the university; please make sure to bring tax- exempt forms with you whenever you make local purchases (or purchases within the state)
+presentations (15%) midterm project presentation ( 1%), checkpoin ts & demo of system progress( 6%), external presentation (s) (e.g.
+coe project showcase) ( 2%) your midterm project presentation will serve as a critical design review for your project
+your team will demonstrate this progress through a presentation and cor responding in -class discussion
+additionally, your team will present to at least 1 other external venue, preferably the coe project showcase 
+there may be other opportunities presented in class which will provide you with extra practice in communicating your work and responding to external reviews
+final presentation slides ( 1%), final in -class presentation ( 1%); project review -industrial affiliates ( 4%) this evaluates the communication and demonstration of your team project’s system , through a presentation to your instructors , peers, and to industry panelists (e.g.
+daily quizzes (2%) the quizzes will include knowledge that you should have gained from your past computer science courses, and lets you know the topics that external reviewers may ask about or bring up during external presentations 
+the instructors will evaluate your attendance through frequent quizzes, meetings, participation in the discussions, participation in assignments, and contributions to the team
+presenting your work outside of class, interviewing experts, meeting with mentors, accessing technologies outside of the classroom, etc.
+you will be informed in a timely manner should you incur an unexcused absence
+students required to quarantine or self -isolate are expected to participate in course -related activities remotely and must not attend face -to-face
+without a request, l ate assignments cannot be accepted for credit
+refer to canvas for the most up -to-date schedule
+throughout the semester the following will be due on a recurring basis: weekly updates, peer feedback
+week (s) topics / activities due 1-3 introduction to senior capstone design: • identify and formulate an engineering problem, how to function effectively in teams, how your project fits in the context of other work, how to communicate the motivation, need, and ethical consi derations for the system, and how to define success in the project , project management 
+• use of project management software such as github, trello, jira, and more
+• run and implement a user acceptance test to evaluate the success of their system
+• iterative progress on final r eports • fully working and tested system • evaluation results (internal and user acceptance testing) 12-13 project finalization • results and their implications 
+senior capstone – csce 482 course syllabus page 11 of 13 course copyright the materials used within this course are copyrighted and include, but are not limited to, the syllabi, quizzes, exams, homework, online hand outs, course videos, audio and visual recordings of classes, etc
+because these materials are copyrighted, you do not have the right to copy or distribute these materials, unless permission is expressly granted

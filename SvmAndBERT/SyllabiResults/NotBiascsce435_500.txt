@@ -1,0 +1,11 @@
+ (mailto:sarin@tamu.edu
+(preferred method ofcommunication)office hours:tr 11am-12 pm (jan 18 & jan 20), then tr 10:30-11:30am; via zoomhttps://tamu.zoom.us/j/9972697577
+(https://tamu.zoom.us/j/99726975773)cours
+descriptionthis course provides an overview of parallel computing technology and programming methods.th
+topics in the course include: multiprocessor architectures, programming tools, parallelperformance, parallel algorithms, and applications of parallel computing.cours
+learning outcomesthe main objective of this course is to provide an opportunity for our undergraduate students tolearn about parallel computing technology and to develop programming skills on traditional andemerging platforms for parallel computation
+upon successful completion of the course, a student:• will be able to design parallel algorithms and develop software implementations on parallelcomputers;• will be able to analyze the performance of parallel implementations on various parallelplatforms; and• will know the architecture of modern parallel computing systems.textboo
+and/or resource materialsinstructor will provide lecture videos, copies of lecture slides, and links to resources on the interneton the course web site on canvas.gradin
+policyquizzes, assignments and projects will be available on the course web site on canvas andsubmissions will have to be uploaded to canvas.cours
+scores arerounded up to the nearest integer.lat
+work policylate assignments and projects are accepted with 10% penalty for each day late up to a maximumof 3 days (e.g.

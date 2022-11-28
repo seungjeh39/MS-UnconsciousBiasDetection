@@ -1,0 +1,130 @@
+id,keyword,location,text
+1,,,csce 313 – introduction to computer systems spring 2022 course logistics 1
+2,,,time and place a
+3,,,lecture s (online -asynchronous ): canvas modules b
+4,,,labs (in-person) : various (refer to howdy for your section) 2
+5,,,course content: canvas ( https://canvas.tamu.edu/courses/13777
+6,,,) 3
+7,,,course discussion forum : ms teams : team - csce -313 sp22
+8,,,4
+9,,,"instructor : aakash tyagi, tyagi@cse.tamu.ed"
+10,,,a
+11,,,office hours : will be posted on canvas and teams 5
+12,,,teaching staff: role : graduate ta’s and undergraduate peer teachers will conduct the labs and qna 
+13,,,undergraduate ta’s will work behind the scene on lab content creation and qna 
+14,,,graders will take the frontline role in grading the programming assignments and quiz/exams 
+15,,,a
+16,,,graduate ta’s i
+17,,,gabriel stella gabrielrstella@tamu.ed
+18,,,ii
+19,,,feras khemakhem foufou1560@tamu.ed
+20,,,iii
+21,,,mary julian mjulian@tamu.ed
+22,,,b
+23,,,undergraduate ta’s i
+24,,,ezekiel blevins ezeb209@tamu.ed
+25,,,ii
+26,,,sravan sriram ssravan360@tamu.ed
+27,,,c
+28,,,peer teachers (listed on peer teachers central site ) 6
+29,,,a baseline r0 version of the course master plan is made available on canvas
+30,,,"although some amount of buffer planning has been buil t-in to the schedule, we will respond to situation ‘on the ground’ and respond as dictated by the over -arching goal of maximizing learning and assimilation"
+31,,,"prerequisites • csce 312 (computer organization) • familiarity with c/c++ programming (csce 121, csce 221) description the objective of this course is to provide us with a general understanding of what system software is involved for an application program to run, both on a single node and over a network, and how this system software is to be used"
+32,,,"in support of this objective , the course will prepare us to do system -level programming"
+33,,,"this course will demonstrate how to ""use"" (as opposed to ""design"") system components, such as memory, file systems, process control, inter -process communication, and networking"
+34,,,"by the end of this course, we will have an understanding o f the problems and pitfalls typically encountered in the design and implementation of multithreaded and networked applications and systems"
+35,,,"more specifically, by the end of this course we should be fairly good at making full use of the services provided by the underlying operating system by programming directly at the operating system interface level"
+36,,,"w e will review the following aspects of a computer system, in no particular order: • what is an operating system; what are its components ; why system calls? • execution of a program; function calls; interrupts"
+37,,,• the os application interface; file system; process control; etc
+38,,,"• inter -process communication • concurr ency, threads, process/thread synchronization • network socket programming • principles and practices for s ecure computing "
+39,,,"security threats in centralized and distributed systems; authentication, authorization, confidentiality; security mechanisms"
+40,,,"• parallel and distributed computing books (not required for purchase) there is no required textbook for this class : the course material is assembled from multiple sources (books, existing courses, conversation with experts, and published research)"
+41,,,"however, the following list of books are most referenced in the assembled material for those who’d like an additiona l source of material to supplement lectures"
+42,,,"• primary o [ospp ] operating systems: principles and practice, 2nd edition, thomas anderson and michael dahlin, recursive books, 2014 (here ) o [ostep ] operating systems: three easy pieces"
+43,,,"[available online free here ] • secondary o [apue ] advanced programming in the unix environment, 3rd edition, w"
+44,,,richard stevens and stephen a
+45,,,"rago, addison -wesley pr ofessional computing series, 2013"
+46,,,"o [molay ] understanding unix/linux programming : a guide to theory and practice, bruce molay, pearson education inc."
+47,,,"2003 other interesting reading s • computer systems o [csapp ] computer systems: a programmer's perspective , 3rd edition, randal e"
+48,,,bryant and david r
+49,,,"o'hallaron , prentice hall, 201 6"
+50,,,"• operating systems o [osc] operating system concepts , 10th edition, silberschatz, galvin, gagne, john wile y and sons, inc"
+51,,,2021 lectures lectures will be remote -asynchronous meaning the lecture content will be released on canvas weekly according to the master schedule
+52,,,"barring exception, effort will be made to release weekly content on the weekend in case you have discretionary time to read ahead"
+53,,,during lectures we will be covering operating systems and systems programming concepts and case studies
+54,,,the material covered in the lectures will provide the background and foundation for you to appreciate the lab exercises designed to buttress lecture concepts an d to prepare to succeed in programming assignments 
+55,,,"quizzes quizzes will be ‘take -home’ format offered on canvas , and aligned with key topic learnings"
+56,,,"in most cases, quizzes will be online short format, multiple choice type of questions to test basic understanding of concepts presented during the lectures"
+57,,,"labs labs will be held in-person, face -2-face"
+58,,,"given the university requirements for the prescribed format of this course, the labs will not be conducted over zoom so if you are unable to be in college station physically, you may need to defer this course to a later semester"
+59,,,"labs are where we will pu t into practice the material learned in the lectures, and where we will acquire a working knowledge of the unix /linux operating system "
+60,,,labs will meet twice weekly (tr for sections 500 -507 and two back -2-back sessions on friday for sections 597-599) where we will be presenting a new problem to motivate learning and facilitat e skill-building 
+61,,,"after an introductory session to familiarize you with the particular environment that we will be using, there will be a continuing series of lab exercise s and programming assignments of moderate difficulty level , which will exercise different parts of the operating system: process and thread management, inter -process communication, networked execution, and so on"
+62,,,there will be 6 programming assignments (pa 0-5) assigned roughly on a bi -weekly basis
+63,,,"we will kick -off the course with pa0 which is a simple, warm -up exercise in c++"
+64,,,the master -plan contains the details
+65,,,"lab attendance is critical to ensure you understand the problem, actively hash the problem out with your classmates , and clarify with lab ta ’s and pt’s "
+66,,,assessment method (subject to minor changes!) : the course will have two exams and a series of quizzes and programming assignments 
+67,,,the grade allocation is as follows: 1
+68,,,"exams (midte rm and final ) = 40% (midterm=22%, final = 18%) 2"
+69,,,programming assignments = 54% (each project is 9% of the grade) 3
+70,,,online -take -home quizzes ( 20+) = 6% the grading scale is as follows: • 90-100: a • 80-89: b • 70 – 79: c • 60 – 69: d • 59 and below: f late submission policy – subject to change exam and quiz late policies are stringent and fairly straightforward • exams : no exception without prior e-mail approval from the instructor 
+71,,,see university policy for details
+72,,,• quizzes : online on canvas
+73,,,late submissions will not be accepted without prior e - mail approval from the instructor
+74,,,"for the programming assignments, we are attempting something new for the late submission policy"
+75,,,"below , a general philosophy is presented"
+76,,,"philosophy : we all have varying working habits - some start early, some wait till the last minute"
+77,,,"we are also affected by our environment - last minute surprises can come, health, etc"
+78,,,"in addition, this course is typically paired with csce -315 which is also project intensive"
+79,,,"so, we are planning to adopt a policy that accommodates the unknowns to some extent and also gives you the flexibility to respond to peaks and troughs in your enrolled course schedules : early turnin wins credit, late turnins earn penalty but can use earned c redits to offset the penalty "
+80,,,"in the end, the overall accrued credit/ penalty is applied on the sum total which is then scaled"
+81,,,a separate document describing the policy in detail with examples will be made available on canvas
+82,,,exams there will be one midt erm and one final examination
+83,,,both exams will be offered online on canva s with required in -person attendance during designated lab session
+84,,,those with accommodations from the department of disability resources (link ) must arrange to take the exam at the center
+85,,,any exceptions to the above must be obtained from the instructor well in advance with proper justification via e -mail
+86,,,the course master calendar will contain the exam dates and they will also be communicated in teams and canvas well in advance
+87,,,"communication policy your teaching staff will do their best to communicate relevant administrative information (deadlines, information about posted material, details about projects, locations of tutorials, and so on) in an effective and timely manner"
+88,,,we will be using microsoft teams platform for all course communication
+89,,,please refer to the document “ csce313 how do i setup microsoft teams ” available on canvas in student r esources module 
+90,,,it contains simple steps to install teams and sign on to our course teams site
+91,,,"at times, reinforcement messages may also be sent via canvas, but our discussion forum is ms teams"
+92,,,e-mails listed on course roster are used for enrollment in canvas and teams 
+93,,,"if you are not receiving teams or canvas updates, please contact the instructor"
+94,,,"teaching staff support it is important to lay out broad expectations for support as follows based on the roles: your instructor will be on hand to answer queries on lectures and practice questions, offer mentoring, and conduct quiz/exam review sessions/support"
+95,,,"your ta’s will conduct labs (graduate ta’s) , answer queries on pa’s, lab exercises, and lab quizzes, provide code qualit y feedback for pa submissions"
+96,,,their time is best spent on providing clarifications on assignments and offer detailed feedback on coding quality and organization
+97,,,"your graders will not directly interface with you in labs but will work behind the scene in grading programming assignments, and quizzes/exams per discretion of your instructor"
+98,,,"as a general policy, i am asking the ta’s to not assist with debugging student code"
+99,,,it is both counter -productive to student learning and extremely stressful for the t eaching staff
+100,,,they will expend much of the feedback in providing a clear understanding of the programming assignment expectations and common best practices
+101,,,course acknowledgments lecture content : the course website and lecture notes have incorporated c ourse materials developed by dr
+102,,,"riccardo bettati, dr"
+103,,,"guofei gu, dr"
+104,,,"sarker tanzir ahmed, and dr"
+105,,,"dmitri loguinov of texas a&m university, dr"
+106,,,"avi silberschatz (yale), dr"
+107,,,"lawrence angrave (uiuc), dr"
+108,,,"thomas anderson (uw), dr"
+109,,,"michael dahlin (google), drs "
+110,,,"randall bryant and david o’hallaron of cmu, drs"
+111,,,"anthony joseph and david culler of uc berkeley, dr"
+112,,,"kuenning (hmc), dr"
+113,,,snoeren (ucsd)
+114,,,the copyright of these materials belongs to them
+115,,,the instructor is especially grateful to drs
+116,,,"bettati and ahmed for making their entire course content available for use in this semester offering, especially because the instructor is returning to teach this course after a nearly 4+year hiatus"
+117,,,programming assignment content : pa’s have gone through evolution in the last several years
+118,,,original programming assignments were created under the auspices of professors riccardo bettati and guofei gu
+119,,,the instructor (tyagi) taught this course between 2014 -2016
+120,,,"during spring 2016, a small number of enterprising undergraduate students took the daunting task of working with the instructor and (then ta) prof"
+121,,,sarker tanzir ahmed to create a new set of programming assignments in addition to revising the existing ones
+122,,,the resulti ng set of programming assignments was piloted by prof
+123,,,"ahmed in his fall 2016 csce -313 course and resulting student feedback was rolled in to the spring 2017 offering, and improved ever since"
+124,,,"the lion’s share of contributions was made by andrew kirfman an d joshua higginbotham, both former csce undergraduate students"
+125,,,both the instructor and prof
+126,,,ahmed are grateful for their contributions and honor their lasting legacy toward the benefit of the cse student community
+127,,,"and finally, a note for the sake of ou r health and well -being: to help protect aggieland and stop the spread of covid -19, texas a&m university urges students to be vaccinated and to wear masks in classrooms and all other academic facilities on campus, including labs"
+128,,,"doing so exemplifies the aggie core values of respect, leadership, integrity, and selfless service by putting community concerns above individual preferences"
+129,,,"covid -19 vaccines and masking — regardless of vaccination status — have been shown to be safe and effective at reducing spread to others, infection, hospitalization, and death"

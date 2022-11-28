@@ -1,0 +1,44 @@
+ there are people that believe one or t wo computer science classes should be included in this list
+like english (in an english speaking location) is required to be able to communicate with people, more and more, we need to communicate with machines
+ with such a large base of software now, one can focus on their specialty and not have to be a “computer scientist” to make good use of computing
+what ’s next ? students completing this course should be able to:  feel comfortable using a computer
+in the 1950s, the idea of dedicating a computer to entertainment was unthinkable; today revenues from the computer game industry exceed hollywood
+more humans own a computer than own a toothbrush and apple is one of the world’s largest company having overtaken many oil, agriculture, and manufacturing sectors 
+in the 21st century, learning to program a computer is empowerment
+today’s students regardless of their ultimate field of study or occupation need this fundamental knowledge
+ operators, math, random numbers, algorithms
+switch statements, tree s, composing conditionals
+ arrays and lists , enhanced for loops  combining branching looping and i/o  methods and classes  code refactoring, java libraries, objects, exceptions, code verification  file i/o  object creation and design  graphical user interface learning outcomes students completing this course should be able to:  use a text editor to program java code
+ identify the basic syntax and semantics of the java programming language
+ use appropriate commenting, layout, and naming to communicate code intent  understand the primitive data types built into the java language
+ create java i/o interfaces  read, interpret, analyze, and explain introd uctory java programs
+lecture:  sections 500 – 501: innovati ve learning classroom building 112 o mwf 11:30 am – 12:20 pm csce 111: introduction to computer science , spring 2022 department of computer science and engineering, texas a&m university © 2016 –2022 robert lightfoot page 4 of 12 lab:  section 501: innovati ve learning classroom building 223 o mondays and wednesdays 3:00 pm - 3:50 pm  section 502: innovati ve learning classroom building 223 o mondays and wednesdays 4:10 pm - 5:00 pm instructor: robert lightfoot use canvas email for question about class and grades
+help/office hours: days/times posted on canvas teaching assistants: csce 111 has 7 undergraduate tas this semester
+you need 105 0 or more to get an a
+you can choose the point level you want to achieve and know the grade you have earned base on the items you have shown mastery towards
+to show mastery in a topic, you must achieve 70% or greater
+otherwise no credit is given for that topic
+the grading s cale expected to be used is: a >= 1050 points > b >= 950 points > c >= 850 points d >= 750 points > f < 750 points the main path includes 4 categories 
+a student must get 70% on each of the main assignment groups to get a c or better in the class
+main categories 4 of the 11 pathways make up the main categories that need to be mastered to be successful in this class
+to pass the class you must pass the core categories 
+to get a c or better in the class, you must get 70% or better in the core categories
+you must archive 70 points for this to count towards your point total
+you must archive 70 points for this to count towards your point total
+you must archive 350 points for this to count towards your point total
+you must archive 140 points for this to count towards your point total
+you must be pr esent for milestone checks and project demonstrations to receive credit for your project
+if you show mastery in this topic (score 70 or more) these points can go to your total
+those who get less than full credit, down to zero credit, do not make the highest grades
+discussions weekly discussions account for 100 points 
+you must archive 70 points for this to count towards your point total
+coding challenges coding challenges will be worth 100 points
+you must archive 70 points (combi ned score on all 5 ) for this to count towards your point total
+you must archive 35 points for this to count towards your point total
+javascript a javascript option worth 50 points will be added to one of you r assignments
+you must archive 35 points for this to count towards your point total
+you must archive 70 point s for this to count towards your point total
+you must archive 70 points for this to count towards your point total
+late work: late work on coding assignments will receive a 10% reduction per day for a maximum of 3 days
+after this period, late work is not accepted
+late work is not accepted for other i tems
