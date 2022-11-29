@@ -2,7 +2,7 @@
 
 Welcome to the contributing guidlines for our unconscious bias detection system. The README file
 has most of the necessary instructions to get the system up and running, however, this file
-will be used to set the precedencct for how to contribute to the repository!!
+will be used to set the precedent for how to contribute to the repository!!
 
 ## External Dependencies
 
