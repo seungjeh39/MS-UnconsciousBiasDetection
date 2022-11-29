@@ -14,6 +14,7 @@ This code has been run and tested on:
 
 - Python 3.9.6
 - virtualenv
+- all dependencies within "requirements.txt"
 
 ## External Deps
 
@@ -38,6 +39,18 @@ The requirements.txt file has all of the necessary libraries and dependencies.
 
 run deactivate to get out of virtual environment.
 
+## File Structure
+Within our system, we have structured the files and directories in an organized manner so that functions
+can be pulled from anywhere within the system. The templates directory includes front end code, the SvmAndBERT
+directory includes both the BERT and SVM models, and the NBmodel directory includes the Naive Bayes model. 
+
+app.py is the main file that will link the front end and the back end; activating this file is detailed down below
+and it is the main way of viewing our system output.
+
+The available functions are ConvertTxtToCsv, ConvertTxtToTxtFile, GeneralBertBiasDetection(currentDirPath), and
+GeneralBertBiasDetection(currentDirPath). They all work in conjunction to run models and determine bias scores
+for different syllabi using the training dataset.
+
 ## Execute Code
 
 The app.py file is the main file that will run all of the proper dependencies
@@ -54,3 +67,10 @@ system. However, we feel as if it is not of the highest priority as of right now
 we are focusing more on developing models and getting the system working locally.
 
 After running app.py, go to http://127.0.0.1:5010/ to view the system.
+
+## CI/CD
+
+For continuous development/adding to the system, go to the "contributing.md" file
+and read the details within there.
+
+## Thanks and I hope you enjoy detecting bias in syllabi!!

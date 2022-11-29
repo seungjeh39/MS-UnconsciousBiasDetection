@@ -104,7 +104,7 @@ def my_form_post():
                     "expected","expectation","expectations","knowledge",
                     "challenging","earn","prerequisite","ability","own",
                     "experience","recommend","recommended","technical","proficiency",
-                    "encourage","encouraged","specific","required","familiarity","asfmes",
+                    "encourage","encouraged","specific","required","familiarity","assumes",
                     "assume","intensive","required","complex","welcome","introductory"] 
                     #"know","required","complex","welcome","introductory","challenge","complete"
 
