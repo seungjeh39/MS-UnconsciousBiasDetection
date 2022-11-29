@@ -1,3 +1,0 @@
-# MS-UnconsciousBiasDetection
-
-# Contributing Guidelines
