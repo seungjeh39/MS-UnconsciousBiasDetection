@@ -1,1 +1,3 @@
-Contributing file commit 1
+# MS-UnconsciousBiasDetection
+
+# Contributing Guidelines
