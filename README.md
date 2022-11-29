@@ -18,7 +18,7 @@ This code has been run and tested on:
 
 ## External Deps
 
-- Git - Downloat latest version at https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+- Git - Downloa latest version at https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - GitHub Desktop (Not needed, but HELPFUL) at https://desktop.github.com/
 
 ## Installation
