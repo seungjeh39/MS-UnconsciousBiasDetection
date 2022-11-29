@@ -70,7 +70,9 @@ After running app.py, go to http://127.0.0.1:5010/ to view the system.
 
 ## CI/CD
 
-For continuous development/adding to the system, go to the "contributing.md" file
+For continuous development/adding to the system, go to the "CONTRIBUTING.md" file
 and read the details within there.
+
+https://github.com/seungjeh39/MS-UnconsciousBiasDetection/blob/main/CONTRIBUTING.md
 
 ## Thanks and I hope you enjoy detecting bias in syllabi!!
