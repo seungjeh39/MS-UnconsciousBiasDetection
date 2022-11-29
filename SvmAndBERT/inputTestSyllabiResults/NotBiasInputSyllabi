@@ -1,1 +1,43 @@
- 
+ Monday 11:30 AM - 12:30 PM (PETR 214) Thursday 1:00 PM – 2:00 PM (Zoom ID: 97398779249 Passcode: 627171) The objective of this course is to make you familiar with the general architecture and the most critical components of operating systems
+You will leverage your knowledge acquired in your previous courses on Computer Architecture and Computer Systems to understand and implement aspects of operating systems, such as system calls, processes, memory management, scheduling, threading, synchronization, file systems, and I/O devices
+We will cover general aspects, realization approaches, and case studies
+In addition, we will implement extensions to the open-source Linux kernels and operating system libraries in the user space
+Special Course Designation This course has no special designation
+• Describe the role and operations of kernels, system calls, exceptions and interrupt handling
+• Describe and compare various forms of concurrency mechanisms
+• Describe and compare various synchronization mechanisms, both for single-processor and multiprocessor systems
+• Implement a threading system
+• Implement a simple file system in the user space
+This book is available for free at: https://pages.cs.wisc.edu/~remzi/OSTEP
+Grading Policy This course will adopt the following grading scale: A = 90-100 B = 80-89 C = 70-79 D = 60-69 F = <60 The grading will be based on textbook discussion, midterm and final exams, and projects
+The weights of the activities and the correspondent policies are as follows: Activity % Policies Midterm Exams 35 Three midterm exams will be taken through the duration of the course
+The exams will be based on the operating system concepts discussed in class
+All the exams will be in-person, closed-book exams
+Students are allowed to bring a double-sided A4-size note to the exams
+The scores of the other two exams will each be worth 10% of the semester grade
+Projects 60 Six projects will be finished through the duration of the course
+The three highest scores of the projects will each be accounted for 12% of the semester grade
+The scores of the other three projects will each be accounted for 8% of the semester grade
+Page 2 of 9 Course Syllabus Collaborative Note Taking 5 Students can share lecture notes to gain extra points for the semester
+of the semester grade
+The maximum points each student can gain from sharing notes is 5%
+Each note submitted must be complete and well-organized
+Notes of poor quality will be returned by the instructor
+Late Work Policy Each student is allowed with at most 3 free late days throughout the whole semester, without any late submission penalty
+Students can use the free late days on any project and must specify the free late days used when submitting a project
+Without any free late days, a student will receive 20% penalty for each extra late day used on a project
+Course Schedule Date Topic Week 1: Introduction 8/24 Topic: Introduction to Operating Systems Required Reading: OSTEP - 2
+Introduction 8/26 Topic: Let’s Hack - Building Your Own Linux Kernel Releasing “Project 1: Building Your Own Linux Kernel” Week 2: System Calls 8/29 Topic: Kernel Required Reading: OSTEP - 6
+Direction Execution Page 3 of 9 Course Syllabus 9/2 Topic: Let’s Hack - Linux System Calls Releasing “Project 2: System Calls” 9/5 Labor Day (No Class) Week 3: Processes & Address Spaces 9/7 Topic: Processes Required Reading: OSTEP - 4
+Processes 9/9 Topic: Address Spaces Required Reading: OSTEP - 13
+Address Spaces “Project 1: Building Your Own Linux Kernel” due before 11:59PM Week 4: Address Translation 9/12 Topic: Address Translation Required Reading: OSTEP - 14
+Translation Lookahead Buffers 9/30 Midterm I Page 4 of 9 Course Syllabus Week 7: CPU Scheduling 10/3 Topic: CPU Scheduling Required Reading: OSTEP - 7
+CPU Scheduling 10/5 Topic: Multi-Level Scheduling Required Reading: OSTEP - 8
+Thread API Releasing “Project 4: User-Level Thread Scheduling” Week 9 & 10: Locks 10/17 Topic: Locks & Atomicity Required Reading: OSTEP - 28
+Locked Data Structure 10/24 Topic: Race Conditions Required Reading: OSTEP - 32
+Concurrency Bugs 10/26 Topic: Deadlock Required Reading: OSTEP - 32
+Concurrency Bugs 10/28 Topic: Let’s Hack - User-Level Deadlock Detection Releasing “Project 5: User-Level Deadlock Detection” “Project 4: User-Level Thread Scheduling” due before 11:59PM Week 11: Synchronization Page 5 of 9 Course Syllabus 10/31 Topic: Conditional Variables Required Reading: OSTEP - 30
+Files and Directories 11/9 Topic: Directories Required Reading: OSTEP - 39
+Files and Directories 11/11 Topic: Let’s Hack - Linux Virtual File System Week 13 & 14: Filesystems 11/14 Topic: File Blocks Required Reading: OSTEP - 40
+Filesystem Implementation 11/18 Topic: Let’s Hack - User-Level File System Releasing “Project 6: User-Level File System” “Project 5: User-Level Deadlock Detection” due before 11:59PM 11/21 Topic: Journaling Required Reading: OSTEP - 42
+FSCK and Journaling 11/23 Reading Day (No Class) 11/25 Thanksgiving Holiday (No Class) Week 15 & 16: Device I/O 11/28 Topic: Device I/O Required Reading: OSTEP - 36

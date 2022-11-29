@@ -1,1 +1,76 @@
 id,keyword,location,text
+1,,,Course Number: Course Title: Section: Time: Location: Credit Hours: Instructor Details Instructor: Office: E-Mail: Office Hours: Course Description CSCE 410 Operating Systems 500 MWF 10:20 AM – 11:10 PM ZACH 350 3 Chia-Che Tsai PETR 228 chiache@tamu.ed
+2,,,Monday 11:30 AM - 12:30 PM (PETR 214) Thursday 1:00 PM – 2:00 PM (Zoom ID: 97398779249 Passcode: 627171) The objective of this course is to make you familiar with the general architecture and the most critical components of operating systems
+3,,,"You will leverage your knowledge acquired in your previous courses on Computer Architecture and Computer Systems to understand and implement aspects of operating systems, such as system calls, processes, memory management, scheduling, threading, synchronization, file systems, and I/O devices"
+4,,,"We will cover general aspects, realization approaches, and case studies"
+5,,,"In addition, we will implement extensions to the open-source Linux kernels and operating system libraries in the user space"
+6,,,"Course Prerequisites CSCE 313 (and its corequisites CSCE312/ECEN350), CSCE 315"
+7,,,"In particular, the course assumes some familiarity with low-level programming, some understanding of interrupts from a hardware perspective, and some practice with multithreaded programming and synchronization"
+8,,,Special Course Designation This course has no special designation
+9,,,"Course Learning Outcomes Upon completion of the course, students should be able to: • Describe the role, the architecture, and the major components of an operating system"
+10,,,"• Describe the role and operations of kernels, system calls, exceptions and interrupt handling"
+11,,,Course Syllabus Course Information Page 1 of 9 Course Syllabus • Implement a virtual memory manager for a paged system
+12,,,• Describe and compare various forms of concurrency mechanisms
+13,,,"• Describe and compare various synchronization mechanisms, both for single-processor and multiprocessor systems"
+14,,,• Implement a threading system
+15,,,• Implement a simple file system in the user space
+16,,,Textbook and/or Resource Materials Textbook: Operating Systems: Three Easy Pieces by Remzi and Andrea Arpaci-Dusseau
+17,,,This book is available for free at: https://pages.cs.wisc.edu/~remzi/OSTEP
+18,,,"Grading Policy This course will adopt the following grading scale: A = 90-100 B = 80-89 C = 70-79 D = 60-69 F = <60 The grading will be based on textbook discussion, midterm and final exams, and projects"
+19,,,The weights of the activities and the correspondent policies are as follows: Activity % Policies Midterm Exams 35 Three midterm exams will be taken through the duration of the course
+20,,,The exams will be based on the operating system concepts discussed in class
+21,,,"All the exams will be in-person, closed-book exams"
+22,,,The materials covered in each exam will NOT be accumulative; the same topics will not be covered in two exams
+23,,,Students are allowed to bring a double-sided A4-size note to the exams
+24,,,The highest score of the three exams will be worth 15% of the semester grade
+25,,,The scores of the other two exams will each be worth 10% of the semester grade
+26,,,Projects 60 Six projects will be finished through the duration of the course
+27,,,No team submission is allowed; students must submit their projects individually
+28,,,The three highest scores of the projects will each be accounted for 12% of the semester grade
+29,,,The scores of the other three projects will each be accounted for 8% of the semester grade
+30,,,Page 2 of 9 Course Syllabus Collaborative Note Taking 5 Students can share lecture notes to gain extra points for the semester
+31,,,Each student must submit an independently taken note for one course lecture to gain 0.5
+32,,,of the semester grade
+33,,,The maximum points each student can gain from sharing notes is 5%
+34,,,Each note submitted must be complete and well-organized
+35,,,Notes of poor quality will be returned by the instructor
+36,,,"To be counted toward semester grade, the note must be shared through the google drive within one week (7 days) from the lecture given, before 11:59 PM"
+37,,,"Late Work Policy Each student is allowed with at most 3 free late days throughout the whole semester, without any late submission penalty"
+38,,,Students can use the free late days on any project and must specify the free late days used when submitting a project
+39,,,"Without any free late days, a student will receive 20% penalty for each extra late day used on a project"
+40,,,"For example, if a student has submitted a project three days after its deadline, and the student has specified to use exactly one free late day, the student will receive 40% penalty on the score of the project"
+41,,,No late day is allowed for collaborative note taking
+42,,,All notes must be submitted within 7 days after the lectures (before 11:59 PM)
+43,,,Course Schedule Date Topic Week 1: Introduction 8/24 Topic: Introduction to Operating Systems Required Reading: OSTEP - 2
+44,,,Introduction 8/26 Topic: Let’s Hack - Building Your Own Linux Kernel Releasing “Project 1: Building Your Own Linux Kernel” Week 2: System Calls 8/29 Topic: Kernel Required Reading: OSTEP - 6
+45,,,Direction Execution 8/31 Topic: System Calls Required Reading: OSTEP - 6
+46,,,Direction Execution Page 3 of 9 Course Syllabus 9/2 Topic: Let’s Hack - Linux System Calls Releasing “Project 2: System Calls” 9/5 Labor Day (No Class) Week 3: Processes & Address Spaces 9/7 Topic: Processes Required Reading: OSTEP - 4
+47,,,Processes 9/9 Topic: Address Spaces Required Reading: OSTEP - 13
+48,,,Address Spaces “Project 1: Building Your Own Linux Kernel” due before 11:59PM Week 4: Address Translation 9/12 Topic: Address Translation Required Reading: OSTEP - 14
+49,,,Address Translation 9/14 Topic: Page Tables Required Reading: OSTEP - 18
+50,,,Introduction to Paging 9/16 Topic: x86 Page Table Required Reading: OSTEP - 20
+51,,,Advanced Page Table Week 5 & 6: Memory Management 9/19 Topic: Free Memory Management Required Reading: OSTEP - 17
+52,,,Free Space Management 9/21 Topic: Demand Paging & Swapping Required Reading: OSTEP - 21
+53,,,Swapping Mechanism 9/23 Topic: Let’s Hack - Linux Page Management Required Reading: OSTEP - 23
+54,,,Complete VM Systems Releasing “Project 3: Paging in Linux Kernel” 9/26 Topic: Page Replacement Policy Required Reading: OSTEP - 22
+55,,,Swapping Policies “Project 2: Linux System Calls” due before 11:59PM 9/28 Topic: Translation Lookahead Buffers Required Reading: OSTEP - 19
+56,,,Translation Lookahead Buffers 9/30 Midterm I Page 4 of 9 Course Syllabus Week 7: CPU Scheduling 10/3 Topic: CPU Scheduling Required Reading: OSTEP - 7
+57,,,CPU Scheduling 10/5 Topic: Multi-Level Scheduling Required Reading: OSTEP - 8
+58,,,Multi-Level Feedback 10/7 Topic: Fair Scheduling Required Reading: OSTEP - 9
+59,,,Lottery Scheduling Week 8: Threading 10/10 Fall Break (No Class) 10/12 Topic: Threading Required Reading: OSTEP - 26
+60,,,Concurrency & Thread 10/14 Topic: Let’s Hack - Thread Scheduling Optional Reading: OSTEP - 27
+61,,,Thread API Releasing “Project 4: User-Level Thread Scheduling” Week 9 & 10: Locks 10/17 Topic: Locks & Atomicity Required Reading: OSTEP - 28
+62,,,Locks 10/19 Topic: Locks & Atomicity Required Reading: OSTEP - 28
+63,,,Locks 10/21 Topic: Locked Data Structure Required Reading: OSTEP - 29
+64,,,Locked Data Structure 10/24 Topic: Race Conditions Required Reading: OSTEP - 32
+65,,,Concurrency Bugs 10/26 Topic: Deadlock Required Reading: OSTEP - 32
+66,,,Concurrency Bugs 10/28 Topic: Let’s Hack - User-Level Deadlock Detection Releasing “Project 5: User-Level Deadlock Detection” “Project 4: User-Level Thread Scheduling” due before 11:59PM Week 11: Synchronization Page 5 of 9 Course Syllabus 10/31 Topic: Conditional Variables Required Reading: OSTEP - 30
+67,,,Conditional Variables 11/2 Topic: Semaphores Required Reading: OSTEP - 31
+68,,,Semaphores 11/4 Midterm II Week 12: Virtual File System (VFS) 11/7 Topic: File I/O Required Reading: OSTEP - 39
+69,,,Files and Directories 11/9 Topic: Directories Required Reading: OSTEP - 39
+70,,,Files and Directories 11/11 Topic: Let’s Hack - Linux Virtual File System Week 13 & 14: Filesystems 11/14 Topic: File Blocks Required Reading: OSTEP - 40
+71,,,Filesystem Implementation 11/16 Topic: Inodes Required Reading: OSTEP - 40
+72,,,Filesystem Implementation 11/18 Topic: Let’s Hack - User-Level File System Releasing “Project 6: User-Level File System” “Project 5: User-Level Deadlock Detection” due before 11:59PM 11/21 Topic: Journaling Required Reading: OSTEP - 42
+73,,,FSCK and Journaling 11/23 Reading Day (No Class) 11/25 Thanksgiving Holiday (No Class) Week 15 & 16: Device I/O 11/28 Topic: Device I/O Required Reading: OSTEP - 36
+74,,,I/O Devices 11/30 Topic: Device Driver Required Reading: OSTEP - 36
+75,,,I/O Devices Page 6 of 9 Course Syllabus 12/2 Topic: Hard Disk Drives Required Reading: OSTEP - 37

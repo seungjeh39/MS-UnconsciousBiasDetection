@@ -301,7 +301,7 @@ def GeneralBertBiasDetection(currentDirPath):
 
 
   dt = pd.DataFrame(list(zip(idees, result)), columns = ['id', 'target'])
-  dt.to_csv('submissions.csv')
+  # dt.to_csv('submissions.csv')
 
   # Calculating score
   biasCount = 0
