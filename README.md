@@ -78,9 +78,13 @@ https://github.com/seungjeh39/MS-UnconsciousBiasDetection/blob/main/CONTRIBUTING
 ## Authors
 
 Seungjeh Lee
+
 Christopher Mei
+
 Annette Morales
+
 Brandon Gonzales
+
 Khunnapat Reanpongnam
 
 ## Thanks and I hope you enjoy detecting bias in syllabi!!
